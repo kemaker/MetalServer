@@ -66,7 +66,7 @@
 	<gameResource id="1042" folder="Config" version="1210" type="1" name="StudentRoom.assetbundle" />
 	<gameResource id="1043" folder="Config" version="1210" type="1" name="Task.assetbundle" />
 	<gameResource id="1044" folder="Config" version="1210" type="1" name="UseItem.assetbundle" />
-	<gameResource id="1045" folder="Config" version="1211" type="1" name="ValueDefine.assetbundle" />
+	<gameResource id="1045" folder="Config" version="1212" type="1" name="ValueDefine.assetbundle" />
 	<gameResource id="1046" folder="Config" version="1210" type="1" name="VipConfig.assetbundle" />
 	<gameResource id="1047" folder="Config" version="1210" type="1" name="XianFa.assetbundle" />
 	<gameResource id="1048" folder="Config" version="1210" type="1" name="XunLianChang.assetbundle" />
@@ -100,7 +100,7 @@
   <gameResource id="1076" folder="Config" version="1210" type="1" name="PartnerDestiny.assetbundle" />
   <gameResource id="1077" folder="Config" version="1210" type="1" name="JielueFabao.assetbundle" />
   <gameResource id="1078" folder="Config" version="1210" type="1" name="ToplistReward.assetbundle" />
-  <gameResource id="1079" folder="Config" version="1210" type="1" name="HuoDongDuiHuan.assetbundle" /> 
+  <gameResource id="1079" folder="Config" version="1211" type="1" name="HuoDongDuiHuan.assetbundle" /> 
 
     <gameResource id="21000" folder="PlayerIcon" version="901" type="2" name="MI_1000.assetbundle" />
     <gameResource id="21001" folder="PlayerIcon" version="901" type="2" name="MI_1001.assetbundle" />
