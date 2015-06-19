@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!--注释
+
+ID：
+    道具ID,唯一；
+    
+Category：
+	道具类型：
+    0 = 丹药；
+    1 = 可使用道具；
+    
+UseLevel：
+	道具使用等级,与Category相关,如下：
+	Category = 0	伙伴使用丹药等级；
+	Category = 1	道具使用主将等级限制；
+	
+StackCount：
+	堆叠数量上限,最大99个；
+	
+SellPrice：
+	出售价格,单位：灵石；
+	
+BuyBackPrice：
+	回购价格,单位：灵石；
+	
+n_Name：
+	材料名称,可以加入[RGB色值]文字范例[-],修改文字色值；
+
+Des：
+	材料描述文字；
+	
+IconResID：
+	材料图标ID,对应IconRes数据ID字段；
+	
+注释结束-->
+
+<Normal>
+	<Item ID="20001" Category="0" UseLevel="1" StackCount="20" SellPrice="100" BuyBackPrice="200" n_Name="Đan Võ Lực Lv1" Des="Thuốc tăng thuộc tính võ lực vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20001"/>
+	<Item ID="20011" Category="0" UseLevel="1" StackCount="20" SellPrice="100" BuyBackPrice="200" n_Name="Đan Pháp Thuật Lv1" Des="Thuốc tăng thuộc tính pháp thuật vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20011"/>
+	<Item ID="20021" Category="0" UseLevel="1" StackCount="20" SellPrice="100" BuyBackPrice="200" n_Name="Đan Tuyệt Kỹ Lv1" Des="Thuốc tăng thuộc tính tuyệt kỹ vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20021"/>
+	<Item ID="20002" Category="0" UseLevel="1" StackCount="20" SellPrice="213" BuyBackPrice="426" n_Name="[67d64a]Đan Võ Lực Lv2[-]" Des="Thuốc tăng thuộc tính võ lực vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20002"/>
+	<Item ID="20012" Category="0" UseLevel="1" StackCount="20" SellPrice="213" BuyBackPrice="426" n_Name="[67d64a]Đan Pháp Thuật Lv2[-]" Des="Thuốc tăng thuộc tính pháp thuật vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20012"/>
+	<Item ID="20022" Category="0" UseLevel="1" StackCount="20" SellPrice="213" BuyBackPrice="426" n_Name="[67d64a]Đan Tuyệt Kỹ Lv2[-]" Des="Thuốc tăng thuộc tính tuyệt kỹ vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20022"/>
+	<Item ID="20003" Category="0" UseLevel="1" StackCount="20" SellPrice="453" BuyBackPrice="907" n_Name="[10daff]Đan Võ Lực Lv3[-]" Des="Thuốc tăng thuộc tính võ lực vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20003"/>
+	<Item ID="20013" Category="0" UseLevel="1" StackCount="20" SellPrice="453" BuyBackPrice="907" n_Name="[10daff]Đan Pháp Thuật Lv3[-]" Des="Thuốc tăng thuộc tính pháp thuật vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20013"/>
+	<Item ID="20023" Category="0" UseLevel="1" StackCount="20" SellPrice="453" BuyBackPrice="907" n_Name="[10daff]Đan Tuyệt Kỹ Lv3[-]" Des="Thuốc tăng thuộc tính tuyệt kỹ vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20023"/>
+	<Item ID="20004" Category="0" UseLevel="1" StackCount="20" SellPrice="966" BuyBackPrice="1932" n_Name="[b249fb]Đan Võ Lực Lv4[-]" Des="Thuốc tăng thuộc tính võ lực vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20004"/>
+	<Item ID="20014" Category="0" UseLevel="1" StackCount="20" SellPrice="966" BuyBackPrice="1932" n_Name="[b249fb]Đan Pháp Thuật Lv4[-]" Des="Thuốc tăng thuộc tính pháp thuật vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20014"/>
+	<Item ID="20024" Category="0" UseLevel="1" StackCount="20" SellPrice="966" BuyBackPrice="1932" n_Name="[b249fb]Đan Tuyệt Kỹ Lv4[-]" Des="Thuốc tăng thuộc tính tuyệt kỹ vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20024"/>
+	<Item ID="20005" Category="0" UseLevel="1" StackCount="20" SellPrice="2058" BuyBackPrice="4116" n_Name="[ffa800]Đan Võ Lực Lv5[-]" Des="Thuốc tăng thuộc tính võ lực vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20005"/>
+	<Item ID="20015" Category="0" UseLevel="1" StackCount="20" SellPrice="2058" BuyBackPrice="4116" n_Name="[ffa800]Đan Pháp Thuật Lv5[-]" Des="Thuốc tăng thuộc tính pháp thuật vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20015"/>
+	<Item ID="20025" Category="0" UseLevel="1" StackCount="20" SellPrice="2058" BuyBackPrice="4116" n_Name="[ffa800]Đan Tuyệt Kỹ Lv5[-]" Des="Thuốc tăng thuộc tính tuyệt kỹ vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20025"/>
+	<Item ID="20006" Category="0" UseLevel="1" StackCount="20" SellPrice="4384" BuyBackPrice="8768" n_Name="[ffff00]Đan Võ Lực Lv6[-]" Des="Thuốc tăng thuộc tính võ lực vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20006"/>
+	<Item ID="20016" Category="0" UseLevel="1" StackCount="20" SellPrice="4384" BuyBackPrice="8768" n_Name="[ffff00]Đan Pháp Thuật Lv6[-]" Des="Thuốc tăng thuộc tính pháp thuật vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20016"/>
+	<Item ID="20026" Category="0" UseLevel="1" StackCount="20" SellPrice="4384" BuyBackPrice="8768" n_Name="[ffff00]Đan Tuyệt Kỹ Lv6[-]" Des="Thuốc tăng thuộc tính tuyệt kỹ vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20026"/>
+    <Item ID="21001" Category="0" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Yêu[-]" Des="1 Phù bí ẩn chữ 'Yêu'" IconResID="21001"/>
+    <Item ID="21002" Category="0" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Tiên[-]" Des="1 Phù bí ẩn chữ 'Tiên'" IconResID="21002"/>
+    <Item ID="21003" Category="0" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Truyện[-]" Des="1 Phù bí ẩn chữ 'Truyện'" IconResID="21003"/>
+    <Item ID="21004" Category="0" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Đá[-]" Des="1 viên ngọc phát ra màu sắc lấp lánh" IconResID="21004"/>
+    <Item ID="21005" Category="0" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Thỏi vàng[-]" Des="1 thỏi vàng lấp lánh chói mắt" IconResID="21005"/>
+	<Item ID="81001" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà Ký danh 1[-]" Des="Click vào sử dụng có thể nhận được 200 Ngọc" IconResID="81001"/>
+	<Item ID="81002" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà Ký danh 2[-]" Des="Click vào sử dụng có thể nhận được 500 Ngọc, 10 Thể lực" IconResID="81002"/>
+	<Item ID="81003" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Quà Ký danh 3[-]" Des="Click vào sử dụng có thể nhận được 500 Ngọc, 50 Uy" IconResID="81003"/>
+	<Item ID="81004" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Quà Ký danh 4[-]" Des="Click vào sử dụng có thể nhận được 800 Ngọc, 20 Thể lực" IconResID="81004"/>
+	<Item ID="81005" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[b249fb]Quà Ký danh 5[-]" Des="Click vào sử dụng có thể nhận được 800 Ngọc, 5KNB" IconResID="81005"/>
+	<Item ID="81006" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà online 1[-]" Des="Click vào sử dụng có thể nhận được 200 Ngọc" IconResID="81006"/>
+	<Item ID="81007" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà online 2[-]" Des="Click vào sử dụng có thể nhận được 500 Ngọc, 10 Thể lực" IconResID="81006"/>
+	<Item ID="81008" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà online 3[-]" Des="Click vào sử dụng có thể nhận được 500 Ngọc, 50 Uy" IconResID="81006"/>
+	<Item ID="81009" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà online 4[-]" Des="Click vào sử dụng có thể nhận được 800 Ngọc, 20 Thể lực" IconResID="81006"/>
+	<Item ID="81010" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Quà online 5[-]" Des="Click vào sử dụng có thể nhận được 800 Ngọc, 5KNB" IconResID="81010"/>
+	<Item ID="81011" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Quà online 6[-]" Des="Click vào sử dụng có thể nhận được 1000 Ngọc, 100 Uy" IconResID="81010"/>
+	<Item ID="81012" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Quà online 7[-]" Des="Click vào sử dụng có thể nhận được 1000 Ngọc, 30 Thể lực" IconResID="81010"/>
+	<Item ID="81013" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Quà online 8[-]" Des="Click vào sử dụng có thể nhận được 1000 Ngọc, 10 KNB" IconResID="81010"/>
+	<Item ID="81014" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[b249fb]Quà online 9[-]" Des="Click vào sử dụng có thể nhận được 1500 Ngọc, 200 Uy" IconResID="81014"/>
+	<Item ID="81015" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[b249fb]Quà online 10[-]" Des="Click vào sử dụng có thể nhận được 30 Thể lực, 10 KNB" IconResID="81014"/>
+	<Item ID="81016" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà tích cực 1[-]" Des="Gồm Ngọc +5000" IconResID="81016"/>
+	<Item ID="81017" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà tích cực 2[-]" Des="Gồm Thể lực +50" IconResID="81017"/>
+	<Item ID="81018" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà tích cực 3[-]" Des="Gồm Uy +200" IconResID="81018"/>
+	<Item ID="81023" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà vip1[-]" Des="1000 Ngọc 10 Uy" IconResID="81023"/>
+	<Item ID="81024" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà vip2-]" Des="2000 Ngọc 20 Uy" IconResID="81024"/>
+	<Item ID="81025" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà vip3[-]" Des="3000 Ngọc 30 Uy" IconResID="81025"/>
+	<Item ID="81026" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Quà vip4[-]" Des="4000 Ngọc 40 Uy" IconResID="81026"/>
+	<Item ID="81027" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Quà vip5[-]" Des="5000 Ngọc 50 Uy" IconResID="81027"/>
+	<Item ID="81028" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Quà vip6[-]" Des="8000 Ngọc 60 Uy" IconResID="81028"/>
+	<Item ID="81029" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Quà vip7[-]" Des="12000 Ngọc 70 Uy" IconResID="81029"/>
+	<Item ID="81030" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Quà vip8[-]" Des="16000 Ngọc 90 Uy" IconResID="81030"/>
+	<Item ID="81031" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[b249fb]Quà vip9[-]" Des="20000 Ngọc 120 Uy" IconResID="81031"/>
+	<Item ID="81032" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[b249fb]Quà vip10[-]" Des="25000 Ngọc 140 Uy" IconResID="81032"/>
+	<Item ID="81033" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[b249fb]Quà vip11[-]" Des="30000 Ngọc 170 Uy" IconResID="81033"/>
+	<Item ID="81034" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[b249fb]Quà vip12[-]" Des="50000 Ngọc 200 Uy" IconResID="81034"/>
+	<Item ID="71019" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Thuốc Thể lực nhỏ[-]" Des="Sau khi dùng hồi 10 Thể lực" IconResID="71019"/>
+	<Item ID="71020" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Thuốc Thể lực vừa[-]" Des="Sau khi dùng hồi 30 Thể lực" IconResID="71020"/>
+	<Item ID="71021" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Thuốc Thể lực lớn[-]" Des="Sau khi dùng hồi 50 Thể lực" IconResID="71021"/>
+	<Item ID="71022" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[b249fb]Thuốc Thể lực siêu cấp[-]" Des="Sau khi dùng hồi 120 Thể lực" IconResID="71022"/>
+	<Item ID="71023" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Rương nhỏ" Des="Sau khi dùng nhận 5000 Ngọc" IconResID="71023"/>
+	<Item ID="71024" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Rương vừa[-]" Des="Sau khi dùng nhận 10000 Ngọc" IconResID="71024"/>
+	<Item ID="71025" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Rương lớn[-]" Des="Sau khi dùng nhận 50000 Ngọc" IconResID="71025"/>
+	<Item ID="71026" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[b249fb]Rương siêu cấp[-]" Des="Sau khi dùng nhận 100000 Ngọc" IconResID="71026"/>
+	<Item ID="71027" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Sách Chiến tích nhỏ" Des="Sau khi dùng nhận 500 sách exp" IconResID="71027"/>
+	<Item ID="71028" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Sách Chiến tích vừa[-]" Des="Sau khi dùng nhận 1000 sách exp" IconResID="71028"/>
+	<Item ID="71029" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Sách Chiến tích lớn[-]" Des="Sau khi dùng nhận 5000 sách exp" IconResID="71029"/>
+	<Item ID="71030" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[b249fb]Sách Chiến tích siêu cấp[-]" Des="Sau khi dùng nhận 10000 sách exp" IconResID="71030"/>
+	<Item ID="71031" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="1 túi Sài Hồ Thảo" Des="Sau khi dùng nhận 50 Tử Hồ Thảo (nguyên liệu thuốc Lv1)" IconResID="131011"/>
+	<Item ID="71032" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]1 túi Thiên Anh Hoa[-]" Des="Sau khi dùng nhận 50 Thiên Anh Hoa (nguyên liệu thuốc Lv2)" IconResID="131021"/>
+	<Item ID="71033" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]1 túi Ma Hoàng[-]" Des="Sau khi dùng nhận 50 Ma Hoàng (nguyên liệu thuốc Lv2)" IconResID="131022"/>
+	<Item ID="71034" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]1 túi Bạch Chỉ[-]" Des="Sau khi dùng nhận 50 Bạch Chỉ (nguyên liệu thuốc Lv3)" IconResID="131031"/>
+	<Item ID="71035" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]1 túi Thương Nhĩ Tử[-]" Des="Sau khi dùng nhận 50 Thương Nhĩ Tử (nguyên liệu thuốc Lv3)" IconResID="131032"/>
+	<Item ID="71036" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]1 túi Cát Căn Thảo[-]" Des="Sau khi dùng nhận 50 Cát Căn Thảo (nguyên liệu thuốc Lv3)" IconResID="131033"/>
+	<Item ID="71037" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]1 túi Hạ Cô Thảo[-]" Des="Sau khi dùng nhận 50 Hạ Cô Thảo (nguyên liệu thuốc Lv4)" IconResID="131041"/>
+	<Item ID="71038" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]1 túi Long Đản Thảo[-]" Des="Sau khi dùng nhận 50 Long Đản Thảo (nguyên liệu thuốc Lv4)" IconResID="131042"/>
+	<Item ID="71039" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]1 túiHuyền Sâm[-]" Des="Sau khi dùng nhận 50 Huyền Sâm (nguyên liệu thuốc Lv4)" IconResID="131043"/>
+	<Item ID="71040" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]1 túi Thủy Ngư Giác[-]" Des="Sau khi dùng nhận 50 Thủy Ngưu Giác (nguyên liệu thuốc Lv4)" IconResID="131044"/>
+	<Item ID="71041" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]1 túi Bồ Công Anh[-]" Des="Sau khi dùng nhận 50 Bồ Công Anh (nguyên liệu thuốc Lv5)" IconResID="131051"/>
+	<Item ID="71042" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]1 túi Lô Hội Diệp[-]" Des="Sau khi dùng nhận 50 Lô Hội Diệp (nguyên liệu thuốc Lv5)" IconResID="131052"/>
+	<Item ID="71043" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]1 túi Bội Lan[-]" Des="Sau khi dùng nhận 50 Bội Lan (nguyên liệu thuốc Lv5)" IconResID="131053"/>
+	<Item ID="71044" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]1 túi Hương Phụ Tử[-]" Des="Sau khi dùng nhận 50 Hương Phụ Tử (nguyên liệu thuốc lv5)" IconResID="131054"/>
+	<Item ID="71045" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]1 túi Lôi Hoàn[-]" Des="Sau khi dùng nhận 50 Lôi Hoàn (nguyên liệu thuốc Lv5)" IconResID="131055"/>
+	<Item ID="71046" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]1 túi Sương Diệp Thảo[-]" Des="Sau khi dùng nhận 50 Sương Diệp Thảo (nguyên liệu thuốc Lv6)" IconResID="131061"/>
+	<Item ID="71047" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]1 túi Ngũ Linh Chi[-]" Des="Sau khi dùng nhận 50 Ngũ Linh Chi (nguyên liệu thuốc Lv6)" IconResID="131062"/>
+	<Item ID="71048" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]1 túi Xa Tiền Tử[-]" Des="Sau khi dùng nhận 50 Xa Tiền Tử (nguyên liệu thuốc Lv6)" IconResID="131063"/>
+	<Item ID="71049" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]1 túi Cam Trúc[-]" Des="Sau khi dùng nhận 50 Can Trúc (nguyên liệu thuốc lv6)" IconResID="131064"/>
+	<Item ID="71050" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]1 túi Kim Tiền Thảo[-]" Des="Sau khi dùng nhận 50 Kim Tiền Thảo (nguyên liệu thuốc Lv6)" IconResID="131065"/>
+	<Item ID="71051" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Kết tinh linh khí vỡ" Des="Sau khi sử dụng tăng 10 exp cho Pháp Bảo đang sử dụng" IconResID="71051"/>
+	<Item ID="71052" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Kết tinh linh khí nhỏ[-]" Des="Sau khi sử dụng tăng 50 exp cho Pháp Bảo đang sử dụng" IconResID="71052"/>
+	<Item ID="71053" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Kết tinh linh khí lớn[-]" Des="Sau khi sử dụng tăng 100 exp cho Pháp Bảo đang sử dụng" IconResID="71053"/>
+	<Item ID="71054" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[b249fb]Kết tinh linh khí cực đại[-]" Des="Sau khi sử dụng tăng 1000 exp cho Pháp Bảo đang sử dụng" IconResID="71054"/>
+	<Item ID="71055" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[b249fb]Kết tinh linh khí tư gia[-]" Des="Sau khi sử dụng tăng 1000000 exp cho Pháp Bảo đang sử dụng" IconResID="71054"/>
+	<Item ID="71056" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Quà trấn thủ sơ cấp" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71055"/>
+	<Item ID="71057" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà trấn thủ thứ cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71056"/>
+	<Item ID="71058" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Quà trấn thủ trung cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71057"/>
+	<Item ID="71059" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[b249fb]Quà trấn thủ cao cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71058"/>
+	<Item ID="71060" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[ff7f00]Quà trấn thủ thần cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71059"/>
+	<Item ID="71061" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Quà trấn thủ sơ cấp" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71055"/>
+	<Item ID="71062" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà trấn thủ thứ cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71056"/>
+	<Item ID="71063" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Quà trấn thủ trung cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71057"/>
+	<Item ID="71064" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[b249fb]Quà trấn thủ cao cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71058"/>
+	<Item ID="71065" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[ff7f00]Quà trấn thủ thần cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71059"/>
+	<Item ID="71066" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Quà trấn thủ sơ cấp" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71055"/>
+	<Item ID="71067" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà trấn thủ thứ cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71056"/>
+	<Item ID="71068" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Quà trấn thủ trung cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71057"/>
+	<Item ID="71069" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[b249fb]Quà trấn thủ cao cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71058"/>
+	<Item ID="71070" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[ff7f00]Quà trấn thủ thần cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71059"/>
+	<Item ID="71071" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Quà trấn thủ sơ cấp" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71055"/>
+	<Item ID="71072" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà trấn thủ thứ cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71056"/>
+	<Item ID="71073" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Quà trấn thủ trung cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71057"/>
+	<Item ID="71074" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[b249fb]Quà trấn thủ cao cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71058"/>
+	<Item ID="71075" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[ff7f00]Quà trấn thủ thần cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71059"/>
+	<Item ID="71076" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Quà trấn thủ sơ cấp" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71055"/>
+	<Item ID="71077" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà trấn thủ thứ cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71056"/>
+	<Item ID="71078" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Quà trấn thủ trung cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71057"/>
+	<Item ID="71079" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[b249fb]Quà trấn thủ cao cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71058"/>
+	<Item ID="71080" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[ff7f00]Quà trấn thủ thần cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71059"/>
+	<Item ID="71081" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Quà trấn thủ sơ cấp" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71055"/>
+	<Item ID="71082" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà trấn thủ thứ cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71056"/>
+	<Item ID="71083" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Quà trấn thủ trung cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71057"/>
+	<Item ID="71084" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[b249fb]Quà trấn thủ cao cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71058"/>
+	<Item ID="71085" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[ff7f00]Quà trấn thủ thần cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71059"/>
+</Normal>

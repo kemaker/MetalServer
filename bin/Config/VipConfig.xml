@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--注释
+
+Lv：
+    Vip等级；
+    
+Cost：
+	当前VIP等级所需充值元宝数量；
+	
+BuyPower：
+	当前VIP等级可以购买体力次数；
+	
+BuyGameMoney：
+    当前VIP等级可以进行天降灵石次数；
+    
+BuyArena：
+    当前VIP等级可以购买竞技场次数；
+    
+BuyYXFuBen：
+    当前VIP等级可以购买试炼场重置次数；
+    
+FullPillCompound：
+    当前VIP等级可以补全丹药合成材料的丹药阶级限制：
+    0    = 不能补全；
+    其他 = 可以补全当前阶；
+    
+FullEquipCompound：
+	当前VIP等级可以能否补全装备合成材料：
+	0 = 否；
+	1 = 是；
+	
+PeiYangLevel：
+    当前VIP等级可以使用培养等级,对应PeiYang数据Type字段；
+    
+QZTraining：
+    当前VIP等级可以强征训练次数；
+    
+QZGemMine：
+    当前VIP等级可以强征灵石矿次数；
+   
+BuyFindTime：
+    当前VIP等级可以购买出巡次数；
+	
+MingGeVip：
+    当前VIP等级是否支持一键猎命及自动合成命格；
+    0 = 否；
+    1 = 是；
+    
+JXTFree	：
+	当前VIP等级可以免费聚仙台次数；
+	
+FindFree：
+	当前VIP等级可以免费出巡次数；
+
+HSRefresh：
+    当前VIP等级可以刷新黑市次数；
+
+QZTraining:
+   转龙池强征次数
+	
+BuyPower、BuyGameMoney、BuyArena、BuyYXFuBen、QZTraining、QZGemMine、BuyFindTime、HSRefesh
+	购买体力、进行天降灵石、购买竞技场次数、购买试炼场次数、购买训练次数、购买灵石矿强征次数、购买出巡次数、黑市刷新数据,如下：
+    Profit：
+    	收益数值；
+    CostType：
+        0 = 花费是固定值,即Gold；
+        1 = 花费是次数 * Gold；
+        
+	min：
+		当前花费下的最小次数；
+		
+	min：
+		当前花费下的最大次数；
+		
+	Gold：
+		花费数值,单位：元宝；
+			
+注释结束-->
+
+<Configs>
+	<VipConfig>
+		<Vip Lv="0" Cost="0" BuyPower="1" BuyGameMoney="5" BuyArena="5" BuyYXFuBen="1" FullPillCompound="0" FullEquipCompound="0" PeiYangLevel="2" QZTraining="10" QZGemMine="3" BuyFindTime="8" SilenceRoomHour="0" MingGeVip="0" JXTFree="5" JXTTime="48" FindFree="8" HSRefresh="5"/>
+		<Vip Lv="1" Cost="10" BuyPower="1" BuyGameMoney="5" BuyArena="5" BuyYXFuBen="1" FullPillCompound="0" FullEquipCompound="0" PeiYangLevel="2" QZTraining="12" QZGemMine="3" BuyFindTime="8" SilenceRoomHour="0" MingGeVip="0" JXTFree="6" JXTTime="48" FindFree="8" HSRefresh="10"/>
+		<Vip Lv="2" Cost="100" BuyPower="2" BuyGameMoney="10" BuyArena="7" BuyYXFuBen="3" FullPillCompound="0" FullEquipCompound="0" PeiYangLevel="2" QZTraining="14" QZGemMine="6" BuyFindTime="8" SilenceRoomHour="0" MingGeVip="0" JXTFree="7" JXTTime="36" FindFree="8" HSRefresh="15"/>
+		<Vip Lv="3" Cost="300" BuyPower="4" BuyGameMoney="20" BuyArena="8" BuyYXFuBen="4" FullPillCompound="0" FullEquipCompound="0" PeiYangLevel="3" QZTraining="20" QZGemMine="12" BuyFindTime="8" SilenceRoomHour="0" MingGeVip="1" JXTFree="8" JXTTime="36" FindFree="8" HSRefresh="20"/>
+		<Vip Lv="4" Cost="400" BuyPower="6" BuyGameMoney="30" BuyArena="9" BuyYXFuBen="5" FullPillCompound="0" FullEquipCompound="0" PeiYangLevel="3" QZTraining="30" QZGemMine="18" BuyFindTime="8" SilenceRoomHour="0" MingGeVip="1" JXTFree="8" JXTTime="36" FindFree="9" HSRefresh="25"/>
+		<Vip Lv="5" Cost="700" BuyPower="8" BuyGameMoney="40" BuyArena="10" BuyYXFuBen="6" FullPillCompound="0" FullEquipCompound="0" PeiYangLevel="3" QZTraining="40" QZGemMine="24" BuyFindTime="8" SilenceRoomHour="0" MingGeVip="1" JXTFree="8" JXTTime="36" FindFree="9" HSRefresh="30"/>
+		<Vip Lv="6" Cost="1200" BuyPower="11" BuyGameMoney="55" BuyArena="11" BuyYXFuBen="7" FullPillCompound="0" FullEquipCompound="0" PeiYangLevel="4" QZTraining="50" QZGemMine="33" BuyFindTime="10" SilenceRoomHour="0" MingGeVip="1" JXTFree="8" JXTTime="24" FindFree="10" HSRefresh="35"/>
+		<Vip Lv="7" Cost="2200" BuyPower="14" BuyGameMoney="70" BuyArena="12" BuyYXFuBen="8" FullPillCompound="0" FullEquipCompound="0" PeiYangLevel="4" QZTraining="60" QZGemMine="42" BuyFindTime="10" SilenceRoomHour="0" MingGeVip="1" JXTFree="8" JXTTime="24" FindFree="10" HSRefresh="40"/>
+		<Vip Lv="8" Cost="4200" BuyPower="18" BuyGameMoney="90" BuyArena="13" BuyYXFuBen="9" FullPillCompound="0" FullEquipCompound="0" PeiYangLevel="5" QZTraining="70" QZGemMine="54" BuyFindTime="15" SilenceRoomHour="0" MingGeVip="1" JXTFree="8" JXTTime="24" FindFree="11" HSRefresh="50"/>
+		<Vip Lv="9" Cost="7200" BuyPower="22" BuyGameMoney="110" BuyArena="14" BuyYXFuBen="10" FullPillCompound="0" FullEquipCompound="0" PeiYangLevel="5" QZTraining="80" QZGemMine="66" BuyFindTime="15" SilenceRoomHour="0" MingGeVip="1" JXTFree="8" JXTTime="24" FindFree="11" HSRefresh="60"/>
+		<Vip Lv="10" Cost="13200" BuyPower="27" BuyGameMoney="135" BuyArena="15" BuyYXFuBen="11" FullPillCompound="0" FullEquipCompound="0" PeiYangLevel="5" QZTraining="90" QZGemMine="81" BuyFindTime="20" SilenceRoomHour="0" MingGeVip="1" JXTFree="8" JXTTime="24" FindFree="12" HSRefresh="70"/>
+		<Vip Lv="11" Cost="23200" BuyPower="32" BuyGameMoney="160" BuyArena="16" BuyYXFuBen="12" FullPillCompound="0" FullEquipCompound="0" PeiYangLevel="5" QZTraining="100" QZGemMine="96" BuyFindTime="20" SilenceRoomHour="0" MingGeVip="1" JXTFree="8" JXTTime="12" FindFree="12" HSRefresh="80"/>
+		<Vip Lv="12" Cost="43200" BuyPower="37" BuyGameMoney="185" BuyArena="17" BuyYXFuBen="13" FullPillCompound="0" FullEquipCompound="0" PeiYangLevel="5" QZTraining="110" QZGemMine="111" BuyFindTime="20" SilenceRoomHour="0" MingGeVip="1" JXTFree="8" JXTTime="12" FindFree="12" HSRefresh="100"/>
+		<Vip Lv="13" Cost="63200" BuyPower="43" BuyGameMoney="215" BuyArena="18" BuyYXFuBen="14" FullPillCompound="0" FullEquipCompound="0" PeiYangLevel="5" QZTraining="120" QZGemMine="129" BuyFindTime="25" SilenceRoomHour="0" MingGeVip="1" JXTFree="8" JXTTime="12" FindFree="13" HSRefresh="120"/>
+		<Vip Lv="14" Cost="93200" BuyPower="49" BuyGameMoney="245" BuyArena="19" BuyYXFuBen="15" FullPillCompound="0" FullEquipCompound="0" PeiYangLevel="5" QZTraining="130" QZGemMine="147" BuyFindTime="25" SilenceRoomHour="0" MingGeVip="1" JXTFree="8" JXTTime="12" FindFree="13" HSRefresh="150"/>
+		<Vip Lv="15" Cost="2000000" BuyPower="200" BuyGameMoney="1000" BuyArena="200" BuyYXFuBen="200" FullPillCompound="0" FullEquipCompound="0" PeiYangLevel="5" QZTraining="200" QZGemMine="600" BuyFindTime="200" SilenceRoomHour="0" MingGeVip="1" JXTFree="8" JXTTime="12" FindFree="15" HSRefresh="200"/>
+	</VipConfig>
+	<BuyPower Profit="60">
+		<Cost CostType="0" min="1" max="1" Gold="5"/>
+		<Cost CostType="0" min="2" max="3" Gold="10"/>
+		<Cost CostType="0" min="4" max="6" Gold="20"/>
+		<Cost CostType="0" min="7" max="10" Gold="40"/>
+		<Cost CostType="0" min="11" max="20" Gold="60"/>
+		<Cost CostType="0" min="21" max="30" Gold="120"/>
+		<Cost CostType="0" min="31" max="50" Gold="240"/>
+		<Cost CostType="0" min="51" max="200" Gold="400"/>
+	</BuyPower>
+	<BuyGameMoney Profit="20000">
+		<Cost CostType="0" min="1" max="5" Gold="5"/>
+		<Cost CostType="0" min="6" max="10" Gold="10"/>
+		<Cost CostType="0" min="11" max="20" Gold="20"/>
+		<Cost CostType="0" min="21" max="30" Gold="40"/>
+		<Cost CostType="0" min="31" max="40" Gold="80"/>
+		<Cost CostType="0" min="41" max="50" Gold="160"/>
+		<Cost CostType="0" min="51" max="244" Gold="320"/>
+		<Cost CostType="0" min="245" max="1000" Gold="640"/>
+	</BuyGameMoney>
+	<BuyArena>
+		<Cost CostType="0" min="1" max="2" Gold="5"/>
+		<Cost CostType="0" min="3" max="5" Gold="10"/>
+		<Cost CostType="0" min="6" max="7" Gold="20"/>
+		<Cost CostType="0" min="8" max="9" Gold="40"/>
+		<Cost CostType="0" min="10" max="11" Gold="80"/>
+		<Cost CostType="0" min="12" max="13" Gold="160"/>
+		<Cost CostType="0" min="14" max="19" Gold="320"/>
+		<Cost CostType="0" min="20" max="200" Gold="640"/>
+	</BuyArena>
+	<BuyYXFuBen>
+		<Cost CostType="0" min="1" max="1" Gold="10"/>
+		<Cost CostType="0" min="2" max="3" Gold="20"/>
+		<Cost CostType="0" min="4" max="4" Gold="30"/>
+		<Cost CostType="0" min="5" max="5" Gold="50"/>
+		<Cost CostType="0" min="6" max="9" Gold="100"/>
+		<Cost CostType="0" min="10" max="12" Gold="200"/>
+		<Cost CostType="0" min="13" max="15" Gold="300"/>
+		<Cost CostType="0" min="16" max="200" Gold="500"/>
+	</BuyYXFuBen>
+	<QZTraining>
+		<Cost CostType="0" min="1" max="5" Gold="5"/>
+		<Cost CostType="0" min="6" max="10" Gold="10"/>
+		<Cost CostType="0" min="11" max="20" Gold="20"/>
+		<Cost CostType="0" min="21" max="30" Gold="30"/>
+		<Cost CostType="0" min="31" max="40" Gold="40"/>
+		<Cost CostType="0" min="41" max="50" Gold="50"/>
+		<Cost CostType="0" min="51" max="60" Gold="70"/>
+		<Cost CostType="0" min="61" max="70" Gold="90"/>
+		<Cost CostType="0" min="71" max="80" Gold="110"/>
+		<Cost CostType="0" min="81" max="90" Gold="150"/>
+		<Cost CostType="0" min="91" max="130" Gold="200"/>
+		<Cost CostType="0" min="131" max="200" Gold="300"/>
+	</QZTraining>
+	<QZGemMine>
+		<Cost CostType="0" min="1" max="3" Gold="2"/>
+		<Cost CostType="0" min="4" max="6" Gold="5"/>
+		<Cost CostType="0" min="7" max="12" Gold="10"/>
+		<Cost CostType="0" min="13" max="18" Gold="15"/>
+		<Cost CostType="0" min="19" max="24" Gold="20"/>
+		<Cost CostType="0" min="25" max="33" Gold="40"/>
+		<Cost CostType="0" min="34" max="42" Gold="60"/>
+		<Cost CostType="0" min="43" max="54" Gold="80"/>
+		<Cost CostType="0" min="55" max="66" Gold="100"/>
+		<Cost CostType="0" min="67" max="81" Gold="120"/>
+		<Cost CostType="0" min="82" max="600" Gold="150"/>
+	</QZGemMine>
+	<BuyFindTime>
+		<Cost CostType="0" min="1" max="3" Gold="5"/>
+		<Cost CostType="0" min="4" max="8" Gold="10"/>
+		<Cost CostType="0" min="9" max="10" Gold="20"/>
+		<Cost CostType="0" min="11" max="15" Gold="40"/>
+		<Cost CostType="0" min="16" max="20" Gold="80"/>
+		<Cost CostType="0" min="21" max="25" Gold="160"/>
+		<Cost CostType="0" min="26" max="200" Gold="200"/>
+	</BuyFindTime>
+    <HSRefesh>
+		<Cost CostType="0" min="1" max="5" Gold="5"/>
+		<Cost CostType="0" min="6" max="15" Gold="10"/>
+		<Cost CostType="0" min="16" max="30" Gold="20"/>
+		<Cost CostType="0" min="31" max="40" Gold="40"/>
+		<Cost CostType="0" min="41" max="50" Gold="80"/>
+		<Cost CostType="0" min="51" max="200" Gold="160"/>
+    </HSRefesh>
+</Configs>

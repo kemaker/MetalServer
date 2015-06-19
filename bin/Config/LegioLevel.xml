@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Level：
+	当前等级；
+	
+Exp：
+	升级到下一级所需的经验；后端会以累计总经验进行计算
+
+LimitCount:
+	当前等级军团的最大人数
+-->
+<Root>
+	<Level Lv="1" Exp="100" PlayerCount="20" TabletHealth="200000"/>
+	<Level Lv="2" Exp="500" PlayerCount="22" TabletHealth="400000"/>
+	<Level Lv="3" Exp="1000" PlayerCount="24" TabletHealth="800000"/>
+	<Level Lv="4" Exp="10000" PlayerCount="27" TabletHealth="1200000"/>
+	<Level Lv="5" Exp="20000" PlayerCount="30" TabletHealth="1500000"/>
+	<Level Lv="6" Exp="50000" PlayerCount="33" TabletHealth="2000000"/>
+	<Level Lv="7" Exp="100000" PlayerCount="36" TabletHealth="2500000"/>
+	<Level Lv="8" Exp="500000" PlayerCount="40" TabletHealth="3000000"/>
+	<Level Lv="9" Exp="1000000" PlayerCount="45" TabletHealth="4000000"/>
+	<Level Lv="10" Exp="0" PlayerCount="50" TabletHealth="5000000"/>
+</Root>

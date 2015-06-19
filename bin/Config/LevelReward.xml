@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Lv:等级
+
+Reward:参考task,具体内容需要同客户端确认是否可显示
+RewardType = 1	开启系统	Key：0																	Count：系统编号；
+		RewardType = 2	灵石		Key：0																	Count：灵石奖励数值；
+		RewardType = 3	元宝		Key：0																	Count：元宝奖励数值；
+		RewardType = 4	道具		Key：道具ID,对应EquipItem、MaterialItem、NormalItem数据ID字段；			Count：道具奖励数值；
+		RewardType = 5	体力		Key：0																	Count：体力奖励数值；
+		RewardType = 6	声望		Key：0																	Count：声望奖励数值；
+		RewardType = 7 	阅历		Key：0																	Count：阅历奖励数值；
+		RewardType = 8	经验		Key：0																	Count：经验奖励数值；
+		RewardType = 9	新手引导	Key：引导组ID,对应Guide数据GroupID字段；								Count：引导ID,对应Guide数据GudieID字段；
+		RewardType = 10	伙伴碎片	Key：伙伴ID,对应Piece数据id字段；										Count：伙伴碎片数量；
+		RewardType = 11	进阶碎片	Key：0																	Count：进阶碎片数值；
+		RewardType = 12	伙伴		Key：伙伴ID,对应Partner数据ID字段,不能使用主角ID,即小于4000的ID；		Count：初始星级,1-9星；
+		RewardType = 16	法宝        key:法宝ID      														Count:数值
+    	RewardType = 17	法宝碎片    key:法宝ID      														Count:数值
+    	RewardType = 18	法宝经验    key:无用填0     														Count:数值
+-->
+<Root>
+	<Level Lv="5">
+		<Reward RewardType="6" Key="0" Value="350"/>
+	</Level>
+	<Level Lv="10">
+		<Reward RewardType="6" Key="0" Value="360"/>
+		<Reward RewardType="2" Key="0" Value="1000"/>
+		<Reward RewardType="3" Key="0" Value="20"/>
+	</Level>
+	<Level Lv="20">
+		<Reward RewardType="4" Key="132011" Value="5"/>
+		<Reward RewardType="2" Key="0" Value="5000"/>
+		<Reward RewardType="3" Key="0" Value="50"/>
+		<Reward RewardType="5" Key="0" Value="40"/>
+	</Level>
+	<Level Lv="30">
+		<Reward RewardType="11" Key="0" Value="10"/>
+		<Reward RewardType="3" Key="0" Value="100"/>
+		<Reward RewardType="4" Key="120013" Value="6"/>
+		<Reward RewardType="4" Key="120023" Value="6"/>
+	</Level>
+	<Level Lv="40">
+		<Reward RewardType="11" Key="0" Value="20"/>
+		<Reward RewardType="3" Key="0" Value="200"/>
+		<Reward RewardType="4" Key="110804" Value="1"/>
+	</Level>
+	<Level Lv="50">
+		<Reward RewardType="11" Key="0" Value="50"/>
+		<Reward RewardType="3" Key="0" Value="500"/>
+		<Reward RewardType="4" Key="110805" Value="1"/>
+	</Level>
+	<Level Lv="60">
+		<Reward RewardType="11" Key="0" Value="100"/>
+		<Reward RewardType="3" Key="0" Value="888"/>
+	</Level>
+</Root>

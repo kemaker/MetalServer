@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!--注释
+DuiHuanCase:
+    兑换公式;
+    
+    Times:
+        每日最多兑换此公式次数
+    
+    UseItem:
+        兑换使用的物品；
+        
+        Type:物品类型
+        
+        ItemID:物品ID
+        
+        Count:物品数量
+
+
+Compound：
+	合成消耗与产出数据：
+	ProductID：
+		合成产出装备ID；
+		
+	ReelID：
+		合成消耗卷轴ID，对应ReelItem数据ID字段；
+        
+    Gold：
+        自动合成时所需花费元宝；
+        
+    Material：
+        合成消耗材料ID，对应MaterialItem数据ID字段；
+        
+    Count：
+        合成消耗材料数量；
+
+注释结束-->
+
+<DuiHuan>
+    <DuiHuanCase CaseID="1" Times="1">
+        <UseItem>
+            <Item Type="4" ItemID="21001" Count="10"/>
+            <Item Type="4" ItemID="21002" Count="5"/>
+            <Item Type="4" ItemID="21003" Count="1"/>
+        </UseItem>
+        <GetItem>
+            <Item Type="12" ItemID="0" Count="7">
+                <RandomID ID="4035"/>
+                <RandomID ID="4047"/>
+                <RandomID ID="4022"/>
+                <RandomID ID="4090"/>
+                <RandomID ID="4008"/>
+                <RandomID ID="4069"/>
+                <RandomID ID="4024"/>
+                <RandomID ID="4082"/>
+                <RandomID ID="4083"/>
+                <RandomID ID="4087"/>
+                <RandomID ID="4088"/>
+                <RandomID ID="4074"/>
+                <RandomID ID="4020"/>
+            </Item>
+        </GetItem>
+    </DuiHuanCase>
+    <DuiHuanCase CaseID="2" Times="5">
+        <UseItem>
+            <Item Type="4" ItemID="21001" Count="8"/>
+            <Item Type="4" ItemID="21002" Count="5"/>
+        </UseItem>
+        <GetItem>
+            <Item Type="12" ItemID="0" Count="4">
+                <RandomID ID="4046"/>
+                <RandomID ID="4044"/>
+                <RandomID ID="4010"/>
+                <RandomID ID="4045"/>
+                <RandomID ID="4036"/>
+                <RandomID ID="4029"/>
+                <RandomID ID="4002"/>
+                <RandomID ID="4031"/>
+                <RandomID ID="4049"/>
+                <RandomID ID="4009"/>
+                <RandomID ID="4041"/>
+                <RandomID ID="4024"/>
+                <RandomID ID="4013"/>
+                <RandomID ID="4050"/>
+                <RandomID ID="4004"/>
+                <RandomID ID="4017"/>
+                <RandomID ID="4012"/>
+                <RandomID ID="4032"/>
+                <RandomID ID="4068"/>
+                <RandomID ID="4070"/>
+                <RandomID ID="4019"/>
+                <RandomID ID="4091"/>
+                <RandomID ID="4093"/>
+            </Item>
+        </GetItem>
+    </DuiHuanCase>
+    <DuiHuanCase CaseID="3" Times="10">
+        <UseItem>
+            <Item Type="4" ItemID="21004" Count="10"/>
+            <Item Type="4" ItemID="21005" Count="5"/>
+        </UseItem>
+        <GetItem>
+            <Item Type="6" ItemID="0" Count="4888"/>
+        </GetItem>
+    </DuiHuanCase>
+    <DuiHuanCase CaseID="4" Times="20">
+        <UseItem>
+            <Item Type="4" ItemID="21001" Count="1"/>
+            <Item Type="4" ItemID="21004" Count="10"/>
+        </UseItem>
+        <GetItem>
+            <Item Type="2" ItemID="0" Count="10000"/>
+        </GetItem>
+    </DuiHuanCase>
+    <DuiHuanCase CaseID="5" Times="10">
+        <UseItem>
+            <Item Type="4" ItemID="21002" Count="1"/>
+            <Item Type="4" ItemID="21004" Count="10"/>
+        </UseItem>
+        <GetItem>
+            <Item Type="2" ItemID="0" Count="20000"/>
+        </GetItem>
+    </DuiHuanCase>
+    <DuiHuanCase CaseID="6" Times="5">
+        <UseItem>
+            <Item Type="4" ItemID="21003" Count="1"/>
+            <Item Type="4" ItemID="21004" Count="10"/>
+        </UseItem>
+        <GetItem>
+            <Item Type="2" ItemID="0" Count="50000"/>
+        </GetItem>
+    </DuiHuanCase>
+    <DuiHuanCase CaseID="7" Times="5">
+        <UseItem>
+            <Item Type="4" ItemID="21001" Count="1"/>
+            <Item Type="4" ItemID="21005" Count="5"/>
+        </UseItem>
+        <GetItem>
+            <Item Type="3" ItemID="0" Count="100"/>
+        </GetItem>
+    </DuiHuanCase>
+    <DuiHuanCase CaseID="8" Times="2">
+        <UseItem>
+            <Item Type="4" ItemID="21002" Count="1"/>
+            <Item Type="4" ItemID="21005" Count="5"/>
+        </UseItem>
+        <GetItem>
+            <Item Type="3" ItemID="0" Count="200"/>
+        </GetItem>
+    </DuiHuanCase>
+    <DuiHuanCase CaseID="9" Times="2">
+        <UseItem>
+            <Item Type="4" ItemID="21003" Count="1"/>
+            <Item Type="4" ItemID="21005" Count="5"/>
+        </UseItem>
+        <GetItem>
+            <Item Type="3" ItemID="0" Count="500"/>
+        </GetItem>
+    </DuiHuanCase>
+</DuiHuan>

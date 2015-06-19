@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!--注释
+ID：
+	命格ID,唯一；
+	
+n_Name：
+	命格名称；
+	
+Quality：
+	命格品质,按照颜色区分如下：
+	0 = 白色；
+	1 = 绿色；
+	2 = 蓝色；
+	3 = 紫色；
+	4 = 橙色；
+	
+Des：
+	命格附加效果描述,用于界面显示,必须填写；
+	
+BaseExp：
+	命格吞噬时提供的基础经验值；
+	
+Sell：
+	出售价格,仅白色可以出售,填写如下：
+	Quality = 0		出售价格；
+	Quality = 其他	0；
+	
+AddAttr：
+	命格附加的属性效果ID：
+	0  = 武力；
+	1  = 法力；
+	2  = 绝招；
+	3  = 生命；
+	4  = 先攻；
+	5  = 武力攻击；
+	6  = 武力防御；
+	7  = 法力攻击；
+	8  = 法力防御；
+	9  = 绝招攻击；
+	10 = 绝招防御；
+	11 = 命中等级；
+	12 = 闪避等级；
+	13 = 暴击等级；
+	14 = 韧性等级；
+	15 = 格挡等级 (减一半伤害)；
+	16 = 破防等级 (减少格挡)；
+	17 = 怒气初始值；
+	18 = 怒气上限；
+	19 = 怒气恢复值；
+
+IconResID：
+	命格图标资源,对应IconRes数据ID字段；
+	
+Lv：
+	控制不同等级下的命格属性加成数值：
+	Level = 命格等级；
+	Value = 此等级附加的属性值；
+	
+注释结束-->
+
+<MingGe>
+	<MG ID="900001" n_Name="Kiếp" Quality="0" Des="Không" BaseExp="0" Sell="85" AddAttr="0" IconResID="900001"/>
+	<MG ID="900002" n_Name="Cùng" Quality="0" Des="Không" BaseExp="0" Sell="85" AddAttr="0" IconResID="900002"/>
+	<MG ID="900003" n_Name="Suy" Quality="0" Des="Không" BaseExp="0" Sell="85" AddAttr="0" IconResID="900003"/>
+	<MG ID="900004" n_Name="Khổ" Quality="0" Des="Không" BaseExp="0" Sell="85" AddAttr="0" IconResID="900004"/>
+	<MG ID="900005" n_Name="[67d64a]Võ Vận[-]" Quality="1" Des="Tăng công võ lực" BaseExp="120" Sell="125" AddAttr="5" IconResID="900005">
+		<Lv Lv="1" Value="601"/>
+		<Lv Lv="2" Value="642"/>
+		<Lv Lv="3" Value="684"/>
+		<Lv Lv="4" Value="727"/>
+		<Lv Lv="5" Value="771"/>
+		<Lv Lv="6" Value="817"/>
+		<Lv Lv="7" Value="862"/>
+		<Lv Lv="8" Value="910"/>
+		<Lv Lv="9" Value="959"/>
+		<Lv Lv="10" Value="1008"/>
+	</MG>
+	<MG ID="900006" n_Name="[67d64a]Đạo Vận[-]" Quality="1" Des="Tăng công phép" BaseExp="120" Sell="125" AddAttr="7" IconResID="900006">
+		<Lv Lv="1" Value="601"/>
+		<Lv Lv="2" Value="642"/>
+		<Lv Lv="3" Value="684"/>
+		<Lv Lv="4" Value="727"/>
+		<Lv Lv="5" Value="771"/>
+		<Lv Lv="6" Value="817"/>
+		<Lv Lv="7" Value="862"/>
+		<Lv Lv="8" Value="910"/>
+		<Lv Lv="9" Value="959"/>
+		<Lv Lv="10" Value="1008"/>
+	</MG>
+	<MG ID="900007" n_Name="[67d64a]Kỹ Vận[-]" Quality="1" Des="Tăng công tuyệt kỹ" BaseExp="120" Sell="125" AddAttr="9" IconResID="900007">
+		<Lv Lv="1" Value="601"/>
+		<Lv Lv="2" Value="642"/>
+		<Lv Lv="3" Value="684"/>
+		<Lv Lv="4" Value="727"/>
+		<Lv Lv="5" Value="771"/>
+		<Lv Lv="6" Value="817"/>
+		<Lv Lv="7" Value="862"/>
+		<Lv Lv="8" Value="910"/>
+		<Lv Lv="9" Value="959"/>
+		<Lv Lv="10" Value="1008"/>
+	</MG>
+	<MG ID="900008" n_Name="[10daff]Thần Võ Mệnh[-]" Quality="2" Des="Tăng công võ lực" BaseExp="120" Sell="150" AddAttr="5" IconResID="900008">
+		<Lv Lv="1" Value="763"/>
+		<Lv Lv="2" Value="815"/>
+		<Lv Lv="3" Value="869"/>
+		<Lv Lv="4" Value="924"/>
+		<Lv Lv="5" Value="981"/>
+		<Lv Lv="6" Value="1039"/>
+		<Lv Lv="7" Value="1099"/>
+		<Lv Lv="8" Value="1159"/>
+		<Lv Lv="9" Value="1221"/>
+		<Lv Lv="10" Value="1284"/>
+	</MG>
+	<MG ID="900009" n_Name="[10daff]Chỉ Chiến Mệnh[-]" Quality="2" Des="Tăng thủ võ lực" BaseExp="120" Sell="150" AddAttr="6" IconResID="900009">
+		<Lv Lv="1" Value="840"/>
+		<Lv Lv="2" Value="897"/>
+		<Lv Lv="3" Value="957"/>
+		<Lv Lv="4" Value="1017"/>
+		<Lv Lv="5" Value="1080"/>
+		<Lv Lv="6" Value="1143"/>
+		<Lv Lv="7" Value="1209"/>
+		<Lv Lv="8" Value="1275"/>
+		<Lv Lv="9" Value="1344"/>
+		<Lv Lv="10" Value="1413"/>
+	</MG>
+	<MG ID="900010" n_Name="[10daff]Thần Kỹ Mệnh[-]" Quality="2" Des="Tăng công tuyệt kỹ" BaseExp="120" Sell="150" AddAttr="9" IconResID="900010">
+		<Lv Lv="1" Value="763"/>
+		<Lv Lv="2" Value="815"/>
+		<Lv Lv="3" Value="869"/>
+		<Lv Lv="4" Value="924"/>
+		<Lv Lv="5" Value="981"/>
+		<Lv Lv="6" Value="1039"/>
+		<Lv Lv="7" Value="1099"/>
+		<Lv Lv="8" Value="1159"/>
+		<Lv Lv="9" Value="1221"/>
+		<Lv Lv="10" Value="1284"/>
+	</MG>
+	<MG ID="900011" n_Name="[10daff]Chỉ Kỹ Mệnh[-]" Quality="2" Des="Tăng thủ tuyệt kỹ" BaseExp="120" Sell="150" AddAttr="10" IconResID="900011">
+		<Lv Lv="1" Value="840"/>
+		<Lv Lv="2" Value="897"/>
+		<Lv Lv="3" Value="957"/>
+		<Lv Lv="4" Value="1017"/>
+		<Lv Lv="5" Value="1080"/>
+		<Lv Lv="6" Value="1143"/>
+		<Lv Lv="7" Value="1209"/>
+		<Lv Lv="8" Value="1275"/>
+		<Lv Lv="9" Value="1344"/>
+		<Lv Lv="10" Value="1413"/>
+	</MG>
+	<MG ID="900012" n_Name="[10daff]Thần Đạo Mệnh[-]" Quality="2" Des="Tăng công phép" BaseExp="120" Sell="150" AddAttr="7" IconResID="900012">
+		<Lv Lv="1" Value="763"/>
+		<Lv Lv="2" Value="815"/>
+		<Lv Lv="3" Value="869"/>
+		<Lv Lv="4" Value="924"/>
+		<Lv Lv="5" Value="981"/>
+		<Lv Lv="6" Value="1039"/>
+		<Lv Lv="7" Value="1099"/>
+		<Lv Lv="8" Value="1159"/>
+		<Lv Lv="9" Value="1221"/>
+		<Lv Lv="10" Value="1284"/>
+	</MG>
+	<MG ID="900013" n_Name="[10daff]Chỉ Đạo Mệnh[-]" Quality="2" Des="Tăng thủ phép" BaseExp="120" Sell="150" AddAttr="8" IconResID="900013">
+		<Lv Lv="1" Value="840"/>
+		<Lv Lv="2" Value="897"/>
+		<Lv Lv="3" Value="957"/>
+		<Lv Lv="4" Value="1017"/>
+		<Lv Lv="5" Value="1080"/>
+		<Lv Lv="6" Value="1143"/>
+		<Lv Lv="7" Value="1209"/>
+		<Lv Lv="8" Value="1275"/>
+		<Lv Lv="9" Value="1344"/>
+		<Lv Lv="10" Value="1413"/>
+	</MG>
+	<MG ID="900014" n_Name="[10daff]Nộ Đào Mệnh[-]" Quality="2" Des="Tăng công trước" BaseExp="120" Sell="150" AddAttr="8" IconResID="900014">
+		<Lv Lv="1" Value="15"/>
+		<Lv Lv="2" Value="20"/>
+		<Lv Lv="3" Value="25"/>
+		<Lv Lv="4" Value="30"/>
+		<Lv Lv="5" Value="35"/>
+		<Lv Lv="6" Value="40"/>
+		<Lv Lv="7" Value="50"/>
+		<Lv Lv="8" Value="60"/>
+		<Lv Lv="9" Value="80"/>
+		<Lv Lv="10" Value="100"/>
+	</MG>
+	<MG ID="900015" n_Name="[10daff]Binh Giáp Mệnh[-]" Quality="2" Des="Tăng cấp chắn" BaseExp="120" Sell="150" AddAttr="15" IconResID="900015">
+		<Lv Lv="1" Value="494"/>
+		<Lv Lv="2" Value="527"/>
+		<Lv Lv="3" Value="562"/>
+		<Lv Lv="4" Value="598"/>
+		<Lv Lv="5" Value="635"/>
+		<Lv Lv="6" Value="672"/>
+		<Lv Lv="7" Value="711"/>
+		<Lv Lv="8" Value="750"/>
+		<Lv Lv="9" Value="790"/>
+		<Lv Lv="10" Value="831"/>
+	</MG>
+	<MG ID="900016" n_Name="[10daff]Cuồng Bạo Mệnh[-]" Quality="2" Des="Tăng cấp bạo kích" BaseExp="120" Sell="150" AddAttr="13" IconResID="900016">
+		<Lv Lv="1" Value="18"/>
+		<Lv Lv="2" Value="19"/>
+		<Lv Lv="3" Value="21"/>
+		<Lv Lv="4" Value="22"/>
+		<Lv Lv="5" Value="24"/>
+		<Lv Lv="6" Value="25"/>
+		<Lv Lv="7" Value="26"/>
+		<Lv Lv="8" Value="28"/>
+		<Lv Lv="9" Value="29"/>
+		<Lv Lv="10" Value="31"/>
+	</MG>
+	<MG ID="900017" n_Name="[10daff]Tinh Chuẩn Mệnh[-]" Quality="2" Des="Tăng cấp trúng" BaseExp="120" Sell="150" AddAttr="11" IconResID="900017">
+		<Lv Lv="1" Value="840"/>
+		<Lv Lv="2" Value="897"/>
+		<Lv Lv="3" Value="957"/>
+		<Lv Lv="4" Value="1017"/>
+		<Lv Lv="5" Value="1080"/>
+		<Lv Lv="6" Value="1143"/>
+		<Lv Lv="7" Value="1209"/>
+		<Lv Lv="8" Value="1275"/>
+		<Lv Lv="9" Value="1344"/>
+		<Lv Lv="10" Value="1413"/>
+	</MG>
+	<MG ID="900018" n_Name="[10daff]Linh Xảo Mệnh[-]" Quality="2" Des="Tăng cấp né" BaseExp="120" Sell="150" AddAttr="12" IconResID="900018">
+		<Lv Lv="1" Value="700"/>
+		<Lv Lv="2" Value="747"/>
+		<Lv Lv="3" Value="797"/>
+		<Lv Lv="4" Value="847"/>
+		<Lv Lv="5" Value="900"/>
+		<Lv Lv="6" Value="952"/>
+		<Lv Lv="7" Value="1007"/>
+		<Lv Lv="8" Value="1062"/>
+		<Lv Lv="9" Value="1120"/>
+		<Lv Lv="10" Value="1177"/>
+	</MG>
+	<MG ID="900019" n_Name="[b249fb]Đại Thần Võ Giả[-]" Quality="3" Des="Tăng công võ lực" BaseExp="200" Sell="300" AddAttr="5" IconResID="900019">
+		<Lv Lv="1" Value="938"/>
+		<Lv Lv="2" Value="1009"/>
+		<Lv Lv="3" Value="1080"/>
+		<Lv Lv="4" Value="1155"/>
+		<Lv Lv="5" Value="1230"/>
+		<Lv Lv="6" Value="1309"/>
+		<Lv Lv="7" Value="1388"/>
+		<Lv Lv="8" Value="1469"/>
+		<Lv Lv="9" Value="1552"/>
+		<Lv Lv="10" Value="1638"/>
+	</MG>
+	<MG ID="900020" n_Name="[b249fb]Đại Thần Đạo Giả[-]" Quality="3" Des="Tăng công phép" BaseExp="200" Sell="300" AddAttr="7" IconResID="900020">
+		<Lv Lv="1" Value="1032"/>
+		<Lv Lv="2" Value="1110"/>
+		<Lv Lv="3" Value="1189"/>
+		<Lv Lv="4" Value="1271"/>
+		<Lv Lv="5" Value="1354"/>
+		<Lv Lv="6" Value="1440"/>
+		<Lv Lv="7" Value="1527"/>
+		<Lv Lv="8" Value="1617"/>
+		<Lv Lv="9" Value="1708"/>
+		<Lv Lv="10" Value="1802"/>
+	</MG>
+	<MG ID="900021" n_Name="[b249fb]Đại Thần Kỹ Giả[-]" Quality="3" Des="Tăng công tuyệt kỹ" BaseExp="200" Sell="300" AddAttr="9" IconResID="900021">
+		<Lv Lv="1" Value="938"/>
+		<Lv Lv="2" Value="1009"/>
+		<Lv Lv="3" Value="1080"/>
+		<Lv Lv="4" Value="1155"/>
+		<Lv Lv="5" Value="1230"/>
+		<Lv Lv="6" Value="1309"/>
+		<Lv Lv="7" Value="1388"/>
+		<Lv Lv="8" Value="1469"/>
+		<Lv Lv="9" Value="1552"/>
+		<Lv Lv="10" Value="1638"/>
+	</MG>
+	<MG ID="900044" n_Name="[b249fb]Đại Chỉ Chiến Giả[-]" Quality="3" Des="Tăng thủ võ lực" BaseExp="200" Sell="300" AddAttr="6" IconResID="900019">
+		<Lv Lv="1" Value="938"/>
+		<Lv Lv="2" Value="1009"/>
+		<Lv Lv="3" Value="1080"/>
+		<Lv Lv="4" Value="1155"/>
+		<Lv Lv="5" Value="1230"/>
+		<Lv Lv="6" Value="1309"/>
+		<Lv Lv="7" Value="1388"/>
+		<Lv Lv="8" Value="1469"/>
+		<Lv Lv="9" Value="1552"/>
+		<Lv Lv="10" Value="1638"/>
+	</MG>
+	<MG ID="900045" n_Name="[b249fb]Đại Chỉ Kỹ Giả[-]" Quality="3" Des="Tăng thủ phép" BaseExp="200" Sell="300" AddAttr="10" IconResID="900020">
+		<Lv Lv="1" Value="1032"/>
+		<Lv Lv="2" Value="1110"/>
+		<Lv Lv="3" Value="1189"/>
+		<Lv Lv="4" Value="1271"/>
+		<Lv Lv="5" Value="1354"/>
+		<Lv Lv="6" Value="1440"/>
+		<Lv Lv="7" Value="1527"/>
+		<Lv Lv="8" Value="1617"/>
+		<Lv Lv="9" Value="1708"/>
+		<Lv Lv="10" Value="1802"/>
+	</MG>
+	<MG ID="900046" n_Name="[b249fb]Đại Chỉ Đạo Giả[-]" Quality="3" Des="Tăng thủ tuyệt kỹ" BaseExp="200" Sell="300" AddAttr="8" IconResID="900021">
+		<Lv Lv="1" Value="938"/>
+		<Lv Lv="2" Value="1009"/>
+		<Lv Lv="3" Value="1080"/>
+		<Lv Lv="4" Value="1155"/>
+		<Lv Lv="5" Value="1230"/>
+		<Lv Lv="6" Value="1309"/>
+		<Lv Lv="7" Value="1388"/>
+		<Lv Lv="8" Value="1469"/>
+		<Lv Lv="9" Value="1552"/>
+		<Lv Lv="10" Value="1638"/>
+	</MG>
+	<MG ID="900022" n_Name="[b249fbCuồng Dã Nộ Đào[-]" Quality="3" Des="Tăng nộ khí lúc đầu" BaseExp="200" Sell="300" AddAttr="17" IconResID="900022">
+		<Lv Lv="1" Value="10"/>
+		<Lv Lv="2" Value="15"/>
+		<Lv Lv="3" Value="20"/>
+		<Lv Lv="4" Value="25"/>
+		<Lv Lv="5" Value="30"/>
+		<Lv Lv="6" Value="35"/>
+		<Lv Lv="7" Value="40"/>
+		<Lv Lv="8" Value="45"/>
+		<Lv Lv="9" Value="50"/>
+		<Lv Lv="10" Value="55"/>
+	</MG>
+	<MG ID="900023" n_Name="[b249fb]Đại Binh Giáp Giả[-]" Quality="3" Des="Tăng cấp chắn" BaseExp="200" Sell="300" AddAttr="15" IconResID="900023">
+		<Lv Lv="1" Value="607"/>
+		<Lv Lv="2" Value="652"/>
+		<Lv Lv="3" Value="699"/>
+		<Lv Lv="4" Value="747"/>
+		<Lv Lv="5" Value="796"/>
+		<Lv Lv="6" Value="847"/>
+		<Lv Lv="7" Value="898"/>
+		<Lv Lv="8" Value="951"/>
+		<Lv Lv="9" Value="1004"/>
+		<Lv Lv="10" Value="1060"/>
+	</MG>
+	<MG ID="900024" n_Name="[b249fb]Đại Cuồng Bạo Giả[-]" Quality="3" Des="Tăng cấp bạo kích" BaseExp="200" Sell="300" AddAttr="13" IconResID="900024">
+		<Lv Lv="1" Value="22"/>
+		<Lv Lv="2" Value="24"/>
+		<Lv Lv="3" Value="26"/>
+		<Lv Lv="4" Value="28"/>
+		<Lv Lv="5" Value="30"/>
+		<Lv Lv="6" Value="32"/>
+		<Lv Lv="7" Value="33"/>
+		<Lv Lv="8" Value="35"/>
+		<Lv Lv="9" Value="37"/>
+		<Lv Lv="10" Value="40"/>
+	</MG>
+	<MG ID="900025" n_Name="[b249fb]Đại Tinh Chuẩn Giả[-]" Quality="3" Des="Tăng cấp trúng" BaseExp="200" Sell="300" AddAttr="11" IconResID="900025">
+		<Lv Lv="1" Value="1032"/>
+		<Lv Lv="2" Value="1110"/>
+		<Lv Lv="3" Value="1189"/>
+		<Lv Lv="4" Value="1271"/>
+		<Lv Lv="5" Value="1354"/>
+		<Lv Lv="6" Value="1440"/>
+		<Lv Lv="7" Value="1527"/>
+		<Lv Lv="8" Value="1617"/>
+		<Lv Lv="9" Value="1708"/>
+		<Lv Lv="10" Value="1802"/>
+	</MG>
+	<MG ID="900026" n_Name="[b249fb]Đại Linh Xảo Giả[-]" Quality="3" Des="Tăng cấp né" BaseExp="200" Sell="300" AddAttr="12" IconResID="900026">
+		<Lv Lv="1" Value="860"/>
+		<Lv Lv="2" Value="925"/>
+		<Lv Lv="3" Value="990"/>
+		<Lv Lv="4" Value="1059"/>
+		<Lv Lv="5" Value="1128"/>
+		<Lv Lv="6" Value="1200"/>
+		<Lv Lv="7" Value="1272"/>
+		<Lv Lv="8" Value="1347"/>
+		<Lv Lv="9" Value="1423"/>
+		<Lv Lv="10" Value="1501"/>
+	</MG>
+	<MG ID="900027" n_Name="[b249fb]Đại Cương Liệt Giả[-]" Quality="3" Des="Tăng cấp phá thủ" BaseExp="200" Sell="300" AddAttr="16" IconResID="900027">
+		<Lv Lv="1" Value="607"/>
+		<Lv Lv="2" Value="652"/>
+		<Lv Lv="3" Value="699"/>
+		<Lv Lv="4" Value="747"/>
+		<Lv Lv="5" Value="796"/>
+		<Lv Lv="6" Value="847"/>
+		<Lv Lv="7" Value="898"/>
+		<Lv Lv="8" Value="951"/>
+		<Lv Lv="9" Value="1004"/>
+		<Lv Lv="10" Value="1060"/>
+	</MG>
+	<MG ID="900028" n_Name="[b249fb]Đại Trường Sinh Giả[-]" Quality="3" Des="Tăng máu" BaseExp="200" Sell="300" AddAttr="3" IconResID="900028">
+		<Lv Lv="1" Value="1032"/>
+		<Lv Lv="2" Value="1110"/>
+		<Lv Lv="3" Value="1189"/>
+		<Lv Lv="4" Value="1271"/>
+		<Lv Lv="5" Value="1354"/>
+		<Lv Lv="6" Value="1440"/>
+		<Lv Lv="7" Value="1527"/>
+		<Lv Lv="8" Value="1617"/>
+		<Lv Lv="9" Value="1708"/>
+		<Lv Lv="10" Value="1802"/>
+	</MG>
+	<MG ID="900029" n_Name="[ffa800]Thiên Giới Thần Võ Tinh[-]" Quality="4" Des="Tăng công võ lực" BaseExp="300" Sell="300" AddAttr="5" IconResID="900029">
+		<Lv Lv="1" Value="1127"/>
+		<Lv Lv="2" Value="1216"/>
+		<Lv Lv="3" Value="1309"/>
+		<Lv Lv="4" Value="1402"/>
+		<Lv Lv="5" Value="1499"/>
+		<Lv Lv="6" Value="1598"/>
+		<Lv Lv="7" Value="1699"/>
+		<Lv Lv="8" Value="1802"/>
+		<Lv Lv="9" Value="1909"/>
+		<Lv Lv="10" Value="2016"/>
+	</MG>
+	<MG ID="900030" n_Name="[ffa800]Thiên Giới Chỉ Chiến Tinh[-]" Quality="4" Des="Tăng thủ võ lực" BaseExp="300" Sell="500" AddAttr="6" IconResID="900030">
+		<Lv Lv="1" Value="1240"/>
+		<Lv Lv="2" Value="1338"/>
+		<Lv Lv="3" Value="1440"/>
+		<Lv Lv="4" Value="1543"/>
+		<Lv Lv="5" Value="1650"/>
+		<Lv Lv="6" Value="1758"/>
+		<Lv Lv="7" Value="1870"/>
+		<Lv Lv="8" Value="1983"/>
+		<Lv Lv="9" Value="2100"/>
+		<Lv Lv="10" Value="2218"/>
+	</MG>
+	<MG ID="900031" n_Name="[ffa800]Thiên Giới Thần Kỹ Tinh[-]" Quality="4" Des="Tăng công tuyệt kỹ" BaseExp="300" Sell="500" AddAttr="9" IconResID="900031">
+		<Lv Lv="1" Value="1127"/>
+		<Lv Lv="2" Value="1216"/>
+		<Lv Lv="3" Value="1309"/>
+		<Lv Lv="4" Value="1402"/>
+		<Lv Lv="5" Value="1499"/>
+		<Lv Lv="6" Value="1598"/>
+		<Lv Lv="7" Value="1699"/>
+		<Lv Lv="8" Value="1802"/>
+		<Lv Lv="9" Value="1909"/>
+		<Lv Lv="10" Value="2016"/>
+	</MG>
+	<MG ID="900032" n_Name="[ffa800]Thiên Giới Chỉ Kỹ Tinh[-]" Quality="4" Des="Tăng thủ tuyệt kỹ" BaseExp="300" Sell="500" AddAttr="10" IconResID="900032">
+		<Lv Lv="1" Value="1240"/>
+		<Lv Lv="2" Value="1338"/>
+		<Lv Lv="3" Value="1440"/>
+		<Lv Lv="4" Value="1543"/>
+		<Lv Lv="5" Value="1650"/>
+		<Lv Lv="6" Value="1758"/>
+		<Lv Lv="7" Value="1870"/>
+		<Lv Lv="8" Value="1983"/>
+		<Lv Lv="9" Value="2100"/>
+		<Lv Lv="10" Value="2218"/>
+	</MG>
+	<MG ID="900033" n_Name="[ffa800]Thiên Giới Thần Đạo Tinh[-]" Quality="4" Des="Tăng công phép" BaseExp="300" Sell="500" AddAttr="7" IconResID="900033">
+		<Lv Lv="1" Value="1127"/>
+		<Lv Lv="2" Value="1216"/>
+		<Lv Lv="3" Value="1309"/>
+		<Lv Lv="4" Value="1402"/>
+		<Lv Lv="5" Value="1499"/>
+		<Lv Lv="6" Value="1598"/>
+		<Lv Lv="7" Value="1699"/>
+		<Lv Lv="8" Value="1802"/>
+		<Lv Lv="9" Value="1909"/>
+		<Lv Lv="10" Value="2016"/>
+	</MG>
+	<MG ID="900034" n_Name="[ffa800]Thiên Giới Chỉ Đạo Tinh[-]" Quality="4" Des="Tăng thủ phép" BaseExp="300" Sell="500" AddAttr="8" IconResID="900034">
+		<Lv Lv="1" Value="1240"/>
+		<Lv Lv="2" Value="1338"/>
+		<Lv Lv="3" Value="1440"/>
+		<Lv Lv="4" Value="1543"/>
+		<Lv Lv="5" Value="1650"/>
+		<Lv Lv="6" Value="1758"/>
+		<Lv Lv="7" Value="1870"/>
+		<Lv Lv="8" Value="1983"/>
+		<Lv Lv="9" Value="2100"/>
+		<Lv Lv="10" Value="2218"/>
+	</MG>
+	<MG ID="900035" n_Name="[ffa800]Vô Biên Nộ Đào Tinh[-]" Quality="4" Des="Tăng nộ khí lúc đầu" BaseExp="300" Sell="500" AddAttr="17" IconResID="900035">
+		<Lv Lv="1" Value="20"/>
+		<Lv Lv="2" Value="25"/>
+		<Lv Lv="3" Value="30"/>
+		<Lv Lv="4" Value="40"/>
+		<Lv Lv="5" Value="50"/>
+		<Lv Lv="6" Value="60"/>
+		<Lv Lv="7" Value="70"/>
+		<Lv Lv="8" Value="80"/>
+		<Lv Lv="9" Value="90"/>
+		<Lv Lv="10" Value="100"/>
+	</MG>
+	<MG ID="900036" n_Name="[ffa800]Thiên Giới Binh Giáp Tinh[-]" Quality="4" Des="Tăng cấp chắn" BaseExp="300" Sell="500" AddAttr="15" IconResID="900036">
+		<Lv Lv="1" Value="729"/>
+		<Lv Lv="2" Value="787"/>
+		<Lv Lv="3" Value="847"/>
+		<Lv Lv="4" Value="907"/>
+		<Lv Lv="5" Value="970"/>
+		<Lv Lv="6" Value="1034"/>
+		<Lv Lv="7" Value="1100"/>
+		<Lv Lv="8" Value="1166"/>
+		<Lv Lv="9" Value="1235"/>
+		<Lv Lv="10" Value="1304"/>
+	</MG>
+	<MG ID="900037" n_Name="[ffa800]Thiên Giới Cuồng Bạo Tinh[-]" Quality="4" Des="Tăng cấp bạo kích" BaseExp="300" Sell="500" AddAttr="13" IconResID="900037">
+		<Lv Lv="1" Value="27"/>
+		<Lv Lv="2" Value="29"/>
+		<Lv Lv="3" Value="32"/>
+		<Lv Lv="4" Value="34"/>
+		<Lv Lv="5" Value="36"/>
+		<Lv Lv="6" Value="39"/>
+		<Lv Lv="7" Value="41"/>
+		<Lv Lv="8" Value="44"/>
+		<Lv Lv="9" Value="46"/>
+		<Lv Lv="10" Value="49"/>
+	</MG>
+	<MG ID="900038" n_Name="[ffa800]Thiên Giới Tinh Chuẩn Tinh[-]" Quality="4" Des="Tăng cấp trúng" BaseExp="300" Sell="500" AddAttr="11" IconResID="900038">
+		<Lv Lv="1" Value="1240"/>
+		<Lv Lv="2" Value="1338"/>
+		<Lv Lv="3" Value="1440"/>
+		<Lv Lv="4" Value="1543"/>
+		<Lv Lv="5" Value="1650"/>
+		<Lv Lv="6" Value="1758"/>
+		<Lv Lv="7" Value="1870"/>
+		<Lv Lv="8" Value="1983"/>
+		<Lv Lv="9" Value="2100"/>
+		<Lv Lv="10" Value="2218"/>
+	</MG>
+	<MG ID="900039" n_Name="[ffa800]Thiên Giới Linh Xảo Tinh[-]" Quality="4" Des="Tăng cấp né" BaseExp="300" Sell="500" AddAttr="12" IconResID="900039">
+		<Lv Lv="1" Value="1033"/>
+		<Lv Lv="2" Value="1115"/>
+		<Lv Lv="3" Value="1200"/>
+		<Lv Lv="4" Value="1285"/>
+		<Lv Lv="5" Value="1375"/>
+		<Lv Lv="6" Value="1465"/>
+		<Lv Lv="7" Value="1558"/>
+		<Lv Lv="8" Value="1652"/>
+		<Lv Lv="9" Value="1750"/>
+		<Lv Lv="10" Value="1848"/>
+	</MG>
+	<MG ID="900040" n_Name="[ffa800]Thiên Giới Cương Liệt Tinh[-]" Quality="4" Des="Tăng cấp phá thủ" BaseExp="300" Sell="500" AddAttr="16" IconResID="900040">
+		<Lv Lv="1" Value="729"/>
+		<Lv Lv="2" Value="787"/>
+		<Lv Lv="3" Value="847"/>
+		<Lv Lv="4" Value="907"/>
+		<Lv Lv="5" Value="970"/>
+		<Lv Lv="6" Value="1034"/>
+		<Lv Lv="7" Value="1100"/>
+		<Lv Lv="8" Value="1166"/>
+		<Lv Lv="9" Value="1235"/>
+		<Lv Lv="10" Value="1304"/>
+	</MG>
+	<MG ID="900041" n_Name="[ffa800]Thiên Giớ Nghị Trọng Tinh[-]" Quality="4" Des="Tăng cấp dẻo dai" BaseExp="300" Sell="500" AddAttr="14" IconResID="900041">
+		<Lv Lv="1" Value="27"/>
+		<Lv Lv="2" Value="29"/>
+		<Lv Lv="3" Value="32"/>
+		<Lv Lv="4" Value="34"/>
+		<Lv Lv="5" Value="36"/>
+		<Lv Lv="6" Value="39"/>
+		<Lv Lv="7" Value="41"/>
+		<Lv Lv="8" Value="44"/>
+		<Lv Lv="9" Value="46"/>
+		<Lv Lv="10" Value="49"/>
+	</MG>
+	<MG ID="900042" n_Name="[ffa800]Thiên Giới Trường Sinh Tinh[-]" Quality="4" Des="Tăng máu" BaseExp="300" Sell="500" AddAttr="3" IconResID="900042">
+		<Lv Lv="1" Value="1240"/>
+		<Lv Lv="2" Value="1338"/>
+		<Lv Lv="3" Value="1440"/>
+		<Lv Lv="4" Value="1543"/>
+		<Lv Lv="5" Value="1650"/>
+		<Lv Lv="6" Value="1758"/>
+		<Lv Lv="7" Value="1870"/>
+		<Lv Lv="8" Value="1983"/>
+		<Lv Lv="9" Value="2100"/>
+		<Lv Lv="10" Value="2218"/>
+	</MG>
+	<MG ID="900043" n_Name="[ffa800]Thiên Giới Tiên Phong Tinh[-]" Quality="4" Des="Tăng công trước" BaseExp="300" Sell="500" AddAttr="4" IconResID="900043">
+		<Lv Lv="1" Value="30"/>
+		<Lv Lv="2" Value="50"/>
+		<Lv Lv="3" Value="70"/>
+		<Lv Lv="4" Value="100"/>
+		<Lv Lv="5" Value="120"/>
+		<Lv Lv="6" Value="150"/>
+		<Lv Lv="7" Value="200"/>
+		<Lv Lv="8" Value="250"/>
+		<Lv Lv="9" Value="300"/>
+		<Lv Lv="10" Value="400"/>
+	</MG>
+</MingGe>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!--注释
+Lv：
+	声望等级；
+
+Reputation：
+	该等级声望；
+
+注释结束-->
+
+<Reputation>
+	<Levels Lv="1" Reputation="1000"/>
+	<Levels Lv="2" Reputation="2000"/>
+	<Levels Lv="3" Reputation="3000"/>
+	<Levels Lv="4" Reputation="4000"/>
+	<Levels Lv="5" Reputation="5000"/>
+	<Levels Lv="6" Reputation="9000"/>
+	<Levels Lv="7" Reputation="24000"/>
+	<Levels Lv="8" Reputation="64000"/>
+	<Levels Lv="9" Reputation="104000"/>
+	<Levels Lv="10" Reputation="154000"/>
+	<Levels Lv="11" Reputation="204000"/>
+	<Levels Lv="12" Reputation="264000"/>
+	<Levels Lv="13" Reputation="364000"/>
+	<Levels Lv="14" Reputation="404000"/>
+	<Levels Lv="15" Reputation="484000"/>
+	<Levels Lv="16" Reputation="564000"/>
+	<Levels Lv="17" Reputation="644000"/>
+	<Levels Lv="18" Reputation="724000"/>
+</Reputation>

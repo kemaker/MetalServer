@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!--
+
+ID：
+可使用道具ID,对应NormalItem数据ID字段；
+		
+Resouce：
+	使用后获得的效果数据：
+	Type & Id & Count：
+		数据的类型与数据,如下：
+		Type = 1	开启系统	Id：0																Count：系统编号；
+		Type = 2	灵石		Id：0																Count：灵石奖励数值；
+		Type = 3	元宝		Id：0																Count：元宝奖励数值；
+		Type = 4	道具		Id：道具ID,对应EquipItem、MaterialItem、NormalItem数据ID字段；		Count：道具奖励数值；
+		Type = 5	体力		Id：0																Count：体力奖励数值；
+		Type = 6	声望		Id：0																Count：声望奖励数值；
+		Type = 7 	阅历		Id：0																Count：阅历奖励数值；
+		Type = 8	经验		Id：0																Count：经验奖励数值；
+		Type = 9	新手引导	Id：引导组ID,对应Guide数据GroupID字段；							Count：引导ID,对应Guide数据GudieID字段；
+		Type = 10	伙伴碎片	Id：伙伴ID,对应Piece数据id字段；									Count：伙伴碎片数量；
+		Type = 11	进阶碎片	Id：0																Count：进阶碎片数值；
+		Type = 12	伙伴		Id：伙伴ID,对应Partner数据ID字段,不能使用主角ID,即小于4000的ID；	Count：初始星级,1-9星；
+			
+		Type = 1时可用系统编号：
+		默认开启
+			1  = 在线奖励；
+			3  = 小助手；
+			4  = 邮件；
+			5  = 聊天；
+			6  = 设置；
+			7  = VIP；
+			8  = 伙伴列表；
+			9  = 任务；
+			10 = 法宝；
+			13 = 背包
+			24 = 好友；
+			35 = 出征；
+		默认未开启
+			2  = 签到；
+			【废弃】11 = 大殿；
+			【废弃】14 = 炼器阁；
+			15 = 装备强化；
+			16 = 聚仙台；
+			17 = 上阵；
+			18 = 培养；
+			19 = 仙法；
+			20 = 静室；
+			21 = 购买体力；
+			22 = 天降灵石；
+			23 = 仙市；
+			25 = 炼丹炉；
+			26 = 竞技场；
+			27 = 阵营战；
+			【废弃】28 = 训练场；
+			30 = 猎命；
+			31 = 试炼场；
+			32 = 装备合成；
+			33 = 灵石矿；
+			34 = 弟子居；
+			36 = 活动；
+			37 = 战斗加速X2；
+			38 = 战斗加速X4；
+			39 = 进阶/还原；
+			
+注释结束-->
+
+<Reward>
+	<Item ID="71019">
+		<Resouce Type="5" Id="0" Count="10"/>
+	</Item>
+	<Item ID="71020">
+		<Resouce Type="5" Id="0" Count="30"/>
+	</Item>
+	<Item ID="71021">
+		<Resouce Type="5" Id="0" Count="50"/>
+	</Item>
+	<Item ID="71022">
+		<Resouce Type="5" Id="0" Count="120"/>
+	</Item>
+	<Item ID="81001">
+		<Resouce Type="6" Id="0" Count="100"/>
+		<Resouce Type="2" Id="0" Count="3000"/>
+	</Item>
+	<Item ID="81002">
+		<Resouce Type="6" Id="0" Count="200"/>
+		<Resouce Type="5" Id="0" Count="50"/>
+	</Item>
+	<Item ID="81003">
+		<Resouce Type="6" Id="0" Count="400"/>
+		<Resouce Type="5" Id="0" Count="50"/>
+	</Item>
+	<Item ID="81004">
+		<Resouce Type="6" Id="0" Count="1000"/>
+		<Resouce Type="5" Id="0" Count="50"/>
+	</Item>
+	<Item ID="81005">
+		<Resouce Type="6" Id="0" Count="2000"/>
+		<Resouce Type="5" Id="0" Count="50"/>
+	</Item>
+	<Item ID="81006">
+		<Resouce Type="2" Id="0" Count="200"/>
+	</Item>
+	<Item ID="81007">
+		<Resouce Type="2" Id="0" Count="500"/>
+		<Resouce Type="5" Id="0" Count="10"/>
+	</Item>
+	<Item ID="81008">
+		<Resouce Type="2" Id="0" Count="500"/>
+		<Resouce Type="6" Id="0" Count="50"/>
+	</Item>
+	<Item ID="81009">
+		<Resouce Type="2" Id="0" Count="800"/>
+		<Resouce Type="5" Id="0" Count="20"/>
+	</Item>
+	<Item ID="81010">
+		<Resouce Type="2" Id="0" Count="800"/>
+		<Resouce Type="3" Id="0" Count="5"/>
+	</Item>
+	<Item ID="81011">
+		<Resouce Type="2" Id="0" Count="1000"/>
+		<Resouce Type="6" Id="0" Count="100"/>
+	</Item>
+	<Item ID="81012">
+		<Resouce Type="2" Id="0" Count="1000"/>
+		<Resouce Type="5" Id="0" Count="30"/>
+	</Item>
+	<Item ID="81013">
+		<Resouce Type="2" Id="0" Count="1000"/>
+		<Resouce Type="3" Id="0" Count="10"/>
+	</Item>
+	<Item ID="81014">
+		<Resouce Type="2" Id="0" Count="1500"/>
+		<Resouce Type="6" Id="0" Count="200"/>
+	</Item>
+	<Item ID="81015">
+		<Resouce Type="5" Id="0" Count="30"/>
+		<Resouce Type="3" Id="0" Count="10"/>
+	</Item>
+	<Item ID="81016">
+		<Resouce Type="2" Id="0" Count="5000"/>
+	</Item>
+	<Item ID="81017">
+		<Resouce Type="5" Id="0" Count="50"/>
+	</Item>
+	<Item ID="81018">
+		<Resouce Type="6" Id="0" Count="200"/>
+	</Item>
+	<Item ID="81023">
+		<Resouce Type="2" Id="0" Count="1000"/>
+		<Resouce Type="6" Id="0" Count="10"/>
+	</Item>
+	<Item ID="81024">
+		<Resouce Type="2" Id="0" Count="2000"/>
+		<Resouce Type="6" Id="0" Count="20"/>
+	</Item>
+	<Item ID="81025">
+		<Resouce Type="2" Id="0" Count="3000"/>
+		<Resouce Type="6" Id="0" Count="30"/>
+	</Item>
+	<Item ID="81026">
+		<Resouce Type="2" Id="0" Count="4000"/>
+		<Resouce Type="6" Id="0" Count="40"/>
+	</Item>
+	<Item ID="81027">
+		<Resouce Type="2" Id="0" Count="5000"/>
+		<Resouce Type="6" Id="0" Count="50"/>
+	</Item>
+	<Item ID="81028">
+		<Resouce Type="2" Id="0" Count="8000"/>
+		<Resouce Type="6" Id="0" Count="60"/>
+	</Item>
+	<Item ID="81029">
+		<Resouce Type="2" Id="0" Count="12000"/>
+		<Resouce Type="6" Id="0" Count="70"/>
+	</Item>
+	<Item ID="81030">
+		<Resouce Type="2" Id="0" Count="16000"/>
+		<Resouce Type="6" Id="0" Count="90"/>
+	</Item>
+	<Item ID="81031">
+		<Resouce Type="2" Id="0" Count="20000"/>
+		<Resouce Type="6" Id="0" Count="120"/>
+	</Item>
+	<Item ID="81032">
+		<Resouce Type="2" Id="0" Count="25000"/>
+		<Resouce Type="6" Id="0" Count="140"/>
+	</Item>
+	<Item ID="81033">
+		<Resouce Type="2" Id="0" Count="30000"/>
+		<Resouce Type="6" Id="0" Count="170"/>
+	</Item>
+	<Item ID="81034">
+		<Resouce Type="2" Id="0" Count="50000"/>
+		<Resouce Type="6" Id="0" Count="200"/>
+	</Item>
+	<Item ID="71023">
+		<Resouce Type="2" Id="0" Count="5000"/>
+	</Item>
+	<Item ID="71024">
+		<Resouce Type="2" Id="0" Count="10000"/>
+	</Item>
+	<Item ID="71025">
+		<Resouce Type="2" Id="0" Count="50000"/>
+	</Item>
+	<Item ID="71026">
+		<Resouce Type="2" Id="0" Count="100000"/>
+	</Item>
+	<Item ID="71027">
+		<Resouce Type="7" Id="0" Count="100"/>
+	</Item>
+	<Item ID="71028">
+		<Resouce Type="7" Id="0" Count="500"/>
+	</Item>
+	<Item ID="71029">
+		<Resouce Type="7" Id="0" Count="1000"/>
+	</Item>
+	<Item ID="71030">
+		<Resouce Type="7" Id="0" Count="10000"/>
+	</Item>
+	<Item ID="71031">
+		<Resouce Type="4" Id="131011" Count="50"/>
+	</Item>
+	<Item ID="71032">
+		<Resouce Type="4" Id="131021" Count="50"/>
+	</Item>
+	<Item ID="71033">
+		<Resouce Type="4" Id="131022" Count="50"/>
+	</Item>
+	<Item ID="71034">
+		<Resouce Type="4" Id="131031" Count="50"/>
+	</Item>
+	<Item ID="71035">
+		<Resouce Type="4" Id="131032" Count="50"/>
+	</Item>
+	<Item ID="71036">
+		<Resouce Type="4" Id="131033" Count="50"/>
+	</Item>
+	<Item ID="71037">
+		<Resouce Type="4" Id="131041" Count="50"/>
+	</Item>
+	<Item ID="71038">
+		<Resouce Type="4" Id="131042" Count="50"/>
+	</Item>
+	<Item ID="71039">
+		<Resouce Type="4" Id="131043" Count="50"/>
+	</Item>
+	<Item ID="71040">
+		<Resouce Type="4" Id="131044" Count="50"/>
+	</Item>
+	<Item ID="71041">
+		<Resouce Type="4" Id="131051" Count="50"/>
+	</Item>
+	<Item ID="71042">
+		<Resouce Type="4" Id="131052" Count="50"/>
+	</Item>
+	<Item ID="71043">
+		<Resouce Type="4" Id="131053" Count="50"/>
+	</Item>
+	<Item ID="71044">
+		<Resouce Type="4" Id="131054" Count="50"/>
+	</Item>
+	<Item ID="71045">
+		<Resouce Type="4" Id="131055" Count="50"/>
+	</Item>
+	<Item ID="71046">
+		<Resouce Type="4" Id="131061" Count="50"/>
+	</Item>
+	<Item ID="71047">
+		<Resouce Type="4" Id="131062" Count="50"/>
+	</Item>
+	<Item ID="71048">
+		<Resouce Type="4" Id="131063" Count="50"/>
+	</Item>
+	<Item ID="71049">
+		<Resouce Type="4" Id="131064" Count="50"/>
+	</Item>
+	<Item ID="71050">
+		<Resouce Type="4" Id="131065" Count="50"/>
+	</Item>
+	<Item ID="71051">
+		<Resouce Type="18" Id="0" Count="10"/>
+	</Item>
+	<Item ID="71052">
+		<Resouce Type="18" Id="0" Count="50"/>
+	</Item>
+	<Item ID="71053">
+		<Resouce Type="18" Id="0" Count="100"/>
+	</Item>
+	<Item ID="71054">
+		<Resouce Type="18" Id="0" Count="1000"/>
+	</Item>
+	<Item ID="71055">
+		<Resouce Type="18" Id="0" Count="1000000"/>
+	</Item>
+		<Item ID="71056">
+		<Resouce Type="2" Id="0" Count="2000"/>
+	</Item>
+	<Item ID="71057">
+		<Resouce Type="2" Id="0" Count="2000"/>
+		<Resouce Type="6" Id="0" Count="300"/>
+	</Item>
+	<Item ID="71058">
+		<Resouce Type="2" Id="0" Count="2000"/>
+		<Resouce Type="6" Id="0" Count="300"/>
+		<Resouce Type="7" Id="0" Count="500"/>
+	</Item>
+	<Item ID="71059">
+		<Resouce Type="2" Id="0" Count="2000"/>
+		<Resouce Type="6" Id="0" Count="300"/>
+		<Resouce Type="7" Id="0" Count="500"/>
+		<Resouce Type="11" Id="0" Count="20"/>
+	</Item>
+	<Item ID="71060">
+		<Resouce Type="2" Id="0" Count="2000"/>
+		<Resouce Type="6" Id="0" Count="300"/>
+		<Resouce Type="7" Id="0" Count="500"/>
+		<Resouce Type="11" Id="0" Count="20"/>
+		<Resouce Type="4" Id="71052" Count="1"/>
+	</Item>
+	<Item ID="71061">
+		<Resouce Type="2" Id="0" Count="3000"/>
+	</Item>
+	<Item ID="71062">
+		<Resouce Type="2" Id="0" Count="3000"/>
+		<Resouce Type="6" Id="0" Count="500"/>
+	</Item>
+	<Item ID="71063">
+		<Resouce Type="2" Id="0" Count="3000"/>
+		<Resouce Type="6" Id="0" Count="500"/>
+		<Resouce Type="7" Id="0" Count="700"/>
+	</Item>
+	<Item ID="71064">
+		<Resouce Type="2" Id="0" Count="3000"/>
+		<Resouce Type="6" Id="0" Count="500"/>
+		<Resouce Type="7" Id="0" Count="700"/>
+		<Resouce Type="11" Id="0" Count="30"/>
+	</Item>
+	<Item ID="71065">
+		<Resouce Type="2" Id="0" Count="3000"/>
+		<Resouce Type="6" Id="0" Count="500"/>
+		<Resouce Type="7" Id="0" Count="700"/>
+		<Resouce Type="11" Id="0" Count="30"/>
+		<Resouce Type="4" Id="71052" Count="1"/>
+	</Item>
+	<Item ID="71066">
+		<Resouce Type="2" Id="0" Count="5000"/>
+	</Item>
+	<Item ID="71067">
+		<Resouce Type="2" Id="0" Count="5000"/>
+		<Resouce Type="6" Id="0" Count="700"/>
+	</Item>
+	<Item ID="71068">
+		<Resouce Type="2" Id="0" Count="5000"/>
+		<Resouce Type="6" Id="0" Count="700"/>
+		<Resouce Type="7" Id="0" Count="1000"/>
+	</Item>
+	<Item ID="71069">
+		<Resouce Type="2" Id="0" Count="5000"/>
+		<Resouce Type="6" Id="0" Count="700"/>
+		<Resouce Type="7" Id="0" Count="1000"/>
+		<Resouce Type="11" Id="0" Count="50"/>
+	</Item>
+	<Item ID="71070">
+		<Resouce Type="2" Id="0" Count="5000"/>
+		<Resouce Type="6" Id="0" Count="700"/>
+		<Resouce Type="7" Id="0" Count="1000"/>
+		<Resouce Type="11" Id="0" Count="50"/>
+		<Resouce Type="4" Id="71053" Count="1"/>
+	</Item>
+	<Item ID="71071">
+		<Resouce Type="2" Id="0" Count="10000"/>
+	</Item>
+	<Item ID="71072">
+		<Resouce Type="2" Id="0" Count="10000"/>
+		<Resouce Type="6" Id="0" Count="1000"/>
+	</Item>
+	<Item ID="71073">
+		<Resouce Type="2" Id="0" Count="10000"/>
+		<Resouce Type="6" Id="0" Count="1000"/>
+		<Resouce Type="7" Id="0" Count="1500"/>
+	</Item>
+	<Item ID="71074">
+		<Resouce Type="2" Id="0" Count="10000"/>
+		<Resouce Type="6" Id="0" Count="1000"/>
+		<Resouce Type="7" Id="0" Count="1500"/>
+		<Resouce Type="11" Id="0" Count="70"/>
+	</Item>
+	<Item ID="71075">
+		<Resouce Type="2" Id="0" Count="10000"/>
+		<Resouce Type="6" Id="0" Count="1000"/>
+		<Resouce Type="7" Id="0" Count="1500"/>
+		<Resouce Type="11" Id="0" Count="70"/>
+		<Resouce Type="4" Id="71053" Count="1"/>
+	</Item>
+	<Item ID="71076">
+		<Resouce Type="2" Id="0" Count="20000"/>
+	</Item>
+	<Item ID="71077">
+		<Resouce Type="2" Id="0" Count="20000"/>
+		<Resouce Type="6" Id="0" Count="1300"/>
+	</Item>
+	<Item ID="71078">
+		<Resouce Type="2" Id="0" Count="20000"/>
+		<Resouce Type="6" Id="0" Count="1300"/>
+		<Resouce Type="7" Id="0" Count="2000"/>
+	</Item>
+	<Item ID="71079">
+		<Resouce Type="2" Id="0" Count="20000"/>
+		<Resouce Type="6" Id="0" Count="1300"/>
+		<Resouce Type="7" Id="0" Count="2000"/>
+		<Resouce Type="11" Id="0" Count="100"/>
+	</Item>
+	<Item ID="71080">
+		<Resouce Type="2" Id="0" Count="20000"/>
+		<Resouce Type="6" Id="0" Count="1300"/>
+		<Resouce Type="7" Id="0" Count="2000"/>
+		<Resouce Type="11" Id="0" Count="100"/>
+		<Resouce Type="4" Id="71054" Count="1"/>
+	</Item>
+	<Item ID="71081">
+		<Resouce Type="2" Id="0" Count="50000"/>
+	</Item>
+	<Item ID="71082">
+		<Resouce Type="2" Id="0" Count="50000"/>
+		<Resouce Type="6" Id="0" Count="1700"/>
+	</Item>
+	<Item ID="71083">
+		<Resouce Type="2" Id="0" Count="50000"/>
+		<Resouce Type="6" Id="0" Count="1700"/>
+		<Resouce Type="7" Id="0" Count="5000"/>
+	</Item>
+	<Item ID="71084">
+		<Resouce Type="2" Id="0" Count="50000"/>
+		<Resouce Type="6" Id="0" Count="1700"/>
+		<Resouce Type="7" Id="0" Count="5000"/>
+		<Resouce Type="11" Id="0" Count="150"/>
+	</Item>
+	<Item ID="71085">
+		<Resouce Type="2" Id="0" Count="50000"/>
+		<Resouce Type="6" Id="0" Count="1700"/>
+		<Resouce Type="7" Id="0" Count="5000"/>
+		<Resouce Type="11" Id="0" Count="150"/>
+		<Resouce Type="4" Id="71054" Count="1"/>
+	</Item>
+</Reward>

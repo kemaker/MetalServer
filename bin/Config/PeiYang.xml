@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!--注释
+
+Default：
+	单次培养增加值的最大值；
+	
+Type：
+	培养类型；
+	1 = 初级培养；
+	2 = 中级培养；
+	3 = 高级培养；
+	4 = 超级培养；
+	5 = 神级培养
+	
+Cost：
+	培养花费数值；
+	
+CostType：
+	培养花费的类型；
+	0 = 灵石；
+	1 = 元宝
+	
+min：
+	培养的最小值；
+	
+max：
+	培养的最大值；
+
+注释结束-->
+
+<Config Default="5">
+	<Peiyang Type="1" Cost="100" CostType="0" min="1" max="50" />
+	<Peiyang Type="2" Cost="2" CostType="1" min="20" max="75" />
+	<Peiyang Type="3" Cost="10" CostType="1" min="30" max="110" />
+	<Peiyang Type="4" Cost="20" CostType="1" min="40" max="140" />
+	<Peiyang Type="5" Cost="100" CostType="1" min="5" max="5" />
+</Config>

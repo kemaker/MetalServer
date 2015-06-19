@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+	宝石配制 / 此表现在的版本没有使用! 2014年4月22日13:16:30 By KuMo
+-->
+<Gems>
+	<Gem ID="40001" Level="1" UseLevel="1" SellPrice="1" BuyBackPrice="1" Name="真钻" Des="假一赔十">
+	</Gem>
+</Gems>

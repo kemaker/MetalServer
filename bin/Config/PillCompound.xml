@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!--注释
+
+ID：
+	合成出丹药ID,对应NormalItem数据ID字段；
+	
+Reel：
+	合成所需卷轴对应ReelItem数据ID字段；
+    
+Gold：
+    自动合成丹药时花费元宝；
+
+Compound：
+	合成材料数据,如下：
+	Material = 材料ID,对应MaterialItem数据ID字段；
+	Count    = 材料数量；
+
+注释结束-->
+
+<Normal>
+	<Item ID="20001" Reel="120001" Gold="50">
+		<Compound Material="131011" Count="5"/>
+	</Item>
+	<Item ID="20011" Reel="120011" Gold="50">
+		<Compound Material="131011" Count="5"/>
+	</Item>
+	<Item ID="20021" Reel="120021" Gold="50">
+		<Compound Material="131011" Count="5"/>
+	</Item>
+	<Item ID="20002" Reel="120002" Gold="100">
+		<Compound Material="131021" Count="10"/>
+		<Compound Material="131022" Count="10"/>
+	</Item>
+	<Item ID="20012" Reel="120012" Gold="100">
+		<Compound Material="131021" Count="10"/>
+		<Compound Material="131022" Count="10"/>
+	</Item>
+	<Item ID="20022" Reel="120022" Gold="100">
+		<Compound Material="131021" Count="10"/>
+		<Compound Material="131022" Count="10"/>
+	</Item>
+	<Item ID="20003" Reel="120003" Gold="200">
+		<Compound Material="131031" Count="15"/>
+		<Compound Material="131032" Count="15"/>
+		<Compound Material="131033" Count="15"/>
+	</Item>
+	<Item ID="20013" Reel="120013" Gold="200">
+		<Compound Material="131031" Count="15"/>
+		<Compound Material="131032" Count="15"/>
+		<Compound Material="131033" Count="15"/>
+	</Item>
+	<Item ID="20023" Reel="120023" Gold="200">
+		<Compound Material="131031" Count="15"/>
+		<Compound Material="131032" Count="15"/>
+		<Compound Material="131033" Count="15"/>
+	</Item>
+	<Item ID="20004" Reel="120004" Gold="300">
+		<Compound Material="131041" Count="25"/>
+		<Compound Material="131042" Count="25"/>
+		<Compound Material="131043" Count="25"/>
+		<Compound Material="131044" Count="25"/>
+	</Item>
+	<Item ID="20014" Reel="120014" Gold="300">
+		<Compound Material="131041" Count="25"/>
+		<Compound Material="131042" Count="25"/>
+		<Compound Material="131043" Count="25"/>
+		<Compound Material="131044" Count="25"/>
+	</Item>
+	<Item ID="20024" Reel="120024" Gold="300">
+		<Compound Material="131041" Count="25"/>
+		<Compound Material="131042" Count="25"/>
+		<Compound Material="131043" Count="25"/>
+		<Compound Material="131044" Count="25"/>
+	</Item>
+	<Item ID="20005" Reel="120005" Gold="400">
+		<Compound Material="131051" Count="30"/>
+		<Compound Material="131052" Count="30"/>
+		<Compound Material="131053" Count="30"/>
+		<Compound Material="131054" Count="30"/>
+		<Compound Material="131055" Count="30"/>
+	</Item>
+	<Item ID="20015" Reel="120015" Gold="400">
+		<Compound Material="131051" Count="30"/>
+		<Compound Material="131052" Count="30"/>
+		<Compound Material="131053" Count="30"/>
+		<Compound Material="131054" Count="30"/>
+		<Compound Material="131055" Count="30"/>
+	</Item>
+	<Item ID="20025" Reel="120025" Gold="400">
+		<Compound Material="131051" Count="30"/>
+		<Compound Material="131052" Count="30"/>
+		<Compound Material="131053" Count="30"/>
+		<Compound Material="131054" Count="30"/>
+		<Compound Material="131055" Count="30"/>
+	</Item>
+	<Item ID="20006" Reel="120006" Gold="500">
+		<Compound Material="131061" Count="45"/>
+		<Compound Material="131062" Count="45"/>
+		<Compound Material="131063" Count="45"/>
+		<Compound Material="131064" Count="45"/>
+		<Compound Material="131065" Count="45"/>
+	</Item>
+	<Item ID="20016" Reel="120016" Gold="500">
+		<Compound Material="131061" Count="45"/>
+		<Compound Material="131062" Count="45"/>
+		<Compound Material="131063" Count="45"/>
+		<Compound Material="131064" Count="45"/>
+		<Compound Material="131065" Count="45"/>
+	</Item>
+	<Item ID="20026" Reel="120026" Gold="500">
+		<Compound Material="131061" Count="45"/>
+		<Compound Material="131062" Count="45"/>
+		<Compound Material="131063" Count="45"/>
+		<Compound Material="131064" Count="45"/>
+		<Compound Material="131065" Count="45"/>
+	</Item>
+</Normal>

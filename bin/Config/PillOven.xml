@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!--注释
+
+Step：
+	当前丹药的阶数1-7；
+	
+Attr：
+	弹药属性数据：
+	Type：
+		附加属性类型：
+		0 = 武力；
+		1 = 法力；
+		2 = 绝招；
+	
+	Pill：
+		丹药id,对应NormalItem数据ID字段；
+		
+	Grades：
+		弹药在不同的重数下的加成值：
+		Level   = 重数 ；
+		AddAttr = 属性附加值；
+
+注释结束-->
+
+<Config>
+	<Steps Step="1">
+		<Attr Type="0" Pill="20001">
+			<Grades Grade="1" AddAttr="15"/>
+			<Grades Grade="2" AddAttr="10"/>
+		</Attr>
+		<Attr Type="1" Pill="20011">
+			<Grades Grade="1" AddAttr="15"/>
+			<Grades Grade="2" AddAttr="10"/>
+		</Attr>
+		<Attr Type="2" Pill="20021">
+			<Grades Grade="1" AddAttr="15"/>
+			<Grades Grade="2" AddAttr="10"/>
+		</Attr>
+	</Steps>
+	<Steps Step="2">
+		<Attr Type="0" Pill="20002">
+			<Grades Grade="1" AddAttr="20"/>
+			<Grades Grade="2" AddAttr="15"/>
+			<Grades Grade="3" AddAttr="10"/>
+		</Attr>
+		<Attr Type="1" Pill="20012">
+			<Grades Grade="1" AddAttr="20"/>
+			<Grades Grade="2" AddAttr="15"/>
+			<Grades Grade="3" AddAttr="10"/>
+		</Attr>
+		<Attr Type="2" Pill="20022">
+			<Grades Grade="1" AddAttr="20"/>
+			<Grades Grade="2" AddAttr="15"/>
+			<Grades Grade="3" AddAttr="10"/>
+		</Attr>
+	</Steps>
+	<Steps Step="3">
+		<Attr Type="0" Pill="20003">
+			<Grades Grade="1" AddAttr="25"/>
+			<Grades Grade="2" AddAttr="20"/>
+			<Grades Grade="3" AddAttr="15"/>
+			<Grades Grade="4" AddAttr="10"/>
+		</Attr>
+		<Attr Type="1" Pill="20013">
+			<Grades Grade="1" AddAttr="25"/>
+			<Grades Grade="2" AddAttr="20"/>
+			<Grades Grade="3" AddAttr="15"/>
+			<Grades Grade="4" AddAttr="10"/>
+		</Attr>
+		<Attr Type="2" Pill="20023">
+			<Grades Grade="1" AddAttr="25"/>
+			<Grades Grade="2" AddAttr="20"/>
+			<Grades Grade="3" AddAttr="15"/>
+			<Grades Grade="4" AddAttr="10"/>
+		</Attr>
+	</Steps>
+	<Steps Step="4">
+		<Attr Type="0" Pill="20004">
+			<Grades Grade="1" AddAttr="30"/>
+			<Grades Grade="2" AddAttr="25"/>
+			<Grades Grade="3" AddAttr="20"/>
+			<Grades Grade="4" AddAttr="15"/>
+			<Grades Grade="5" AddAttr="10"/>
+		</Attr>
+		<Attr Type="1" Pill="20014">
+			<Grades Grade="1" AddAttr="30"/>
+			<Grades Grade="2" AddAttr="25"/>
+			<Grades Grade="3" AddAttr="20"/>
+			<Grades Grade="4" AddAttr="15"/>
+			<Grades Grade="5" AddAttr="10"/>
+		</Attr>
+		<Attr Type="2" Pill="20024">
+			<Grades Grade="1" AddAttr="30"/>
+			<Grades Grade="2" AddAttr="25"/>
+			<Grades Grade="3" AddAttr="20"/>
+			<Grades Grade="4" AddAttr="15"/>
+			<Grades Grade="5" AddAttr="10"/>
+		</Attr>
+	</Steps>
+	<Steps Step="5">
+		<Attr Type="0" Pill="20005">
+			<Grades Grade="1" AddAttr="35"/>
+			<Grades Grade="2" AddAttr="30"/>
+			<Grades Grade="3" AddAttr="25"/>
+			<Grades Grade="4" AddAttr="20"/>
+			<Grades Grade="5" AddAttr="15"/>
+			<Grades Grade="6" AddAttr="10"/>
+		</Attr>
+		<Attr Type="1" Pill="20015">
+			<Grades Grade="1" AddAttr="35"/>
+			<Grades Grade="2" AddAttr="30"/>
+			<Grades Grade="3" AddAttr="25"/>
+			<Grades Grade="4" AddAttr="20"/>
+			<Grades Grade="5" AddAttr="15"/>
+			<Grades Grade="6" AddAttr="10"/>
+		</Attr>
+		<Attr Type="2" Pill="20025">
+			<Grades Grade="1" AddAttr="35"/>
+			<Grades Grade="2" AddAttr="30"/>
+			<Grades Grade="3" AddAttr="25"/>
+			<Grades Grade="4" AddAttr="20"/>
+			<Grades Grade="5" AddAttr="15"/>
+			<Grades Grade="6" AddAttr="10"/>
+		</Attr>
+	</Steps>
+	<Steps Step="6">
+		<Attr Type="0" Pill="20006">
+			<Grades Grade="1" AddAttr="40"/>
+			<Grades Grade="2" AddAttr="35"/>
+			<Grades Grade="3" AddAttr="30"/>
+			<Grades Grade="4" AddAttr="25"/>
+			<Grades Grade="5" AddAttr="20"/>
+			<Grades Grade="6" AddAttr="15"/>
+			<Grades Grade="7" AddAttr="10"/>
+		</Attr>
+		<Attr Type="1" Pill="20016">
+			<Grades Grade="1" AddAttr="40"/>
+			<Grades Grade="2" AddAttr="35"/>
+			<Grades Grade="3" AddAttr="30"/>
+			<Grades Grade="4" AddAttr="25"/>
+			<Grades Grade="5" AddAttr="20"/>
+			<Grades Grade="6" AddAttr="15"/>
+			<Grades Grade="7" AddAttr="10"/>
+		</Attr>
+		<Attr Type="2" Pill="20026">
+			<Grades Grade="1" AddAttr="40"/>
+			<Grades Grade="2" AddAttr="35"/>
+			<Grades Grade="3" AddAttr="30"/>
+			<Grades Grade="4" AddAttr="25"/>
+			<Grades Grade="5" AddAttr="20"/>
+			<Grades Grade="6" AddAttr="15"/>
+			<Grades Grade="7" AddAttr="10"/>
+		</Attr>
+	</Steps>
+</Config>

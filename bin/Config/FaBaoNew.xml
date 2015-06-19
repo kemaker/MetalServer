@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	
+<!--注释
+
+	FaBaoID=180014	玉玄瓶		value1全体提升防御百分比		  	value2全体攻击伤害降低百分比		value3持续回合数	        value4冷却回合数	value5使用次数
+	FaBaoID=180015	魔心琵琶	value1全体攻击伤害增加百分比		value2全体受到伤害增加百分比 	value3持续回合数 	        value4冷却回合数	value5使用次数
+	FaBaoID=180018	饮血刀		value1对自身造成伤害百分比		value2获得怒气值				value3冷却回合数	        value4使用次数		value5无
+	FaBaoID=180016	无念宝剑	value1持续回合数				value2冷却回合数				value3使用次数		        value4无			value5无
+	FaBaoID=180019	杏黄旗		value1全体恢复生命百分比		  	value2持续回合数				value3恢复怒气值	        value4冷却回合数	value5使用次数
+	FaBaoID=180003	紫云葫芦	value1每点怒气转化血量百分比		value2冷却回合数				value3使用次数		        value4无			value5无
+	FaBaoID=180013	盘古斧		value1敌人伤害倍数		        value2眩晕回合数				value3冷却回合数	        value4使用次数		value5无
+	FaBaoID=180020	奇金宝鼎	value1Buff持续回合数			value2敌方祝福概率				value3我方额外祝福概率		value4冷却回合数	value5使用次数 
+	FaBaoID=180021	五蕴神石	value1额外获得经验点数		    value2获得双倍额外经验概率		value3无	                value4无	        value5无
+	FaBaoID=180006	转命灵珠	value1清除debuff数量上限		value2抽取祝福数量上限			value3冷却回合数	        value4使用次数		value5无
+	FaBaoID=180011	乾坤圈	  	value1造成伤害值				value2击晕概率					value3消耗怒气值		value4冷却回合数	value5使用次数 
+	FaBaoID=180022	风火轮	  	value1所有法宝冷却回合数		  	value2冷却回合判定				value3额外减少回合数	    value4公cd减少数	value5无
+	FaBaoID=180004	东皇钟	  	value1辅盾回合数		        value2怒气降低值				value3冷却回合数	        value4使用次数		value5无
+	FaBaoID=180002	九齿钉耙	value1造成伤害值				value2暴击率倍数				value3持续回合数			value4冷却回合数	value5使用次数 
+	FaBaoID=180009	天魔灯	  	value1获得怒气值        		value2法宝作用回合数			value3减少怒气值	        value4冷却回合数	value5使用次数
+	FaBaoID=180017	神农草	  	value1附加生命值百分比		    value2持续回合数				value3额外附加伤害百分比		value4冷却回合数	value5使用次数
+	FaBaoID=180024	玲珑宝塔	value1怒气承受伤害百分比			value2怒气抵消伤害百分比			value3冷却回合数			value4使用次数		value5无 
+	FaBaoID=180001	雷公锤	  	value1可用次数减少值        	value2冷却回合数				value3使用次数				value4无        	value5无
+	FaBaoID=180010	番天印	  	value1法宝可用次数增加值		  	value2无						value3无                	value4无        	value5无
+	FaBaoID=180023	轩辕剑	  	value1暴击率            		value2攻击力下降百分比			value3持续回合数			value4冷却回合数	value5使用次数 
+	FaBaoID=180005	雷剑天尊	value1格子数量              	value2法攻强度值				value3受伤百分比	        value4冷却回合数	value5使用次数
+  	FaBaoID=180007	血战军旗	value1防御力下降百分比		  	value2持续回合数				value3冷却回合数    		value4使用次数		value5无
+	FaBaoID=180008	诛仙剑	  value1加成点数		  			value2绝攻上限值				value3弹射降低百分比    	value4冷却回合数	value5使用次数 
+	FaBaoID=180012	芭蕉扇	  value1顺风祝福除数              	value2逆风祝福除数				value3持续回合数	        value4冷却回合数	value5使用次数
+注释结束-->
+
+<FaBaos>
+	<FaBao FaBaoID="180014" n_Name="[10DAFF]Ngọc Huyền Bình[-]" EffectName1="Display_L_Object_FB_014" EffectName2="assets_effects_fb_014" EffectNumType="0" IconResID="180014" IconResID1="190014" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Toàn thể tăng thủ, giảm sát thương" Origin="Nhận tại Tụ Tiên Đài hoặc Thương Nhân bí ẩn" EffectTime="4">
+		<n_Value n_Level="1" Value1="30" Value2="25" Value3="2" Value4="6" Value5="2" Des="Toàn thể tăng 30% thủ, nhưng giảm 25% s.thương trong 2 hiệp"/>
+		<n_Value n_Level="2" Value1="32" Value2="25" Value3="2" Value4="6" Value5="2" Des="Toàn thể tăng 32% thủ, nhưng giảm 25% s.thương trong 2 hiệp"/>
+		<n_Value n_Level="3" Value1="34" Value2="20" Value3="2" Value4="6" Value5="3" Des="Toàn thể tăng 34% thủ, nhưng giảm 20% s.thương trong 2 hiệp"/>
+		<n_Value n_Level="4" Value1="36" Value2="20" Value3="3" Value4="6" Value5="3" Des="Toàn thể tăng 36% thủ, nhưng giảm 20% s.thương trong 3 hiệp"/>
+		<n_Value n_Level="5" Value1="38" Value2="20" Value3="3" Value4="6" Value5="3" Des="Toàn thể tăng 38% thủ, nhưng giảm 20% s.thương trong 3 hiệp"/>
+		<n_Value n_Level="6" Value1="40" Value2="15" Value3="3" Value4="5" Value5="4" Des="Toàn thể tăng 40% thủ, nhưng giảm 15% s.thương trong 3 hiệp"/>
+		<n_Value n_Level="7" Value1="42" Value2="15" Value3="4" Value4="5" Value5="4" Des="Toàn thể tăng 42% thủ, nhưng giảm 15% s.thương trong 4 hiệp"/>
+		<n_Value n_Level="8" Value1="44" Value2="15" Value3="4" Value4="5" Value5="4" Des="Toàn thể tăng 44% thủ, nhưng giảm 15% s.thương trong 4 hiệp"/>
+		<n_Value n_Level="9" Value1="47" Value2="10" Value3="4" Value4="5" Value5="4" Des="Toàn thể tăng 47% thủ, nhưng giảm 10% s.thương trong 4 hiệp"/>
+		<n_Value n_Level="10" Value1="50" Value2="10" Value3="5" Value4="5" Value5="5" Des="Toàn thể tăng 50% thủ, nhưng giảm 10% s.thương trong 5 hiệp"/>
+	</FaBao>
+	<FaBao FaBaoID="180015" n_Name="[10DAFF]Ma Tâm Tỳ Bà[-]" EffectName1="Display_L_Object_FB_015" EffectName2="assets_effects_fb_015" EffectNumType="0" IconResID="180015" IconResID1="190015" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Toàn thể tăng công, giảm thủ" Origin="Mua tại shop Bang" EffectTime="5">
+		<n_Value n_Level="1" Value1="30" Value2="25" Value3="2" Value4="6" Value5="2" Des="Toàn thể tăng 30% công, nhưng giảm 25% thủ trong 2 hiệp"/>
+		<n_Value n_Level="2" Value1="32" Value2="25" Value3="2" Value4="6" Value5="2" Des="Toàn thể tăng 32% công, nhưng giảm 25% thủ trong 2 hiệp"/>
+		<n_Value n_Level="3" Value1="34" Value2="20" Value3="2" Value4="6" Value5="3" Des="Toàn thể tăng 34% công, nhưng giảm 20% thủ trong 2 hiệp"/>
+		<n_Value n_Level="4" Value1="36" Value2="20" Value3="3" Value4="6" Value5="3" Des="Toàn thể tăng 36% công, nhưng giảm 20% thủ trong 3 hiệp"/>
+		<n_Value n_Level="5" Value1="38" Value2="20" Value3="3" Value4="6" Value5="3" Des="Toàn thể tăng 38% công, nhưng giảm 20% thủ trong 3 hiệp"/>
+		<n_Value n_Level="6" Value1="40" Value2="15" Value3="3" Value4="5" Value5="4" Des="Toàn thể tăng 40% công, nhưng giảm 15% thủ trong 3 hiệp"/>
+		<n_Value n_Level="7" Value1="42" Value2="15" Value3="4" Value4="5" Value5="4" Des="Toàn thể tăng 42% công, nhưng giảm 15% thủ trong 4 hiệp"/>
+		<n_Value n_Level="8" Value1="44" Value2="15" Value3="4" Value4="5" Value5="4" Des="Toàn thể tăng 44% công, nhưng giảm 15% thủ trong 4 hiệp"/>
+		<n_Value n_Level="9" Value1="47" Value2="10" Value3="4" Value4="5" Value5="4" Des="Toàn thể tăng 47% công, nhưng giảm 10% thủ trong 4 hiệp"/>
+		<n_Value n_Level="10" Value1="50" Value2="10" Value3="5" Value4="5" Value5="5" Des="Toàn thể tăng 50% công, nhưng giảm 10% thủ trong 5 hiệp"/>
+	</FaBao>
+	<FaBao FaBaoID="180003" n_Name="[b249fb]Tử Vân Hồ Lô[-]" EffectName1="Display_L_Object_FB_003" EffectName2="assets_effects_fb_003" EffectNumType="0" IconResID="180003" IconResID1="190003" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Nộ khí toàn quân ta chuyển thành HP" Origin="Hoàn thành n.vụ Linh Phong để nhận" EffectTime="3">
+		<n_Value n_Level="1" Value1="0.5" Value2="10" Value3="2" Value4="0" Value5="0" Des="Toàn thể quân ta chuyển nộ khí thành HP, mỗi điểm nộ khí thành 0.5% HP, hồi đầy HP hoặc hết nộ khí sẽ dừng"/>
+		<n_Value n_Level="2" Value1="0.6" Value2="10" Value3="2" Value4="0" Value5="0" Des="Toàn thể quân ta chuyển nộ khí thành HP, mỗi điểm nộ khí thành 0.6% HP, hồi đầy HP hoặc hết nộ khí sẽ dừng"/>
+		<n_Value n_Level="3" Value1="0.7" Value2="9" Value3="2" Value4="0" Value5="0" Des="Toàn thể quân ta chuyển nộ khí thành HP, mỗi điểm nộ khí thành 0.7% HP, hồi đầy HP hoặc hết nộ khí sẽ dừng"/>
+		<n_Value n_Level="4" Value1="0.8" Value2="9" Value3="2" Value4="0" Value5="0" Des="Toàn thể quân ta chuyển nộ khí thành HP, mỗi điểm nộ khí thành 0.8% HP, hồi đầy HP hoặc hết nộ khí sẽ dừng"/>
+		<n_Value n_Level="5" Value1="0.9" Value2="9" Value3="3" Value4="0" Value5="0" Des="Toàn thể quân ta chuyển nộ khí thành HP, mỗi điểm nộ khí thành 0.9% HP, hồi đầy HP hoặc hết nộ khí sẽ dừng"/>
+		<n_Value n_Level="6" Value1="1" Value2="9" Value3="3" Value4="0" Value5="0" Des="Toàn thể quân ta chuyển nộ khí thành HP, mỗi điểm nộ khí thành 1% HP, hồi đầy HP hoặc hết nộ khí sẽ dừng"/>
+		<n_Value n_Level="7" Value1="1.1" Value2="9" Value3="3" Value4="0" Value5="0" Des="Toàn thể quân ta chuyển nộ khí thành HP, mỗi điểm nộ khí thành 1.2% HP, hồi đầy HP hoặc hết nộ khí sẽ dừng"/>
+		<n_Value n_Level="8" Value1="1.2" Value2="8" Value3="3" Value4="0" Value5="0" Des="Toàn thể quân ta chuyển nộ khí thành HP, mỗi điểm nộ khí thành 1.5% HP, hồi đầy HP hoặc hết nộ khí sẽ dừng"/>
+		<n_Value n_Level="9" Value1="1.3" Value2="8" Value3="3" Value4="0" Value5="0" Des="Toàn thể quân ta chuyển nộ khí thành HP, mỗi điểm nộ khí thành 1.7% HP, hồi đầy HP hoặc hết nộ khí sẽ dừng"/>
+		<n_Value n_Level="10" Value1="1.4" Value2="8" Value3="3" Value4="0" Value5="0" Des="Toàn thể quân ta chuyển nộ khí thành HP, mỗi điểm nộ khí thành 2% HP, hồi đầy HP hoặc hết nộ khí sẽ dừng"/>
+	</FaBao>
+	<FaBao FaBaoID="180018" n_Name="[67D64A]Ẩm Huyết Đao[-]" EffectName1="Display_L_Object_FB_018" EffectName2="assets_effects_fb_018" EffectNumType="0" IconResID="180018" IconResID1="190018" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Khi công địch, tự tăng sát thương để thêm nộ khí" Origin="Vượt Rương 90 sao chương 3 để nhận" EffectTime="3.5">
+		<n_Value n_Level="1" Value1="100" Value2="50" Value3="4" Value4="2" Value5="0" Des="Công địch, đồng thời tạo cho bản thân 100% s.thương và nhận được 50 nộ khí, lượng s.thương quyết định bởi công và thủ"/>
+		<n_Value n_Level="2" Value1="95" Value2="50" Value3="4" Value4="2" Value5="0" Des="Công địch, đồng thời tạo cho bản thân 95% s.thương và nhận được 50 nộ khí, lượng s.thương quyết định bởi công và thủ"/>
+		<n_Value n_Level="3" Value1="90" Value2="50" Value3="4" Value4="2" Value5="0" Des="Công địch, đồng thời tạo cho bản thân 90% s.thương và nhận được 50 nộ khí, lượng s.thương quyết định bởi công và thủ"/>
+		<n_Value n_Level="4" Value1="85" Value2="50" Value3="4" Value4="3" Value5="0" Des="Công địch, đồng thời tạo cho bản thân 85% s.thương và nhận được 50 nộ khí, lượng s.thương quyết định bởi công và thủ"/>
+		<n_Value n_Level="5" Value1="80" Value2="50" Value3="4" Value4="3" Value5="0" Des="Công địch, đồng thời tạo cho bản thân 80% s.thương và nhận được 50 nộ khí, lượng s.thương quyết định bởi công và thủ"/>
+		<n_Value n_Level="6" Value1="75" Value2="50" Value3="4" Value4="3" Value5="0" Des="Công địch, đồng thời tạo cho bản thân 75% s.thương và nhận được 50 nộ khí, lượng s.thương quyết định bởi công và thủ"/>
+		<n_Value n_Level="7" Value1="70" Value2="50" Value3="4" Value4="3" Value5="0" Des="Công địch, đồng thời tạo cho bản thân 70% s.thương và nhận được 50 nộ khí, lượng s.thương quyết định bởi công và thủ"/>
+		<n_Value n_Level="8" Value1="65" Value2="50" Value3="4" Value4="4" Value5="0" Des="Công địch, đồng thời tạo cho bản thân 65% s.thương và nhận được 50 nộ khí, lượng s.thương quyết định bởi công và thủ"/>
+		<n_Value n_Level="9" Value1="60" Value2="50" Value3="4" Value4="4" Value5="0" Des="Công địch, đồng thời tạo cho bản thân 60% s.thương và nhận được 50 nộ khí, lượng s.thương quyết định bởi công và thủ"/>
+		<n_Value n_Level="10" Value1="55" Value2="50" Value3="3" Value4="5" Value5="0" Des="Công địch, đồng thời tạo cho bản thân 55% s.thương và nhận được 50 nộ khí, lượng s.thương quyết định bởi công và thủ"/>
+	</FaBao>
+	<FaBao FaBaoID="180016" n_Name="[67D64A]Vô Niệm Kiếm[-]" EffectName1="Display_L_Object_FB_016" EffectName2="assets_effects_fb_016" EffectNumType="0" IconResID="180016" IconResID1="190016" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Trong hiệp đấu nhất định, hai bên đều không nhận được nộ khí" Origin="Nhận qua Rút thẻ trong Tụ Tiên Đài" EffectTime="4">
+		<n_Value n_Level="1" Value1="2" Value2="20" Value3="2" Value4="0" Value5="0" Des="Địch và ta không nhận thêm nộ khí (Trừ nộ khí tuyệt kỹ mang lại)  trong 2 hiệp"/>
+		<n_Value n_Level="2" Value1="2" Value2="19" Value3="2" Value4="0" Value5="0" Des="Địch và ta không nhận thêm nộ khí (Trừ nộ khí tuyệt kỹ mang lại)  trong 2 hiệp"/>
+		<n_Value n_Level="3" Value1="3" Value2="19" Value3="2" Value4="0" Value5="0" Des="Địch và ta không nhận thêm nộ khí (Trừ nộ khí tuyệt kỹ mang lại)  trong 3 hiệp"/>
+		<n_Value n_Level="4" Value1="3" Value2="18" Value3="2" Value4="0" Value5="0" Des="Địch và ta không nhận thêm nộ khí (Trừ nộ khí tuyệt kỹ mang lại)  trong 3 hiệp"/>
+		<n_Value n_Level="5" Value1="3" Value2="17" Value3="2" Value4="0" Value5="0" Des="Địch và ta không nhận thêm nộ khí (Trừ nộ khí tuyệt kỹ mang lại)  trong 3 hiệp"/>
+		<n_Value n_Level="6" Value1="3" Value2="16" Value3="2" Value4="0" Value5="0" Des="Địch và ta không nhận thêm nộ khí (Trừ nộ khí tuyệt kỹ mang lại)  trong 3 hiệp"/>
+		<n_Value n_Level="7" Value1="4" Value2="15" Value3="2" Value4="0" Value5="0" Des="Địch và ta không nhận thêm nộ khí (Trừ nộ khí tuyệt kỹ mang lại)  trong 4 hiệp"/>
+		<n_Value n_Level="8" Value1="4" Value2="14" Value3="2" Value4="0" Value5="0" Des="Địch và ta không nhận thêm nộ khí (Trừ nộ khí tuyệt kỹ mang lại)  trong 4 hiệp"/>
+		<n_Value n_Level="9" Value1="4" Value2="12" Value3="3" Value4="0" Value5="0" Des="Địch và ta không nhận thêm nộ khí (Trừ nộ khí tuyệt kỹ mang lại)  trong 4 hiệp"/>
+		<n_Value n_Level="10" Value1="5" Value2="10" Value3="3" Value4="0" Value5="0" Des="Địch và ta không nhận thêm nộ khí (Trừ nộ khí tuyệt kỹ mang lại)  trong 5 hiệp"/>
+	</FaBao>
+	<FaBao FaBaoID="180019" n_Name="[b249fb]Hạnh Hoàng Kì[-]" EffectName1="Display_L_Object_FB_019" EffectName2="assets_effects_fb_019" EffectNumType="0" IconResID="180019" IconResID1="190019" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Đóng băng lá chắn của quân ta để không bị s.thương" Origin="Vượt Rương 90 sao chương 6 để nhận" EffectTime="6">
+		<n_Value n_Level="1" Value1="0" Value2="2" Value3="0" Value4="10" Value5="2" Des="Lá chắn quân ta không thể công, di chuyển, không nhận  s.thương trong 2 hiệp"/>
+		<n_Value n_Level="2" Value1="0" Value2="3" Value3="0" Value4="10" Value5="2" Des="Lá chắn quân ta không thể công, di chuyển, không nhận  s.thương trong 3 hiệp"/>
+		<n_Value n_Level="3" Value1="5" Value2="3" Value3="0" Value4="10" Value5="2" Des="Lá chắn quân ta không thể công, di chuyển, không nhận s.thương, hồi chậm lượng ít HP trong 3 hiệp"/>
+		<n_Value n_Level="4" Value1="10" Value2="3" Value3="0" Value4="10" Value5="2" Des="Lá chắn quân ta không thể công, di chuyển, không nhận s.thương, hồi chậm lượng ít HP trong 3 hiệp"/>
+		<n_Value n_Level="5" Value1="10" Value2="3" Value3="0" Value4="9" Value5="3" Des="Lá chắn quân ta không thể công, di chuyển, không nhận s.thương, hồi chậm lượng ít HP trong 3 hiệp"/>
+		<n_Value n_Level="6" Value1="10" Value2="3" Value3="0" Value4="8" Value5="3" Des="Lá chắn quân ta không thể công, di chuyển, không nhận s.thương, hồi chậm lượng ít HP trong 3 hiệp"/>
+		<n_Value n_Level="7" Value1="10" Value2="4" Value3="0" Value4="8" Value5="3" Des="Lá chắn quân ta không thể công, di chuyển, không nhận s.thương, hồi chậm lượng ít HP trong 4 hiệp"/>
+		<n_Value n_Level="8" Value1="20" Value2="4" Value3="0" Value4="8" Value5="3" Des="Lá chắn quân ta không thể công, di chuyển, không nhận s.thương, hồi chậm lượng vừa HP trong 4 hiệp"/>
+		<n_Value n_Level="9" Value1="20" Value2="5" Value3="0" Value4="8" Value5="3" Des="Lá chắn quân ta không thể công, di chuyển, không nhận s.thương, hồi chậm lượng vừa HP trong 5 hiệp"/>
+		<n_Value n_Level="10" Value1="20" Value2="5" Value3="200" Value4="8" Value5="4" Des="Lá chắn quân ta không thể công, di chuyển, không nhận s.thương, hồi chậm lượng vừa HP trong 5 hiệp, kết thúc nhận đầy nộ khí"/>
+	</FaBao>
+	<FaBao FaBaoID="180013" n_Name="[ffa800]Rìu Bàn Cổ[-]" EffectName1="Display_L_Object_FB_013" EffectName2="assets_effects_fb_013" EffectNumType="0" IconResID="180013" IconResID1="190013" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Xóa thủ lính hàng trước quân ta, tấn công hủy diệt hàng trước địch" Origin="Thám hiểm để nhận" EffectTime="4">
+		<n_Value n_Level="1" Value1="1" Value2="2" Value3="8" Value4="1" Value5="0" Des="Tấn công 1 lần, gây cho địch 1 s.thương thủ, nếu địch vô địch thì sẽ diệt ngay, hàng trước quân ta mất hết thủ và choáng 2 hiệp"/>
+		<n_Value n_Level="2" Value1="1.1" Value2="2" Value3="8" Value4="2" Value5="0" Des="Tấn công 1 lần, gây cho địch 1,1 s.thương thủ, nếu địch vô địch thì sẽ diệt ngay, hàng trước quân ta mất hết thủ và choáng 2 hiệp"/>
+		<n_Value n_Level="3" Value1="1.2" Value2="2" Value3="7" Value4="2" Value5="0" Des="Tấn công 1 lần, gây cho địch 1,2 s.thương thủ, nếu địch vô địch thì sẽ diệt ngay, hàng trước quân ta mất hết thủ và choáng 2 hiệp"/>
+		<n_Value n_Level="4" Value1="1.3" Value2="2" Value3="7" Value4="2" Value5="0" Des="Tấn công 1 lần, gây cho địch 1,3 s.thương thủ, nếu địch vô địch thì sẽ diệt ngay, hàng trước quân ta mất hết thủ và choáng 2 hiệp"/>
+		<n_Value n_Level="5" Value1="1.4" Value2="2" Value3="6" Value4="2" Value5="0" Des="Tấn công 1 lần, gây cho địch 1,4 s.thương thủ, nếu địch vô địch thì sẽ diệt ngay, hàng trước quân ta mất hết thủ và choáng 2 hiệp"/>
+		<n_Value n_Level="6" Value1="1.5" Value2="2" Value3="6" Value4="2" Value5="0" Des="Tấn công 1 lần, gây cho địch 1,5 s.thương thủ, nếu địch vô địch thì sẽ diệt ngay, hàng trước quân ta mất hết thủ và choáng 2 hiệp"/>
+		<n_Value n_Level="7" Value1="1.7" Value2="2" Value3="5" Value4="2" Value5="0" Des="Tấn công 1 lần, gây cho địch 1,7 s.thương thủ, nếu địch vô địch thì sẽ diệt ngay, hàng trước quân ta mất hết thủ và choáng 2 hiệp"/>
+		<n_Value n_Level="8" Value1="1.9" Value2="2" Value3="5" Value4="2" Value5="0" Des="Tấn công 1 lần, gây cho địch 1,9 s.thương thủ, nếu địch vô địch thì sẽ diệt ngay, hàng trước quân ta mất hết thủ và choáng 2 hiệp"/>
+		<n_Value n_Level="9" Value1="2.2" Value2="2" Value3="4" Value4="3" Value5="0" Des="Tấn công 1 lần, gây cho địch 2,2 s.thương thủ, nếu địch vô địch thì sẽ diệt ngay, hàng trước quân ta mất hết thủ và choáng 2 hiệp"/>
+		<n_Value n_Level="10" Value1="2.5" Value2="2" Value3="3" Value4="3" Value5="0" Des="Tấn công 1 lần, gây cho địch 2,5 s.thương thủ, nếu địch vô địch thì sẽ diệt ngay, hàng trước quân ta mất hết thủ và choáng 2 hiệp"/>
+	</FaBao>
+	<FaBao FaBaoID="180020" n_Name="[10DAFF]Kì Kim Đỉnh[-]" EffectName1="Display_L_Object_FB_020" EffectName2="assets_effects_fb_020" EffectNumType="0" IconResID="180020" IconResID1="190020" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Phóng thích Chúc Phúc và Độc Chú cho toàn chiến trường" Origin="Vượt Rương 90 sao chương 4 để nhận" EffectTime="4">
+		<n_Value n_Level="1" Value1="2" Value2="50" Value3="50" Value4="10" Value5="2" Des="Phát Chúc Phúc và Độc Chú cho mọi người trong 2 hiệp"/>
+		<n_Value n_Level="2" Value1="2" Value2="50" Value3="55" Value4="10" Value5="2" Des="Phát Chúc Phúc và Độc Chú cho mọi người trong 2 hiệp, quân ta có thêm 5% xác suất nhận chúc phúc"/>
+		<n_Value n_Level="3" Value1="2" Value2="50" Value3="60" Value4="9" Value5="2" Des="Phát Chúc Phúc và Độc Chú cho mọi người trong 2 hiệp, quân ta có thêm 10% xác suất nhận chúc phúc"/>
+		<n_Value n_Level="4" Value1="2" Value2="50" Value3="65" Value4="9" Value5="2" Des="Phát Chúc Phúc và Độc Chú cho mọi người trong 2 hiệp, quân ta có thêm 15% xác suất nhận chúc phúc"/>
+		<n_Value n_Level="5" Value1="2" Value2="50" Value3="70" Value4="9" Value5="2" Des="Phát Chúc Phúc và Độc Chú cho mọi người trong 2 hiệp, quân ta có thêm 20% xác suất nhận chúc phúc"/>
+		<n_Value n_Level="6" Value1="2" Value2="50" Value3="75" Value4="8" Value5="2" Des="Phát Chúc Phúc và Độc Chú cho mọi người trong 2 hiệp, quân ta có thêm 25% xác suất nhận chúc phúc"/>
+		<n_Value n_Level="7" Value1="2" Value2="50" Value3="80" Value4="8" Value5="3" Des="Phát Chúc Phúc và Độc Chú cho mọi người trong 2 hiệp, quân ta có thêm 30% xác suất nhận chúc phúc"/>
+		<n_Value n_Level="8" Value1="2" Value2="50" Value3="85" Value4="8" Value5="3" Des="Phát Chúc Phúc và Độc Chú cho mọi người trong 2 hiệp, quân ta có thêm 35% xác suất nhận chúc phúc"/>
+		<n_Value n_Level="9" Value1="2" Value2="50" Value3="90" Value4="8" Value5="3" Des="Phát Chúc Phúc và Độc Chú cho mọi người trong 2 hiệp, quân ta có thêm 40% xác suất nhận chúc phúc"/>
+		<n_Value n_Level="10" Value1="2" Value2="50" Value3="95" Value4="8" Value5="3" Des="Phát Chúc Phúc và Độc Chú cho mọi người trong 2 hiệp, quân ta có thêm 45% xác suất nhận chúc phúc"/>
+	</FaBao>
+	<FaBao FaBaoID="180021" n_Name="[b249fb]Ngũ Uẩn Thạch[-]" EffectName1="Display_L_Object_FB_021" EffectName2="assets_effects_fb_021" EffectNumType="0" IconResID="180021" IconResID1="190021" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Tăng EXP Pháp Bảo nhận được" Origin="Nhận tại Thương nhân bí ẩn, Tụ Tiên Đài" EffectTime="4">
+		<n_Value n_Level="1" Value1="1" Value2="0" Value3="0" Value4="0" Value5="0" Des="Mỗi lần nhận EXP Pháp Bảo sẽ nhận thêm 1 EXP"/>
+		<n_Value n_Level="2" Value1="2" Value2="0" Value3="0" Value4="0" Value5="0" Des="Mỗi lần nhận EXP Pháp Bảo sẽ nhận thêm 2 EXP"/>
+		<n_Value n_Level="3" Value1="3" Value2="0" Value3="0" Value4="0" Value5="0" Des="Mỗi lần nhận EXP Pháp Bảo sẽ nhận thêm 3 EXP"/>
+		<n_Value n_Level="4" Value1="4" Value2="0" Value3="0" Value4="0" Value5="0" Des="Mỗi lần nhận EXP Pháp Bảo sẽ nhận thêm 4 EXP"/>
+		<n_Value n_Level="5" Value1="5" Value2="0" Value3="0" Value4="0" Value5="0" Des="Mỗi lần nhận EXP Pháp Bảo sẽ nhận thêm 5 EXP"/>
+		<n_Value n_Level="6" Value1="6" Value2="0" Value3="0" Value4="0" Value5="0" Des="Mỗi lần nhận EXP Pháp Bảo sẽ nhận thêm 6 EXP"/>
+		<n_Value n_Level="7" Value1="7" Value2="0" Value3="0" Value4="0" Value5="0" Des="Mỗi lần nhận EXP Pháp Bảo sẽ nhận thêm 7 EXP"/>
+		<n_Value n_Level="8" Value1="8" Value2="0" Value3="0" Value4="0" Value5="0" Des="Mỗi lần nhận EXP Pháp Bảo sẽ nhận thêm 8 EXP"/>
+		<n_Value n_Level="9" Value1="9" Value2="0" Value3="0" Value4="0" Value5="0" Des="Mỗi lần nhận EXP Pháp Bảo sẽ nhận thêm 9 EXP"/>
+		<n_Value n_Level="10" Value1="10" Value2="50" Value3="0" Value4="0" Value5="0" Des="Mỗi lần nhận EXP Pháp Bảo sẽ nhận thêm 10 EXP, có xác suất nhận x2 EXP"/>
+	</FaBao>
+	<FaBao FaBaoID="180006" n_Name="[b249fb]Chuyển Mệnh Châu[-]" EffectName1="Display_L_Object_FB_006" EffectName2="assets_effects_fb_006" EffectNumType="0" IconResID="180006" IconResID1="190006" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Chia đều HP, hiệu quả Chúc Phúc, Độc Chú cho quân ta" Origin="Nhận tại shop Bang" EffectTime="4">
+		<n_Value n_Level="1" Value1="0" Value2="0" Value3="10" Value4="2" Value5="0" Des="Hút HP của toàn thể quân ta rồi chia đều.  Đồng thời truyền Độc Chú toàn quân ta."/>
+		<n_Value n_Level="2" Value1="0" Value2="1" Value3="10" Value4="2" Value5="0" Des="Hút HP của toàn thể quân ta rồi chia đều.  Đồng thời truyền Độc Chú toàn quân ta, truyễn ngẫu nhiên 1 Chúc Phúc."/>
+		<n_Value n_Level="3" Value1="0" Value2="1" Value3="9" Value4="2" Value5="0" Des="Hút HP của toàn thể quân ta rồi chia đều.  Đồng thời truyền Độc Chú toàn quân ta, truyễn ngẫu nhiên 1 Chúc Phúc."/>
+		<n_Value n_Level="4" Value1="1" Value2="1" Value3="9" Value4="2" Value5="0" Des="Hút HP của toàn thể quân ta rồi chia đều. Nếu quân ta có Độc Chú thì sẽ xóa ngẫu nhiên 1 cái và truyền Độc Chú còn lại cho người khác. Nếu có Buff, sẽ lấy 1 Buff ngẫu nhiên chia cho mọi người"/>
+		<n_Value n_Level="5" Value1="1" Value2="1" Value3="9" Value4="2" Value5="0" Des="Hút HP của toàn thể quân ta rồi chia đều. Nếu quân ta có Độc Chú thì sẽ xóa ngẫu nhiên 1 cái và truyền Độc Chú còn lại cho người khác. Nếu có Buff, sẽ lấy 1 Buff ngẫu nhiên chia cho mọi người"/>
+		<n_Value n_Level="6" Value1="2" Value2="1" Value3="8" Value4="2" Value5="0" Des="Hút HP của toàn thể quân ta rồi chia đều. Nếu quân ta có Độc Chú thì sẽ xóa ngẫu nhiên 2 cái và truyền Độc Chú còn lại cho người khác. Nếu có Buff, sẽ lấy 1 Buff ngẫu nhiên chia cho mọi người"/>
+		<n_Value n_Level="7" Value1="2" Value2="1" Value3="8" Value4="3" Value5="0" Des="Hút HP của toàn thể quân ta rồi chia đều. Nếu quân ta có Độc Chú thì sẽ xóa ngẫu nhiên 2 cái và truyền Độc Chú còn lại cho người khác. Nếu có Buff, sẽ lấy 1 Buff ngẫu nhiên chia cho mọi người"/>
+		<n_Value n_Level="8" Value1="2" Value2="2" Value3="8" Value4="3" Value5="0" Des="Hút HP của toàn thể quân ta rồi chia đều. Nếu quân ta có Độc Chú thì sẽ xóa ngẫu nhiên 2 cái và truyền Độc Chú còn lại cho người khác.  Nếu có Buff, sẽ lấy 2 Buff ngẫu nhiên chia cho mọi người"/>
+		<n_Value n_Level="9" Value1="2" Value2="2" Value3="8" Value4="3" Value5="0" Des="Hút HP của toàn thể quân ta rồi chia đều. Nếu quân ta có Độc Chú thì sẽ xóa ngẫu nhiên 2 cái và truyền Độc Chú còn lại cho người khác.  Nếu có Buff, sẽ lấy 2 Buff ngẫu nhiên chia cho mọi người"/>
+		<n_Value n_Level="10" Value1="2" Value2="99" Value3="8" Value4="3" Value5="0" Des="Hút HP của toàn thể quân ta rồi chia đều. Nếu quân ta có Độc Chú thì sẽ xóa ngẫu nhiên 2 cái và truyền Độc Chú còn lại cho người khác.  Nếu có Buff, sẽ chia cho mọi người"/>
+	</FaBao>
+	<FaBao FaBaoID="180011" n_Name="[b249fb]Vòng Càn Khôn[-]" EffectName1="Display_L_Object_FB_011" EffectName2="assets_effects_fb_011" EffectNumType="0" IconResID="180011" IconResID1="190011" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Gây thiệt hại cho địch, quân ta trong hiệp đặc biệt dừng nhận nộ khí" Origin="Nhận tại Thương nhân bí ẩn, Tụ Tiên Đài" EffectTime="4">
+		<n_Value n_Level="1" Value1="160" Value2="10" Value3="100" Value4="8" Value5="2" Des="Toàn thể địch chịu 100 s.thương và có 10% xác suất bị choáng 2 hiệp. Toàn thể địch tiêu hao 100 nộ khí"/>
+		<n_Value n_Level="2" Value1="250" Value2="15" Value3="100" Value4="8" Value5="2" Des="Toàn thể địch chịu 150 s.thương và có 15% xác suất bị choáng 2 hiệp. Toàn thể địch tiêu hao 100 nộ khí"/>
+		<n_Value n_Level="3" Value1="410" Value2="17.5" Value3="100" Value4="7" Value5="2" Des="Toàn thể địch chịu 250 s.thương và có 17.5% xác suất bị choáng 2 hiệp. Toàn thể địch tiêu hao 100 nộ khí"/>
+		<n_Value n_Level="4" Value1="580" Value2="20" Value3="100" Value4="7" Value5="2" Des="Toàn thể địch chịu 350 s.thương và có 20% xác suất bị choáng 2 hiệp. Toàn thể địch tiêu hao 100 nộ khí"/>
+		<n_Value n_Level="5" Value1="700" Value2="22" Value3="100" Value4="6" Value5="2" Des="Toàn thể địch chịu 425 s.thương và có 22% xác suất bị choáng 2 hiệp. Toàn thể địch tiêu hao 100 nộ khí"/>
+		<n_Value n_Level="6" Value1="850" Value2="24" Value3="50" Value4="6" Value5="2" Des="Toàn thể địch chịu 510 s.thương và có 24% xác suất bị choáng 2 hiệp. Toàn thể địch tiêu hao 50 nộ khí"/>
+		<n_Value n_Level="7" Value1="1000" Value2="26" Value3="50" Value4="5" Value5="2" Des="Toàn thể địch chịu 600 s.thương và có 26% xác suất bị choáng 2 hiệp. Toàn thể địch tiêu hao 50 nộ khí"/>
+		<n_Value n_Level="8" Value1="1100" Value2="27.5" Value3="50" Value4="5" Value5="2" Des="Toàn thể địch chịu 650 s.thương và có 27.5% xác suất bị choáng 2 hiệp. Toàn thể địch tiêu hao 50 nộ khí"/>
+		<n_Value n_Level="9" Value1="1200" Value2="28.5" Value3="50" Value4="4" Value5="3" Des="Toàn thể địch chịu 700 s.thương và có 28.5% xác suất bị choáng 2 hiệp. Toàn thể địch tiêu hao 50 nộ khí"/>
+		<n_Value n_Level="10" Value1="1400" Value2="30" Value3="50" Value4="3" Value5="3" Des="Toàn thể địch chịu 850 s.thương và có 30% xác suất bị choáng 2 hiệp. Toàn thể địch tiêu hao 50 nộ khí"/>
+	</FaBao>
+	<FaBao FaBaoID="180022" n_Name="[ffa800]Phong Hỏa Luân[-]" EffectName1="Display_L_Object_FB_022" EffectName2="assets_effects_fb_022" EffectNumType="0" IconResID="180022" IconResID1="190022" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Giảm CD Pháp Bảo" Origin="Thám hiểm để nhận" EffectTime="4">
+		<n_Value n_Level="1" Value1="1" Value2="0" Value3="0" Value4="0" Value5="0" Des="CD toàn bộ Pháp Bảo giảm 1 hiệp"/>
+		<n_Value n_Level="2" Value1="1" Value2="8" Value3="1" Value4="0" Value5="0" Des="CD toàn bộ Pháp Bảo giảm 1 hiệp, CD Pháp Bảo lớn hơn 8 sẽ giảm thêm 1 hiệp"/>
+		<n_Value n_Level="3" Value1="1" Value2="7" Value3="1" Value4="0" Value5="0" Des="CD toàn bộ Pháp Bảo giảm 1 hiệp, CD Pháp Bảo lớn hơn 7 sẽ giảm thêm 1 hiệp"/>
+		<n_Value n_Level="4" Value1="1" Value2="7" Value3="1" Value4="0" Value5="0" Des="CD toàn bộ Pháp Bảo giảm 1 hiệp, CD Pháp Bảo lớn hơn 7 sẽ giảm thêm 1 hiệp"/>
+		<n_Value n_Level="5" Value1="1" Value2="6" Value3="1" Value4="0" Value5="0" Des="CD toàn bộ Pháp Bảo giảm 1 hiệp, CD Pháp Bảo lớn hơn 6 sẽ giảm thêm 1 hiệp"/>
+		<n_Value n_Level="6" Value1="1" Value2="6" Value3="1" Value4="0" Value5="0" Des="CD toàn bộ Pháp Bảo giảm 1 hiệp, CD Pháp Bảo lớn hơn 6 sẽ giảm thêm 1 hiệp"/>
+		<n_Value n_Level="7" Value1="1" Value2="5" Value3="1" Value4="0" Value5="0" Des="CD toàn bộ Pháp Bảo giảm 1 hiệp, CD Pháp Bảo lớn hơn 5 sẽ giảm thêm 1 hiệp"/>
+		<n_Value n_Level="8" Value1="1" Value2="5" Value3="1" Value4="1" Value5="0" Des="CD toàn bộ Pháp Bảo giảm 1 hiệp, CD Pháp Bảo lớn hơn 5 sẽ giảm thêm 1 hiệp, số hiệp CD tổng giảm 1"/>
+		<n_Value n_Level="9" Value1="1" Value2="5" Value3="2" Value4="1" Value5="0" Des="CD toàn bộ Pháp Bảo giảm 1 hiệp, CD Pháp Bảo lớn hơn 5 sẽ giảm thêm 2 hiệp, số hiệp CD tổng giảm 1"/>
+		<n_Value n_Level="10" Value1="2" Value2="5" Value3="2" Value4="1" Value5="0" Des="CD toàn bộ Pháp Bảo giảm 2 hiệp, CD Pháp Bảo lớn hơn 5 sẽ giảm thêm 2 hiệp, số hiệp CD tổng giảm 1"/>
+	</FaBao>
+	<FaBao FaBaoID="180004" n_Name="[ffa800]Đông Hoàng Chung[-]" EffectName1="Display_L_Object_FB_004" EffectName2="assets_effects_fb_004" EffectNumType="0" IconResID="180004" IconResID1="190004" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Tất cả lá chắn phụ chịu 1 điểm s.thương, nhưng giảm tiêu hao nộ khí" Origin="Thám hiểm để nhận" EffectTime="3.5">
+		<n_Value n_Level="1" Value1="2" Value2="50" Value3="10" Value4="2" Value5="0" Des="Tất cả lá chắn phụ của ta trong 2 hiệp giảm tiêu hao nộ khí khi dùng tuyệt kỹ 50 50 điểm, nhưng công thường chỉ gây 1 s.thương."/>
+		<n_Value n_Level="2" Value1="3" Value2="50" Value3="10" Value4="2" Value5="0" Des="Tất cả lá chắn phụ của ta trong 3 hiệp giảm tiêu hao nộ khí khi dùng tuyệt kỹ 50 điểm, nhưng công thường chỉ gây 1 s.thương."/>
+		<n_Value n_Level="3" Value1="3" Value2="75" Value3="9" Value4="2" Value5="0" Des="Tất cả lá chắn phụ của ta trong 3 hiệp giảm tiêu hao nộ khí khi dùng tuyệt kỹ 75 điểm, nhưng công thường chỉ gây 1 s.thương."/>
+		<n_Value n_Level="4" Value1="2" Value2="100" Value3="9" Value4="2" Value5="0" Des="Tất cả lá chắn phụ của ta trong 2 hiệp giảm tiêu hao nộ khí khi dùng tuyệt kỹ 100 điểm, nhưng công thường chỉ gây 1 s.thương."/>
+		<n_Value n_Level="5" Value1="3" Value2="100" Value3="9" Value4="2" Value5="0" Des="Tất cả lá chắn phụ của ta trong 3 hiệp giảm tiêu hao nộ khí khi dùng tuyệt kỹ 100 điểm, nhưng công thường chỉ gây 1 s.thương."/>
+		<n_Value n_Level="6" Value1="4" Value2="100" Value3="8" Value4="2" Value5="0" Des="Tất cả lá chắn phụ của ta trong 4 hiệp giảm tiêu hao nộ khí khi dùng tuyệt kỹ 100 điểm, nhưng công thường chỉ gây 1 s.thương."/>
+		<n_Value n_Level="7" Value1="3" Value2="125" Value3="8" Value4="3" Value5="0" Des="Tất cả lá chắn phụ của ta trong 3 hiệp giảm tiêu hao nộ khí khi dùng tuyệt kỹ 125 điểm, nhưng công thường chỉ gây 1 s.thương."/>
+		<n_Value n_Level="8" Value1="4" Value2="125" Value3="8" Value4="3" Value5="0" Des="Tất cả lá chắn phụ của ta trong 4 hiệp giảm tiêu hao nộ khí khi dùng tuyệt kỹ 125 điểm, nhưng công thường chỉ gây 1 s.thương."/>
+		<n_Value n_Level="9" Value1="3" Value2="150" Value3="8" Value4="3" Value5="0" Des="Tất cả lá chắn phụ của ta trong 3 hiệp giảm tiêu hao nộ khí khi dùng tuyệt kỹ 150 điểm, nhưng công thường chỉ gây 1 s.thương."/>
+		<n_Value n_Level="10" Value1="4" Value2="150" Value3="8" Value4="3" Value5="0" Des="Tất cả lá chắn phụ của ta trong 4 hiệp giảm tiêu hao nộ khí khi dùng tuyệt kỹ 150 điểm, nhưng công thường chỉ gây 1 s.thương."/>
+	</FaBao>
+	<FaBao FaBaoID="180002" n_Name="[b249fb]Cửu Đinh Bá[-]" EffectName1="Display_L_Object_FB_002" EffectName2="assets_effects_fb_002" EffectNumType="0" IconResID="180002" IconResID1="190002" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Ra đòn với hàng cuối địch, đồng thời tăng bạo cho đơn vị bị thương" Origin="Nhận tại shop Bang" EffectTime="2">
+		<n_Value n_Level="1" Value1="160" Value2="4" Value3="2" Value4="8" Value5="2" Des="Tấn công địch hàng sau 1 lần, gây 100 s.thương, tăng bạo nhiều đối với đơn vị bị thương trong 2 hiệp."/>
+		<n_Value n_Level="2" Value1="250" Value2="3.5" Value3="2" Value4="8" Value5="2" Des="Tấn công địch hàng sau 1 lần, gây 150 s.thương, tăng bạo khá nhiều đối với đơn vị bị thương trong 2 hiệp."/>
+		<n_Value n_Level="3" Value1="410" Value2="3" Value3="2" Value4="7" Value5="2" Des="Tấn công địch hàng sau 1 lần, gây 250 s.thương, tăng bạo khá nhiều đối với đơn vị bị thương trong 2 hiệp."/>
+		<n_Value n_Level="4" Value1="580" Value2="2.5" Value3="2" Value4="7" Value5="2" Des="Tấn công địch hàng sau 1 lần, gây 350 s.thương, tăng bạo vừa đối với đơn vị bị thương trong 2 hiệp."/>
+		<n_Value n_Level="5" Value1="700" Value2="2" Value3="2" Value4="6" Value5="2" Des="Tấn công địch hàng sau 1 lần, gây 425 s.thương, tăng bạo vừa đối với đơn vị bị thương trong 2 hiệp."/>
+		<n_Value n_Level="6" Value1="850" Value2="1.5" Value3="2" Value4="6" Value5="2" Des="Tấn công địch hàng sau 1 lần, gây 510 s.thương, tăng bạo vừa đối với đơn vị bị thương trong 2 hiệp."/>
+		<n_Value n_Level="7" Value1="1000" Value2="1" Value3="2" Value4="5" Value5="2" Des="Tấn công địch hàng sau 1 lần, gây 600 s.thương, tăng bạo vừa đối với đơn vị bị thương trong 2 hiệp."/>
+		<n_Value n_Level="8" Value1="1100" Value2="0.75" Value3="2" Value4="5" Value5="2" Des="Tấn công địch hàng sau 1 lần, gây 650 s.thương, tăng bạo ít đối với đơn vị bị thương trong 2 hiệp."/>
+		<n_Value n_Level="9" Value1="1200" Value2="0.5" Value3="2" Value4="4" Value5="3" Des="Tấn công địch hàng sau 1 lần, gây 700 s.thương, tăng bạo ít đối với đơn vị bị thương trong 2 hiệp."/>
+		<n_Value n_Level="10" Value1="1400" Value2="0.5" Value3="3" Value4="3" Value5="3" Des="Tấn công địch hàng sau 1 lần, gây 850 s.thương và choáng 1 hiệp, tăng bạo ít đối với đơn vị bị thương trong 3 hiệp."/>
+	</FaBao>
+	<FaBao FaBaoID="180009" n_Name="[b249fb]Thiên Ma Đăng[-]" EffectName1="Display_L_Object_FB_009" EffectName2="assets_effects_fb_009" EffectNumType="0" IconResID="180009" IconResID1="190009" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Toàn thể quân ta nhận lượng lớn nộ khí, hiệp đặc biệt tiếp theo sẽ giảm nộ khí nhận được" Origin="Nhận tại Thương nhân bí ẩn, Tụ Tiên Đài" EffectTime="3">
+		<n_Value n_Level="1" Value1="100" Value2="3" Value3="50" Value4="10" Value5="2" Des="Toàn thể quân ta nhận 100 nộ khí, tiếp theo 3 hiệp, mỗi hiệp hành động sẽ giảm 50 nộ khí."/>
+		<n_Value n_Level="2" Value1="100" Value2="3" Value3="40" Value4="10" Value5="2" Des="Toàn thể quân ta nhận 100 nộ khí, tiếp theo 3 hiệp, mỗi hiệp hành động sẽ giảm 40 nộ khí."/>
+		<n_Value n_Level="3" Value1="100" Value2="3" Value3="30" Value4="9" Value5="2" Des="Toàn thể quân ta nhận 100 nộ khí, tiếp theo 3 hiệp, mỗi hiệp hành động sẽ giảm 30 nộ khí."/>
+		<n_Value n_Level="4" Value1="100" Value2="3" Value3="25" Value4="9" Value5="2" Des="Toàn thể quân ta nhận 100 nộ khí, tiếp theo 3 hiệp, mỗi hiệp hành động sẽ giảm 25 nộ khí."/>
+		<n_Value n_Level="5" Value1="150" Value2="3" Value3="50" Value4="9" Value5="2" Des="Toàn thể quân ta nhận 150 nộ khí, tiếp theo 3 hiệp, mỗi hiệp hành động sẽ giảm 50 nộ khí."/>
+		<n_Value n_Level="6" Value1="150" Value2="3" Value3="40" Value4="8" Value5="2" Des="Toàn thể quân ta nhận 150 nộ khí, tiếp theo 3 hiệp, mỗi hiệp hành động sẽ giảm 40 nộ khí."/>
+		<n_Value n_Level="7" Value1="150" Value2="3" Value3="30" Value4="8" Value5="3" Des="Toàn thể quân ta nhận 150 nộ khí, tiếp theo 3 hiệp, mỗi hiệp hành động sẽ giảm 30 nộ khí."/>
+		<n_Value n_Level="8" Value1="150" Value2="3" Value3="25" Value4="8" Value5="3" Des="Toàn thể quân ta nhận 150 nộ khí, tiếp theo 3 hiệp, mỗi hiệp hành động sẽ giảm 25 nộ khí."/>
+		<n_Value n_Level="9" Value1="150" Value2="2" Value3="25" Value4="8" Value5="3" Des="Toàn thể quân ta nhận 150 nộ khí, tiếp theo 2 hiệp, mỗi hiệp hành động sẽ giảm 25 nộ khí."/>
+		<n_Value n_Level="10" Value1="200" Value2="2" Value3="25" Value4="8" Value5="3" Des="Toàn thể quân ta nhận 200 nộ khí, tiếp theo 2 hiệp, mỗi hiệp hành động sẽ giảm 25 nộ khí."/>
+	</FaBao>
+	<FaBao FaBaoID="180017" n_Name="[10DAFF]Thần Nông Thảo[-]" EffectName1="Display_L_Object_FB_017" EffectName2="assets_effects_fb_017" EffectNumType="0" IconResID="180017" IconResID1="190017" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Toàn thể quân ta nhận lượng lớn HP, giảm thủ, hết hiệu quả sẽ giảm thêm HP" Origin="Thám hiểm để nhận" EffectTime="3">
+		<n_Value n_Level="1" Value1="50" Value2="2" Value3="25" Value4="10" Value5="2" Des="Giúp toàn thể quân ta nhận được 50% lượng HP tối đa trong 2 hiệp. Trong thời gian này, s.thương nhận được tăng 25%. Hết hiệu lực, lượng HP này sẽ bị xóa."/>
+		<n_Value n_Level="2" Value1="60" Value2="2" Value3="25" Value4="10" Value5="2" Des="Giúp toàn thể quân ta nhận được 60% lượng HP tối đa trong 2 hiệp. Trong thời gian này, s.thương nhận được tăng 25%. Hết hiệu lực, lượng HP này sẽ bị xóa."/>
+		<n_Value n_Level="3" Value1="75" Value2="2" Value3="25" Value4="9" Value5="2" Des="Giúp toàn thể quân ta nhận được 75% lượng HP tối đa trong 2 hiệp. Trong thời gian này, s.thương nhận được tăng 25%. Hết hiệu lực, lượng HP này sẽ bị xóa."/>
+		<n_Value n_Level="4" Value1="75" Value2="2" Value3="25" Value4="9" Value5="2" Des="Giúp toàn thể quân ta nhận được 75% lượng HP tối đa trong 3 hiệp. Trong thời gian này, s.thương nhận được tăng 25%. Hết hiệu lực, lượng HP này sẽ bị xóa."/>
+		<n_Value n_Level="5" Value1="100" Value2="3" Value3="25" Value4="9" Value5="2" Des="Giúp toàn thể quân ta nhận được 100% lượng HP tối đa trong 3 hiệp. Trong thời gian này, s.thương nhận được tăng 25%. Hết hiệu lực, lượng HP này sẽ bị xóa."/>
+		<n_Value n_Level="6" Value1="100" Value2="3" Value3="22.5" Value4="8" Value5="2" Des="Giúp toàn thể quân ta nhận được 100% lượng HP tối đa trong 3 hiệp. Trong thời gian này, s.thương nhận được tăng 22.5%. Hết hiệu lực, lượng HP này sẽ bị xóa."/>
+		<n_Value n_Level="7" Value1="100" Value2="3" Value3="20" Value4="8" Value5="3" Des="Giúp toàn thể quân ta nhận được 100% lượng HP tối đa trong 3 hiệp. Trong thời gian này, s.thương nhận được tăng 20%. Hết hiệu lực, lượng HP này sẽ bị xóa."/>
+		<n_Value n_Level="8" Value1="100" Value2="4" Value3="20" Value4="8" Value5="3" Des="Giúp toàn thể quân ta nhận được 100% lượng HP tối đa trong 4 hiệp. Trong thời gian này, s.thương nhận được tăng 20%. Hết hiệu lực, lượng HP này sẽ bị xóa."/>
+		<n_Value n_Level="9" Value1="100" Value2="4" Value3="15" Value4="8" Value5="3" Des="Giúp toàn thể quân ta nhận được 100% lượng HP tối đa trong 4 hiệp. Trong thời gian này, s.thương nhận được tăng 15%. Hết hiệu lực, lượng HP này sẽ bị xóa."/>
+		<n_Value n_Level="10" Value1="100" Value2="4" Value3="15" Value4="8" Value5="3" Des="Giúp toàn thể quân ta nhận được 100% lượng HP tối đa trong 4 hiệp. Trong thời gian này, s.thương nhận được tăng 15%. Hết hiệu lực, lượng HP này sẽ bị xóa."/>
+	</FaBao>
+	<FaBao FaBaoID="180024" n_Name="[b249fb]Linh Lung Tháp[-]" EffectName1="Display_L_Object_FB_024" EffectName2="assets_effects_fb_024" EffectNumType="0" IconResID="180024" IconResID1="190024" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Trong lần nhận s.thương tiếp theo, toàn bộ nộ khí tiêu hao chia đều s.thương" Origin="Nhận tại shop Bang" EffectTime="3">
+		<n_Value n_Level="1" Value1="0.25" Value2="30" Value3="10" Value4="2" Value5="0" Des="Nộ khí toàn thể quân ta tiêu hao sẽ chia đều s.thương, mỗi điểm nộ khí tối đa chịu 0.25%  s.thương. Tối đa giảm 30% s.thương."/>
+		<n_Value n_Level="2" Value1="0.25" Value2="40" Value3="10" Value4="2" Value5="0" Des="Nộ khí toàn thể quân ta tiêu hao sẽ chia đều s.thương, mỗi điểm nộ khí tối đa chịu 0.25%  s.thương. Tối đa giảm 40% s.thương."/>
+		<n_Value n_Level="3" Value1="0.5" Value2="40" Value3="9" Value4="2" Value5="0" Des="Nộ khí toàn thể quân ta tiêu hao sẽ chia đều s.thương, mỗi điểm nộ khí tối đa chịu 0.5%  s.thương. Tối đa giảm 40% s.thương."/>
+		<n_Value n_Level="4" Value1="0.5" Value2="50" Value3="9" Value4="2" Value5="0" Des="Nộ khí toàn thể quân ta tiêu hao sẽ chia đều s.thương, mỗi điểm nộ khí tối đa chịu 0.5%  s.thương. Tối đa giảm 50% s.thương."/>
+		<n_Value n_Level="5" Value1="0.75" Value2="50" Value3="9" Value4="2" Value5="0" Des="Nộ khí toàn thể quân ta tiêu hao sẽ chia đều s.thương, mỗi điểm nộ khí tối đa chịu 0.75%  s.thương. Tối đa giảm 50% s.thương."/>
+		<n_Value n_Level="6" Value1="0.75" Value2="60" Value3="8" Value4="2" Value5="0" Des="Nộ khí toàn thể quân ta tiêu hao sẽ chia đều s.thương, mỗi điểm nộ khí tối đa chịu 0.75%  s.thương. Tối đa giảm 60% s.thương."/>
+		<n_Value n_Level="7" Value1="1" Value2="60" Value3="8" Value4="3" Value5="0" Des="Nộ khí toàn thể quân ta tiêu hao sẽ chia đều s.thương, mỗi điểm nộ khí tối đa chịu 1%  s.thương. Tối đa giảm 60% s.thương."/>
+		<n_Value n_Level="8" Value1="1" Value2="70" Value3="8" Value4="3" Value5="0" Des="Nộ khí toàn thể quân ta tiêu hao sẽ chia đều s.thương, mỗi điểm nộ khí tối đa chịu 1%  s.thương. Tối đa giảm 70% s.thương."/>
+		<n_Value n_Level="9" Value1="1" Value2="80" Value3="8" Value4="3" Value5="0" Des="Nộ khí toàn thể quân ta tiêu hao sẽ chia đều s.thương, mỗi điểm nộ khí tối đa chịu 1%  s.thương. Tối đa giảm 80% s.thương."/>
+		<n_Value n_Level="10" Value1="1.25" Value2="90" Value3="8" Value4="3" Value5="0" Des="Nộ khí toàn thể quân ta tiêu hao sẽ chia đều s.thương, mỗi điểm nộ khí tối đa chịu 1.25%  s.thương. Tối đa giảm 90% s.thương."/>
+	</FaBao>
+	<FaBao FaBaoID="180001" n_Name="[b249fb]Chùy Lôi Công[-]" EffectName1="Display_L_Object_FB_001" EffectName2="assets_effects_fb_001" EffectNumType="0" IconResID="180001" IconResID1="190001" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Gián đoạn Pháp Bảo mà địch sẽ dùng" Origin="Nhận tại Tụ Tiên Đài, Thương nhân bí ẩn" EffectTime="3">
+		<n_Value n_Level="1" Value1="1" Value2="5" Value3="2" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái CD, giảm 1 lượt dùng"/>
+		<n_Value n_Level="2" Value1="1" Value2="5" Value3="2" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái CD, giảm 1 lượt dùng"/>
+		<n_Value n_Level="3" Value1="1" Value2="5" Value3="2" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái CD, giảm 1 lượt dùng"/>
+		<n_Value n_Level="4" Value1="1" Value2="5" Value3="2" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái CD, giảm 1 lượt dùng"/>
+		<n_Value n_Level="5" Value1="1" Value2="5" Value3="2" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái CD, giảm 1 lượt dùng"/>
+		<n_Value n_Level="6" Value1="1" Value2="4" Value3="3" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái CD, giảm 1 lượt dùng"/>
+		<n_Value n_Level="7" Value1="1" Value2="4" Value3="3" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái CD, giảm 1 lượt dùng"/>
+		<n_Value n_Level="8" Value1="1" Value2="4" Value3="3" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái CD, giảm 1 lượt dùng"/>
+		<n_Value n_Level="9" Value1="1" Value2="4" Value3="3" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái CD, giảm 1 lượt dùng"/>
+		<n_Value n_Level="10" Value1="1" Value2="4" Value3="3" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái CD, giảm 1 lượt dùng"/>
+	</FaBao>
+	<FaBao FaBaoID="180010" n_Name="[ffa800]Phiên Thiên Ấn[-]" EffectName1="Display_L_Object_FB_010" EffectName2="assets_effects_fb_010" EffectNumType="0" IconResID="180010" IconResID1="190010" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Tăng lượt dùng Pháp Bảo" Origin="Thám hiểm để nhận" EffectTime="3">
+		<n_Value n_Level="1" Value1="1" Value2="0" Value3="0" Value4="0" Value5="0" Des="Lượt dùng Pháp Bảo +1"/>
+		<n_Value n_Level="2" Value1="1" Value2="0" Value3="0" Value4="0" Value5="0" Des="Lượt dùng Pháp Bảo +1"/>
+		<n_Value n_Level="3" Value1="1" Value2="0" Value3="0" Value4="0" Value5="0" Des="Lượt dùng Pháp Bảo +1"/>
+		<n_Value n_Level="4" Value1="1" Value2="0" Value3="0" Value4="0" Value5="0" Des="Lượt dùng Pháp Bảo +1"/>
+		<n_Value n_Level="5" Value1="2" Value2="0" Value3="0" Value4="0" Value5="0" Des="Lượt dùng Pháp Bảo +2"/>
+		<n_Value n_Level="6" Value1="2" Value2="0" Value3="0" Value4="0" Value5="0" Des="Lượt dùng Pháp Bảo +2"/>
+		<n_Value n_Level="7" Value1="2" Value2="0" Value3="0" Value4="0" Value5="0" Des="Lượt dùng Pháp Bảo +2"/>
+		<n_Value n_Level="8" Value1="2" Value2="0" Value3="0" Value4="0" Value5="0" Des="Lượt dùng Pháp Bảo +2"/>
+		<n_Value n_Level="9" Value1="2" Value2="0" Value3="0" Value4="0" Value5="0" Des="Lượt dùng Pháp Bảo +2"/>
+		<n_Value n_Level="10" Value1="3" Value2="0" Value3="0" Value4="0" Value5="0" Des="Lượt dùng Pháp Bảo +3"/>
+	</FaBao>
+	<FaBao FaBaoID="180023" n_Name="[ffa800]Hiên Viên Kiếm[-]" EffectName1="Display_L_Object_FB_023" EffectName2="assets_effects_fb_023" EffectNumType="0" IconResID="180023" IconResID1="190023" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Toàn thể tiến hành bạo kích, sau đó trong hiệp đặc biệt công sẽ giảm" Origin="Nhận tại Tụ Tiên Đài, Thương nhân bí ẩn" EffectTime="3">
+		<n_Value n_Level="1" Value1="100" Value2="50" Value3="2" Value4="4" Value5="2" Des="Toàn thể quân ta ở trạng thái bạo nộ, 100% bạo, sau đó rơi vào trạng thái suy nhược, công giảm 50% trong 2 hiệp."/>
+		<n_Value n_Level="2" Value1="100" Value2="45" Value3="2" Value4="4" Value5="2" Des="Toàn thể quân ta ở trạng thái bạo nộ, 100% bạo, sau đó rơi vào trạng thái suy nhược, công giảm 45% trong 2 hiệp."/>
+		<n_Value n_Level="3" Value1="100" Value2="40" Value3="2" Value4="4" Value5="2" Des="Toàn thể quân ta ở trạng thái bạo nộ, 100% bạo, sau đó rơi vào trạng thái suy nhược, công giảm 40% trong 2 hiệp."/>
+		<n_Value n_Level="4" Value1="100" Value2="35" Value3="2" Value4="4" Value5="3" Des="Toàn thể quân ta ở trạng thái bạo nộ, 100% bạo, sau đó rơi vào trạng thái suy nhược, công giảm 35% trong 2 hiệp."/>
+		<n_Value n_Level="5" Value1="100" Value2="30" Value3="2" Value4="4" Value5="3" Des="Toàn thể quân ta ở trạng thái bạo nộ, 100% bạo, sau đó rơi vào trạng thái suy nhược, công giảm 30% trong 2 hiệp."/>
+		<n_Value n_Level="6" Value1="100" Value2="25" Value3="2" Value4="4" Value5="3" Des="Toàn thể quân ta ở trạng thái bạo nộ, 100% bạo, sau đó rơi vào trạng thái suy nhược, công giảm 25% trong 2 hiệp."/>
+		<n_Value n_Level="7" Value1="100" Value2="25" Value3="1" Value4="4" Value5="3" Des="Toàn thể quân ta ở trạng thái bạo nộ, 100% bạo, sau đó rơi vào trạng thái suy nhược, công giảm 25% trong 1 hiệp."/>
+		<n_Value n_Level="8" Value1="100" Value2="25" Value3="1" Value4="4" Value5="4" Des="Toàn thể quân ta ở trạng thái bạo nộ, 100% bạo, sau đó rơi vào trạng thái suy nhược, công giảm 25% trong 1 hiệp."/>
+		<n_Value n_Level="9" Value1="100" Value2="25" Value3="1" Value4="3" Value5="4" Des="Toàn thể quân ta ở trạng thái bạo nộ, 100% bạo, sau đó rơi vào trạng thái suy nhược, công giảm 25% trong 1 hiệp."/>
+		<n_Value n_Level="10" Value1="100" Value2="25" Value3="1" Value4="3" Value5="5" Des="Toàn thể quân ta ở trạng thái bạo nộ, 100% bạo, sau đó rơi vào trạng thái suy nhược, công giảm 25% trong 1 hiệp."/>
+	</FaBao>
+	<FaBao FaBaoID="180005" n_Name="[b249fb]Kiếm Thiên Tôn[-]" EffectName1="Display_L_Object_FB_005" EffectName2="assets_effects_fb_005" EffectNumType="0" IconResID="180005" IconResID1="190005" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Sét đánh ngẫu nhiên trên chiến trường, trúng quân ta sẽ giảm s.thương và thêm hiệu quả chúc phúc" Origin="Nhận tại sự kiện, chiến dịch" EffectTime="3">
+		<n_Value n_Level="1" Value1="1" Value2="1650" Value3="100" Value4="8" Value5="2" Des="Trong chiến trường sét đánh 1 ô ngẫu nhiên, , đơn vị trong ô này nhận 1000 công phép,  và thêm 1 Buff ngẫu nhiên."/>
+		<n_Value n_Level="2" Value1="1" Value2="2000" Value3="80" Value4="8" Value5="2" Des="Trong chiến trường sét đánh 1 ô ngẫu nhiên, , đơn vị trong ô này nhận 1250 công phép,  và thêm 1 Buff ngẫu nhiên."/>
+		<n_Value n_Level="3" Value1="2" Value2="2000" Value3="80" Value4="7" Value5="2" Des="Trong chiến trường sét đánh 2 ô ngẫu nhiên, đơn vị trong ô này nhận 1250 công phép,  nếu trúng quân ta thì chỉ phải chịu 80% s.thương,  và thêm 1 Buff ngẫu nhiên."/>
+		<n_Value n_Level="4" Value1="2" Value2="2000" Value3="75" Value4="7" Value5="2" Des="Trong chiến trường sét đánh 2 ô ngẫu nhiên, đơn vị trong ô này nhận 1250 công phép,  nếu trúng quân ta thì chỉ phải chịu 75% s.thương,  và thêm 1 Buff ngẫu nhiên."/>
+		<n_Value n_Level="5" Value1="2" Value2="2500" Value3="75" Value4="6" Value5="2" Des="Trong chiến trường sét đánh 2 ô ngẫu nhiên, đơn vị trong ô này nhận 1500 công phép,  nếu trúng quân ta thì chỉ phải chịu 75% s.thương,  và thêm 1 Buff ngẫu nhiên."/>
+		<n_Value n_Level="6" Value1="3" Value2="2500" Value3="75" Value4="6" Value5="2" Des="Trong chiến trường sét đánh 3 ô ngẫu nhiên, đơn vị trong ô này nhận 1500 công phép,  nếu trúng quân ta thì chỉ phải chịu 75% s.thương,  và thêm 1 Buff ngẫu nhiên."/>
+		<n_Value n_Level="7" Value1="3" Value2="3000" Value3="65" Value4="5" Value5="2" Des="Trong chiến trường sét đánh 3 ô ngẫu nhiên, đơn vị trong ô này nhận 1750 công phép,  nếu trúng quân ta thì chỉ phải chịu 65% s.thương,  và thêm 1 Buff ngẫu nhiên."/>
+		<n_Value n_Level="8" Value1="3" Value2="3000" Value3="60" Value4="5" Value5="2" Des="Trong chiến trường sét đánh 3 ô ngẫu nhiên, đơn vị trong ô này nhận 1750 công phép,  nếu trúng quân ta thì chỉ phải chịu 60% s.thương,  và thêm 1 Buff ngẫu nhiên."/>
+		<n_Value n_Level="9" Value1="3" Value2="3800" Value3="60" Value4="4" Value5="3" Des="Trong chiến trường sét đánh 3 ô ngẫu nhiên, đơn vị trong ô này nhận 2250 công phép,  nếu trúng quân ta thì chỉ phải chịu 60% s.thương,  và thêm 1 Buff ngẫu nhiên."/>
+		<n_Value n_Level="10" Value1="3" Value2="4200" Value3="50" Value4="3" Value5="3" Des="Trong chiến trường sét đánh 3 ô ngẫu nhiên, đơn vị trong ô này nhận 2500 công phép,  nếu trúng quân ta thì chỉ phải chịu 50% s.thương,  và thêm 1 Buff ngẫu nhiên."/>
+	</FaBao>
+	<FaBao FaBaoID="180007" n_Name="[b249fb]Huyết Chiến Kì[-]" EffectName1="Display_L_Object_FB_007" EffectName2="assets_effects_fb_007" EffectNumType="0" IconResID="180007" IconResID1="190007" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Toàn địch trầm mặc, toàn quân ta giảm thủ" Origin="Nhận tại sự kiện, chiến dịch" EffectTime="3">
+		<n_Value n_Level="1" Value1="30" Value2="2" Value3="8" Value4="2" Value5="0" Des="Sau khi dùng, toàn thể địch bị trầm mặc, không thể dùng kỹ năng, có hiệu lực trong hiệp , thủ toàn thể quân ta giảm 30% trong 2 hiệp"/>
+		<n_Value n_Level="2" Value1="27.5" Value2="2" Value3="8" Value4="2" Value5="0" Des="Sau khi dùng, toàn thể địch bị trầm mặc, không thể dùng kỹ năng, có hiệu lực trong hiệp , thủ toàn thể quân ta giảm 27.5% trong 2 hiệp"/>
+		<n_Value n_Level="3" Value1="25" Value2="2" Value3="7" Value4="2" Value5="0" Des="Sau khi dùng, toàn thể địch bị trầm mặc, không thể dùng kỹ năng, có hiệu lực trong hiệp , thủ toàn thể quân ta giảm 25% trong 2 hiệp"/>
+		<n_Value n_Level="4" Value1="22.5" Value2="2" Value3="7" Value4="2" Value5="0" Des="Sau khi dùng, toàn thể địch bị trầm mặc, không thể dùng kỹ năng, có hiệu lực trong hiệp , thủ toàn thể quân ta giảm 22.5% trong 2 hiệp"/>
+		<n_Value n_Level="5" Value1="20" Value2="2" Value3="6" Value4="2" Value5="0" Des="Sau khi dùng, toàn thể địch bị trầm mặc, không thể dùng kỹ năng, có hiệu lực trong hiệp , thủ toàn thể quân ta giảm 20% trong 2 hiệp"/>
+		<n_Value n_Level="6" Value1="20" Value2="3" Value3="6" Value4="2" Value5="0" Des="Sau khi dùng, toàn thể địch bị trầm mặc, không thể dùng kỹ năng, có hiệu lực trong hiệp , thủ toàn thể quân ta giảm 20% trong 3 hiệp"/>
+		<n_Value n_Level="7" Value1="17.5" Value2="3" Value3="5" Value4="2" Value5="0" Des="Sau khi dùng, toàn thể địch bị trầm mặc, không thể dùng kỹ năng, có hiệu lực trong hiệp , thủ toàn thể quân ta giảm 17.5% trong 3 hiệp"/>
+		<n_Value n_Level="8" Value1="15" Value2="3" Value3="5" Value4="2" Value5="0" Des="Sau khi dùng, toàn thể địch bị trầm mặc, không thể dùng kỹ năng, có hiệu lực trong hiệp , thủ toàn thể quân ta giảm 15% trong 3 hiệp"/>
+		<n_Value n_Level="9" Value1="15" Value2="3" Value3="4" Value4="3" Value5="0" Des="Sau khi dùng, toàn thể địch bị trầm mặc, không thể dùng kỹ năng, có hiệu lực trong hiệp , thủ toàn thể quân ta giảm 15% trong 3 hiệp"/>
+		<n_Value n_Level="10" Value1="10" Value2="3" Value3="3" Value4="3" Value5="0" Des="Sau khi dùng, toàn thể địch bị trầm mặc, không thể dùng kỹ năng, có hiệu lực trong hiệp , thủ toàn thể quân ta giảm 10% trong 3 hiệp"/>
+	</FaBao>
+	<FaBao FaBaoID="180008" n_Name="[ffa800]Tru Tiên Kiếm[-]" EffectName1="Display_L_Object_FB_008" EffectName2="assets_effects_fb_008" EffectNumType="0" IconResID="180008" IconResID1="190008" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Tiêu hao nộ khí quân ta xuất ra, tấn công ngẫu nhiên 1 địch, địch tử trận sẽ phản xạ s.thương lên 1 địch tiếp theo" Origin="Nhận tại sự kiện, chiến dịch" EffectTime="3">
+		<n_Value n_Level="1" Value1="2" Value2="2000" Value3="25" Value4="4" Value5="2" Des="Tiêu hao toàn bộ nộ khí quân ta tạo ra, tổng nộ khí gây cho 1 địch *2 công tuyệt kỹ (Tối đa cộng dồn 1200 công tuyệt kỹ), nếu địch bị tiêu diệt sẽ tấn công mục tiêu khác"/>
+		<n_Value n_Level="2" Value1="4" Value2="4000" Value3="25" Value4="4" Value5="2" Des="Tiêu hao toàn bộ nộ khí quân ta tạo ra, tổng nộ khí gây cho 1 địch *4 công tuyệt kỹ (Tối đa cộng dồn 2400 công tuyệt kỹ), nếu địch bị tiêu diệt sẽ tấn công mục tiêu khác"/>
+		<n_Value n_Level="3" Value1="6" Value2="6000" Value3="25" Value4="4" Value5="2" Des="Tiêu hao toàn bộ nộ khí quân ta tạo ra, tổng nộ khí gây cho 1 địch *6 công tuyệt kỹ (Tối đa cộng dồn 3600 công tuyệt kỹ), nếu địch bị tiêu diệt sẽ tấn công mục tiêu khác."/>
+		<n_Value n_Level="4" Value1="10" Value2="10000" Value3="25" Value4="4" Value5="3" Des="Tiêu hao toàn bộ nộ khí quân ta tạo ra, tổng nộ khí gây cho 1 địch *10 công tuyệt kỹ (Tối đa cộng dồn 6000 công tuyệt kỹ), nếu địch bị tiêu diệt sẽ tấn công mục tiêu khác."/>
+		<n_Value n_Level="5" Value1="13" Value2="13000" Value3="25" Value4="4" Value5="3" Des="Tiêu hao toàn bộ nộ khí quân ta tạo ra, tổng nộ khí gây cho 1 địch *13 công tuyệt kỹ (Tối đa cộng dồn 7800 công tuyệt kỹ), nếu địch bị tiêu diệt sẽ tấn công mục tiêu khác."/>
+		<n_Value n_Level="6" Value1="16" Value2="16000" Value3="25" Value4="4" Value5="3" Des="Tiêu hao toàn bộ nộ khí quân ta tạo ra, tổng nộ khí gây cho 1 địch *16 công tuyệt kỹ (Tối đa cộng dồn 9600 công tuyệt kỹ), nếu địch bị tiêu diệt sẽ tấn công mục tiêu khác."/>
+		<n_Value n_Level="7" Value1="18" Value2="18000" Value3="25" Value4="4" Value5="3" Des="Tiêu hao toàn bộ nộ khí quân ta tạo ra, tổng nộ khí gây cho 1 địch *18 công tuyệt kỹ (Tối đa cộng dồn 10800 công tuyệt kỹ), nếu địch bị tiêu diệt sẽ tấn công mục tiêu khác."/>
+		<n_Value n_Level="8" Value1="20" Value2="20000" Value3="25" Value4="4" Value5="4" Des="Tiêu hao toàn bộ nộ khí quân ta tạo ra, tổng nộ khí gây cho 1 địch *20 công tuyệt kỹ (Tối đa cộng dồn 12000 công tuyệt kỹ), nếu địch bị tiêu diệt sẽ tấn công mục tiêu khác."/>
+		<n_Value n_Level="9" Value1="22.5" Value2="22500" Value3="25" Value4="3" Value5="4" Des="Tiêu hao toàn bộ nộ khí quân ta tạo ra, tổng nộ khí gây cho 1 địch *22.5 công tuyệt kỹ (Tối đa cộng dồn 13500 công tuyệt kỹ), nếu địch bị tiêu diệt sẽ tấn công mục tiêu khác."/>
+		<n_Value n_Level="10" Value1="25" Value2="25000" Value3="25" Value4="3" Value5="5" Des="Tiêu hao toàn bộ nộ khí quân ta tạo ra, tổng nộ khí gây cho 1 địch *25 công tuyệt kỹ (Tối đa cộng dồn 15000 công tuyệt kỹ), nếu địch bị tiêu diệt sẽ tấn công mục tiêu khác."/>
+	</FaBao>
+	<FaBao FaBaoID="180012" n_Name="[ffa800]Quạt Ba Tiêu[-]" EffectName1="Display_L_Object_FB_012" EffectName2="assets_effects_fb_012" EffectNumType="0" IconResID="180012" IconResID1="190012" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Tiêu hao nộ khí đơn vị trị liệu, giúp quân ta tăng nộ khí mỗi khi kết thúc hiệp, địch thì ngược lại" Origin="Nhận tại sự kiện, chiến dịch" EffectTime="3">
+		<n_Value n_Level="1" Value1="10" Value2="10" Value3="1" Value4="5" Value5="2" Des="Tiêu hao nộ khí trị thương cho đội, đội nhận được Chúc Phúc, kết thúc hiệp nộ khí nhận tổng nộ khí/10, địch nhận được Độc Chú, kết thúc hiệp trừ tổng nộ khí/10 trong 1 hiệp"/>
+		<n_Value n_Level="2" Value1="10" Value2="10" Value3="2" Value4="5" Value5="2" Des="Tiêu hao nộ khí trị thương cho đội, đội nhận được Chúc Phúc, kết thúc hiệp nộ khí nhận tổng nộ khí/10, địch nhận được Độc Chú, kết thúc hiệp trừ tổng nộ khí/10 trong 2 hiệp"/>
+		<n_Value n_Level="3" Value1="10" Value2="10" Value3="2" Value4="5" Value5="2" Des="Tiêu hao nộ khí trị thương cho đội, đội nhận được Chúc Phúc, kết thúc hiệp nộ khí nhận tổng nộ khí/10, địch nhận được Độc Chú, kết thúc hiệp trừ tổng nộ khí/10 trong 2 hiệp"/>
+		<n_Value n_Level="4" Value1="10" Value2="10" Value3="2" Value4="5" Value5="2" Des="Tiêu hao nộ khí trị thương cho đội, đội nhận được Chúc Phúc, kết thúc hiệp nộ khí nhận tổng nộ khí/10, địch nhận được Độc Chú, kết thúc hiệp trừ tổng nộ khí/10 trong 2 hiệp"/>
+		<n_Value n_Level="5" Value1="10" Value2="10" Value3="2" Value4="5" Value5="2" Des="Tiêu hao nộ khí trị thương cho đội, đội nhận được Chúc Phúc, kết thúc hiệp nộ khí nhận tổng nộ khí/10, địch nhận được Độc Chú, kết thúc hiệp trừ tổng nộ khí/10 trong 2 hiệp"/>
+		<n_Value n_Level="6" Value1="10" Value2="10" Value3="3" Value4="4" Value5="3" Des="Tiêu hao nộ khí trị thương cho đội, đội nhận được Chúc Phúc, kết thúc hiệp nộ khí nhận tổng nộ khí/10, địch nhận được Độc Chú, kết thúc hiệp trừ tổng nộ khí/10 trong 3 hiệp"/>
+		<n_Value n_Level="7" Value1="10" Value2="10" Value3="3" Value4="4" Value5="3" Des="Tiêu hao nộ khí trị thương cho đội, đội nhận được Chúc Phúc, kết thúc hiệp nộ khí nhận tổng nộ khí/10, địch nhận được Độc Chú, kết thúc hiệp trừ tổng nộ khí/10 trong 3 hiệp"/>
+		<n_Value n_Level="8" Value1="10" Value2="10" Value3="3" Value4="4" Value5="3" Des="Tiêu hao nộ khí trị thương cho đội, đội nhận được Chúc Phúc, kết thúc hiệp nộ khí nhận tổng nộ khí/10, địch nhận được Độc Chú, kết thúc hiệp trừ tổng nộ khí/10 trong 3 hiệp"/>
+		<n_Value n_Level="9" Value1="10" Value2="10" Value3="3" Value4="4" Value5="3" Des="Tiêu hao nộ khí trị thương cho đội, đội nhận được Chúc Phúc, kết thúc hiệp nộ khí nhận tổng nộ khí/10, địch nhận được Độc Chú, kết thúc hiệp trừ tổng nộ khí/10 trong 3 hiệp"/>
+		<n_Value n_Level="10" Value1="5" Value2="5" Value3="3" Value4="4" Value5="3" Des="Tiêu hao nộ khí trị thương cho đội, đội nhận được Chúc Phúc, kết thúc hiệp nộ khí nhận tổng nộ khí/5, địch nhận được Độc Chú, kết thúc hiệp trừ tổng nộ khí/5 trong 3 hiệp"/>
+	</FaBao>
+</FaBaos>

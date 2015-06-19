@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2013 (http://www.altova.com) by  () -->
+<!--
+
+Find：
+	出巡成功概率数据；
+	Round
+		出巡轮次,8次为1组循环；
+		
+	GaiLv
+		成功概率,百分比；
+	
+Success：
+	搜寻成功奖励数据：
+	GailLv：
+		获得这个奖励组的概率；
+		
+	RewardType & Key & Count：
+		奖励类型与数量数据,如下：
+		RewardType = 1	开启系统	Key：0																	Count：系统编号；
+		RewardType = 2	灵石		Key：0																	Count：灵石奖励数值；
+		RewardType = 3	元宝		Key：0																	Count：元宝奖励数值；
+		RewardType = 4	道具		Key：道具ID,对应EquipItem、MaterialItem、NormalItem数据ID字段；		Count：道具奖励数值；
+		RewardType = 5	体力		Key：0																	Count：体力奖励数值；
+		RewardType = 6	声望		Key：0																	Count：声望奖励数值；
+		RewardType = 7 	阅历		Key：0																	Count：阅历奖励数值；
+		RewardType = 8	经验		Key：0																	Count：经验奖励数值；
+		RewardType = 9	新手引导	Key：引导组ID,对应Guide数据GroupID字段；								Count：引导ID,对应Guide数据GudieID字段；
+		RewardType = 10	伙伴碎片	Key：伙伴ID,对应Piece数据id字段；										Count：伙伴碎片数量；
+		RewardType = 11	进阶碎片	Key：0																	Count：进阶碎片数值；
+		RewardType = 12	伙伴		Key：伙伴ID,对应Partner数据ID字段,不能使用主角ID,即小于4000的ID；	Count：初始星级,1-9星；
+		
+Fail：
+	搜寻失败奖励数据：
+	GailLv：
+		获得这个奖励组的概率；
+		
+	RewardType & Key & Count：
+		奖励类型与数量数据,如下：
+		RewardType = 1	开启系统	Key：0																	Count：系统编号；
+		RewardType = 2	灵石		Key：0																	Count：灵石奖励数值；
+		RewardType = 3	元宝		Key：0																	Count：元宝奖励数值；
+		RewardType = 4	道具		Key：道具ID,对应EquipItem、MaterialItem、NormalItem数据ID字段；		Count：道具奖励数值；
+		RewardType = 5	体力		Key：0																	Count：体力奖励数值；
+		RewardType = 6	声望		Key：0																	Count：声望奖励数值；
+		RewardType = 7 	阅历		Key：0																	Count：阅历奖励数值；
+		RewardType = 8	经验		Key：0																	Count：经验奖励数值；
+		RewardType = 9	新手引导	Key：引导组ID,对应Guide数据GroupID字段；								Count：引导ID,对应Guide数据GudieID字段；
+		RewardType = 10	伙伴碎片	Key：伙伴ID,对应Piece数据id字段；										Count：伙伴碎片数量；
+		RewardType = 11	进阶碎片	Key：0																	Count：进阶碎片数值；
+		RewardType = 12	伙伴		Key：伙伴ID,对应Partner数据ID字段,不能使用主角ID,即小于4000的ID；	Count：初始星级,1-9星；
+
+注释结束-->
+
+<Config>
+    <Find>
+        <Rounds Round="1" GaiLv="12"/>
+        <Rounds Round="2" GaiLv="14"/>
+        <Rounds Round="3" GaiLv="18"/>
+        <Rounds Round="4" GaiLv="22"/>
+        <Rounds Round="5" GaiLv="26"/>
+        <Rounds Round="6" GaiLv="30"/>
+        <Rounds Round="7" GaiLv="35"/>
+        <Rounds Round="8" GaiLv="40"/>
+    </Find>
+    <Success>
+        <Reward GaiLv="10" RewardType="10" Key="4016" Count="10"/>
+        <Reward GaiLv="10" RewardType="10" Key="4007" Count="10"/>
+        <Reward GaiLv="10" RewardType="10" Key="4060" Count="10"/>
+        <Reward GaiLv="10" RewardType="10" Key="4037" Count="10"/>
+        <Reward GaiLv="10" RewardType="17" Key="180013" Count="1"/>
+        <Reward GaiLv="10" RewardType="17" Key="180022" Count="1"/>
+        <Reward GaiLv="10" RewardType="17" Key="180004" Count="1"/>
+        <Reward GaiLv="10" RewardType="17" Key="180017" Count="1"/>
+        <Reward GaiLv="10" RewardType="17" Key="180001" Count="1"/>
+        <Reward GaiLv="10" RewardType="17" Key="180010" Count="1"/>
+    </Success>
+    <Fail>
+        <Reward GaiLv="10" RewardType="2" Key="0" Count="500"/>
+        <Reward GaiLv="10" RewardType="2" Key="0" Count="1000"/>
+        <Reward GaiLv="5" RewardType="2" Key="0" Count="5000"/>
+        <Reward GaiLv="5" RewardType="2" Key="0" Count="10000"/>
+        <Reward GaiLv="3" RewardType="3" Key="0" Count="30"/>
+        <Reward GaiLv="2" RewardType="3" Key="0" Count="100"/>
+        <Reward GaiLv="15" RewardType="6" Key="0" Count="180"/>
+        <Reward GaiLv="5" RewardType="6" Key="0" Count="1500"/>
+        <Reward GaiLv="8" RewardType="7" Key="0" Count="100"/>
+        <Reward GaiLv="7" RewardType="7" Key="0" Count="200"/>
+        <Reward GaiLv="10" RewardType="8" Key="0" Count="500"/>
+        <Reward GaiLv="9" RewardType="8" Key="0" Count="1200"/>
+        <Reward GaiLv="6" RewardType="8" Key="0" Count="5000"/>
+        <Reward GaiLv="5" RewardType="8" Key="0" Count="12000"/>
+    </Fail>
+</Config>

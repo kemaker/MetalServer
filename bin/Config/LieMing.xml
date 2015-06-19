@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--注释
+
+Type：
+    猎命种别；
+    EDLMT_Normal           = 0;    // 普通猎命
+    EDLMT_Middle           = 1;    // 中级猎命
+    EDLMT_Expert           = 2;    // 高级猎命
+    EDLMT_Super            = 3;    // 超级猎命
+    EDLMT_God              = 4;    // 神级猎命
+    
+Cost：
+    猎命所需灵石数量；
+
+UpdateGaiLv：
+    猎命等级提升概率；
+
+WhiteGaiLv：
+    白色命格出现概率；
+
+GreenGaiLv：
+    绿色命格出现概率；
+
+BlueGaiLv：
+    蓝色命格出现概率；
+
+PurpleGaiLv：
+    紫色命格出现概率；
+
+OrangeGaiLv：
+    橙色命格出现概率；
+
+注释结束-->
+
+<Configs>
+	<LieMing Type="0" Cost="200"  UpdateGaiLv="40" WhiteGaiLv="40" GreenGaiLv="50" BlueGaiLv="10" PurpleGaiLv="0"  OrangeGaiLv="0"/>
+	<LieMing Type="1" Cost="1000"  UpdateGaiLv="20" WhiteGaiLv="10" GreenGaiLv="40" BlueGaiLv="50" PurpleGaiLv="0"  OrangeGaiLv="0"/>
+	<LieMing Type="2" Cost="5000"  UpdateGaiLv="10" WhiteGaiLv="0"  GreenGaiLv="40" BlueGaiLv="50" PurpleGaiLv="10" OrangeGaiLv="0"/>
+	<LieMing Type="3" Cost="10000"  UpdateGaiLv="5" WhiteGaiLv="0"  GreenGaiLv="30"  BlueGaiLv="50" PurpleGaiLv="15" OrangeGaiLv="5"/>
+	<LieMing Type="4" Cost="30000" UpdateGaiLv="3" WhiteGaiLv="0"  GreenGaiLv="0"  BlueGaiLv="70" PurpleGaiLv="20" OrangeGaiLv="10"/>
+</Configs>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+	<Rank Range1="1" Range2="1" Mail="1001"/>
+	<Rank Range1="2" Range2="2" Mail="1002"/>
+	<Rank Range1="3" Range2="3" Mail="1003"/>
+	<Rank Range1="4" Range2="10" Mail="1004"/>
+	<Rank Range1="11" Range2="50" Mail="1005"/>
+	<Rank Range1="51" Range2="100" Mail="1006"/>
+	<Rank Range1="101" Range2="500" Mail="1007"/>
+	<Rank Range1="501" Range2="5000" Mail="1008"/>
+</Root>

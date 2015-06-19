@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--注释
+
+ID：
+	邮件配置ID,唯一；
+    
+Title：
+	邮件标题；
+	
+Text：
+	邮件正文；
+	
+Resouce 
+	邮件发送的资源数据
+	Type & Id & Count：
+		数据的类型与数据,如下：
+		Type = 1	开启系统	Id：0																Count：系统编号；
+		Type = 2	灵石		Id：0																Count：灵石奖励数值；
+		Type = 3	元宝		Id：0																Count：元宝奖励数值；
+		Type = 4	道具		Id：道具ID,对应EquipItem、MaterialItem、NormalItem数据ID字段；		Count：道具奖励数值；
+		Type = 5	体力		Id：0																Count：体力奖励数值；
+		Type = 6	声望		Id：0																Count：声望奖励数值；
+		Type = 7 	阅历		Id：0																Count：阅历奖励数值；
+		Type = 8	经验		Id：0																Count：经验奖励数值；
+		Type = 9	新手引导	Id：引导组ID,对应Guide数据GroupID字段；							Count：引导ID,对应Guide数据GudieID字段；
+		Type = 10	伙伴碎片	Id：伙伴ID,对应Piece数据id字段；									Count：伙伴碎片数量；
+		Type = 11	进阶碎片	Id：0																Count：进阶碎片数值；
+		Type = 12	伙伴		Id：伙伴ID,对应Partner数据ID字段,不能使用主角ID,即小于4000的ID；	Count：初始星级,1-9星；
+			
+		Type = 1时可用系统编号：
+		默认开启
+			1  = 在线奖励；
+			3  = 小助手；
+			4  = 邮件；
+			5  = 聊天；
+			6  = 设置；
+			7  = VIP；
+			8  = 伙伴列表；
+			9  = 任务；
+			10 = 法宝；
+			13 = 背包
+			24 = 好友；
+			35 = 出征；
+		默认未开启
+			2  = 签到；
+			【废弃】11 = 大殿；
+			【废弃】14 = 炼器阁；
+			15 = 装备强化；
+			16 = 聚仙台；
+			17 = 上阵；
+			18 = 培养；
+			19 = 仙法；
+			20 = 静室；
+			21 = 购买体力；
+			22 = 天降灵石；
+			23 = 仙市；
+			25 = 炼丹炉；
+			26 = 竞技场；
+			27 = 阵营战；
+			【废弃】28 = 训练场；
+			30 = 猎命；
+			31 = 试炼场；
+			32 = 装备合成；
+			33 = 灵石矿；
+			34 = 弟子居；
+			36 = 活动；
+			37 = 战斗加速X2；
+			38 = 战斗加速X4；
+			39 = 进阶/还原；
+	
+注释结束-->
+
+<Mails Count="100">
+	<Mail ID="1001" Title="Thủ lĩnh Đấu Trường" Text="Chúc mừng bạn đã đạt hạng 1 đấu trường, đây là thưởng của bạn.">
+		<Resources>
+			<Resource Type="3" Id="0" Count="500"/>
+			<Resource Type="2" Id="0" Count="50000"/>
+			<Resource Type="6" Id="0" Count="5000"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1002" Title="Bá Vương Đấu Trường" Text="Chúc mừng bạn đã đạt hạng 2 đấu trường, đây là thưởng của bạn.">
+		<Resources>
+			<Resource Type="3" Id="0" Count="400"/>
+			<Resource Type="2" Id="0" Count="30000"/>
+			<Resource Type="6" Id="0" Count="3000"/>
+		</Resources>
+	</Mail>
+	<Mail ID="1003" Title="Bá Vương Đấu Trường" Text="Chúc mừng bạn đã đạt hạng 3 đấu trường, đây là thưởng của bạn.">
+		<Resources>
+			<Resource Type="3" Id="0" Count="350"/>
+			<Resource Type="2" Id="0" Count="20000"/>
+			<Resource Type="6" Id="0" Count="3000"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1004" Title="Đại sư Đấu Trường" Text="Chúc mừng bạn lọt Top 10 đấu trường, đây là thưởng của bạn.">
+		<Resources>
+			<Resource Type="3" Id="0" Count="300"/>
+			<Resource Type="2" Id="0" Count="10000"/>
+			<Resource Type="6" Id="0" Count="2000"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1005" Title="Master Đấu Trường" Text="Chúc mừng bạn lọt Top 50 đấu trường, đây là thưởng của bạn.">
+		<Resources>
+			<Resource Type="3" Id="0" Count="200"/>
+			<Resource Type="2" Id="0" Count="5000"/>
+			<Resource Type="6" Id="0" Count="1000"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1006" Title="Người hùng Đấu Trường" Text="Chúc mừng bạn lọt Top 100 đấu trường, đây là thưởng của bạn.">
+		<Resources>
+			<Resource Type="3" Id="0" Count="150"/>
+			<Resource Type="2" Id="0" Count="3000"/>
+			<Resource Type="6" Id="0" Count="700"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1007" Title="Thưởng XH Đấu Trường" Text="Chúc mừng bạn lọt Top 500 đấu trường, đây là thưởng của bạn.">
+		<Resources>
+			<Resource Type="3" Id="0" Count="100"/>
+			<Resource Type="2" Id="0" Count="2000"/>
+			<Resource Type="6" Id="0" Count="500"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1008" Title="Tham gia Đấu Trường" Text="Hoan nghênh bạn tham gia đấu trường, đây là thưởng của bạn">
+		<Resources>
+			<Resource Type="2" Id="0" Count="1000"/>
+			<Resource Type="6" Id="0" Count="500"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1009" Title="Thưởng XH Đấu Trường" Text="Chúc mừng bạn chiến thắng quần hùng, xếp top 21-50, thưởng gồm:">
+		<Resources>
+			<Resource Type="2" Id="0" Count="10000"/>
+			<Resource Type="6" Id="0" Count="1000"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1010" Title="Thưởng XH Đấu Trường" Text="Chúc mừng bạn chiến thắng quần hùng, xếp top 51-200, thưởng gồm:">
+		<Resources>
+			<Resource Type="2" Id="0" Count="5000"/>
+			<Resource Type="6" Id="0" Count="100"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1011" Title="Thưởng XH Đấu Trường" Text="Chúc mừng bạn chiến thắng quần hùng, xếp top  trên 200, thưởng gồm:">
+		<Resources>
+			<Resource Type="2" Id="0" Count="5000"/>
+			<Resource Type="6" Id="0" Count="50"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1012" Title="Quà VIP1 hàng ngày" Text="Người chơi VIP1 thân mến, đây là tiền hương hỏa do thần dân đóng góp, hãy nhận lấy.">
+		<Resources>
+			<Resource Type="2" Id="0" Count="10000"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1013" Title="Quà VIP2 hàng ngày" Text="Người chơi VIP2 thân mến, đây là tiền hương hỏa do thần dân đóng góp, hãy nhận lấy.">
+		<Resources>
+			<Resource Type="2" Id="0" Count="20000"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1014" Title="Quà VIP3 hàng ngày" Text="Người chơi VIP3 thân mến, đây là tiền hương hỏa do thần dân đóng góp, hãy nhận lấy.">
+		<Resources>
+			<Resource Type="2" Id="0" Count="30000"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1015" Title="Quà VIP4 hàng ngày" Text="Người chơi VIP4 thân mến, đây là tiền hương hỏa do thần dân đóng góp, hãy nhận lấy.">
+		<Resources>
+			<Resource Type="2" Id="0" Count="40000"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1016" Title="Quà VIP5 hàng ngày" Text="Người chơi VIP5 thân mến, đây là tiền hương hỏa do thần dân đóng góp, hãy nhận lấy.">
+		<Resources>
+			<Resource Type="2" Id="0" Count="50000"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1017" Title="Quà VIP6 hàng ngày" Text="Người chơi VIP6 thân mến, đây là tiền hương hỏa do thần dân đóng góp, hãy nhận lấy.">
+		<Resources>
+			<Resource Type="2" Id="0" Count="60000"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1018" Title="Quà VIP7 hàng ngày" Text="Người chơi VIP7 thân mến, đây là tiền hương hỏa do thần dân đóng góp, hãy nhận lấy.">
+		<Resources>
+			<Resource Type="2" Id="0" Count="70000"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1019" Title="Quà VIP8 hàng ngày" Text="Người chơi VIP8 thân mến, đây là tiền hương hỏa do thần dân đóng góp, hãy nhận lấy.">
+		<Resources>
+			<Resource Type="2" Id="0" Count="80000"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1020" Title="Quà VIP9 hàng ngày" Text="Người chơi VIP9 thân mến, đây là tiền hương hỏa do thần dân đóng góp, hãy nhận lấy.">
+		<Resources>
+			<Resource Type="2" Id="0" Count="90000"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1021" Title="Quà VIP10 hàng ngày" Text="Người chơi VIP10 thân mến, đây là tiền hương hỏa do thần dân đóng góp, hãy nhận lấy.">
+		<Resources>
+			<Resource Type="2" Id="0" Count="100000"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1022" Title="Quà VIP11 hàng ngày" Text="Người chơi VIP11 thân mến, đây là tiền hương hỏa do thần dân đóng góp, hãy nhận lấy.">
+		<Resources>
+			<Resource Type="2" Id="0" Count="110000"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1023" Title="Quà VIP12 hàng ngày" Text="Người chơi VIP12 thân mến, đây là tiền hương hỏa do thần dân đóng góp, hãy nhận lấy.">
+		<Resources>
+			<Resource Type="2" Id="0" Count="120000"/>
+		</Resources>
+	</Mail>
+    <Mail ID="1024" Title="Tìm lại thưởng" Text="Túi của bạn đã đầy, những vật phẩm thừa đã được tìm lại, hãy dọn lại túi">
+	</Mail>
+    <Mail ID="1025" Title="Mời nhập Bang" Text="{0}Mời bạn tham gia bang hội {2} cấp {1}">
+	</Mail>
+    <Mail ID="1026" Title="Thưởng hệ thống" Text="Quà hệ thống, chú ý để nhận">
+	</Mail>
+    <Mail ID="1027" Title="Quà tặng từ thiên thần" Text="Chúc mừng bạn chiến thắng tôi trong đấu trường, đây là thưởng của bạn, hi vọng lần thí luyện tiếp theo sẽ có nhiều bất ngờ.">
+	</Mail>
+    <Mail ID="1028" Title="Thăng hạng Đấu Trường" Text="Chúc bạn nâng cao XH của mình trong BXH, đây là quà của bạn.">
+	</Mail>
+    <Mail ID="1029" Title="Tìm lại rương trấn thủ" Text="Vui lòng nhận lại Rương trấn thủ của bạn.">
+	</Mail>
+</Mails>

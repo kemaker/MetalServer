@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSpy v2013 (http://www.altova.com) by  () -->
+<!-- 签到次数所获得的奖励 -->
+<!--
+	SICount:签到次数
+    RewardType:奖励类型(参考ERewardType)
+    	ERT_OpenSystem			= 1;	// 开启系统				Key:无用填0		Count:系统编号
+    	ERT_Money				= 2;	// 游戏币(灵石)			Key:无用填0		Count:数值
+    	ERT_Gold				= 3;	// 元宝					Key:无用填0		Count:数值
+    	ERT_Item				= 4;	// 道具					Key:道具ID		Count:数值
+    	ERT_Power				= 5;	// 体力					Key:无用填0		Count:数值
+    	ERT_ShengWang			= 6;	// 声望					Key:无用填0		Count:数值
+    	ERT_Yueli				= 7;	// 阅历					Key:无用填0		Count:数值
+    	ERT_Exp					= 8;	// 经验					Key:无用填0		Count:数值
+    	ERT_Guide				= 9;	// 新手引导				Key:引导大ID	Count:引导小ID
+    	ERT_Piece				= 10;	// 伙伴碎片				Key:伙伴ID		Count:碎片数量
+    	ERT_GlobalPiece			= 11;	// 进阶碎片				Key:无用填0		Count:数值
+    	ERT_Parnter				= 12;	// 伙伴					Key:伙伴ID		Count:初始星级
+	
+	VipLevel:Vip达到等级可以领取额外奖励.0为没有额外奖励.
+    BeiLv:Vip等级达到后的签到奖励倍数
+-->
+<Signin>
+	<SI SICount="1" RewardType="2" Key="0" Value="1000" VipLevel="3" BeiLv="2"/>
+	<SI SICount="2" RewardType="6" Key="0" Value="180" VipLevel="5" BeiLv="2"/>
+	<SI SICount="3" RewardType="7" Key="0" Value="1000" VipLevel="3" BeiLv="2"/>
+	<SI SICount="4" RewardType="11" Key="0" Value="10" VipLevel="7" BeiLv="2"/>
+	<SI SICount="5" RewardType="3" Key="0" Value="5" VipLevel="7" BeiLv="2"/>
+	<SI SICount="6" RewardType="2" Key="0" Value="1500" VipLevel="3" BeiLv="2"/>
+	<SI SICount="7" RewardType="6" Key="0" Value="270" VipLevel="5" BeiLv="2"/>
+	<SI SICount="8" RewardType="7" Key="0" Value="1500" VipLevel="3" BeiLv="2"/>
+	<SI SICount="9" RewardType="11" Key="0" Value="15" VipLevel="7" BeiLv="2"/>
+	<SI SICount="10" RewardType="3" Key="0" Value="7" VipLevel="7" BeiLv="2"/>
+	<SI SICount="11" RewardType="2" Key="0" Value="2250" VipLevel="3" BeiLv="2"/>
+	<SI SICount="12" RewardType="6" Key="0" Value="405" VipLevel="5" BeiLv="2"/>
+	<SI SICount="13" RewardType="7" Key="0" Value="2250" VipLevel="3" BeiLv="2"/>
+	<SI SICount="14" RewardType="11" Key="0" Value="20" VipLevel="7" BeiLv="2"/>
+	<SI SICount="15" RewardType="3" Key="0" Value="10" VipLevel="7" BeiLv="2"/>
+	<SI SICount="16" RewardType="2" Key="0" Value="3500" VipLevel="3" BeiLv="2"/>
+	<SI SICount="17" RewardType="6" Key="0" Value="600" VipLevel="5" BeiLv="2"/>
+	<SI SICount="18" RewardType="7" Key="0" Value="3500" VipLevel="3" BeiLv="2"/>
+	<SI SICount="19" RewardType="11" Key="0" Value="35" VipLevel="7" BeiLv="2"/>
+	<SI SICount="20" RewardType="3" Key="0" Value="15" VipLevel="7" BeiLv="2"/>
+	<SI SICount="21" RewardType="2" Key="0" Value="5000" VipLevel="3" BeiLv="2"/>
+	<SI SICount="22" RewardType="6" Key="0" Value="910" VipLevel="5" BeiLv="2"/>
+	<SI SICount="23" RewardType="7" Key="0" Value="5000" VipLevel="3" BeiLv="2"/>
+	<SI SICount="24" RewardType="11" Key="0" Value="50" VipLevel="7" BeiLv="2"/>
+	<SI SICount="25" RewardType="3" Key="0" Value="25" VipLevel="7" BeiLv="2"/>
+	<SI SICount="26" RewardType="2" Key="0" Value="7500" VipLevel="3" BeiLv="2"/>
+	<SI SICount="27" RewardType="6" Key="0" Value="1400" VipLevel="5" BeiLv="2"/>
+	<SI SICount="28" RewardType="7" Key="0" Value="7500" VipLevel="3" BeiLv="2"/>
+	<SI SICount="29" RewardType="11" Key="0" Value="70" VipLevel="7" BeiLv="2"/>
+	<SI SICount="30" RewardType="3" Key="0" Value="35" VipLevel="7" BeiLv="2"/>
+</Signin>

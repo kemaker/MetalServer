@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!--注释
+FaBaoID：
+    法宝ID,对应FaBao数据ID字段；
+  FaBaoID=180014	玉玄瓶	
+	FaBaoID=180015	魔心琵琶	
+	FaBaoID=180018	饮血刀		
+	FaBaoID=180016	无念宝剑	
+	FaBaoID=180019	杏黄旗		
+	FaBaoID=180003	紫云葫芦	
+	FaBaoID=180013	盘古斧		
+	FaBaoID=180020	奇金宝鼎	
+	FaBaoID=180021	五蕴神石	
+	FaBaoID=180006	转命灵珠	
+	FaBaoID=180011	乾坤圈	  
+	FaBaoID=180022	风火轮	  
+	FaBaoID=180004	东皇钟	  
+	FaBaoID=180002	九齿钉耙	
+	FaBaoID=180009	天魔灯	  
+	FaBaoID=180017	神农草	  
+	FaBaoID=180024	玲珑宝塔	
+	FaBaoID=180001	雷公锤	  
+
+OpenLv：
+    法宝开启级别,1-99级；
+
+Quality：
+    法宝的品质
+    绿色：1
+    蓝色：2
+    紫色：3
+    橙色：4
+
+IsGive：
+    是否为系统赠送
+    0：非系统赠送
+    1：系统赠送
+
+Piece：
+    法宝合成所需碎片
+
+Level：
+    法宝升级所需经验
+    Lv：法宝当前等级
+    Exp：升到下一级所需经验,0为不能升级
+
+注释结束-->
+
+<PartnerFaBaos>
+		<FaBao FaBaoID="180022" OpenLv="1" Quality="4" IsGive="0" Piece="100">
+		<Level Lv="1" Exp="100"/>
+		<Level Lv="2" Exp="200"/>
+		<Level Lv="3" Exp="500"/>
+		<Level Lv="4" Exp="1000"/>
+		<Level Lv="5" Exp="2000"/>
+		<Level Lv="6" Exp="5000"/>
+		<Level Lv="7" Exp="10000"/>
+		<Level Lv="8" Exp="100000"/>
+		<Level Lv="9" Exp="1000000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180004" OpenLv="1" Quality="4" IsGive="0" Piece="100">
+		<Level Lv="1" Exp="100"/>
+		<Level Lv="2" Exp="200"/>
+		<Level Lv="3" Exp="500"/>
+		<Level Lv="4" Exp="1000"/>
+		<Level Lv="5" Exp="2000"/>
+		<Level Lv="6" Exp="5000"/>
+		<Level Lv="7" Exp="10000"/>
+		<Level Lv="8" Exp="100000"/>
+		<Level Lv="9" Exp="1000000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180013" OpenLv="1" Quality="4" IsGive="0" Piece="100">
+		<Level Lv="1" Exp="100"/>
+		<Level Lv="2" Exp="200"/>
+		<Level Lv="3" Exp="500"/>
+		<Level Lv="4" Exp="1000"/>
+		<Level Lv="5" Exp="2000"/>
+		<Level Lv="6" Exp="5000"/>
+		<Level Lv="7" Exp="10000"/>
+		<Level Lv="8" Exp="100000"/>
+		<Level Lv="9" Exp="1000000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180024" OpenLv="1" Quality="3" IsGive="0" Piece="50">
+		<Level Lv="1" Exp="50"/>
+		<Level Lv="2" Exp="100"/>
+		<Level Lv="3" Exp="250"/>
+		<Level Lv="4" Exp="500"/>
+		<Level Lv="5" Exp="1000"/>
+		<Level Lv="6" Exp="2500"/>
+		<Level Lv="7" Exp="5000"/>
+		<Level Lv="8" Exp="50000"/>
+		<Level Lv="9" Exp="500000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180001" OpenLv="1" Quality="3" IsGive="0" Piece="50">
+		<Level Lv="1" Exp="50"/>
+		<Level Lv="2" Exp="100"/>
+		<Level Lv="3" Exp="250"/>
+		<Level Lv="4" Exp="500"/>
+		<Level Lv="5" Exp="1000"/>
+		<Level Lv="6" Exp="2500"/>
+		<Level Lv="7" Exp="5000"/>
+		<Level Lv="8" Exp="50000"/>
+		<Level Lv="9" Exp="500000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180009" OpenLv="1" Quality="3" IsGive="0" Piece="50">
+		<Level Lv="1" Exp="50"/>
+		<Level Lv="2" Exp="100"/>
+		<Level Lv="3" Exp="250"/>
+		<Level Lv="4" Exp="500"/>
+		<Level Lv="5" Exp="1000"/>
+		<Level Lv="6" Exp="2500"/>
+		<Level Lv="7" Exp="5000"/>
+		<Level Lv="8" Exp="50000"/>
+		<Level Lv="9" Exp="500000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180003" OpenLv="1" Quality="3" IsGive="0" Piece="50">
+		<Level Lv="1" Exp="50"/>
+		<Level Lv="2" Exp="100"/>
+		<Level Lv="3" Exp="250"/>
+		<Level Lv="4" Exp="500"/>
+		<Level Lv="5" Exp="1000"/>
+		<Level Lv="6" Exp="2500"/>
+		<Level Lv="7" Exp="5000"/>
+		<Level Lv="8" Exp="50000"/>
+		<Level Lv="9" Exp="500000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180019" OpenLv="1" Quality="3" IsGive="0" Piece="50">
+		<Level Lv="1" Exp="50"/>
+		<Level Lv="2" Exp="100"/>
+		<Level Lv="3" Exp="250"/>
+		<Level Lv="4" Exp="500"/>
+		<Level Lv="5" Exp="1000"/>
+		<Level Lv="6" Exp="2500"/>
+		<Level Lv="7" Exp="5000"/>
+		<Level Lv="8" Exp="50000"/>
+		<Level Lv="9" Exp="500000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180006" OpenLv="1" Quality="3" IsGive="0" Piece="50">
+		<Level Lv="1" Exp="50"/>
+		<Level Lv="2" Exp="100"/>
+		<Level Lv="3" Exp="250"/>
+		<Level Lv="4" Exp="500"/>
+		<Level Lv="5" Exp="1000"/>
+		<Level Lv="6" Exp="2500"/>
+		<Level Lv="7" Exp="5000"/>
+		<Level Lv="8" Exp="50000"/>
+		<Level Lv="9" Exp="500000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180021" OpenLv="1" Quality="3" IsGive="0" Piece="50">
+		<Level Lv="1" Exp="50"/>
+		<Level Lv="2" Exp="100"/>
+		<Level Lv="3" Exp="250"/>
+		<Level Lv="4" Exp="500"/>
+		<Level Lv="5" Exp="1000"/>
+		<Level Lv="6" Exp="2500"/>
+		<Level Lv="7" Exp="5000"/>
+		<Level Lv="8" Exp="50000"/>
+		<Level Lv="9" Exp="500000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180002" OpenLv="1" Quality="3" IsGive="0" Piece="50">
+		<Level Lv="1" Exp="50"/>
+		<Level Lv="2" Exp="100"/>
+		<Level Lv="3" Exp="250"/>
+		<Level Lv="4" Exp="500"/>
+		<Level Lv="5" Exp="1000"/>
+		<Level Lv="6" Exp="2500"/>
+		<Level Lv="7" Exp="5000"/>
+		<Level Lv="8" Exp="50000"/>
+		<Level Lv="9" Exp="500000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180011" OpenLv="1" Quality="3" IsGive="0" Piece="50">
+		<Level Lv="1" Exp="50"/>
+		<Level Lv="2" Exp="100"/>
+		<Level Lv="3" Exp="250"/>
+		<Level Lv="4" Exp="500"/>
+		<Level Lv="5" Exp="1000"/>
+		<Level Lv="6" Exp="2500"/>
+		<Level Lv="7" Exp="5000"/>
+		<Level Lv="8" Exp="50000"/>
+		<Level Lv="9" Exp="500000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180015" OpenLv="1" Quality="2" IsGive="0" Piece="20">
+		<Level Lv="1" Exp="20"/>
+		<Level Lv="2" Exp="40"/>
+		<Level Lv="3" Exp="100"/>
+		<Level Lv="4" Exp="200"/>
+		<Level Lv="5" Exp="400"/>
+		<Level Lv="6" Exp="1000"/>
+		<Level Lv="7" Exp="2000"/>
+		<Level Lv="8" Exp="20000"/>
+		<Level Lv="9" Exp="200000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180014" OpenLv="1" Quality="2" IsGive="0" Piece="20">
+		<Level Lv="1" Exp="20"/>
+		<Level Lv="2" Exp="40"/>
+		<Level Lv="3" Exp="100"/>
+		<Level Lv="4" Exp="200"/>
+		<Level Lv="5" Exp="400"/>
+		<Level Lv="6" Exp="1000"/>
+		<Level Lv="7" Exp="2000"/>
+		<Level Lv="8" Exp="20000"/>
+		<Level Lv="9" Exp="200000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180020" OpenLv="1" Quality="2" IsGive="0" Piece="20">
+		<Level Lv="1" Exp="20"/>
+		<Level Lv="2" Exp="40"/>
+		<Level Lv="3" Exp="100"/>
+		<Level Lv="4" Exp="200"/>
+		<Level Lv="5" Exp="400"/>
+		<Level Lv="6" Exp="1000"/>
+		<Level Lv="7" Exp="2000"/>
+		<Level Lv="8" Exp="20000"/>
+		<Level Lv="9" Exp="200000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180017" OpenLv="1" Quality="2" IsGive="0" Piece="20">
+		<Level Lv="1" Exp="20"/>
+		<Level Lv="2" Exp="40"/>
+		<Level Lv="3" Exp="100"/>
+		<Level Lv="4" Exp="200"/>
+		<Level Lv="5" Exp="400"/>
+		<Level Lv="6" Exp="1000"/>
+		<Level Lv="7" Exp="2000"/>
+		<Level Lv="8" Exp="20000"/>
+		<Level Lv="9" Exp="200000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180016" OpenLv="1" Quality="1" IsGive="0" Piece="10">
+		<Level Lv="1" Exp="10"/>
+		<Level Lv="2" Exp="20"/>
+		<Level Lv="3" Exp="50"/>
+		<Level Lv="4" Exp="100"/>
+		<Level Lv="5" Exp="200"/>
+		<Level Lv="6" Exp="500"/>
+		<Level Lv="7" Exp="1000"/>
+		<Level Lv="8" Exp="10000"/>
+		<Level Lv="9" Exp="100000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180018" OpenLv="1" Quality="1" IsGive="0" Piece="10">
+		<Level Lv="1" Exp="10"/>
+		<Level Lv="2" Exp="20"/>
+		<Level Lv="3" Exp="50"/>
+		<Level Lv="4" Exp="100"/>
+		<Level Lv="5" Exp="200"/>
+		<Level Lv="6" Exp="500"/>
+		<Level Lv="7" Exp="1000"/>
+		<Level Lv="8" Exp="10000"/>
+		<Level Lv="9" Exp="100000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180023" OpenLv="1" Quality="4" IsGive="0" Piece="100">
+		<Level Lv="1" Exp="100"/>
+		<Level Lv="2" Exp="200"/>
+		<Level Lv="3" Exp="500"/>
+		<Level Lv="4" Exp="1000"/>
+		<Level Lv="5" Exp="2000"/>
+		<Level Lv="6" Exp="5000"/>
+		<Level Lv="7" Exp="10000"/>
+		<Level Lv="8" Exp="100000"/>
+		<Level Lv="9" Exp="1000000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180005" OpenLv="1" Quality="3" IsGive="0" Piece="50">
+		<Level Lv="1" Exp="50"/>
+		<Level Lv="2" Exp="100"/>
+		<Level Lv="3" Exp="250"/>
+		<Level Lv="4" Exp="500"/>
+		<Level Lv="5" Exp="1000"/>
+		<Level Lv="6" Exp="2500"/>
+		<Level Lv="7" Exp="5000"/>
+		<Level Lv="8" Exp="50000"/>
+		<Level Lv="9" Exp="500000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180010" OpenLv="1" Quality="4" IsGive="0" Piece="100">
+		<Level Lv="1" Exp="100"/>
+		<Level Lv="2" Exp="200"/>
+		<Level Lv="3" Exp="500"/>
+		<Level Lv="4" Exp="1000"/>
+		<Level Lv="5" Exp="2000"/>
+		<Level Lv="6" Exp="5000"/>
+		<Level Lv="7" Exp="10000"/>
+		<Level Lv="8" Exp="100000"/>
+		<Level Lv="9" Exp="1000000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180007" OpenLv="1" Quality="3" IsGive="0" Piece="50">
+		<Level Lv="1" Exp="50"/>
+		<Level Lv="2" Exp="100"/>
+		<Level Lv="3" Exp="250"/>
+		<Level Lv="4" Exp="500"/>
+		<Level Lv="5" Exp="1000"/>
+		<Level Lv="6" Exp="2500"/>
+		<Level Lv="7" Exp="5000"/>
+		<Level Lv="8" Exp="50000"/>
+		<Level Lv="9" Exp="500000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180008" OpenLv="1" Quality="4" IsGive="0" Piece="100">
+		<Level Lv="1" Exp="100"/>
+		<Level Lv="2" Exp="200"/>
+		<Level Lv="3" Exp="500"/>
+		<Level Lv="4" Exp="1000"/>
+		<Level Lv="5" Exp="2000"/>
+		<Level Lv="6" Exp="5000"/>
+		<Level Lv="7" Exp="10000"/>
+		<Level Lv="8" Exp="100000"/>
+		<Level Lv="9" Exp="1000000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+	<FaBao FaBaoID="180012" OpenLv="1" Quality="4" IsGive="0" Piece="100">
+		<Level Lv="1" Exp="100"/>
+		<Level Lv="2" Exp="200"/>
+		<Level Lv="3" Exp="500"/>
+		<Level Lv="4" Exp="1000"/>
+		<Level Lv="5" Exp="2000"/>
+		<Level Lv="6" Exp="5000"/>
+		<Level Lv="7" Exp="10000"/>
+		<Level Lv="8" Exp="100000"/>
+		<Level Lv="9" Exp="1000000"/>
+		<Level Lv="10" Exp="0"/>
+	</FaBao>
+</PartnerFaBaos>

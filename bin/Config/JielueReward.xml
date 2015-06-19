@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!--注释
+参见：FuBeDiaoLuo
+-->
+
+<Root>
+	<Reward Lev="1" LinShi="150" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="2" LinShi="150" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="3" LinShi="150" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="4" LinShi="150" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="5" LinShi="150" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="6" LinShi="150" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="7" LinShi="150" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="8" LinShi="150" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="9" LinShi="150" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="10" LinShi="150" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="11" LinShi="200" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="12" LinShi="200" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="13" LinShi="200" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="14" LinShi="200" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="15" LinShi="200" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="16" LinShi="200" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="17" LinShi="200" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="18" LinShi="200" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="19" LinShi="200" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="20" LinShi="200" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="21" LinShi="500" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="22" LinShi="500" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="23" LinShi="500" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="24" LinShi="500" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="25" LinShi="700" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="26" LinShi="700" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="27" LinShi="700" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="28" LinShi="700" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="29" LinShi="700" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="30" LinShi="700" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="31" LinShi="1000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="32" LinShi="1000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="33" LinShi="1000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="34" LinShi="1000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="35" LinShi="1000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="36" LinShi="2000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="37" LinShi="2000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="38" LinShi="2000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="39" LinShi="2000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="40" LinShi="2000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="41" LinShi="5000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="42" LinShi="5000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="43" LinShi="5000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="44" LinShi="5000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="45" LinShi="5000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="46" LinShi="10000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="47" LinShi="10000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="48" LinShi="10000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="49" LinShi="10000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="50" LinShi="10000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="51" LinShi="15000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="52" LinShi="15000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="53" LinShi="15000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="54" LinShi="15000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="55" LinShi="15000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="56" LinShi="20000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="57" LinShi="20000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="58" LinShi="20000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="59" LinShi="20000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+	<Reward Lev="60" LinShi="20000" JinYan="0" YuanBao="0" YuanBaoGaiLv="0" YueLi="0" ShengWang="0" ShengWangGaiLv="0"/>
+</Root>

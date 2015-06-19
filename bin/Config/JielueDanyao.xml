@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!--注释
+
+id：
+	丹药ID,唯一；
+  
+pieceCount:
+  合成丹药所需的碎片；
+  
+minDrop：
+  最小掉落数量；
+  
+maxDrop：
+  最大掉落数量；
+	
+注释结束-->
+
+<JielueItems>
+	<Item id="120003" pieceCount="5" minDrop="1" maxDrop="5"/>
+	<Item id="120013" pieceCount="5" minDrop="1" maxDrop="5"/>
+	<Item id="120023" pieceCount="5" minDrop="1" maxDrop="5"/>
+	<Item id="120004" pieceCount="5" minDrop="1" maxDrop="5"/>
+	<Item id="120014" pieceCount="5" minDrop="1" maxDrop="5"/>
+	<Item id="120024" pieceCount="5" minDrop="1" maxDrop="5"/>
+	<Item id="120005" pieceCount="5" minDrop="1" maxDrop="5"/>
+	<Item id="120015" pieceCount="5" minDrop="1" maxDrop="5"/>
+	<Item id="120025" pieceCount="5" minDrop="1" maxDrop="5"/>
+	<Item id="120006" pieceCount="5" minDrop="1" maxDrop="5"/>
+	<Item id="120016" pieceCount="5" minDrop="1" maxDrop="5"/>
+	<Item id="120026" pieceCount="5" minDrop="1" maxDrop="5"/>
+</JielueItems>

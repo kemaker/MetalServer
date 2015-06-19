@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--注释
+
+Lv：
+	当前强化等级；
+
+Cost：
+	强化到当前等级所需灵石；
+	
+LvName：
+	当前强化等级名称；
+
+注释结束-->
+<Config>
+  <Enhance Lv="1" Cost="30" GaiLv="100" LvName="Phàm phẩm lv1" />
+  <Enhance Lv="2" Cost="48" GaiLv="100" LvName="Phàm phẩm lv2" />
+  <Enhance Lv="3" Cost="84" GaiLv="100" LvName="Phàm phẩm lv3" />
+  <Enhance Lv="4" Cost="126" GaiLv="100" LvName="Phàm phẩm lv4" />
+  <Enhance Lv="5" Cost="177" GaiLv="100" LvName="Phàm phẩm lv5" />
+  <Enhance Lv="6" Cost="243" GaiLv="100" LvName="Phàm phẩm lv6" />
+  <Enhance Lv="7" Cost="318" GaiLv="100" LvName="Phàm phẩm lv7" />
+  <Enhance Lv="8" Cost="405" GaiLv="100" LvName="Phàm phẩm lv8" />
+  <Enhance Lv="9" Cost="504" GaiLv="100" LvName="Phàm phẩm lv9" />
+  <Enhance Lv="10" Cost="612" GaiLv="100" LvName="Phàm phẩm lv10" />
+  <Enhance Lv="11" Cost="735" GaiLv="90" LvName="Tinh phẩm lv1" />
+  <Enhance Lv="12" Cost="867" GaiLv="90" LvName="Tinh phẩm lv2" />
+  <Enhance Lv="13" Cost="1011" GaiLv="90" LvName="Tinh phẩm lv3" />
+  <Enhance Lv="14" Cost="1167" GaiLv="90" LvName="Tinh phẩm lv4" />
+  <Enhance Lv="15" Cost="1335" GaiLv="90" LvName="Tinh phẩm lv5" />
+  <Enhance Lv="16" Cost="1512" GaiLv="90" LvName="Tinh phẩm lv6" />
+  <Enhance Lv="17" Cost="1704" GaiLv="90" LvName="Tinh phẩm lv7" />
+  <Enhance Lv="18" Cost="1905" GaiLv="90" LvName="Tinh phẩm lv8" />
+  <Enhance Lv="19" Cost="2118" GaiLv="90" LvName="Tinh phẩm lv9" />
+  <Enhance Lv="20" Cost="2346" GaiLv="90" LvName="Tinh phẩm lv10" />
+  <Enhance Lv="21" Cost="2583" GaiLv="80" LvName="Trăn phẩm lv1" />
+  <Enhance Lv="22" Cost="2832" GaiLv="80" LvName="Trăn phẩm lv2" />
+  <Enhance Lv="23" Cost="3093" GaiLv="80" LvName="Trăn phẩm lv3" />
+  <Enhance Lv="24" Cost="3363" GaiLv="80" LvName="Trăn phẩm lv4" />
+  <Enhance Lv="25" Cost="3648" GaiLv="80" LvName="Trăn phẩm lv5" />
+  <Enhance Lv="26" Cost="3945" GaiLv="80" LvName="Trăn phẩm lv6" />
+  <Enhance Lv="27" Cost="4254" GaiLv="80" LvName="Trăn phẩm lv7" />
+  <Enhance Lv="28" Cost="4575" GaiLv="80" LvName="Trăn phẩm lv8" />
+  <Enhance Lv="29" Cost="4908" GaiLv="80" LvName="Trăn phẩm lv9" />
+  <Enhance Lv="30" Cost="5253" GaiLv="80" LvName="Trăn phẩm lv10" />
+  <Enhance Lv="31" Cost="5610" GaiLv="70" LvName="Ngự phẩm lv1" />
+  <Enhance Lv="32" Cost="5982" GaiLv="70" LvName="Ngự phẩm lv2" />
+  <Enhance Lv="33" Cost="6363" GaiLv="70" LvName="Ngự phẩm lv3" />
+  <Enhance Lv="34" Cost="6759" GaiLv="70" LvName="Ngự phẩm lv4" />
+  <Enhance Lv="35" Cost="7167" GaiLv="70" LvName="Ngự phẩm lv5" />
+  <Enhance Lv="36" Cost="7590" GaiLv="70" LvName="Ngự phẩm lv6" />
+  <Enhance Lv="37" Cost="8025" GaiLv="70" LvName="Ngự phẩm lv7" />
+  <Enhance Lv="38" Cost="8472" GaiLv="70" LvName="Ngự phẩm lv8" />
+  <Enhance Lv="39" Cost="8934" GaiLv="70" LvName="Ngự phẩm lv9" />
+  <Enhance Lv="40" Cost="9411" GaiLv="70" LvName="Ngự phẩm lv10" />
+  <Enhance Lv="41" Cost="9900" GaiLv="60" LvName="Tiên phẩm lv1" />
+  <Enhance Lv="42" Cost="10407" GaiLv="60" LvName="Tiên phẩm lv2" />
+  <Enhance Lv="43" Cost="10926" GaiLv="60" LvName="Tiên phẩm lv3" />
+  <Enhance Lv="44" Cost="11460" GaiLv="60" LvName="Tiên phẩm lv4" />
+  <Enhance Lv="45" Cost="12012" GaiLv="60" LvName="Tiên phẩm lv5" />
+  <Enhance Lv="46" Cost="12579" GaiLv="60" LvName="Tiên phẩm lv6" />
+  <Enhance Lv="47" Cost="13161" GaiLv="60" LvName="Tiên phẩm lv7" />
+  <Enhance Lv="48" Cost="13764" GaiLv="60" LvName="Tiên phẩm lv8" />
+  <Enhance Lv="49" Cost="14382" GaiLv="60" LvName="Tiên phẩm lv9" />
+  <Enhance Lv="50" Cost="15021" GaiLv="60" LvName="Tiên phẩm lv10" />
+  <Enhance Lv="51" Cost="15678" GaiLv="50" LvName="Hiên phẩm lv1" />
+  <Enhance Lv="52" Cost="16356" GaiLv="50" LvName="Hiên phẩm lv2" />
+  <Enhance Lv="53" Cost="17055" GaiLv="50" LvName="Hiên phẩm lv3" />
+  <Enhance Lv="54" Cost="17778" GaiLv="50" LvName="Hiên phẩm lv4" />
+  <Enhance Lv="55" Cost="18525" GaiLv="50" LvName="Hiên phẩm lv5" />
+  <Enhance Lv="56" Cost="19296" GaiLv="50" LvName="Hiên phẩm lv6" />
+  <Enhance Lv="57" Cost="20097" GaiLv="50" LvName="Hiên phẩm lv7" />
+  <Enhance Lv="58" Cost="20925" GaiLv="50" LvName="Hiên phẩm lv8" />
+  <Enhance Lv="59" Cost="21786" GaiLv="50" LvName="Hiên phẩm lv9" />
+  <Enhance Lv="60" Cost="22683" GaiLv="50" LvName="Hiên phẩm lv10" />
+  <Enhance Lv="61" Cost="25737" GaiLv="40" LvName="Thần phẩm lv1" />
+  <Enhance Lv="62" Cost="26781" GaiLv="40" LvName="Thần phẩm lv2" />
+  <Enhance Lv="63" Cost="27786" GaiLv="40" LvName="Thần phẩm lv3" />
+  <Enhance Lv="64" Cost="28890" GaiLv="40" LvName="Thần phẩm lv4" />
+  <Enhance Lv="65" Cost="29805" GaiLv="40" LvName="Thần phẩm lv5" />
+  <Enhance Lv="66" Cost="30924" GaiLv="40" LvName="Thần phẩm lv6" />
+  <Enhance Lv="67" Cost="32001" GaiLv="40" LvName="Thần phẩm lv7" />
+  <Enhance Lv="68" Cost="33120" GaiLv="40" LvName="Thần phẩm lv8" />
+  <Enhance Lv="69" Cost="34035" GaiLv="40" LvName="Thần phẩm lv9" />
+  <Enhance Lv="70" Cost="35310" GaiLv="40" LvName="Thần phẩm lv10" />
+  <Enhance Lv="71" Cost="36450" GaiLv="40" LvName="Phật phẩm lv1" />
+  <Enhance Lv="72" Cost="37599" GaiLv="40" LvName="Phật phẩm lv2" />
+  <Enhance Lv="73" Cost="39399" GaiLv="40" LvName="Phật phẩm lv3" />
+  <Enhance Lv="74" Cost="41337" GaiLv="40" LvName="Phật phẩm lv4" />
+  <Enhance Lv="75" Cost="43431" GaiLv="40" LvName="Phật phẩm lv5" />
+  <Enhance Lv="76" Cost="45699" GaiLv="40" LvName="Phật phẩm lv6" />
+  <Enhance Lv="77" Cost="48165" GaiLv="40" LvName="Phật phẩm lv7" />
+  <Enhance Lv="78" Cost="50856" GaiLv="40" LvName="Phật phẩm lv8" />
+  <Enhance Lv="79" Cost="53802" GaiLv="40" LvName="Phật phẩm lv9" />
+  <Enhance Lv="80" Cost="57042" GaiLv="40" LvName="Phật phẩm lv10" />
+  <Enhance Lv="81" Cost="60612" GaiLv="40" LvName="Thánh phẩm lv1" />
+  <Enhance Lv="82" Cost="64563" GaiLv="40" LvName="Thánh phẩm lv2" />
+  <Enhance Lv="83" Cost="68949" GaiLv="40" LvName="Thánh phẩm lv3" />
+  <Enhance Lv="84" Cost="73833" GaiLv="40" LvName="Thánh phẩm lv4" />
+  <Enhance Lv="85" Cost="79290" GaiLv="40" LvName="Thánh phẩm lv5" />
+  <Enhance Lv="86" Cost="85404" GaiLv="40" LvName="Thánh phẩm lv6" />
+  <Enhance Lv="87" Cost="92280" GaiLv="40" LvName="Thánh phẩm lv7" />
+  <Enhance Lv="88" Cost="100029" GaiLv="40" LvName="Thánh phẩm lv8" />
+  <Enhance Lv="89" Cost="108792" GaiLv="40" LvName="Thánh phẩm lv9" />
+  <Enhance Lv="90" Cost="118725" GaiLv="40" LvName="Thánh phẩm lv10" />
+  <Enhance Lv="91" Cost="130017" GaiLv="40" LvName="Thiên đế lv1" />
+  <Enhance Lv="92" Cost="142881" GaiLv="40" LvName="Thiên đế lv2" />
+  <Enhance Lv="93" Cost="157578" GaiLv="40" LvName="Thiên đế lv3" />
+  <Enhance Lv="94" Cost="174405" GaiLv="40" LvName="Thiên đế lv4" />
+  <Enhance Lv="95" Cost="186972" GaiLv="40" LvName="Thiên đế lv5" />
+  <Enhance Lv="96" Cost="201096" GaiLv="40" LvName="Thiên đế lv6" />
+  <Enhance Lv="97" Cost="217374" GaiLv="40" LvName="Thiên đế lv7" />
+  <Enhance Lv="98" Cost="228069" GaiLv="40" LvName="Thiên đế lv8" />
+  <Enhance Lv="99" Cost="240726" GaiLv="40" LvName="Thiên đế lv9" />
+  <Enhance Lv="100" Cost="255000" GaiLv="40" LvName="Thiên đế lv10" />
+</Config>

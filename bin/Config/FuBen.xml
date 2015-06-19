@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSpy v2013 (http://www.altova.com) by  () -->
+<!--注释
+
+MapID：
+	剧情ID,对应ChuZheng数据JuQing下Id字段；
+    
+FengShenId:
+    通关副本时奖励的封神伙伴ID；0代表没有封神伙伴
+	
+FuBenID：
+	关卡ID,对应ChuZheng数据GuanKa下Id字段；
+	
+n_Name：
+	关卡名称；
+	
+Desc：
+	关卡描述；
+	
+NeedPlayerLevel：
+	关卡开启所需主将等级；
+	
+DiaoLuoID：
+	掉落ID,对应FuBenDiaoLuo数据DiaoLuoID字段；
+	
+SenceRes：
+	场景模型名称；
+	
+GS：
+	关卡怪物战力值；
+	
+TaskID：
+	关卡对应任务ID,对应Task数据ID字段；
+	0 	= 无任务；
+	非0 = 任务ID；
+
+DuibaiID：
+	关卡战斗前播放对白ID；
+	0 	= 无对白；
+	非0 = 对白ID；
+	
+DuiBaiID2：
+	关卡战斗后播放对白ID；
+	0 	= 无对白；
+	非0 = 对白ID；
+	
+Group：
+	副本中怪物信息：
+	MonsterID = 怪物ID,对应Monster数据ID字段
+	PlaceX = 怪物的X坐标,对应战斗场景的位置坐标,0-6；
+	PlaceY = 怪物的Y坐标,对应战斗场景的位置坐标,0-2；
+
+注释结束-->
+<FuBens>
+	<Map MapID="9998" FengShenId="0">
+		<FuBen FuBenID="9998" n_Name="Trận đấu 1" Desc="Trận đấu 1" NeedPlayerLevel="1" DiaoLuoID="0" SceneRes="model_tg" GS="0" TaskID="0" DuiBaiID="9001" DuiBaiID2="9019" PiecePos="0" FaBao1ID="0" FaBao1Lev="0" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0"/>
+	</Map>
+	<Map MapID="9999" FengShenId="0">
+		<FuBen FuBenID="9999" n_Name="Đấu trường" Desc="Đấu trường" NeedPlayerLevel="1" DiaoLuoID="0" SceneRes="model_jjc" GS="0" TaskID="0" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="0" FaBao1Lev="0" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0"/>
+	</Map>
+	<Map MapID="1" FengShenId="1">
+		<FuBen FuBenID="1" n_Name="Thôn Tuyết 1" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="1" DiaoLuoID="1" SceneRes="model_xd" GS="599" TaskID="1001" DuiBaiID="2007" DuiBaiID2="2012" PiecePos="1" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="1" PlaceX="4" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="2" n_Name="Thôn Tuyết 2" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="1" DiaoLuoID="2" SceneRes="model_xd" GS="1491" TaskID="1004" DuiBaiID="2026" DuiBaiID2="2028" PiecePos="4" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="2" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="3" PlaceX="4" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="3" n_Name="Thôn Tuyết 3" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="1" DiaoLuoID="3" SceneRes="model_xd" GS="1528" TaskID="1006" DuiBaiID="0" DuiBaiID2="0" PiecePos="2" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="4" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="5" PlaceX="4" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="4" n_Name="Linh Phong 1" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="1" DiaoLuoID="4" SceneRes="model_xd" GS="1712" TaskID="1007" DuiBaiID="2035" DuiBaiID2="2040" PiecePos="5" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="6" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="7" PlaceX="4" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="5" n_Name="Linh Phong 2" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="1" DiaoLuoID="5" SceneRes="model_xd" GS="3252" TaskID="1011" DuiBaiID="0" DuiBaiID2="0" PiecePos="6" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="8" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="9" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="10" PlaceX="4" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="6" n_Name="Linh Phong 3" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="1" DiaoLuoID="6" SceneRes="model_xd" GS="3064" TaskID="1012" DuiBaiID="2043" DuiBaiID2="2050" PiecePos="3" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="11" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="12" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="13" PlaceX="4" PlaceY="1"/>
+		</FuBen>
+	</Map>
+	<Map MapID="2" FengShenId="2">
+		<FuBen FuBenID="1" n_Name="Đồi Huyễn Thú 1" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="7" SceneRes="model_xg" GS="3814" TaskID="1014" DuiBaiID="2069" DuiBaiID2="2076" PiecePos="0" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="14" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="15" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="16" PlaceX="5" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="2" n_Name="Đồi Huyễn Thú 2" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="8" SceneRes="model_xg" GS="4417" TaskID="1016" DuiBaiID="0" DuiBaiID2="2087" PiecePos="2" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="17" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="18" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="19" PlaceX="5" PlaceY="0"/>
+		</FuBen>
+		<FuBen FuBenID="3" n_Name="Đồi Huyễn Thú 3" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="9" SceneRes="model_xg" GS="5922" TaskID="1017" DuiBaiID="0" DuiBaiID2="2093" PiecePos="0" FaBao1ID="0" FaBao1Lev="0" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="20" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="21" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="22" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="4" n_Name="Đồi Huyễn Thú 4" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="10" SceneRes="model_xg" GS="5871" TaskID="1019" DuiBaiID="0" DuiBaiID2="0" PiecePos="1" FaBao1ID="0" FaBao1Lev="0" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="23" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="24" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="25" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="5" n_Name="Đồi Huyễn Thú 5" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="11" SceneRes="model_xg" GS="7106" TaskID="1020" DuiBaiID="2102" DuiBaiID2="2105" PiecePos="0" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="26" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="27" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="28" PlaceX="5" PlaceY="0"/>
+		</FuBen>
+		<FuBen FuBenID="6" n_Name="Đồi Huyễn Thú 6" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="12" SceneRes="model_xg" GS="6089" TaskID="1021" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="29" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="30" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="31" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="7" n_Name="Đồi Huyễn Thú 7" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="13" SceneRes="model_xg" GS="7868" TaskID="1022" DuiBaiID="2113" DuiBaiID2="2118" PiecePos="4" FaBao1ID="0" FaBao1Lev="0" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="32" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="33" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="34" PlaceX="4" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="8" n_Name="Đồi Huyễn Thú 8" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="14" SceneRes="model_xg" GS="6465" TaskID="1024" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="35" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="36" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="37" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="9" n_Name="Đồi Huyễn Thú 9" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="15" SceneRes="model_xg" GS="10605" TaskID="1025" DuiBaiID="2124" DuiBaiID2="2134" PiecePos="3" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="38" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="39" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="40" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="902" PlaceX="5" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="10" n_Name="Đồi Huyễn Thú 10" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="16" SceneRes="model_xg" GS="10148" TaskID="1029" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="41" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="42" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="43" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="903" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="11" n_Name="Đồi Huyễn Thú 11" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="17" SceneRes="model_xg" GS="9773" TaskID="1030" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="44" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="45" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="46" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="904" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="12" n_Name="Đồi Huyễn Thú 12" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="26" SceneRes="model_xg" GS="11498" TaskID="1031" DuiBaiID="2135" DuiBaiID2="2143" PiecePos="6" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="47" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="48" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="49" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="905" PlaceX="5" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="13" n_Name="Đồi Huyễn Thú 13" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="27" SceneRes="model_xg" GS="12659" TaskID="1032" DuiBaiID="2151" DuiBaiID2="2158" PiecePos="0" FaBao1ID="180014" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="50" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="51" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="52" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="906" PlaceX="5" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="14" n_Name="Đồi Huyễn Thú 14" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="28" SceneRes="model_xg" GS="10119" TaskID="1033" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="54" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="53" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="55" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="907" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="15" n_Name="Đồi Huyễn Thú 15" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="29" SceneRes="model_xg" GS="14155" TaskID="1034" DuiBaiID="2179" DuiBaiID2="2188" PiecePos="5" FaBao1ID="180014" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="56" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="57" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="58" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="908" PlaceX="5" PlaceY="1"/>
+		</FuBen>
+	</Map>
+	<Map MapID="3" FengShenId="3">
+		<FuBen FuBenID="1" n_Name="Đồi cát cháy 1" Desc="Có thể rớt Sài Hồ Thảo" NeedPlayerLevel="11" DiaoLuoID="37" SceneRes="model_hm" GS="15292" TaskID="1053" DuiBaiID="2596" DuiBaiID2="2611" PiecePos="0" FaBao1ID="180014" FaBao1Lev="3" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="116" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="117" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="118" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="119" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="2" n_Name="Đồi cát cháy 2" Desc="Có thể rớt Sài Hồ Thảo" NeedPlayerLevel="11" DiaoLuoID="38" SceneRes="model_hm" GS="13291" TaskID="1055" DuiBaiID="0" DuiBaiID2="0" PiecePos="2" FaBao1ID="180018" FaBao1Lev="2" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="120" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="121" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="122" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="123" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="3" n_Name="Đồi cát cháy 3" Desc="Có thể rớt Ma Hoàng" NeedPlayerLevel="11" DiaoLuoID="39" SceneRes="model_hm" GS="14194" TaskID="1056" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180018" FaBao1Lev="2" FaBao2ID="180006" FaBao2Lev="1" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="124" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="125" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="126" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="127" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="4" n_Name="Đồi cát cháy 4" Desc="Có thể rớt Thiên Anh Hoa" NeedPlayerLevel="11" DiaoLuoID="40" SceneRes="model_hm" GS="14205" TaskID="1057" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="3" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="128" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="129" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="130" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="131" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="5" n_Name="Đồi cát cháy 5" Desc="Có thể rớt Ma Hoàng" NeedPlayerLevel="11" DiaoLuoID="41" SceneRes="model_hm" GS="21118" TaskID="1058" DuiBaiID="2615" DuiBaiID2="2629" PiecePos="0" FaBao1ID="180014" FaBao1Lev="3" FaBao2ID="0" FaBao2Lev="1" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="132" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="133" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="134" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="135" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="909" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="6" n_Name="Đồi cát cháy 6" Desc="Có thể rớt Thiên Anh Hoa" NeedPlayerLevel="11" DiaoLuoID="42" SceneRes="model_hm" GS="21828" TaskID="1059" DuiBaiID="2642" DuiBaiID2="2646" PiecePos="0" FaBao1ID="180018" FaBao1Lev="2" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="136" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="137" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="138" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="139" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="910" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="7" n_Name="Đồi cát cháy 7" Desc="Có thể rớt Ma Hoàng" NeedPlayerLevel="11" DiaoLuoID="43" SceneRes="model_hm" GS="22012" TaskID="1060" DuiBaiID="2672" DuiBaiID2="2682" PiecePos="4" FaBao1ID="180014" FaBao1Lev="3" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="140" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="141" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="142" PlaceX="6" PlaceY="2"/>
+			<Group MonsterID="143" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="911" PlaceX="4" PlaceY="0"/>
+		</FuBen>
+		<FuBen FuBenID="8" n_Name="Đồi cát cháy 8" Desc="Có thể rớt Thiên Anh Hoa" NeedPlayerLevel="11" DiaoLuoID="44" SceneRes="model_hm" GS="20948" TaskID="1061" DuiBaiID="2710" DuiBaiID2="2720" PiecePos="0" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="180024" FaBao2Lev="1" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="144" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="145" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="146" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="147" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="912" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="9" n_Name="Đồi cát cháy 9" Desc="Có thể rớt Ma Hoàng" NeedPlayerLevel="11" DiaoLuoID="45" SceneRes="model_hm" GS="20560" TaskID="1062" DuiBaiID="0" DuiBaiID2="2753" PiecePos="0" FaBao1ID="180018" FaBao1Lev="2" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="148" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="149" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="150" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="151" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="913" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="10" n_Name="Đồi cát cháy 10" Desc="Có thể rớt Thiên Anh Hoa" NeedPlayerLevel="11" DiaoLuoID="46" SceneRes="model_hm" GS="24080" TaskID="1063" DuiBaiID="2757" DuiBaiID2="2771" PiecePos="0" FaBao1ID="180018" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="152" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="153" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="154" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="155" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="914" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="11" n_Name="Đồi cát cháy 11" Desc="Có thể rớt Ma Hoàng" NeedPlayerLevel="11" DiaoLuoID="47" SceneRes="model_hm" GS="22238" TaskID="1065" DuiBaiID="2793" DuiBaiID2="2800" PiecePos="0" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="180024" FaBao2Lev="1" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="156" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="157" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="158" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="159" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="915" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="12" n_Name="Đồi cát cháy 12" Desc="Có thể rớt Thiên Anh Hoa" NeedPlayerLevel="11" DiaoLuoID="48" SceneRes="model_hm" GS="21388" TaskID="1066" DuiBaiID="0" DuiBaiID2="0" PiecePos="6" FaBao1ID="180020" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="160" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="161" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="162" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="163" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="916" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="13" n_Name="Đồi cát cháy 13" Desc="Có thể rớt Ma Hoàng" NeedPlayerLevel="11" DiaoLuoID="49" SceneRes="model_hm" GS="23423" TaskID="1067" DuiBaiID="2811" DuiBaiID2="2827" PiecePos="0" FaBao1ID="180014" FaBao1Lev="3" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="164" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="165" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="166" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="167" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="917" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="14" n_Name="Đồi cát cháy 14" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="11" DiaoLuoID="50" SceneRes="model_hm" GS="25107" TaskID="1070" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="3" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="168" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="169" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="170" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="171" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="172" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="15" n_Name="Đồi cát cháy 15" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="11" DiaoLuoID="51" SceneRes="model_hm" GS="25727" TaskID="1071" DuiBaiID="2834" DuiBaiID2="2838" PiecePos="0" FaBao1ID="180018" FaBao1Lev="2" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="173" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="174" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="175" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="176" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="177" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="16" n_Name="Biển cát 1" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="16" DiaoLuoID="52" SceneRes="model_hm" GS="29270" TaskID="1072" DuiBaiID="2888" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="3" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="178" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="179" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="180" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="181" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="182" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="930" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="17" n_Name="Biển cát 2" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="16" DiaoLuoID="53" SceneRes="model_hm" GS="28260" TaskID="1073" DuiBaiID="0" DuiBaiID2="0" PiecePos="1" FaBao1ID="180014" FaBao1Lev="3" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="183" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="184" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="185" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="186" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="187" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="931" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="18" n_Name="Biển cát 3" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="16" DiaoLuoID="54" SceneRes="model_hm" GS="27775" TaskID="1074" DuiBaiID="2892" DuiBaiID2="2904" PiecePos="0" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="188" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="189" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="190" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="191" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="192" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="932" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="19" n_Name="Biển cát 4" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="16" DiaoLuoID="55" SceneRes="model_hm" GS="28071" TaskID="1075" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180018" FaBao1Lev="2" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="193" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="194" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="195" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="196" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="197" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="933" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="20" n_Name="Biển cát 5" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="16" DiaoLuoID="56" SceneRes="model_hm" GS="31934" TaskID="1076" DuiBaiID="2912" DuiBaiID2="2918" PiecePos="0" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="198" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="199" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="200" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="201" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="202" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="934" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="21" n_Name="Biển cát 6" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="16" DiaoLuoID="57" SceneRes="model_hm" GS="33368" TaskID="1079" DuiBaiID="2934" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="3" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="203" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="204" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="205" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="206" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="207" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="935" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="22" n_Name="Biển cát 7" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="16" DiaoLuoID="58" SceneRes="model_hm" GS="33301" TaskID="1080" DuiBaiID="0" DuiBaiID2="0" PiecePos="3" FaBao1ID="180014" FaBao1Lev="3" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="208" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="209" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="210" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="211" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="212" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="936" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="23" n_Name="Biển cát 8" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="16" DiaoLuoID="59" SceneRes="model_hm" GS="33346" TaskID="1081" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180018" FaBao1Lev="2" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="213" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="214" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="215" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="216" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="217" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="937" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="24" n_Name="Biển cát 9" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="16" DiaoLuoID="60" SceneRes="model_hm" GS="33639" TaskID="1082" DuiBaiID="2938" DuiBaiID2="2947" PiecePos="0" FaBao1ID="180014" FaBao1Lev="3" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="218" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="219" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="220" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="221" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="222" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="938" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="25" n_Name="Biển cát 10" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="16" DiaoLuoID="61" SceneRes="model_hm" GS="37692" TaskID="1083" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180018" FaBao1Lev="2" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="223" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="224" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="225" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="226" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="227" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="939" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="26" n_Name="Biển cát 11" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="16" DiaoLuoID="62" SceneRes="model_hm" GS="37768" TaskID="1084" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="3" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="228" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="229" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="230" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="231" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="232" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="940" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="27" n_Name="Biển cát 12" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="16" DiaoLuoID="63" SceneRes="model_hm" GS="41441" TaskID="1085" DuiBaiID="2954" DuiBaiID2="2971" PiecePos="0" FaBao1ID="180014" FaBao1Lev="3" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="233" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="234" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="235" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="236" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="237" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="941" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="28" n_Name="Biển cát 13" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="16" DiaoLuoID="64" SceneRes="model_hm" GS="37705" TaskID="1086" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180018" FaBao1Lev="2" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="238" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="239" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="240" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="241" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="242" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="942" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="29" n_Name="Biển cát 14" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="16" DiaoLuoID="65" SceneRes="model_hm" GS="38650" TaskID="1087" DuiBaiID="0" DuiBaiID2="2981" PiecePos="0" FaBao1ID="180014" FaBao1Lev="3" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="243" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="244" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="245" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="246" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="247" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="943" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="30" n_Name="Biển cát 15" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="16" DiaoLuoID="66" SceneRes="model_hm" GS="41197" TaskID="1088" DuiBaiID="3009" DuiBaiID2="3023" PiecePos="5" FaBao1ID="180018" FaBao1Lev="2" FaBao2ID="180014" FaBao2Lev="2" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="248" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="249" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="250" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="251" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="252" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="944" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+	</Map>
+	<Map MapID="4" FengShenId="4">
+		<FuBen FuBenID="1" n_Name="Huyễn Ảnh Tiên Đạo 1" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="23" DiaoLuoID="67" SceneRes="model_cl" GS="53031" TaskID="1090" DuiBaiID="3084" DuiBaiID2="3102" PiecePos="0" FaBao1ID="180014" FaBao1Lev="4" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="253" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="254" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="255" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="256" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="257" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="945" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="2" n_Name="Huyễn Ảnh Tiên Đạo 2" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="23" DiaoLuoID="68" SceneRes="model_cl" GS="52898" TaskID="1091" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="4" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="258" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="259" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="260" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="261" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="262" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="946" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="3" n_Name="Huyễn Ảnh Tiên Đạo 3" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="23" DiaoLuoID="69" SceneRes="model_cl" GS="53031" TaskID="1092" DuiBaiID="0" DuiBaiID2="0" PiecePos="2" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="263" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="264" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="265" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="266" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="267" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="947" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="4" n_Name="Huyễn Ảnh Tiên Đạo 4" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="23" DiaoLuoID="70" SceneRes="model_cl" GS="52550" TaskID="1093" DuiBaiID="3116" DuiBaiID2="3129" PiecePos="0" FaBao1ID="180018" FaBao1Lev="2" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="268" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="269" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="270" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="271" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="272" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="948" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="5" n_Name="Huyễn Ảnh Tiên Đạo 5" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="23" DiaoLuoID="71" SceneRes="model_cl" GS="55126" TaskID="1094" DuiBaiID="3171" DuiBaiID2="3174" PiecePos="0" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="273" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="274" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="275" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="276" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="277" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="949" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="6" n_Name="Huyễn Ảnh Tiên Đạo 6" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="23" DiaoLuoID="72" SceneRes="model_cl" GS="54852" TaskID="1095" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="4" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="278" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="279" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="280" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="281" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="282" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="283" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="7" n_Name="Huyễn Ảnh Tiên Đạo 7" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="23" DiaoLuoID="73" SceneRes="model_cl" GS="55184" TaskID="1096" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="4" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="284" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="285" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="286" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="287" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="288" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="289" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="8" n_Name="Huyễn Ảnh Tiên Đạo 8" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="23" DiaoLuoID="74" SceneRes="model_cl" GS="56139" TaskID="1097" DuiBaiID="3179" DuiBaiID2="3190" PiecePos="4" FaBao1ID="180018" FaBao1Lev="2" FaBao2ID="180014" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="290" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="291" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="292" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="293" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="294" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="295" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="9" n_Name="Huyễn Ảnh Tiên Đạo 9" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="23" DiaoLuoID="75" SceneRes="model_cl" GS="58784" TaskID="1098" DuiBaiID="3212" DuiBaiID2="3221" PiecePos="0" FaBao1ID="180014" FaBao1Lev="4" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="296" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="297" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="298" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="299" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="300" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="301" PlaceX="4" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="10" n_Name="Huyễn Ảnh Tiên Đạo 10" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="23" DiaoLuoID="76" SceneRes="model_cl" GS="58493" TaskID="1099" DuiBaiID="3224" DuiBaiID2="3226" PiecePos="0" FaBao1ID="180018" FaBao1Lev="2" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="302" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="303" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="304" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="305" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="306" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="307" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="11" n_Name="Huyễn Ảnh Tiên Đạo 11" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="23" DiaoLuoID="77" SceneRes="model_cl" GS="57256" TaskID="1100" DuiBaiID="3238" DuiBaiID2="3244" PiecePos="0" FaBao1ID="180014" FaBao1Lev="4" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="308" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="309" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="310" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="311" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="312" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="313" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="12" n_Name="Huyễn Ảnh Tiên Đạo 12" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="23" DiaoLuoID="78" SceneRes="model_cl" GS="57243" TaskID="1101" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="4" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="314" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="315" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="316" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="317" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="318" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="319" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="13" n_Name="Huyễn Ảnh Tiên Đạo 13" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="23" DiaoLuoID="79" SceneRes="model_cl" GS="60847" TaskID="1102" DuiBaiID="0" DuiBaiID2="3259" PiecePos="6" FaBao1ID="180018" FaBao1Lev="2" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="320" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="321" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="322" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="323" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="324" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="325" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="14" n_Name="Huyễn Ảnh Tiên Đạo 14" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="23" DiaoLuoID="80" SceneRes="model_cl" GS="11528" TaskID="1103" DuiBaiID="3267" DuiBaiID2="3276" PiecePos="0" FaBao1ID="0" FaBao1Lev="0" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="326" PlaceX="5" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="15" n_Name="Huyễn Ảnh Tiên Đạo 15" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="23" DiaoLuoID="81" SceneRes="model_cl" GS="61565" TaskID="1104" DuiBaiID="3295" DuiBaiID2="3297" PiecePos="0" FaBao1ID="180014" FaBao1Lev="4" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="332" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="333" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="334" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="335" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="336" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="337" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="16" n_Name="Lục Đình 1" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="26" DiaoLuoID="82" SceneRes="model_cl" GS="61603" TaskID="1106" DuiBaiID="3315" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="338" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="339" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="340" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="341" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="342" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="343" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="17" n_Name="Lục Đình 2" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="26" DiaoLuoID="83" SceneRes="model_cl" GS="63998" TaskID="1107" DuiBaiID="3318" DuiBaiID2="3324" PiecePos="0" FaBao1ID="180016" FaBao1Lev="5" FaBao2ID="180003" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="344" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="345" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="346" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="347" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="348" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="349" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="18" n_Name="Lục Đình 3" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="26" DiaoLuoID="84" SceneRes="model_cl" GS="11858" TaskID="1108" DuiBaiID="3331" DuiBaiID2="3343" PiecePos="1" FaBao1ID="0" FaBao1Lev="0" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="350" PlaceX="5" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="19" n_Name="Lục Đình 4" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="26" DiaoLuoID="85" SceneRes="model_cl" GS="62551" TaskID="1109" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="356" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="357" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="358" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="359" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="360" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="361" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="20" n_Name="Lục Đình 5" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="26" DiaoLuoID="86" SceneRes="model_cl" GS="62743" TaskID="1110" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="362" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="363" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="364" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="365" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="366" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="367" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="21" n_Name="Lục Đình 6" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="26" DiaoLuoID="87" SceneRes="model_cl" GS="67237" TaskID="1111" DuiBaiID="3373" DuiBaiID2="3381" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="368" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="369" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="370" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="371" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="372" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="373" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="22" n_Name="Lục Đình 7" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="26" DiaoLuoID="88" SceneRes="model_cl" GS="65364" TaskID="1112" DuiBaiID="3398" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="374" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="375" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="376" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="377" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="378" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="379" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="23" n_Name="Lục Đình 8" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="26" DiaoLuoID="89" SceneRes="model_cl" GS="66076" TaskID="1113" DuiBaiID="3399" DuiBaiID2="3402" PiecePos="3" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="380" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="381" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="382" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="383" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="384" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="385" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="24" n_Name="Lục Đình 9" Desc="Có thể rớt Huyễn Quang Đỉnh" NeedPlayerLevel="26" DiaoLuoID="90" SceneRes="model_cl" GS="65715" TaskID="1114" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="386" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="387" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="388" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="389" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="390" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="391" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="25" n_Name="Lục Đình 10" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="26" DiaoLuoID="91" SceneRes="model_cl" GS="68237" TaskID="1115" DuiBaiID="3403" DuiBaiID2="3411" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="392" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="393" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="394" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="395" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="396" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="397" PlaceX="4" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="26" n_Name="Lục Đình 11" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="26" DiaoLuoID="92" SceneRes="model_cl" GS="67985" TaskID="1116" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="398" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="399" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="400" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="401" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="402" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="403" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="27" n_Name="Lục Đình 12" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="26" DiaoLuoID="93" SceneRes="model_cl" GS="67985" TaskID="1117" DuiBaiID="0" DuiBaiID2="3431" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="404" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="405" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="406" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="407" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="408" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="409" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="28" n_Name="Lục Đình 13" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="26" DiaoLuoID="94" SceneRes="model_cl" GS="70836" TaskID="1118" DuiBaiID="3437" DuiBaiID2="3458" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="410" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="411" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="412" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="413" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="414" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="415" PlaceX="5" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="29" n_Name="Lục Đình 14" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="26" DiaoLuoID="95" SceneRes="model_cl" GS="71375" TaskID="1119" DuiBaiID="3461" DuiBaiID2="3466" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="416" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="417" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="418" PlaceX="6" PlaceY="2"/>
+			<Group MonsterID="419" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="420" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="421" PlaceX="4" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="30" n_Name="Lục Đình 15" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="26" DiaoLuoID="96" SceneRes="model_cl" GS="69039" TaskID="1120" DuiBaiID="3486" DuiBaiID2="3492" PiecePos="5" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="3" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="422" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="423" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="424" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="425" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="426" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="427" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+	</Map>
+	<Map MapID="5" FengShenId="5">
+		<FuBen FuBenID="1" n_Name="Lôi Đài Cương Thi 1" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="30" DiaoLuoID="97" SceneRes="model_mj" GS="81877" TaskID="1121" DuiBaiID="3556" DuiBaiID2="3564" PiecePos="2" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180003" FaBao2Lev="5" FaBao3ID="180022" FaBao3Lev="5">
+			<Group MonsterID="428" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="429" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="430" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="431" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="432" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="433" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="2" n_Name="Lôi Đài Cương Thi 2" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="30" DiaoLuoID="98" SceneRes="model_mj" GS="80514" TaskID="1122" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180015" FaBao1Lev="5" FaBao2ID="180003" FaBao2Lev="5" FaBao3ID="180022" FaBao3Lev="5">
+			<Group MonsterID="434" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="435" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="436" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="437" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="438" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="439" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="3" n_Name="Lôi Đài Cương Thi 3" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="30" DiaoLuoID="99" SceneRes="model_mj" GS="82013" TaskID="1125" DuiBaiID="3576" DuiBaiID2="3583" PiecePos="0" FaBao1ID="180020" FaBao1Lev="5" FaBao2ID="180006" FaBao2Lev="5" FaBao3ID="180022" FaBao3Lev="5">
+			<Group MonsterID="440" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="441" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="442" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="443" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="444" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="445" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="4" n_Name="Lôi Đài Cương Thi 4" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="30" DiaoLuoID="100" SceneRes="model_mj" GS="84621" TaskID="1126" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180024" FaBao1Lev="5" FaBao2ID="180003" FaBao2Lev="5" FaBao3ID="180022" FaBao3Lev="5">
+			<Group MonsterID="446" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="447" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="448" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="449" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="450" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="451" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="5" n_Name="Lôi Đài Cương Thi 5" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="30" DiaoLuoID="101" SceneRes="model_mj" GS="86724" TaskID="1127" DuiBaiID="3590" DuiBaiID2="3593" PiecePos="4" FaBao1ID="180009" FaBao1Lev="5" FaBao2ID="180011" FaBao2Lev="5" FaBao3ID="180015" FaBao3Lev="5">
+			<Group MonsterID="452" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="453" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="454" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="455" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="456" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="457" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="6" n_Name="Lôi Đài Cương Thi 6" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="30" DiaoLuoID="102" SceneRes="model_mj" GS="84087" TaskID="1128" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180024" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="5" FaBao3ID="180022" FaBao3Lev="5">
+			<Group MonsterID="458" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="459" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="460" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="461" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="462" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="463" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="7" n_Name="Lôi Đài Cương Thi 7" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="30" DiaoLuoID="103" SceneRes="model_mj" GS="94217" TaskID="1129" DuiBaiID="3611" DuiBaiID2="3624" PiecePos="0" FaBao1ID="180015" FaBao1Lev="5" FaBao2ID="180003" FaBao2Lev="5" FaBao3ID="180022" FaBao3Lev="5">
+			<Group MonsterID="464" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="465" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="466" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="467" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="468" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="469" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="8" n_Name="Lôi Đài Cương Thi 8" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="30" DiaoLuoID="104" SceneRes="model_mj" GS="94009" TaskID="1130" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180011" FaBao1Lev="5" FaBao2ID="180024" FaBao2Lev="5" FaBao3ID="180003" FaBao3Lev="5">
+			<Group MonsterID="470" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="471" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="472" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="473" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="474" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="475" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="9" n_Name="Lôi Đài Cương Thi 9" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="30" DiaoLuoID="105" SceneRes="model_mj" GS="93092" TaskID="1131" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180011" FaBao1Lev="5" FaBao2ID="180024" FaBao2Lev="5" FaBao3ID="180003" FaBao3Lev="5">
+			<Group MonsterID="476" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="477" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="478" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="479" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="480" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="481" PlaceX="4" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="10" n_Name="Lôi Đài Cương Thi 10" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="30" DiaoLuoID="106" SceneRes="model_mj" GS="96043" TaskID="1132" DuiBaiID="0" DuiBaiID2="3643" PiecePos="0" FaBao1ID="180011" FaBao1Lev="5" FaBao2ID="180002" FaBao2Lev="5" FaBao3ID="180022" FaBao3Lev="5">
+			<Group MonsterID="482" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="483" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="484" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="485" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="486" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="487" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="11" n_Name="Lôi Đài Cương Thi 11" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="30" DiaoLuoID="107" SceneRes="model_mj" GS="95779" TaskID="1133" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180024" FaBao1Lev="5" FaBao2ID="180011" FaBao2Lev="5" FaBao3ID="180003" FaBao3Lev="5">
+			<Group MonsterID="488" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="489" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="490" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="491" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="492" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="493" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="12" n_Name="Lôi Đài Cương Thi 12" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="30" DiaoLuoID="108" SceneRes="model_mj" GS="100233" TaskID="1134" DuiBaiID="3646" DuiBaiID2="3657" PiecePos="0" FaBao1ID="180009" FaBao1Lev="5" FaBao2ID="180011" FaBao2Lev="5" FaBao3ID="180015" FaBao3Lev="5">
+			<Group MonsterID="494" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="495" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="496" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="497" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="498" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="499" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="13" n_Name="Lôi Đài Cương Thi 13" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="30" DiaoLuoID="109" SceneRes="model_mj" GS="95779" TaskID="1135" DuiBaiID="0" DuiBaiID2="0" PiecePos="6" FaBao1ID="180011" FaBao1Lev="5" FaBao2ID="180002" FaBao2Lev="5" FaBao3ID="180003" FaBao3Lev="5">
+			<Group MonsterID="500" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="501" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="502" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="503" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="504" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="505" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="14" n_Name="Lôi Đài Cương Thi 14" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="30" DiaoLuoID="110" SceneRes="model_mj" GS="105560" TaskID="1136" DuiBaiID="3662" DuiBaiID2="3670" PiecePos="0" FaBao1ID="180009" FaBao1Lev="5" FaBao2ID="180011" FaBao2Lev="5" FaBao3ID="180015" FaBao3Lev="5">
+			<Group MonsterID="506" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="507" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="508" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="509" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="510" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="511" PlaceX="4" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="15" n_Name="Lôi Đài Cương Thi 15" Desc="Có thể rớt Phần Thiên Phách, Phần Thiên  Vũ" NeedPlayerLevel="30" DiaoLuoID="111" SceneRes="model_mj" GS="105213" TaskID="1137" DuiBaiID="3687" DuiBaiID2="3689" PiecePos="0" FaBao1ID="180011" FaBao1Lev="5" FaBao2ID="180024" FaBao2Lev="5" FaBao3ID="180003" FaBao3Lev="5">
+			<Group MonsterID="512" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="513" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="514" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="515" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="516" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="517" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="16" n_Name="Lệ Quỷ Đàn 1" Desc="Có thể rớt Thiên Ảo Đỉnh, Thiên Ảo Phách, Thiên Ảo Vũ" NeedPlayerLevel="35" DiaoLuoID="112" SceneRes="model_mj" GS="111282" TaskID="1138" DuiBaiID="3738" DuiBaiID2="3758" PiecePos="0" FaBao1ID="180024" FaBao1Lev="5" FaBao2ID="180011" FaBao2Lev="5" FaBao3ID="180003" FaBao3Lev="5">
+			<Group MonsterID="518" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="519" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="520" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="521" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="522" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="523" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="17" n_Name="Lệ Quỷ Đàn 2" Desc="Có thể rớt Thiên Ảo Đỉnh, Thiên Ảo Phách, Thiên Ảo Vũ" NeedPlayerLevel="35" DiaoLuoID="113" SceneRes="model_mj" GS="107878" TaskID="1139" DuiBaiID="3791" DuiBaiID2="0" PiecePos="0" FaBao1ID="180011" FaBao1Lev="5" FaBao2ID="180002" FaBao2Lev="5" FaBao3ID="180003" FaBao3Lev="5">
+			<Group MonsterID="524" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="525" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="526" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="527" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="528" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="529" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="18" n_Name="Lệ Quỷ Đàn 3" Desc="Có thể rớt Thiên Ảo Đỉnh, Thiên Ảo Phách, Thiên Ảo Vũ" NeedPlayerLevel="35" DiaoLuoID="114" SceneRes="model_mj" GS="107750" TaskID="1142" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180011" FaBao1Lev="5" FaBao2ID="180024" FaBao2Lev="5" FaBao3ID="180003" FaBao3Lev="5">
+			<Group MonsterID="530" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="531" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="532" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="533" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="534" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="535" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="19" n_Name="Lệ Quỷ Đàn 4" Desc="Có thể rớt Thiên Ảo Đỉnh, Thiên Ảo Phách, Thiên Ảo Vũ" NeedPlayerLevel="35" DiaoLuoID="115" SceneRes="model_mj" GS="110762" TaskID="1143" DuiBaiID="0" DuiBaiID2="0" PiecePos="1" FaBao1ID="180020" FaBao1Lev="5" FaBao2ID="180006" FaBao2Lev="5" FaBao3ID="180022" FaBao3Lev="5">
+			<Group MonsterID="536" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="537" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="538" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="539" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="540" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="541" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="20" n_Name="Lệ Quỷ Đàn 5" Desc="Có thể rớt Thiên Ảo Đỉnh, Thiên Ảo Phách, Thiên Ảo Vũ" NeedPlayerLevel="35" DiaoLuoID="116" SceneRes="model_mj" GS="110762" TaskID="1144" DuiBaiID="3792" DuiBaiID2="3795" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180003" FaBao2Lev="5" FaBao3ID="180022" FaBao3Lev="5">
+			<Group MonsterID="542" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="543" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="544" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="545" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="546" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="547" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="21" n_Name="Lệ Quỷ Đàn 6" Desc="Có thể rớt Thiên Ảo Đỉnh, Thiên Ảo Phách, Thiên Ảo Vũ" NeedPlayerLevel="35" DiaoLuoID="117" SceneRes="model_mj" GS="111775" TaskID="1145" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180011" FaBao1Lev="5" FaBao2ID="180024" FaBao2Lev="5" FaBao3ID="180003" FaBao3Lev="5">
+			<Group MonsterID="548" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="549" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="550" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="551" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="552" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="553" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="22" n_Name="Lệ Quỷ Đàn 7" Desc="Có thể rớt Thiên Ảo Đỉnh, Thiên Ảo Phách, Thiên Ảo Vũ" NeedPlayerLevel="35" DiaoLuoID="118" SceneRes="model_mj" GS="115287" TaskID="1146" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180015" FaBao1Lev="5" FaBao2ID="180003" FaBao2Lev="5" FaBao3ID="108822" FaBao3Lev="5">
+			<Group MonsterID="554" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="555" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="556" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="557" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="558" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="559" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="23" n_Name="Lệ Quỷ Đàn 8" Desc="Có thể rớt Thiên Ảo Đỉnh, Thiên Ảo Phách, Thiên Ảo Vũ" NeedPlayerLevel="35" DiaoLuoID="119" SceneRes="model_mj" GS="115818" TaskID="1147" DuiBaiID="0" DuiBaiID2="3821" PiecePos="0" FaBao1ID="180020" FaBao1Lev="5" FaBao2ID="180015" FaBao2Lev="5" FaBao3ID="180022" FaBao3Lev="5">
+			<Group MonsterID="560" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="561" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="562" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="563" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="564" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="565" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="24" n_Name="Lệ Quỷ Đàn 9" Desc="Có thể rớt Thiên Ảo Đỉnh, Thiên Ảo Phách, Thiên Ảo Vũ" NeedPlayerLevel="35" DiaoLuoID="120" SceneRes="model_mj" GS="116229" TaskID="1148" DuiBaiID="0" DuiBaiID2="0" PiecePos="3" FaBao1ID="180015" FaBao1Lev="5" FaBao2ID="180003" FaBao2Lev="5" FaBao3ID="108822" FaBao3Lev="5">
+			<Group MonsterID="566" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="567" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="568" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="569" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="570" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="571" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="25" n_Name="Lệ Quỷ Đàn 10" Desc="Có thể rớt Thiên Ảo Đỉnh, Thiên Ảo Phách, Thiên Ảo Vũ" NeedPlayerLevel="35" DiaoLuoID="121" SceneRes="model_mj" GS="122193" TaskID="1149" DuiBaiID="0" DuiBaiID2="3835" PiecePos="0" FaBao1ID="180011" FaBao1Lev="5" FaBao2ID="180024" FaBao2Lev="5" FaBao3ID="180003" FaBao3Lev="5">
+			<Group MonsterID="572" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="573" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="574" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="575" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="576" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="577" PlaceX="4" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="26" n_Name="Lệ Quỷ Đàn 11" Desc="Có thể rớt Thiên Ảo Đỉnh, Thiên Ảo Phách, Thiên Ảo Vũ" NeedPlayerLevel="35" DiaoLuoID="122" SceneRes="model_mj" GS="122459" TaskID="1150" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180015" FaBao1Lev="5" FaBao2ID="180003" FaBao2Lev="5" FaBao3ID="108822" FaBao3Lev="5">
+			<Group MonsterID="578" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="579" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="580" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="581" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="582" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="583" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="27" n_Name="Lệ Quỷ Đàn 12" Desc="Có thể rớt Thiên Ảo Đỉnh, Thiên Ảo Phách, Thiên Ảo Vũ" NeedPlayerLevel="35" DiaoLuoID="123" SceneRes="model_mj" GS="123984" TaskID="1151" DuiBaiID="3841" DuiBaiID2="3849" PiecePos="0" FaBao1ID="180009" FaBao1Lev="5" FaBao2ID="180011" FaBao2Lev="5" FaBao3ID="180015" FaBao3Lev="5">
+			<Group MonsterID="584" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="585" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="586" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="587" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="588" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="589" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="28" n_Name="Lệ Quỷ Đàn 13" Desc="Có thể rớt Thiên Ảo Đỉnh, Thiên Ảo Phách, Thiên Ảo Vũ" NeedPlayerLevel="35" DiaoLuoID="124" SceneRes="model_mj" GS="122457" TaskID="1152" DuiBaiID="3862" DuiBaiID2="0" PiecePos="0" FaBao1ID="180011" FaBao1Lev="5" FaBao2ID="180024" FaBao2Lev="5" FaBao3ID="180003" FaBao3Lev="5">
+			<Group MonsterID="590" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="591" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="592" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="593" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="594" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="595" PlaceX="5" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="29" n_Name="Lệ Quỷ Đàn 14" Desc="Có thể rớt Thiên Ảo Đỉnh, Thiên Ảo Phách, Thiên Ảo Vũ" NeedPlayerLevel="35" DiaoLuoID="125" SceneRes="model_mj" GS="130044" TaskID="1153" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180011" FaBao1Lev="5" FaBao2ID="180024" FaBao2Lev="5" FaBao3ID="180003" FaBao3Lev="5">
+			<Group MonsterID="596" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="597" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="598" PlaceX="6" PlaceY="2"/>
+			<Group MonsterID="599" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="600" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="601" PlaceX="4" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="30" n_Name="Lệ Quỷ Đàn 15" Desc="Có thể rớt Thiên Ảo Đỉnh, Thiên Ảo Phách, Thiên Ảo Vũ" NeedPlayerLevel="35" DiaoLuoID="126" SceneRes="model_mj" GS="130709" TaskID="1154" DuiBaiID="3865" DuiBaiID2="3872" PiecePos="5" FaBao1ID="180015" FaBao1Lev="5" FaBao2ID="180003" FaBao2Lev="5" FaBao3ID="108822" FaBao3Lev="5">
+			<Group MonsterID="602" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="603" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="604" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="605" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="606" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="607" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+	</Map>
+	<Map MapID="6" FengShenId="6">
+		<FuBen FuBenID="1" n_Name="Bàn Long Vân Hải1" Desc="Có thể rớt Thiên Ảo Đỉnh, Thiên Ảo Phách, Thiên Ảo Vũ" NeedPlayerLevel="40" DiaoLuoID="127" SceneRes="model_tg" GS="144236" TaskID="1155" DuiBaiID="3917" DuiBaiID2="0" PiecePos="2" FaBao1ID="180018" FaBao1Lev="4" FaBao2ID="180014" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="608" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="609" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="610" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="611" PlaceX="6" PlaceY="2"/>
+			<Group MonsterID="612" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="613" PlaceX="5" PlaceY="0"/>
+		</FuBen>
+		<FuBen FuBenID="2" n_Name="Bàn Long Vân Hải2" Desc="Có thể rớt Thiên Ảo Đỉnh, Thiên Ảo Phách, Thiên Ảo Vũ" NeedPlayerLevel="40" DiaoLuoID="128" SceneRes="model_tg" GS="150623" TaskID="1156" DuiBaiID="3954" DuiBaiID2="3965" PiecePos="0" FaBao1ID="180016" FaBao1Lev="5" FaBao2ID="180018" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="5">
+			<Group MonsterID="614" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="615" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="616" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="617" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="618" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="619" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="3" n_Name="Bàn Long Vân Hải3" Desc="Có thể rớt Thiên Ảo Đỉnh, Thiên Ảo Phách, Thiên Ảo Vũ" NeedPlayerLevel="40" DiaoLuoID="129" SceneRes="model_tg" GS="157699" TaskID="1157" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180016" FaBao1Lev="5" FaBao2ID="180018" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="5">
+			<Group MonsterID="620" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="621" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="622" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="623" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="624" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="625" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="4" n_Name="Bàn Long Vân Hải4" Desc="Có thể rớt Thiên Ảo Đỉnh, Thiên Ảo Phách, Thiên Ảo Vũ" NeedPlayerLevel="40" DiaoLuoID="130" SceneRes="model_tg" GS="155418" TaskID="1158" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180016" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="5" FaBao3ID="180014" FaBao3Lev="5">
+			<Group MonsterID="626" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="627" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="628" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="629" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="630" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="631" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="5" n_Name="Bàn Long Vân Hải5" Desc="Có thể rớt Thiên Ảo Đỉnh, Thiên Ảo Phách, Thiên Ảo Vũ" NeedPlayerLevel="40" DiaoLuoID="131" SceneRes="model_tg" GS="171987" TaskID="1159" DuiBaiID="3966" DuiBaiID2="3970" PiecePos="0" FaBao1ID="180016" FaBao1Lev="5" FaBao2ID="180018" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="5">
+			<Group MonsterID="632" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="633" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="634" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="635" PlaceX="6" PlaceY="2"/>
+			<Group MonsterID="636" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="637" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="6" n_Name="Bàn Long Vân Hải6" Desc="Có thể rớt Xích Vân Đỉnh, Xích Vân Phách, Xích Vân Vũ" NeedPlayerLevel="40" DiaoLuoID="132" SceneRes="model_tg" GS="165946" TaskID="1160" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180016" FaBao1Lev="5" FaBao2ID="180018" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="5">
+			<Group MonsterID="638" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="639" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="640" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="641" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="642" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="643" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="7" n_Name="Bàn Long Vân Hải7" Desc="Có thể rớt Xích Vân Đỉnh, Xích Vân Phách, Xích Vân Vũ" NeedPlayerLevel="40" DiaoLuoID="133" SceneRes="model_tg" GS="178237" TaskID="1161" DuiBaiID="0" DuiBaiID2="0" PiecePos="4" FaBao1ID="180018" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="5">
+			<Group MonsterID="644" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="645" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="646" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="647" PlaceX="6" PlaceY="2"/>
+			<Group MonsterID="648" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="649" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="8" n_Name="Bàn Long Vân Hải8" Desc="Có thể rớt Xích Vân Đỉnh, Xích Vân Phách, Xích Vân Vũ" NeedPlayerLevel="40" DiaoLuoID="134" SceneRes="model_tg" GS="200105" TaskID="1162" DuiBaiID="3982" DuiBaiID2="3992" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="5" FaBao3ID="180014" FaBao3Lev="5">
+			<Group MonsterID="650" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="651" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="652" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="653" PlaceX="6" PlaceY="2"/>
+			<Group MonsterID="654" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="655" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="9" n_Name="Bàn Long Vân Hải9" Desc="Có thể rớt Xích Vân Đỉnh, Xích Vân Phách, Xích Vân Vũ" NeedPlayerLevel="40" DiaoLuoID="135" SceneRes="model_tg" GS="197497" TaskID="1163" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180018" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="5">
+			<Group MonsterID="656" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="657" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="658" PlaceX="6" PlaceY="2"/>
+			<Group MonsterID="659" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="660" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="661" PlaceX="4" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="10" n_Name="Bàn Long Vân Hải10" Desc="Có thể rớt Xích Vân Đỉnh, Xích Vân Phách, Xích Vân Vũ" NeedPlayerLevel="40" DiaoLuoID="136" SceneRes="model_tg" GS="199352" TaskID="1164" DuiBaiID="3993" DuiBaiID2="3998" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="5" FaBao3ID="180014" FaBao3Lev="5">
+			<Group MonsterID="662" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="663" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="664" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="665" PlaceX="6" PlaceY="2"/>
+			<Group MonsterID="666" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="667" PlaceX="5" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="11" n_Name="Bàn Long Vân Hải11" Desc="Có thể rớt Xích Vân Đỉnh, Xích Vân Phách, Xích Vân Vũ" NeedPlayerLevel="40" DiaoLuoID="137" SceneRes="model_tg" GS="208214" TaskID="1165" DuiBaiID="4063" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180018" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="5">
+			<Group MonsterID="668" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="669" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="670" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="671" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="672" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="673" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="12" n_Name="Bàn Long Vân Hải12" Desc="Có thể rớt Xích Vân Đỉnh, Xích Vân Phách, Xích Vân Vũ" NeedPlayerLevel="40" DiaoLuoID="138" SceneRes="model_tg" GS="228624" TaskID="1166" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180018" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="5" FaBao3ID="180014" FaBao3Lev="5">
+			<Group MonsterID="674" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="675" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="676" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="677" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="678" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="679" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="13" n_Name="Bàn Long Vân Hải13" Desc="Có thể rớt Xích Vân Đỉnh, Xích Vân Phách, Xích Vân Vũ" NeedPlayerLevel="40" DiaoLuoID="139" SceneRes="model_tg" GS="245671" TaskID="1167" DuiBaiID="4077" DuiBaiID2="4089" PiecePos="6" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180018" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="5">
+			<Group MonsterID="680" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="681" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="682" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="683" PlaceX="6" PlaceY="2"/>
+			<Group MonsterID="684" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="685" PlaceX="5" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="14" n_Name="Bàn Long Vân Hải14" Desc="Có thể rớt Xích Vân Đỉnh, Xích Vân Phách, Xích Vân Vũ" NeedPlayerLevel="40" DiaoLuoID="140" SceneRes="model_tg" GS="265964" TaskID="1168" DuiBaiID="4095" DuiBaiID2="0" PiecePos="0" FaBao1ID="180018" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="5" FaBao3ID="180014" FaBao3Lev="5">
+			<Group MonsterID="686" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="687" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="688" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="689" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="690" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="691" PlaceX="4" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="15" n_Name="Bàn Long Vân Hải15" Desc="Có thể rớt Xích Vân Đỉnh, Xích Vân Phách, Xích Vân Vũ" NeedPlayerLevel="40" DiaoLuoID="141" SceneRes="model_tg" GS="290314" TaskID="1169" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180018" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="5">
+			<Group MonsterID="692" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="693" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="694" PlaceX="6" PlaceY="2"/>
+			<Group MonsterID="695" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="696" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="697" PlaceX="5" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="16" n_Name="Điện Lăng Tiêu1" Desc="Có thể rớt Xích Vân Đỉnh, Xích Vân Phách, Xích Vân Vũ" NeedPlayerLevel="50" DiaoLuoID="142" SceneRes="model_tg" GS="318280" TaskID="1170" DuiBaiID="4096" DuiBaiID2="4104" PiecePos="0" FaBao1ID="180018" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="5">
+			<Group MonsterID="698" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="699" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="700" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="701" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="702" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="703" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="17" n_Name="Điện Lăng Tiêu2" Desc="Có thể rớt Xích Vân Đỉnh, Xích Vân Phách, Xích Vân Vũ" NeedPlayerLevel="50" DiaoLuoID="143" SceneRes="model_tg" GS="339311" TaskID="1171" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180018" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="5">
+			<Group MonsterID="704" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="705" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="706" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="707" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="708" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="709" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="18" n_Name="Điện Lăng Tiêu3" Desc="Có thể rớt Xích Vân Đỉnh, Xích Vân Phách, Xích Vân Vũ" NeedPlayerLevel="50" DiaoLuoID="144" SceneRes="model_tg" GS="383791" TaskID="1172" DuiBaiID="4106" DuiBaiID2="4122" PiecePos="0" FaBao1ID="180016" FaBao1Lev="5" FaBao2ID="180018" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="5">
+			<Group MonsterID="710" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="711" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="712" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="713" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="714" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="715" PlaceX="5" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="19" n_Name="Điện Lăng Tiêu4" Desc="Có thể rớt Xích Vân Đỉnh, Xích Vân Phách, Xích Vân Vũ" NeedPlayerLevel="50" DiaoLuoID="145" SceneRes="model_tg" GS="394825" TaskID="1173" DuiBaiID="0" DuiBaiID2="0" PiecePos="1" FaBao1ID="180018" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="5" FaBao3ID="180014" FaBao3Lev="5">
+			<Group MonsterID="716" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="717" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="718" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="719" PlaceX="6" PlaceY="2"/>
+			<Group MonsterID="720" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="721" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="20" n_Name="Điện Lăng Tiêu5" Desc="Có thể rớt Xích Vân Đỉnh, Xích Vân Phách, Xích Vân Vũ" NeedPlayerLevel="50" DiaoLuoID="146" SceneRes="model_tg" GS="439845" TaskID="1174" DuiBaiID="4133" DuiBaiID2="4144" PiecePos="0" FaBao1ID="180016" FaBao1Lev="5" FaBao2ID="180018" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="5">
+			<Group MonsterID="722" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="723" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="724" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="725" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="726" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="727" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="21" n_Name="Điện Lăng Tiêu6" Desc="Có thể rớt Xích Vân Đỉnh, Xích Vân Phách, Xích Vân Vũ" NeedPlayerLevel="50" DiaoLuoID="147" SceneRes="model_tg" GS="480879" TaskID="1175" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180018" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="5">
+			<Group MonsterID="728" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="729" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="730" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="731" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="732" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="733" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="22" n_Name="Điện Lăng Tiêu7" Desc="Có thể rớt Xích Vân Đỉnh, Xích Vân Phách, Xích Vân Vũ" NeedPlayerLevel="50" DiaoLuoID="148" SceneRes="model_tg" GS="490909" TaskID="1176" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180018" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="5">
+			<Group MonsterID="734" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="735" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="736" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="737" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="738" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="739" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="23" n_Name="Điện Lăng Tiêu8" Desc="Có thể rớt Xích Vân Đỉnh, Xích Vân Phách, Xích Vân Vũ" NeedPlayerLevel="50" DiaoLuoID="149" SceneRes="model_tg" GS="500669" TaskID="1177" DuiBaiID="4151" DuiBaiID2="4157" PiecePos="0" FaBao1ID="180016" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="5" FaBao3ID="180014" FaBao3Lev="5">
+			<Group MonsterID="740" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="741" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="742" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="743" PlaceX="6" PlaceY="2"/>
+			<Group MonsterID="744" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="745" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="24" n_Name="Điện Lăng Tiêu9" Desc="Có thể rớt Xích Vân Đỉnh, Xích Vân Phách, Xích Vân Vũ" NeedPlayerLevel="50" DiaoLuoID="150" SceneRes="model_tg" GS="521081" TaskID="1178" DuiBaiID="0" DuiBaiID2="0" PiecePos="3" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180018" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="5">
+			<Group MonsterID="746" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="747" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="748" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="749" PlaceX="6" PlaceY="2"/>
+			<Group MonsterID="750" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="751" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="25" n_Name="Điện Lăng Tiêu10" Desc="Có thể rớt Xích Vân Đỉnh, Xích Vân Phách, Xích Vân Vũ" NeedPlayerLevel="50" DiaoLuoID="151" SceneRes="model_tg" GS="519323" TaskID="1179" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="5" FaBao3ID="180018" FaBao3Lev="5">
+			<Group MonsterID="752" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="753" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="754" PlaceX="6" PlaceY="2"/>
+			<Group MonsterID="755" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="756" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="757" PlaceX="4" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="26" n_Name="Điện Lăng Tiêu11" Desc="Có thể rớt Kì Lân Đỉnh, Kì Lân Phách, Kì Lân Vũ" NeedPlayerLevel="50" DiaoLuoID="152" SceneRes="model_tg" GS="535949" TaskID="1180" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180016" FaBao1Lev="5" FaBao2ID="180018" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="5">
+			<Group MonsterID="758" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="759" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="760" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="761" PlaceX="6" PlaceY="2"/>
+			<Group MonsterID="762" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="763" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="27" n_Name="Điện Lăng Tiêu12" Desc="Có thể rớt Kì Lân Đỉnh, Kì Lân Phách, Kì Lân Vũ" NeedPlayerLevel="50" DiaoLuoID="153" SceneRes="model_tg" GS="566016" TaskID="1181" DuiBaiID="4169" DuiBaiID2="4180" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="5" FaBao3ID="180018" FaBao3Lev="5">
+			<Group MonsterID="764" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="765" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="766" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="767" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="768" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="769" PlaceX="6" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="28" n_Name="Điện Lăng Tiêu13" Desc="Có thể rớt Kì Lân Đỉnh, Kì Lân Phách, Kì Lân Vũ" NeedPlayerLevel="50" DiaoLuoID="154" SceneRes="model_tg" GS="553921" TaskID="1182" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180018" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="5">
+			<Group MonsterID="770" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="771" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="772" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="773" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="774" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="775" PlaceX="5" PlaceY="1"/>
+		</FuBen>
+		<FuBen FuBenID="29" n_Name="Điện Lăng Tiêu14" Desc="Có thể rớt Kì Lân Đỉnh, Kì Lân Phách, Kì Lân Vũ" NeedPlayerLevel="50" DiaoLuoID="155" SceneRes="model_tg" GS="576668" TaskID="1183" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180016" FaBao1Lev="5" FaBao2ID="180014" FaBao2Lev="5" FaBao3ID="180018" FaBao3Lev="5">
+			<Group MonsterID="776" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="777" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="778" PlaceX="5" PlaceY="2"/>
+			<Group MonsterID="779" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="780" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="781" PlaceX="4" PlaceY="2"/>
+		</FuBen>
+		<FuBen FuBenID="30" n_Name="Điện Lăng Tiêu15" Desc="Có thể rớt Kì Lân Đỉnh, Kì Lân Phách, Kì Lân Vũ" NeedPlayerLevel="50" DiaoLuoID="156" SceneRes="model_tg" GS="599871" TaskID="1184" DuiBaiID="4188" DuiBaiID2="4200" PiecePos="5" FaBao1ID="180014" FaBao1Lev="5" FaBao2ID="180018" FaBao2Lev="5" FaBao3ID="0" FaBao3Lev="5">
+			<Group MonsterID="782" PlaceX="6" PlaceY="1"/>
+			<Group MonsterID="783" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="784" PlaceX="5" PlaceY="0"/>
+			<Group MonsterID="785" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="786" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="787" PlaceX="5" PlaceY="2"/>
+		</FuBen>
+	</Map>
+</FuBens>

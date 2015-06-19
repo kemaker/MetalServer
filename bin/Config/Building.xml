@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Building>
+	<Temple NotOpenTips="">
+		<Levels Lv="1"/>
+		<Levels Lv="2"/>
+		<Levels Lv="3"/>
+		<Levels Lv="4"/>
+		<Levels Lv="5"/>
+		<Levels Lv="6"/>
+		<Levels Lv="7"/>
+		<Levels Lv="8"/>
+		<Levels Lv="9"/>
+		<Levels Lv="10"/>
+		<Levels Lv="11"/>
+		<Levels Lv="12"/>
+		<Levels Lv="13"/>
+		<Levels Lv="14"/>
+		<Levels Lv="15"/>
+		<Levels Lv="16"/>
+		<Levels Lv="17"/>
+		<Levels Lv="18"/>
+		<Levels Lv="19"/>
+		<Levels Lv="20"/>
+		<Levels Lv="21"/>
+		<Levels Lv="22"/>
+		<Levels Lv="23"/>
+		<Levels Lv="24"/>
+		<Levels Lv="25"/>
+		<Levels Lv="26"/>
+		<Levels Lv="27"/>
+		<Levels Lv="28"/>
+		<Levels Lv="29"/>
+		<Levels Lv="30"/>
+		<Levels Lv="31"/>
+		<Levels Lv="32"/>
+		<Levels Lv="33"/>
+		<Levels Lv="34"/>
+		<Levels Lv="35"/>
+		<Levels Lv="36"/>
+		<Levels Lv="37"/>
+		<Levels Lv="38"/>
+		<Levels Lv="39"/>
+		<Levels Lv="40"/>
+		<Levels Lv="41"/>
+		<Levels Lv="42"/>
+		<Levels Lv="43"/>
+		<Levels Lv="44"/>
+		<Levels Lv="45"/>
+		<Levels Lv="46"/>
+		<Levels Lv="47"/>
+		<Levels Lv="48"/>
+		<Levels Lv="49"/>
+		<Levels Lv="50"/>
+		<Levels Lv="51"/>
+		<Levels Lv="52"/>
+		<Levels Lv="53"/>
+		<Levels Lv="54"/>
+		<Levels Lv="55"/>
+		<Levels Lv="56"/>
+		<Levels Lv="57"/>
+		<Levels Lv="58"/>
+		<Levels Lv="59"/>
+		<Levels Lv="60"/>
+		<Levels Lv="61"/>
+		<Levels Lv="62"/>
+		<Levels Lv="63"/>
+		<Levels Lv="64"/>
+		<Levels Lv="65"/>
+		<Levels Lv="66"/>
+		<Levels Lv="67"/>
+		<Levels Lv="68"/>
+		<Levels Lv="69"/>
+		<Levels Lv="70"/>
+		<Levels Lv="71"/>
+		<Levels Lv="72"/>
+		<Levels Lv="73"/>
+		<Levels Lv="74"/>
+		<Levels Lv="75"/>
+		<Levels Lv="76"/>
+		<Levels Lv="77"/>
+		<Levels Lv="78"/>
+		<Levels Lv="79"/>
+		<Levels Lv="80"/>
+		<Levels Lv="81"/>
+		<Levels Lv="82"/>
+		<Levels Lv="83"/>
+		<Levels Lv="84"/>
+		<Levels Lv="85"/>
+		<Levels Lv="86"/>
+		<Levels Lv="87"/>
+		<Levels Lv="88"/>
+		<Levels Lv="89"/>
+		<Levels Lv="90"/>
+		<Levels Lv="91"/>
+		<Levels Lv="92"/>
+		<Levels Lv="93"/>
+		<Levels Lv="94"/>
+		<Levels Lv="95"/>
+		<Levels Lv="96"/>
+		<Levels Lv="97"/>
+		<Levels Lv="98"/>
+		<Levels Lv="99"/>
+		<Levels Lv="100"/>
+	</Temple>
+	<Metal NotOpenTips="H.thành n.vụ chính [FF7F00]Đồi Huyễn Thú 3[-] mở tính năng này">
+		<Levels Lv="1"/>
+		<Levels Lv="2"/>
+		<Levels Lv="3"/>
+		<Levels Lv="4"/>
+		<Levels Lv="5"/>
+		<Levels Lv="6"/>
+		<Levels Lv="7"/>
+		<Levels Lv="8"/>
+		<Levels Lv="9"/>
+		<Levels Lv="10"/>
+		<Levels Lv="11"/>
+		<Levels Lv="12"/>
+		<Levels Lv="13"/>
+		<Levels Lv="14"/>
+		<Levels Lv="15"/>
+		<Levels Lv="16"/>
+		<Levels Lv="17"/>
+		<Levels Lv="18"/>
+		<Levels Lv="19"/>
+		<Levels Lv="20"/>
+		<Levels Lv="21"/>
+		<Levels Lv="22"/>
+		<Levels Lv="23"/>
+		<Levels Lv="24"/>
+		<Levels Lv="25"/>
+		<Levels Lv="26"/>
+		<Levels Lv="27"/>
+		<Levels Lv="28"/>
+		<Levels Lv="29"/>
+		<Levels Lv="30"/>
+		<Levels Lv="31"/>
+		<Levels Lv="32"/>
+		<Levels Lv="33"/>
+		<Levels Lv="34"/>
+		<Levels Lv="35"/>
+		<Levels Lv="36"/>
+		<Levels Lv="37"/>
+		<Levels Lv="38"/>
+		<Levels Lv="39"/>
+		<Levels Lv="40"/>
+		<Levels Lv="41"/>
+		<Levels Lv="42"/>
+		<Levels Lv="43"/>
+		<Levels Lv="44"/>
+		<Levels Lv="45"/>
+		<Levels Lv="46"/>
+		<Levels Lv="47"/>
+		<Levels Lv="48"/>
+		<Levels Lv="49"/>
+		<Levels Lv="50"/>
+		<Levels Lv="51"/>
+		<Levels Lv="52"/>
+		<Levels Lv="53"/>
+		<Levels Lv="54"/>
+		<Levels Lv="55"/>
+		<Levels Lv="56"/>
+		<Levels Lv="57"/>
+		<Levels Lv="58"/>
+		<Levels Lv="59"/>
+		<Levels Lv="60"/>
+		<Levels Lv="61"/>
+		<Levels Lv="62"/>
+		<Levels Lv="63"/>
+		<Levels Lv="64"/>
+		<Levels Lv="65"/>
+		<Levels Lv="66"/>
+		<Levels Lv="67"/>
+		<Levels Lv="68"/>
+		<Levels Lv="69"/>
+		<Levels Lv="70"/>
+		<Levels Lv="71"/>
+		<Levels Lv="72"/>
+		<Levels Lv="73"/>
+		<Levels Lv="74"/>
+		<Levels Lv="75"/>
+		<Levels Lv="76"/>
+		<Levels Lv="77"/>
+		<Levels Lv="78"/>
+		<Levels Lv="79"/>
+		<Levels Lv="80"/>
+		<Levels Lv="81"/>
+		<Levels Lv="82"/>
+		<Levels Lv="83"/>
+		<Levels Lv="84"/>
+		<Levels Lv="85"/>
+		<Levels Lv="86"/>
+		<Levels Lv="87"/>
+		<Levels Lv="88"/>
+		<Levels Lv="89"/>
+		<Levels Lv="90"/>
+		<Levels Lv="91"/>
+		<Levels Lv="92"/>
+		<Levels Lv="93"/>
+		<Levels Lv="94"/>
+		<Levels Lv="95"/>
+		<Levels Lv="96"/>
+		<Levels Lv="97"/>
+		<Levels Lv="98"/>
+		<Levels Lv="99"/>
+		<Levels Lv="100"/>
+	</Metal>
+	<Training NotOpenTips="H.thành n.vụ chính [FF7F00]Huyễn Ảnh Tiên Đạo 15[-] mở tính năng này">
+		<Levels Lv="1" Get="9"/>
+		<Levels Lv="2" Get="19"/>
+		<Levels Lv="3" Get="28"/>
+		<Levels Lv="4" Get="38"/>
+		<Levels Lv="5" Get="47"/>
+		<Levels Lv="6" Get="56"/>
+		<Levels Lv="7" Get="66"/>
+		<Levels Lv="8" Get="75"/>
+		<Levels Lv="9" Get="84"/>
+		<Levels Lv="10" Get="94"/>
+		<Levels Lv="11" Get="103"/>
+		<Levels Lv="12" Get="113"/>
+		<Levels Lv="13" Get="122"/>
+		<Levels Lv="14" Get="131"/>
+		<Levels Lv="15" Get="141"/>
+		<Levels Lv="16" Get="150"/>
+		<Levels Lv="17" Get="159"/>
+		<Levels Lv="18" Get="169"/>
+		<Levels Lv="19" Get="178"/>
+		<Levels Lv="20" Get="188"/>
+		<Levels Lv="21" Get="197"/>
+		<Levels Lv="22" Get="206"/>
+		<Levels Lv="23" Get="216"/>
+		<Levels Lv="24" Get="225"/>
+		<Levels Lv="25" Get="234"/>
+		<Levels Lv="26" Get="244"/>
+		<Levels Lv="27" Get="253"/>
+		<Levels Lv="28" Get="263"/>
+		<Levels Lv="29" Get="272"/>
+		<Levels Lv="30" Get="281"/>
+		<Levels Lv="31" Get="291"/>
+		<Levels Lv="32" Get="300"/>
+		<Levels Lv="33" Get="309"/>
+		<Levels Lv="34" Get="319"/>
+		<Levels Lv="35" Get="328"/>
+		<Levels Lv="36" Get="338"/>
+		<Levels Lv="37" Get="347"/>
+		<Levels Lv="38" Get="356"/>
+		<Levels Lv="39" Get="366"/>
+		<Levels Lv="40" Get="375"/>
+		<Levels Lv="41" Get="384"/>
+		<Levels Lv="42" Get="394"/>
+		<Levels Lv="43" Get="403"/>
+		<Levels Lv="44" Get="413"/>
+		<Levels Lv="45" Get="422"/>
+		<Levels Lv="46" Get="431"/>
+		<Levels Lv="47" Get="441"/>
+		<Levels Lv="48" Get="450"/>
+		<Levels Lv="49" Get="459"/>
+		<Levels Lv="50" Get="469"/>
+		<Levels Lv="51" Get="478"/>
+		<Levels Lv="52" Get="488"/>
+		<Levels Lv="53" Get="497"/>
+		<Levels Lv="54" Get="506"/>
+		<Levels Lv="55" Get="516"/>
+		<Levels Lv="56" Get="525"/>
+		<Levels Lv="57" Get="534"/>
+		<Levels Lv="58" Get="544"/>
+		<Levels Lv="59" Get="553"/>
+		<Levels Lv="60" Get="563"/>
+		<Levels Lv="61" Get="572"/>
+		<Levels Lv="62" Get="581"/>
+		<Levels Lv="63" Get="591"/>
+		<Levels Lv="64" Get="600"/>
+		<Levels Lv="65" Get="609"/>
+		<Levels Lv="66" Get="619"/>
+		<Levels Lv="67" Get="628"/>
+		<Levels Lv="68" Get="638"/>
+		<Levels Lv="69" Get="647"/>
+		<Levels Lv="70" Get="656"/>
+		<Levels Lv="71" Get="666"/>
+		<Levels Lv="72" Get="675"/>
+		<Levels Lv="73" Get="684"/>
+		<Levels Lv="74" Get="694"/>
+		<Levels Lv="75" Get="703"/>
+		<Levels Lv="76" Get="713"/>
+		<Levels Lv="77" Get="722"/>
+		<Levels Lv="78" Get="731"/>
+		<Levels Lv="79" Get="741"/>
+		<Levels Lv="80" Get="750"/>
+		<Levels Lv="81" Get="759"/>
+		<Levels Lv="82" Get="769"/>
+		<Levels Lv="83" Get="778"/>
+		<Levels Lv="84" Get="788"/>
+		<Levels Lv="85" Get="797"/>
+		<Levels Lv="86" Get="806"/>
+		<Levels Lv="87" Get="816"/>
+		<Levels Lv="88" Get="825"/>
+		<Levels Lv="89" Get="834"/>
+		<Levels Lv="90" Get="844"/>
+		<Levels Lv="91" Get="853"/>
+		<Levels Lv="92" Get="863"/>
+		<Levels Lv="93" Get="872"/>
+		<Levels Lv="94" Get="881"/>
+		<Levels Lv="95" Get="891"/>
+		<Levels Lv="96" Get="900"/>
+		<Levels Lv="97" Get="909"/>
+		<Levels Lv="98" Get="919"/>
+		<Levels Lv="99" Get="928"/>
+		<Levels Lv="100" Get="938"/>
+	</Training>
+	<GemMine NotOpenTips="H.thành n.vụ chính [FF7F00]Đồi Huyễn Thú 12[-] mở tính năng này">
+		<Levels Lv="1" Get="2000" RefreshTime="5" MaxTimes="8" QZGetMin="3000" QZGetMax="3500" Exp="8"/>
+		<Levels Lv="2" Get="3000" RefreshTime="5" MaxTimes="8" QZGetMin="4500" QZGetMax="5250" Exp="12"/>
+		<Levels Lv="3" Get="4000" RefreshTime="5" MaxTimes="8" QZGetMin="6000" QZGetMax="7000" Exp="16"/>
+		<Levels Lv="4" Get="5000" RefreshTime="5" MaxTimes="8" QZGetMin="7500" QZGetMax="8750" Exp="40"/>
+		<Levels Lv="5" Get="6000" RefreshTime="5" MaxTimes="8" QZGetMin="9000" QZGetMax="10500" Exp="100"/>
+		<Levels Lv="6" Get="8000" RefreshTime="5" MaxTimes="8" QZGetMin="12000" QZGetMax="14000" Exp="500"/>
+		<Levels Lv="7" Get="10000" RefreshTime="5" MaxTimes="8" QZGetMin="15000" QZGetMax="17500" Exp="1000"/>
+		<Levels Lv="8" Get="12000" RefreshTime="5" MaxTimes="8" QZGetMin="18000" QZGetMax="21000" Exp="2000"/>
+		<Levels Lv="9" Get="15000" RefreshTime="5" MaxTimes="8" QZGetMin="22500" QZGetMax="26250" Exp="5000"/>
+		<Levels Lv="10" Get="17000" RefreshTime="5" MaxTimes="8" QZGetMin="25500" QZGetMax="29750" Exp="10000"/>
+		<Levels Lv="11" Get="20000" RefreshTime="5" MaxTimes="8" QZGetMin="30000" QZGetMax="35000" Exp="20000"/>
+		<Levels Lv="12" Get="23000" RefreshTime="5" MaxTimes="8" QZGetMin="34500" QZGetMax="40250" Exp="50000"/>
+		<Levels Lv="13" Get="27000" RefreshTime="5" MaxTimes="8" QZGetMin="40500" QZGetMax="47250" Exp="70000"/>
+		<Levels Lv="14" Get="30000" RefreshTime="5" MaxTimes="8" QZGetMin="45000" QZGetMax="52500" Exp="100000"/>
+		<Levels Lv="15" Get="35000" RefreshTime="5" MaxTimes="8" QZGetMin="52500" QZGetMax="61250" Exp="0"/>
+	</GemMine>
+	
+	<DiZiJu NotOpenTips="H.thành n.vụ chính [FF7F00]Nâng cấp Tiên Pháp[-] mở tính năng này">
+	</DiZiJu><!--出巡-->
+	
+	<LianDanLu NotOpenTips="H.thành n.vụ chính [FF7F00]Mua bản vẽ[-] mở tính năng này">
+	</LianDanLu>
+	
+	<ChuZheng NotOpenTips="">
+	</ChuZheng>
+	
+	<XianShi NotOpenTips="H.thành n.vụ chính [FF7F00]Đồi Huyễn Thú 3[-] mở tính năng này">
+	</XianShi>
+	
+	<JuXianTai NotOpenTips="H.thành n.vụ chính [FF7F00]Thôn Tuyết 1[-] mở tính năng này">
+	</JuXianTai>
+	
+	<ZhuanLongChi NotOpenTips="H.thành n.vụ chính [FF7F00]Đồi Huyễn Thú 1[-] mở tính năng này">
+	</ZhuanLongChi>
+	
+  	<ZhanXingTan NotOpenTips="H.thành n.vụ chính [FF7F00]Biển Cát 1[-] mở tính năng này">
+  	</ZhanXingTan>
+  
+	<JunTuan NotOpenTips="H.thành n.vụ chính [FF7F00]Đồi Cát Cháy 7[-] mở tính năng này">
+    </JunTuan>
+</Building>
