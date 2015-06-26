@@ -573,7 +573,7 @@
 20000077,Đợi lệnh
 20000078,Tập kích {0} Bang
 20000079,Tiến quân {0}
-20000080,Bang chiến sẽ mở vào [00ff00]{1:00}:{2:00}[-] thứ {0} hàng tuần
+20000080,Bang chiến sẽ mở vào [00ff00]{1:00}:{2:00}[-] {0} hàng tuần
 20000081,Đang tiến hành Bang chiến
 20000082,Đang tính kết quả Bang chiến, hãy nhận sau {0} giờ!
 20000083,Lệnh hành quân

@@ -217,4 +217,6 @@ Resouce
 	</Mail>
     <Mail ID="1029" Title="Tìm lại rương trấn thủ" Text="Vui lòng nhận lại Rương trấn thủ của bạn.">
 	</Mail>
+    <Mail ID="1030" Title="GM" Text="GM."><!--GM补偿邮件-->
+	</Mail>
 </Mails>

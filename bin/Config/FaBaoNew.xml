@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 	
 <!--注释
 
@@ -13,7 +13,7 @@
 	FaBaoID=180021	五蕴神石	value1额外获得经验点数		    value2获得双倍额外经验概率		value3无	                value4无	        value5无
 	FaBaoID=180006	转命灵珠	value1清除debuff数量上限		value2抽取祝福数量上限			value3冷却回合数	        value4使用次数		value5无
 	FaBaoID=180011	乾坤圈	  	value1造成伤害值				value2击晕概率					value3消耗怒气值		value4冷却回合数	value5使用次数 
-	FaBaoID=180022	风火轮	  	value1所有法宝冷却回合数		  	value2冷却回合判定				value3额外减少回合数	    value4公cd减少数	value5无
+	FaBaoID=180022	风火轮	  	value1所有法宝冷却回合数		  	value2冷却回合判定				value3额外减少回合数	    value4公Giúp减少数	value5无
 	FaBaoID=180004	东皇钟	  	value1辅盾回合数		        value2怒气降低值				value3冷却回合数	        value4使用次数		value5无
 	FaBaoID=180002	九齿钉耙	value1造成伤害值				value2暴击率倍数				value3持续回合数			value4冷却回合数	value5使用次数 
 	FaBaoID=180009	天魔灯	  	value1获得怒气值        		value2法宝作用回合数			value3减少怒气值	        value4冷却回合数	value5使用次数
@@ -161,17 +161,17 @@
 		<n_Value n_Level="9" Value1="1200" Value2="28.5" Value3="50" Value4="4" Value5="3" Des="Toàn thể địch chịu 700 s.thương và có 28.5% xác suất bị choáng 2 hiệp. Toàn thể địch tiêu hao 50 nộ khí"/>
 		<n_Value n_Level="10" Value1="1400" Value2="30" Value3="50" Value4="3" Value5="3" Des="Toàn thể địch chịu 850 s.thương và có 30% xác suất bị choáng 2 hiệp. Toàn thể địch tiêu hao 50 nộ khí"/>
 	</FaBao>
-	<FaBao FaBaoID="180022" n_Name="[ffa800]Phong Hỏa Luân[-]" EffectName1="Display_L_Object_FB_022" EffectName2="assets_effects_fb_022" EffectNumType="0" IconResID="180022" IconResID1="190022" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Giảm CD Pháp Bảo" Origin="Thám hiểm để nhận" EffectTime="4">
-		<n_Value n_Level="1" Value1="1" Value2="0" Value3="0" Value4="0" Value5="0" Des="CD toàn bộ Pháp Bảo giảm 1 hiệp"/>
-		<n_Value n_Level="2" Value1="1" Value2="8" Value3="1" Value4="0" Value5="0" Des="CD toàn bộ Pháp Bảo giảm 1 hiệp, CD Pháp Bảo lớn hơn 8 sẽ giảm thêm 1 hiệp"/>
-		<n_Value n_Level="3" Value1="1" Value2="7" Value3="1" Value4="0" Value5="0" Des="CD toàn bộ Pháp Bảo giảm 1 hiệp, CD Pháp Bảo lớn hơn 7 sẽ giảm thêm 1 hiệp"/>
-		<n_Value n_Level="4" Value1="1" Value2="7" Value3="1" Value4="0" Value5="0" Des="CD toàn bộ Pháp Bảo giảm 1 hiệp, CD Pháp Bảo lớn hơn 7 sẽ giảm thêm 1 hiệp"/>
-		<n_Value n_Level="5" Value1="1" Value2="6" Value3="1" Value4="0" Value5="0" Des="CD toàn bộ Pháp Bảo giảm 1 hiệp, CD Pháp Bảo lớn hơn 6 sẽ giảm thêm 1 hiệp"/>
-		<n_Value n_Level="6" Value1="1" Value2="6" Value3="1" Value4="0" Value5="0" Des="CD toàn bộ Pháp Bảo giảm 1 hiệp, CD Pháp Bảo lớn hơn 6 sẽ giảm thêm 1 hiệp"/>
-		<n_Value n_Level="7" Value1="1" Value2="5" Value3="1" Value4="0" Value5="0" Des="CD toàn bộ Pháp Bảo giảm 1 hiệp, CD Pháp Bảo lớn hơn 5 sẽ giảm thêm 1 hiệp"/>
-		<n_Value n_Level="8" Value1="1" Value2="5" Value3="1" Value4="1" Value5="0" Des="CD toàn bộ Pháp Bảo giảm 1 hiệp, CD Pháp Bảo lớn hơn 5 sẽ giảm thêm 1 hiệp, số hiệp CD tổng giảm 1"/>
-		<n_Value n_Level="9" Value1="1" Value2="5" Value3="2" Value4="1" Value5="0" Des="CD toàn bộ Pháp Bảo giảm 1 hiệp, CD Pháp Bảo lớn hơn 5 sẽ giảm thêm 2 hiệp, số hiệp CD tổng giảm 1"/>
-		<n_Value n_Level="10" Value1="2" Value2="5" Value3="2" Value4="1" Value5="0" Des="CD toàn bộ Pháp Bảo giảm 2 hiệp, CD Pháp Bảo lớn hơn 5 sẽ giảm thêm 2 hiệp, số hiệp CD tổng giảm 1"/>
+	<FaBao FaBaoID="180022" n_Name="[ffa800]Phong Hỏa Luân[-]" EffectName1="Display_L_Object_FB_022" EffectName2="assets_effects_fb_022" EffectNumType="0" IconResID="180022" IconResID1="190022" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Giảm Giúp Pháp Bảo" Origin="Thám hiểm để nhận" EffectTime="4">
+		<n_Value n_Level="1" Value1="1" Value2="0" Value3="0" Value4="0" Value5="0" Des="Giúp toàn bộ Pháp Bảo giảm 1 hiệp"/>
+		<n_Value n_Level="2" Value1="1" Value2="8" Value3="1" Value4="0" Value5="0" Des="Giúp toàn bộ Pháp Bảo giảm 1 hiệp, Giúp Pháp Bảo lớn hơn 8 sẽ giảm thêm 1 hiệp"/>
+		<n_Value n_Level="3" Value1="1" Value2="7" Value3="1" Value4="0" Value5="0" Des="Giúp toàn bộ Pháp Bảo giảm 1 hiệp, Giúp Pháp Bảo lớn hơn 7 sẽ giảm thêm 1 hiệp"/>
+		<n_Value n_Level="4" Value1="1" Value2="7" Value3="1" Value4="0" Value5="0" Des="Giúp toàn bộ Pháp Bảo giảm 1 hiệp, Giúp Pháp Bảo lớn hơn 7 sẽ giảm thêm 1 hiệp"/>
+		<n_Value n_Level="5" Value1="1" Value2="6" Value3="1" Value4="0" Value5="0" Des="Giúp toàn bộ Pháp Bảo giảm 1 hiệp, Giúp Pháp Bảo lớn hơn 6 sẽ giảm thêm 1 hiệp"/>
+		<n_Value n_Level="6" Value1="1" Value2="6" Value3="1" Value4="0" Value5="0" Des="Giúp toàn bộ Pháp Bảo giảm 1 hiệp, Giúp Pháp Bảo lớn hơn 6 sẽ giảm thêm 1 hiệp"/>
+		<n_Value n_Level="7" Value1="1" Value2="5" Value3="1" Value4="0" Value5="0" Des="Giúp toàn bộ Pháp Bảo giảm 1 hiệp, Giúp Pháp Bảo lớn hơn 5 sẽ giảm thêm 1 hiệp"/>
+		<n_Value n_Level="8" Value1="1" Value2="5" Value3="1" Value4="1" Value5="0" Des="Giúp toàn bộ Pháp Bảo giảm 1 hiệp, Giúp Pháp Bảo lớn hơn 5 sẽ giảm thêm 1 hiệp, số hiệp Giúp tổng giảm 1"/>
+		<n_Value n_Level="9" Value1="1" Value2="5" Value3="2" Value4="1" Value5="0" Des="Giúp toàn bộ Pháp Bảo giảm 1 hiệp, Giúp Pháp Bảo lớn hơn 5 sẽ giảm thêm 2 hiệp, số hiệp Giúp tổng giảm 1"/>
+		<n_Value n_Level="10" Value1="2" Value2="5" Value3="2" Value4="1" Value5="0" Des="Giúp toàn bộ Pháp Bảo giảm 2 hiệp, Giúp Pháp Bảo lớn hơn 5 sẽ giảm thêm 2 hiệp, số hiệp Giúp tổng giảm 1"/>
 	</FaBao>
 	<FaBao FaBaoID="180004" n_Name="[ffa800]Đông Hoàng Chung[-]" EffectName1="Display_L_Object_FB_004" EffectName2="assets_effects_fb_004" EffectNumType="0" IconResID="180004" IconResID1="190004" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Tất cả lá chắn phụ chịu 1 điểm s.thương, nhưng giảm tiêu hao nộ khí" Origin="Thám hiểm để nhận" EffectTime="3.5">
 		<n_Value n_Level="1" Value1="2" Value2="50" Value3="10" Value4="2" Value5="0" Des="Tất cả lá chắn phụ của ta trong 2 hiệp giảm tiêu hao nộ khí khi dùng tuyệt kỹ 50 50 điểm, nhưng công thường chỉ gây 1 s.thương."/>
@@ -234,16 +234,16 @@
 		<n_Value n_Level="10" Value1="1.25" Value2="90" Value3="8" Value4="3" Value5="0" Des="Nộ khí toàn thể quân ta tiêu hao sẽ chia đều s.thương, mỗi điểm nộ khí tối đa chịu 1.25%  s.thương. Tối đa giảm 90% s.thương."/>
 	</FaBao>
 	<FaBao FaBaoID="180001" n_Name="[b249fb]Chùy Lôi Công[-]" EffectName1="Display_L_Object_FB_001" EffectName2="assets_effects_fb_001" EffectNumType="0" IconResID="180001" IconResID1="190001" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Gián đoạn Pháp Bảo mà địch sẽ dùng" Origin="Nhận tại Tụ Tiên Đài, Thương nhân bí ẩn" EffectTime="3">
-		<n_Value n_Level="1" Value1="1" Value2="5" Value3="2" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái CD, giảm 1 lượt dùng"/>
-		<n_Value n_Level="2" Value1="1" Value2="5" Value3="2" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái CD, giảm 1 lượt dùng"/>
-		<n_Value n_Level="3" Value1="1" Value2="5" Value3="2" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái CD, giảm 1 lượt dùng"/>
-		<n_Value n_Level="4" Value1="1" Value2="5" Value3="2" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái CD, giảm 1 lượt dùng"/>
-		<n_Value n_Level="5" Value1="1" Value2="5" Value3="2" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái CD, giảm 1 lượt dùng"/>
-		<n_Value n_Level="6" Value1="1" Value2="4" Value3="3" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái CD, giảm 1 lượt dùng"/>
-		<n_Value n_Level="7" Value1="1" Value2="4" Value3="3" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái CD, giảm 1 lượt dùng"/>
-		<n_Value n_Level="8" Value1="1" Value2="4" Value3="3" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái CD, giảm 1 lượt dùng"/>
-		<n_Value n_Level="9" Value1="1" Value2="4" Value3="3" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái CD, giảm 1 lượt dùng"/>
-		<n_Value n_Level="10" Value1="1" Value2="4" Value3="3" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái CD, giảm 1 lượt dùng"/>
+		<n_Value n_Level="1" Value1="1" Value2="5" Value3="2" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái Giúp, giảm 1 lượt dùng"/>
+		<n_Value n_Level="2" Value1="1" Value2="5" Value3="2" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái Giúp, giảm 1 lượt dùng"/>
+		<n_Value n_Level="3" Value1="1" Value2="5" Value3="2" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái Giúp, giảm 1 lượt dùng"/>
+		<n_Value n_Level="4" Value1="1" Value2="5" Value3="2" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái Giúp, giảm 1 lượt dùng"/>
+		<n_Value n_Level="5" Value1="1" Value2="5" Value3="2" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái Giúp, giảm 1 lượt dùng"/>
+		<n_Value n_Level="6" Value1="1" Value2="4" Value3="3" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái Giúp, giảm 1 lượt dùng"/>
+		<n_Value n_Level="7" Value1="1" Value2="4" Value3="3" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái Giúp, giảm 1 lượt dùng"/>
+		<n_Value n_Level="8" Value1="1" Value2="4" Value3="3" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái Giúp, giảm 1 lượt dùng"/>
+		<n_Value n_Level="9" Value1="1" Value2="4" Value3="3" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái Giúp, giảm 1 lượt dùng"/>
+		<n_Value n_Level="10" Value1="1" Value2="4" Value3="3" Value4="0" Value5="0" Des="Gián đoạn Pháp Bảo địch dùng, khiến địch rơi vào trạng thái Giúp, giảm 1 lượt dùng"/>
 	</FaBao>
 	<FaBao FaBaoID="180010" n_Name="[ffa800]Phiên Thiên Ấn[-]" EffectName1="Display_L_Object_FB_010" EffectName2="assets_effects_fb_010" EffectNumType="0" IconResID="180010" IconResID1="190010" BuffEffectRes="new_effects_buff/Prefabs/effects_buff_short_001" Des="Tăng lượt dùng Pháp Bảo" Origin="Thám hiểm để nhận" EffectTime="3">
 		<n_Value n_Level="1" Value1="1" Value2="0" Value3="0" Value4="0" Value5="0" Des="Lượt dùng Pháp Bảo +1"/>

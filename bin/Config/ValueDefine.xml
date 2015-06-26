@@ -128,7 +128,7 @@
 	<JielueLotLingsi>5000</JielueLotLingsi>
   
     <!--时间类格式为 周几(0~6) 小时(0~23) 分钟(0~59) ,注意周几中0为周日-->
-    <LegioWarOpenTime>5 13 50</LegioWarOpenTime><!--军团战活动开启时间-->
+    <LegioWarOpenTime>5 21 30</LegioWarOpenTime><!--军团战活动开启时间-->
 	<LegioWarEndTime>5 14 20</LegioWarEndTime><!--军团战活动结束时间-->
 	
 	<LegioWarMarchCost>100</LegioWarMarchCost><!--军团战进军消耗的军资-->
@@ -145,5 +145,7 @@
     <DuiHuanBeginTime>2015:6:15:9:00</DuiHuanBeginTime><!--兑换开启时间-->
     <DuiHuanEndTime>2015:6:30:20:00</DuiHuanEndTime><!--兑换结束时间-->
     <ActiveKeyJiZiEnable>true</ActiveKeyJiZiEnable><!--集字界面是否显示，false:不显示， true:显示-->
+    
+    <LegioGodRewardMail>1030</LegioGodRewardMail><!--GM补偿邮件ID-->
 
 </Config>

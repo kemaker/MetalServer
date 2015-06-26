@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <!--注释
 
@@ -711,7 +711,7 @@ NPCName：
 	<DuiBai DuiBaiID="2066" IsNPC="TRUE" Content="Thác Tháp Đại Vương đến báo, để đáp tạ ơn của cứu quân, sẽ tặng Tử Vân Hồ Lô " NextDuiBai="2237" Icon="6015" NPCName="Quân sư"/>
 	<DuiBai DuiBaiID="2237" IsNPC="TRUE" Content="Cũng báo phát hiện thấy trang Phong Thần ở Huyễn Thú Cốc, bảo chúng ta mau tới! " NextDuiBai="2067" Icon="6015" NPCName="Quân sư"/>
 	<DuiBai DuiBaiID="2067" IsNPC="FALSE" Content="Việc không được chậm trễ, toàn quân lên đường! " NextDuiBai="2068"/>
-	<DuiBai DuiBaiID="2068" IsNPC="TRUE" Content="Hãy để Lão Trư được đánh đánh đã đời! Cũng đến lúc caokj gỉ cho bồ cào. " NextDuiBai="0" Icon="4044" NPCName="Trư Bát Giới"/>
+	<DuiBai DuiBaiID="2068" IsNPC="TRUE" Content="Hãy để Lão Trư được đánh đã đời! Đến lúc cạo gỉ cho bồ cào." NextDuiBai="0" Icon="4044" NPCName="Trư Bát Giới"/>
 	<DuiBai DuiBaiID="2069" IsNPC="TRUE" Content="Phía trước có địch, đang thấy có đám tìm mảnh Phong Thần Bảng trên núi. " NextDuiBai="2070" Icon="6015" NPCName="Quân sư"/>
 	<DuiBai DuiBaiID="2070" IsNPC="FALSE" Content="Tăng tốc hành quân, đánh úp địch, giải phóng sức lao động! " NextDuiBai="2071"/>
 	<DuiBai DuiBaiID="2071" IsNPC="TRUE" Content="Ha ha, hôm nay thật may mắn, lại tìm được 2 trang, chúng ta sắp thăng chức rồi. " NextDuiBai="2072" Icon="6007" NPCName="Tiểu Yêu A"/>
