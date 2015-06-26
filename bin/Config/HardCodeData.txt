@@ -1,0 +1,836 @@
+﻿10000001,Võ
+10000002,Yêu
+10000003,Phật
+10000004,Ma
+10000005,Pháp
+10000006,Kiếm
+10000007,Võ
+10000008,Phép
+10000009,Tuyệt kỹ
+10000010,HP tối đa
+10000011,Tiên công
+10000012,Công võ
+10000013,Thủ võ
+10000014,Công phép
+10000015,Thủ phép
+10000016,Công tuyệt kỹ
+10000017,Thủ tuyệt kỹ
+10000018,Cấp Trúng
+10000019,Cấp né
+10000020,Cấp bạo
+10000021,Cấp dẻo dai
+10000022,Cấp đỡ
+10000023,Cấp phá phòng
+10000024,Điểm nộ ban đầu
+10000025,Nộ tối đa
+10000026,Điểm hồi nộ
+10000027,Phạm vi công
+10000028,Lỗi !!!
+10000029,NULL
+10000030,Mất kết nối, click xác nhận để kết nối lại
+10000031,Mất kết nối, hãy đăng nhập lại!
+10000032,Chưa xử lý thông báo:
+10000033,Tải lại! Key:[
+10000034,[ff0000]Hệ thống[-]:{0} [649000][u]click xin gia nhập[/u][-]
+10000035,Nhận thưởng thất bại.
+10000036,Tên Bang đã tồn tại, hãy nhập lại
+10000037,Tạo Bang thành công
+10000038,Không đủ KNB, hãy nạp
+10000039,Tạo thất bại
+10000040,Bạn đã bị đuổi khỏi Bang
+10000041,Bạn đã được duyệt vào Bang
+10000042,Gửi tuyên ngôn chiêu hiền thành công
+10000043,Gửi tuyên ngôn chiêu hiền thất bại
+10000044,Đang tải dữ liệu nhân vật 1/{0}.
+10000045,Đang tải dữ liệu nhân vật {0}/{1}.
+10000046,Nhiệm vụ[EE82EE]
+10000047,[-]đã hoàn thành
+10000048,Không thể đến
+10000049,Ải chưa mở
+10000050,Server Error! ErrorCode:[
+10000051,Nhận được
+10000052,Đá
+10000053,Tiêu hao
+10000054,KNB
+10000055,Thể lực
+10000056,Danh vọng
+10000057,Chiến tích
+10000058,Đệ tử.
+10000059,Chúc mừng bạn đã nâng cấp lên VIP
+10000060,cấp.
+10000061,Túi Mệnh Cách đã đầy, không thể nhận.
+10000062,Cấp tướng không được vượt quá chủ tướng.
+10000063,Chúc mừng bạn nhận được 
+10000064,[4169E1]
+10000065,.
+10000066,Đang ghép
+10000067,Cấp chủ tướng không đủ, không thể dùng t.bị sau khi ghép.
+10000068,Túi đồ đã đầy
+10000069,Không thể trang bị, mỗi tướng chỉ được mang theo 1 Mệnh Cách của thuộc tính này!
+10000070,Nhận được[ffd83c]Mảnh tiến cấp[-] x{0}
+10000071,Nhận được [ffd83c]{0}[-]
+10000072,Nhận được [ffd83c]{0} mảnh [-] x{1}
+10000073,Không thể ra trận, cùng lúc chỉ được ra trận 1 tướng này
+10000074,Chuyển Long Trì nhận được exp x[EEEE00]{0}[-]
+10000075,Đã trang bị pháp bảo, exp tăng
+10000076,Điểm
+10000077,Nâng cấp pháp bảo
+10000078,Cống hiến Bang
+10000079,Tổng vật tư Bang.
+10000080,Thể lực tối đa đã tăng{0}{1}{2}
+10000081,Nhận được pháp bảo
+10000082,Kết thúc chiến dịch, lần đấu này vô hiệu
+10000084,Không tồn tại ID pháp bảo này:
+10000085,Không tồn tại ID BUFF này:
+10000086,Không tồn tại ID kỹ năng này:
+10000088,HP
+10000089,Trúng
+10000090,Né
+10000091,Bạo
+10000092,Bền
+10000093,Đỡ
+10000094,Phá thủ
+10000095,Thuộc tính chưa rõ
+10000096,Click nhận
+10000097,Mở 1 vị trí ra trận mới
+10000098,Chủ tướng cấp {0}\n Mở
+10000099,Chủ tướng không thể ra trận, hãy click tướng khác để đổi tướng ra trận
+10000100,Lv1
+10000101,Cấp
+10000102,MAX
+10000103,Không đủ Mảnh tiến cấp
+10000104,Không thể khôi phục
+10000105,Không đủ KNB để khôi phục
+10000106,Không đủ Đá để khôi phục
+10000107,Không đủ mảnh để chiêu mộ
+10000108,Lá chắn
+10000109,Trị liệu
+10000110,Phụ trợ
+10000111,Phụ Thuẫn
+10000112,Phép
+10000113,Tung chiêu
+10000114,KNB
+10000115,Đạt VIP {0} được dùng loại H.luyện này.
+10000116,Không đủ Đá
+10000117,Không đủ KNB
+10000118,H.luyện (Sơ)
+10000119,H.luyện (Trung)
+10000120,H.luyện (Cao)
+10000121,H.luyện (Siêu)
+10000122,H.luyện (Thần)
+10000123,Nhận được thuộc tính ít
+10000124,Nhận được thuộc tính khá tốt
+10000125,Nhận được thuộc tính rất tốt
+10000126,Nhận được thuộc tính cực cao
+10000127,Tất cả thuộc tính +5
+10000128,Chưa chọn
+10000129,Đã đạt cấp tối đa
+10000130,Cấp 
+10000131,Chủ tướng cấp [ff0000]{0}[-] mở
+10000132,Đã đạt cấp tối đa.
+10000133,Không đủ chiến tích.
+10000134,Chủ tướng không đủ cấp,hãy thử lại sau khi tăng cấp.
+10000135,Mỗi cấp tăng
+10000136,Chủ tướng lv1
+10000137,Chiến tích 
+10000138,)cấp
+10000139,Mỗi cấp tăng
+10000140,Chủ tướng 
+10000141,Chiến tích 
+10000142,Chưa cường hóa
+10000143,Hãy chọn trang bị!
+10000144,Đã đạt cấp cao nhất, không thể ghép!
+10000145,Không đủ nguyên liệu, không thể ghép!
+10000146,Đã đạt cấp tối đa Không thể cường hóa
+10000147,Không thể cường hóa, cấp cường hóa trang bị không được cao hơn cấp chủ tướng!
+10000148,Không đủ Đá,Không thể cường hóa!
+10000149,Chưa định nghĩa
+10000150,Mô tả
+10000151,Cấp dùng:
+10000152,Cấp cường hóa:
+10000153,Tuyệt kỹ:
+10000154,Phép:
+10000155,Võ lực:
+10000156,Công võ:
+10000157,Thủ võ:
+10000158,Công phép:
+10000159,Thủ phép:
+10000160,Công kỹ năng:
+10000161,Thủ kỹ năng:
+10000162,HP tối đa:
+10000163,Tiên công cá nhân:
+10000164,Cấp Trúng:
+10000165,Cấp né:
+10000166,Cấp bạo:
+10000167,Cấp Bền:
+10000168,Cấp đỡ:
+10000169,Cấp Phá thủ:
+10000170,Chủ tướng không đủ cấp,không thể mua!
+10000171,Không đủ Đá, không thể mua.
+10000172,Không thể bán vật phẩm này.
+10000173,Số lượng túi đồ:{0}/{1}
+10000174,Cấp {0} mở
+10000175,Túi đồ tạm thời đã đầy, hãy nhặt Mệnh Cách rồi thử lại.
+10000176,Thêm 
+10000177,Lượt miễn phí Săn Mệnh hôm nay:[ffffff]{0}[-] lần
+10000178,Lượt miễn phí hôm nay:{0} lần
+10000179,Túi đồ tạm thời đã đầy, hãy nhặt Mệnh Cách rồi thử lại.
+10000180,Không có Mệnh Cách có thể nhận.
+10000181,[98d9ff]cấp {0} mở[-]
+10000182,[ffbb00]VIP{0}[-] mở tự động ghép [EE28EE] tính năng Cách mệnh[-] tím trở xuống
+10000183,Được nhận {0} exp
+10000184,Đã đạt cấp tối đa,không thể nuốt
+10000185,Phần thưởng ký danh tháng {0}
+10000186,Tháng này đã tích lũy ký danh [ffd83c]{0}[-] lần
+10000187,Giá bán:[33ffff]{0}[-]
+10000188,Ký danh lần thứ {0} được nhận
+10000189,Nâng cấp lên VIP {0} sẽ nhận được [ffd83c] x2 phần thưởng[-], có nạp không?
+10000190,(Lượt còn:{0} lần)
+10000191,(Lượt còn:[ff0000]0[-] lần)
+10000192,Lượt tế bái đã đạt tối đa!
+10000193,Không đủ KNB!
+10000194,Không đủ KNB, không thể mua!
+10000195,Không đủ Đá, không thể mua!
+10000196,Giá tổng
+10000197,Giá bán
+10000198,Hãy chọn mua số lượng [ffd83c]{0}[-]
+10000199,Hãy chọn bán số lượng [ffd83c]{0}[-]
+10000200,(Hôm nay còn được mua {0} lần)
+10000201,(Hôm nay còn được mua [ff0000]0[-] lần)
+10000202,Có tiêu [ffd83c]{0}[-]         mua {1} thể lực
+10000203,Lượt mua đã đạt tối đa!
+10000204,Chúc mừng bạn đạt hạng {0} XH chiến công trong chiến dịch lần này
+10000205,Kỹ năng:{0}
+10000206,Đã kết thúc
+10000207,{0:00} ngày {1:00} giờ {2:00} phút {3:00} giây
+10000208,{0} phút/lần
+10000209,Phe:{0}
+10000210,Chiến công:{0}
+10000211,XH:{0}
+10000212,Thời gian khôi phục lần sau:{0:00}:{1:00}
+10000213,Lượt tham chiến còn:{0}/{1}
+10000214,Offline khi đang tham chiến, thua vòng này
+10000215,Không thể đổi tướng trong khi tham chiến mỗi vòng
+10000216,Đã kết thúc sự kiện, không thể mua lượt tham chiến!
+10000217,Có tiêu [f8df60]{0}[-]         mua 1 lượt tham chiến
+10000218,Không đủ KNB, hãy nạp!
+10000219,Đã kết thúc sự kiện, không thể vào chiến đấu!
+10000220,Không đủ lượt tham chiến!
+10000221,Chiến công phe:{0}
+10000222,Số người:{0}
+10000223,Chiến công:{0}
+10000224,Hãy chọn phe trước
+10000225,[00ffff]{0}[-]-[00ffff]{1}[-]đã đánh bại[ff0000]{2}[-]-[ff0000]{3}[-].
+10000226,[00ffff]{0}[-]-[00ffff]{1}[-]nhẹ nhàng tiêu diệt[ff0000]{2}[-]-[ff0000]{3}[-], giành [ff0000]{4}[-]liên thắng!
+10000227,[00ffff]{0}[-]-[00ffff]{1}[-]đã tiêu diệt[ff0000]{2}[-]-[ff0000]{3}[-], đang đại sát,[ff0000]{4}[-]liên thắng!
+10000228,[00ffff]{0}[-]-[00ffff]{1}[-]đã tiêu diệt[ff0000]{2}[-]-[ff0000]{3}[-], đã giành[ff0000]{4}[-]liên thắng!
+10000229,[00ffff]{0}[-]-[00ffff]{1}[-]đã đạt[ff0000]{2}[-] liên sát!!![ff0000]{3}[-] bị tiêu diệt,[ff0000]{4}[-] sẽ bị đánh bại!!
+10000230,[00ff00]bạn[-]đã đánh bại[ff0000]{0}[-]-[ff0000]{1}[-].
+10000231,[00ff00]bạn[-]đã tiêu diệt[ff0000]{0}[-]-[ff0000]{1}[-],đã giành [ff0000]{2}[-] liên thắng.
+10000232,[00ff00]bạn[-]nắm hoàn toàn chiến cục,cho dù [ff0000]{0}[-]-[ff0000]{1}[-]cũng không phải đối thủ của bạn,[ff0000]{2}[-]liên thắng!
+10000233,[00ff00]bạn[-]sát hại như yêu quái,[ff0000]{0}[-]-[ff0000]{1}[-]bị bạn tiêu diệt,[ff0000]{2}[-] giành liên thắng!
+10000234,[00ff00]bạn[-]nghiền vụn[ff0000]{0}[-]-[ff0000]{1}[-], vô song [ff0000]{2}[-]liên thắng, bạn chính là anh hùng của [00ff00]{3}[-]!
+10000235,[00ff00]Đội của bạn[-]bị[ff0000]{0}[-]-[ff0000]{1}[-]đánh bại,[ff0000]{2}[-]liên thắng bị chấm dứt!
+10000236,[00ff00]Đội của bạn[-]bị[ff0000]{0}[-]-[ff0000]{1}[-]đánh bại.
+10000237,Kỹ năng:{0}\n\n{1}
+10000238,Sự kiện đã kết thúc
+10000239,Trống dữ liệu chiến đấu phe ta
+10000240,Trống dữ liệu chiến đấu bên địch
+10000241,Đã đạt cấp tối đa!
+10000242,Không đủ Đá không thể nâng cấp!
+10000243,Chủ tướng không đủ cấp, không thể nâng cấp!
+10000244, (Có thể nâng cấp)
+10000245,{0:D} (tăng thành{1:F2}%)
+10000246,Nhận exp thất bại, exp cấp tướng không được vượt quá chủ tướng!
+10000247,Lượt cưỡng chế chưng thu còn không đủ!
+10000248,Nâng cấp Đại Điện để tăng tăng cấp đối ta kiến trúc chủ thành khác.
+10000249,Nhận được exp, mỗi tiếng được chưng thu 1 lần, sẽ làm mới lượt chưng thu hàng ngày..
+10000250,Tăng Luyện Khí Các để tăng cấp cường hóa tối đa.
+10000251,Nhận được {0} X{1}
+10000252,Tiêu [ffd83c]{0}[-]         Thêm 1 lượt thám hiểm
+10000253,Đã dùng hết lượt mua hôm nay
+10000254,Chủ tướng lv10 hoặc VIP1 mở x2 tốc độ chiến đấu
+10000255,{0}[00ff2a]Thu ích chiến công +{1}%[-]
+10000256,{0}[00ff2a]Không có (Không phải người chơi chiến đấu)[-]
+10000257,{0}[ff0000]Giảm cấp thuộc tính -{1}%[-]
+10000258,Có bỏ qua lần đấu này, sẽ bị thua?
+10000259,Thời gian đăng nhập lần cuối:{0} ngày trước
+10000260,Thời gian đăng nhập lần cuối:vừa mới
+10000261,Đã dùng hết lượt nhận hôm nay
+10000262,Bạn bè tối đa {0}/60
+10000263,Lượt nhận còn hôm nay:{0}
+10000264,Có xóa [FEFE00]{0}[-] trong danh sách bạn bè
+10000265,Không đủ thể lực!
+10000266,Hiện chưa mở
+10000267,Phải vượt qua ải trước
+10000268,Chưa trang bị
+10000269,Không thể nhận, không đủ cấp
+10000270,cấp  mở
+10000271,Không thể bán
+10000272,[ffd800]Lượt còn hôm nay:[-]{0}/{1}
+10000273,[ffd800]Lượt còn hôm nay:[-][ff0000]{0}[-]/{1}
+10000274,Đã dùng hết lượt đấu hôm nay
+10000275,Lượt đấu hôm nay đã đạt tối đa
+10000276,Tiêu [fff800]{0}[-]          cài lại lượt đấu phụ bản?
+10000277,(Hôm này còn được cài lại {0} lần)
+10000278,(Hôm này còn được cài lại [ff0000]0[-] lần)
+10000279,Đã hết lượt đấu, không thể mua
+10000280,Đã dùng hết lượt mua hôm nay, không thể mua!
+10000281,Cấp:
+10000282,Đã nhận
+10000283,Đạt {0}       được nhận
+10000284,Bạn đạt cấp {0} đến nhận thưởng!
+10000286,Exp Chuyển Long Trì
+10000287,Exp
+10000288,Mảnh Phong Thần
+10000289,Mảnh tiến cấp
+10000290,Chiến công
+10000291,{0}(mảnh)
+10000292,Vật phẩm chưa rõ,ID:{0} loại{1}
+10000293,Thu thập đủ mảnh tướng sẽ chiêu mộ được tướng này
+10000294,Không có kỹ năng
+10000295,Thu thập đủ mảnh pháo bảo sẽ ghép được pháp bảo này
+10000296,Ra trận PB nhận được, tài nguyên cần khi nâng cấp tướng
+10000297,Lưu trữ trong Chuyển Long Trì, dùng nâng cấp tướng
+10000298,Tự động nhận được sau khi thu thập tướng đã chiêu mộ và mảnh, dùng tiến cấp tướng
+10000299,Tiền hiếm trong Yêu Tiên Truyện
+10000300,Tiền thông dụng trong Yêu Tiên Truyện
+10000301,Cứ 30ph sẽ hồi 5 điểm, ra trận PB thường/tướng sẽ tiêu hao thể lực
+10000302,Vượt qua sự kiện PVP nhận được, dùng quay thẻ thường Tụ Tiên Đài
+10000303,Ra trận PB thường nhận được, dùng tăng tiên pháp
+10000304,Dùng trong phe chiến
+10000305,Vật phẩm chưa rõ,ID:{0} loại{1}
+10000306,Vật phẩm chưa cài, hoặc chưa xử lý avatar kiểu loại
+10000307, lần
+10000308,Hạng
+10000309,thứ
+10000310,Hãy đợi kết thúc đếm ngược !
+10000311,Kỹ năng:{0}\n\n{1}
+10000312,Tiêu [ffd83c]{0}[-]          Thêm 1 lượt thách đấu
+10000313,(Hôm nay còn được mua  {0} lần)
+10000314,(Hôm nay còn được mua  [ff0000]0[-] lần)
+10000315,Có tiêu [ffd83c]{0}[-]         Cài lại thời gian chờ thách đấu
+10000316,Không đủ KNB, không thể cài lại
+10000317,Chủ soái
+10000318,Tướng phụ
+10000319,Quân sĩ
+10000320,Online
+10000321,Offline
+10000322,Ngày
+10000323,Lỗi dữ liệu
+10000324,Không được bỏ phiếu lại
+10000325,Tiêu hao:[ffd83c]{0}[-]
+10000326,Hãy nhập tên Bang
+10000327,Tên Bang chứa từ nhạy cảm, hãy nhập lại
+10000328,Hãy nhập tuyên ngôn chiêu nạp
+10000329,Chủ soái offline 7 ngày mới được tố cáo
+10000330,Đã có người tố cáo, hãy tham gia thi đấu
+10000331,Bạn có muốn  [ffff00]{0}[-]{1}
+10000332,giáng chức là Quân sĩ?
+10000333,Nâng cấp thành Phó tướng?
+10000334,đuổi bạn ra khỏi bang?
+10000335,Bang tối đa chỉ được có 5 tướng phụ
+10000336,Hôm nay chuẩn bị đọc sách gì
+10000337,Hôm nay đã đọc sách, mai hãy quay lại 
+10000338,Hôm nay đã đọc sách.
+10000339,Bang cấp {0}
+10000340,Bạn đã tham gia thi đấu
+10000341,Thời gian kết thúc còn:{0} ngày
+10000342,[808080]Hiện thiếu[-]
+10000343,[u] XH:
+10000344,Tính năng hiện chưa mở
+10000345,Trang sau không có nhiều Bang nữa
+10000346,Trang trước không có nhiều Bang nữa
+10000347,Cấp Bang đề nghị thấp nhất là {0} 
+10000348,Cấp Bang đề nghị cao nhất là {0} 
+10000349,Không thể tự mời mình vào Bang
+10000350,Không được để trống tên người được mời
+10000351,Không được để trống nội dung
+10000352,Không đủ tổng vật tư Bang
+10000353,Số người Bang hiện tại:
+10000354,Mời quan chức
+10000355,Không giới hạn
+10000356,Cấp {0} có thể vào
+10000357,[00ff17]Đã đề nghị [-]
+10000358,Không đủ điều kiện
+10000359,Đã đủ người
+10000360,Không thể gia nhập Bang này
+10000361,Đề nghị Bang thành công
+10000362,Không đủ điều kiện, không thể đề nghị Bang
+10000363,Có tiêu[ffd83c]{0}[-]
+10000364,Mua{0}
+10000365,Không đủ cống hiến Bang, không thể mua
+10000366,Đang làm mới cấp
+10000367,Không đủ cống hiến Bang, không thể làm mới
+10000368,Làm mới vật phẩm
+10000369,Phê chuẩn người chơi [ffff00]
+10000370,[-] gia nhập Bang thành công
+10000371,Bang đã đủ người
+10000372,Phê chuẩn thất bại, đối phương đã có bang
+10000373,Người chơi đã có Bang, không thể mời
+10000374,Chưa tìm được người chơi online này
+10000375,Mời thành công
+10000376,Không thể tự mời mình
+10000377,Đối phương không đủ cấp, không thể mời
+10000378,Đuổi [ffff00]
+10000379,[-] xuất Bang thành công
+10000380,Không được đuổi thành viên mới khi vào Bang trong ngày
+10000381,Không được đuổi chủ soái thi đấu
+10000382,Giải trí
+10000383,Thách đấu khó khăn
+10000384,Thổ hào tập hợp
+10000385,Bảng xưng bá
+10000386,Chưa rõ phương châm
+10000387,Tiêu hao:[ffff00]{0}[-]
+10000388,Hãy giữ tuyên ngôn của bạn, chờ kết quả bỏ phiếu!Phiếu bầu không phải miễn phí, hãy thanh toán [ffff00]{0}[-]      tiền chuẩn bị~
+10000389,Bang không thể 1 ngày không có chủ soái, bạn hãy thi đấu sau khi tố cáo! Giữ tuyên ngôn của bạn, chờ kết quả bỏ phiếu!Phiếu bầu không phải miễn phí, hãy thanh toán [ffff00]{0}[-]      tiền chuẩn bị~
+10000390,Hãy nhập tuyên ngôn thi đấu
+10000391,Miễn phí
+10000392,Lượt miễn phí:{0}/{1}
+10000393,Miễn phí sau {0:00}:{1:00}:{2:00}        
+10000394,Được thêm 3 lần thẻ quay thường miễn phí hàng ngày
+10000395,Thời gian chờ miễn phí quay đặc biệt giảm thành 24 tiếng
+10000396,Giảm 20% thẻ quay 10 lần đặc cấp
+10000397,Không đủ Danh vọng, không thể quay!
+10000398,Tôi nói với [ffe517]{0}[-] 
+10000399,Lực chiến:{0}
+10000400,Bang:[7f7f7f]chưa vào bang[-]
+10000401,Bang:{0}
+10000402,Lỗi mạng, gửi thất bại
+10000403,Đối phương đã offline, không thể gửi tin
+10000404,Đối phương đã là bạn của bạn
+10000405,Gửi thành công yêu cầu thêm bạn
+10000406,Đã đạt số lượng bạn bè tối đa
+10000407,Đối phương đã đạt số lượng bạn bè tối đa
+10000408,Đề nghị Bang thành công
+10000409,Không đủ điều kiện, không thể đề nghị Bang
+10000410,Tính năng bang hiện chưa mở, vui lòng chờ!
+10000411,Bạn đã vào bang, không thể xin vào Bang này
+10000412,Gửi tin quá nhiều, hãy gửi lại sau
+10000413,Hãy chọn đối tượng chat riêng
+10000414,Không được để trống nội dung gửi
+10000415,Thư hệ thống
+10000416,Hãy thao tác theo mũi tên chỉ dẫn!
+10000417,Kết thúc còn\n
+10000418,Bắt đầu còn\n
+10000419,{0}00 giây
+10000420,Ngày {0:00} giờ {1:00}
+10000421,{0:00} giờ {1:00} phút
+10000422,{0:00} phút {1:00} giây
+10000423,{0:00} giây
+10000424,Vui lòng chờ
+10000425,Lượt thể lực đã mua:{0}/{1}
+10000426,Thời gian khôi phục giãn cách:{0} thể lực /{1} phút
+10000427,Khôi phục toàn thể lực:{0:00}:{1:00}:{2:00}
+10000428,Khôi phục thể lực lần sau:{0:00}:{1:00}:{2:00}
+10000429,Khôi phục thể lực lần sau:00:00:00
+10000430,Khôi phục toàn thể lực:00:00:00
+10000431,Toàn thành viên ra trận và điều tiết hợp lý chiến vị tướng, sẽ có ảnh hưởng quyết định đến chiến cục.
+10000432,Khi cấp tăng, trang bị cũng sẽ tăng thuộc tính.
+10000433,Chuyển Long Trì sẽ chưng thu cho tướng lĩnh, phân chia exp, tăng cấp.
+10000434,Tiêu Đá hoặc KNB để tăng lực chiến của tướng chỉ định.
+10000435,Nâng cấp tiên pháp để tăng thuộc tính toàn quân ở trên trận.
+10000436,Trang bị Mệnh Cách khác nhau cho tướng sẽ tăng thuộc tính tương ứng.
+10000437,Tăng phẩm chất thẻ tướng, giúp thuộc tính tướng tăng mạnh.
+10000438,Mảnh x
+10000439,Chính :{0}
+10000440,Chưa tìm thấy tướng này:{0}
+10000441,Độ hoàn thành đan dược {0}%
+10000442,Độ hoàn thành đan dược 0%
+10000443,Cấp :{0}
+10000444,Không đủ sao, không thể chiêm tinh.
+10000445,Không đủ Đá, không thể chiêm tinh.
+10000446,Nâng cấp thành công!
+10000447,Không đủ exp tích lũy
+10000448,Lỗi dữ liệu nạp
+10000449,Nạp tiếp {0}KNB, sẽ trở thành VIP {1}
+10000450,Đạt VIP1, có thể dùng:\n1.Mỗi ngày rút thẻ thường 10 lần\n2.Chuyển Long Chì mỗi ngày có thể trưng thu nhanh 12 lần\n3. Bao gồm tất cả đặc quyền của cấp vip 0
+10000451,Đạt VIP2, có thể dùng:\n1. Mỗi ngày mua thể lực 2 lần\n2. Mỗi ngày có thể dùng Thiên Phú Linh Thạch 10 lần\n3. Mỗi ngày mua thêm 7 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm 3 lần\n5. Có thể dùng huấn luyện trung cấp để nâng cao thuộc tính tướng\n6. Mỗi ngày trưng thu nhanh mỏ Linh Thạch 6 lần\n7. Mỗi ngày có thể làm mới Chợ 1 lần\n8.Mỗi ngày trưng thu Chuyển Long Chì 14 lần\n9. bao gồm tất cả đặc quyền vip1
+10000452,Đạt VIP3, có thể dùng:\n1. Mỗi ngày mua thể lực 4 lần\n2. Mỗi ngày có thể dùng Thiên Phú Linh Thạch 20 lần\n3. Mỗi ngày mua thêm 8 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  4 lần\n5. Có thể dùng huấn luyện trung cấp để nâng cao thuộc tính tướng\n6. Mỗi ngày trưng thu nhanh mỏ Linh Thạch 12 lần\n7. Mở tính năng săn mệnh nhanh và tự động ghép mệnh các\n8. Mỗi ngày có thể làm mới Chợ 2 lần\n9.Mỗi ngày trưng thu Chuyển Long Chì 20 lần\n10. bao gồm tất cả đặc quyền vip2
+10000453,Đạt VIP4, có thể dùng:\n1. Mỗi ngày mua thể lực 6 lần\n2. Mỗi ngày có thể dùng Thiên Phú Linh Thạch 30 lần\n3. Mỗi ngày mua thêm 9 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  5 lần\n5. Mỗi ngày trưng thu mỏ Linh Thạch 18 lần\n6.Mỗi ngày trưng thu nhanh Chuyển Long Chì 30 lần\n7. bao gồm tất cả đặc quyền vip3
+10000454,Đạt VIP5, có thể dùng:\n1. Mỗi ngày mua thể lực 8 lần\n2. Mỗi ngày có thể dùng Thiên Phú Linh Thạch 40 lần\n3. Mỗi ngày mua thêm 10 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  6 lần\n5. Mỗi ngày trưng thu mỏ Linh Thạch 24 lần\n6.Mỗi ngày trưng thu nhanh Chuyển Long Chì 40 lần\n7. bao gồm tất cả đặc quyền vip4
+10000455,Đạt VIP6, có thể dùng:\n1. Mỗi ngày mua thể lực 11 lần\n2. Mỗi ngày có thể dùng Thiên Phú Linh Thạch 55 lần\n3. Mỗi ngày mua thêm 11 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  7 lần\n5. Có thể dùng huấn luyện cao cấp để nâng cao thuộc tính tướng\n6. Mỗi ngày trưng thu nhanh mỏ Linh Thạch 33 lần\n7. Số lần Thám hiểm miễn phí hàng ngày tăng lên 10 lần\n8. Mỗi ngày mua thêm 10 lần Thám hiểm\n9.Mỗi ngày trưng thu Chuyển Long Chì 50 lần\n10. bao gồm tất cả đặc quyền vip5
+10000456,Đạt VIP7 có thể dùng:\n1. Mỗi ngày mua thể lực 14 lần\n2. Mỗi ngày dùng Thiên Phú Linh Thạch 70 lần\n3. Mỗi ngày mua thêm 12 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  8 lần\n5. Mỗi ngày trưng thu mỏ Linh Thạch 42 lần\n6.Mỗi ngày trưng thu nhanh Chuyển Long Chì 60 lần\n7. bao gồm tất cả đặc quyền vip6
+10000457,Đạt VIP8 dùng:\n1. Mỗi ngày mua thể lực 18 lần\n2. Mỗi ngày dùng Thiên Phú Linh Thạch 90 lần\n3. Mỗi ngày mua thêm 13 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  9 lần\n5. dùng huấn luyện cao cấp để nâng cao thuộc tính tướng\n6. Mỗi ngày trưng thu nhanh mỏ Linh Thạch 54 lần\n7. Số lần Thám hiểm miễn phí hàng ngày tăng lên 11 lần\n8. Mỗi ngày mua thêm 15 lần Thám hiểm\n9.Mỗi ngày trưng thu Chuyển Long Chì 70 lần\n10. bao gồm tất cả đặc quyền vip7
+10000458,Đạt VIP9 dùng:\n1. Mỗi ngày mua thể lực 22 lần\n2. Mỗi ngày dùng Thiên Phú Linh Thạch 110 lần\n3. Mỗi ngày mua thêm 14 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  10 lần\n5. Mỗi ngày trưng thu mỏ Linh Thạch 66 lần\n6.Mỗi ngày trưng thu nhanh Chuyển Long Chì 80 lần\n7. bao gồm tất cả đặc quyền vip8
+10000459,Đạt VIP10 dùng:\n1. Mỗi ngày mua thể lực 27 lần\n2. Mỗi ngày dùng Thiên Phú Linh Thạch 135 lần\n3. Mỗi ngày mua thêm 15 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  11 lần\n5. Mỗi ngày trưng thu mỏ Linh Thạch 81 lần\n7. Số lần Thám hiểm miễn phí hàng ngày tăng lên 12 lần\n8. Mỗi ngày mua thêm 20 lần Thám hiểm\n9. Mỗi ngày có thể làm mới Chợ 8 lần\n10.Mỗi ngày trưng thu Chuyển Long Chì 90 lần\n11. bao gồm tất cả đặc quyền vip9
+10000460,Đạt VIP11 dùng:\n1. Mỗi ngày mua thể lực 32 lần\n2. Mỗi ngày dùng Thiên Phú Linh Thạch 160 lần\n3. Mỗi ngày mua thêm 16 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  12 lần\n5. Mỗi ngày trưng thu mỏ Linh Thạch 96 lần\n6. Mỗi ngày có thể làm mới Chợ 16 lần\n7.Mỗi ngày trưng thu nhanh Chuyển Long Chì 100 lần\n8. bao gồm tất cả đặc quyền vip10
+10000461,Đạt VIP12 dùng:\n1. Mỗi ngày mua thể lực 37 lần\n2. Mỗi ngày dùng Thiên Phú Linh Thạch 185 lần\n3. Mỗi ngày mua thêm 17 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  13 lần\n5. Mỗi ngày trưng thu mỏ Linh Thạch 111 lần\n6. Mỗi ngày có thể làm mới Chợ 24 lần\n7.Mỗi ngày trưng thu nhanh Chuyển Long Chì 110 lần\n8. bao gồm tất cả đặc quyền vip11
+10000462,không còn lượt làm mới!
+10000463,(Hôm nay còn được làm mới {0} lần)
+10000464,Làm mới vật phẩm
+10000465,Không có platform đăng nhập! Hãy đăng nhập lại!
+10000466,Hãy chọn server.
+10000467,Kết nối server thành công.
+10000468,Kết nối server thất bại.
+10000469,Kết nối server quá lâu, thử lại!
+10000470,Lỗi đăng nhập server!
+10000471,Nhận nhân vật thành công.
+10000472,Tạo nhân vật thành công
+10000473,Trùng tên nhân vật!
+10000474,Tạo nhân vật thất bại!
+10000475,Đăng nhập thất bại.
+10000476,Server:{0}  [a0a0a0]Click đổi server[-]
+10000477,Hãy nhập tên nhân vật!
+10000478,Tên nhân vật quá dài!
+10000479,Tên nhân vật chứa từ nhạy cảm!
+10000499,Chưa tìm thấy map chiến đấu:{0}.
+10000500,Đang tải map chính(Tiên)
+10000501,Đang tải map chính(Ma)
+10000502,Đang tải map:
+10000503,Chưa tìm thấy map chiến đấu:JuQingID={0},GuanKaID={1}.
+10000504,Sự kiện hiện chưa mở!
+10000505,Chào mừng quay lại,
+10000506,Chưa mở hệ thống Tiên Thị
+10000507,Hiện chưa mở phụ bản!
+10000508,Hệ thống này mở mặc định, nếu chưa mở, hãy kiểm tra bảng cài building.
+10000509,Không tồn tại tài nguyên hiệu ứng này:
+10000510,Không tồn tại tài nguyên BUFF này:
+10000511,Không tồn tại tài nguyên chủ tướng này:
+10000512,Không tồn tại tài nguyên tiểu binh này:
+10000523,Không nhận được đạo cụ, không thể dùng
+10000524,Đạt VIP13 dùng:\n1. Mỗi ngày mua thể lực 43 lần\n2. Mỗi ngày dùng Thiên Phú Linh Thạch 215 lần\n3. Mỗi ngày mua thêm 18 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  14 lần\n5. Mỗi ngày trưng thu mỏ Linh Thạch 129 lần\n7. Số lần Thám hiểm miễn phí hàng ngày tăng lên 13 lần\n8. Mỗi ngày mua thêm 25 lần Thám hiểm\n9. Mỗi ngày có thể làm mới Chợ 32 lần\n10.Mỗi ngày trưng thu Chuyển Long Chì 120 lần\n11. bao gồm tất cả đặc quyền vip12
+10000525,Đạt VIP14 dùng:\n1. Mỗi ngày mua thể lực 49 lần\n2. Mỗi ngày dùng Thiên Phú Linh Thạch 245 lần\n3. Mỗi ngày mua thêm 19 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  15 lần\n5. Mỗi ngày trưng thu mỏ Linh Thạch 147 lần\n6. Mỗi ngày có thể làm mới Chợ 40 lần\n7.Mỗi ngày trưng thu Chuyển Long Chì 130 lần\n8. bao gồm tất cả đặc quyền vip13
+10000526,Đạt VIP15 dùng:\n1. Mỗi ngày mua thể lực 200 lần\n2. Mỗi ngày dùng Thiên Phú Linh Thạch 1000 lần\n3. Mỗi ngày mua thêm 200 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  200 lần\n5. Mỗi ngày trưng thu mỏ Linh Thạch 600 lần\n7. Số lần Thám hiểm miễn phí hàng ngày tăng lên 15 lần\n8. Mỗi ngày mua thêm 200 lần Thám hiểm\n9. Mỗi ngày có thể làm mới Chợ 200 lần\n10.Mỗi ngày trưng thu Chuyển Long Chì 200 lần\n11. bao gồm tất cả đặc quyền vip14
+20000000,Cấp hiện tại:{0}
+20000001,Đá có thể trưng thu
+20000002,Đá có thể trưng thu nhanh
+20000003,Lượt còn hôm nay {0}/{1}
+20000004,Lượt còn hôm nay [ff0000]0[-]/{0}
+20000005,Trưng thu lần sau còn cần
+20000006,trưng thu nhanh tiêu KNB
+20000007,Cung phụng thất bại!
+20000008,Đã hoàn thành cung phụng hôm nay!
+20000009,Sau khi điều động tướng, mỗi tiếng sẽ nhận được Đá, nếu tướng được mượn sẽ nhận thêm thưởng. Mỗi lần điều động tối đa trong 10 tiếng
+20000010,Đã nâng cấp mỏ đá.
+20000011,Điều động tướng thất bại.
+20000012,Đã điều động tướng vị trí này.
+20000013,Cấp VIP không đủ, chưa mở vị trí này.
+20000014,Tướng này đã ra trận, không thể điều động
+20000015,Đang điều động tướng này
+20000016,Sau khi điều động, tướng sẽ không được ra trận\n Có điều động {0}
+20000017,1 lần chỉ được ký thuê 1 tướng thành viên khác trong Bang của bạn, nếu thay tướng ký khác sẽ phải trả phí khác.\n Tướng được thuê chỉ được dùng để chiến đấu trong Bang .
+20000018,Thời hạn ký thuê 1 lần\n[ffd83c]đến hết 24 giờ cùng ngày[-]
+20000019,Có tiêu hao [33ffff]{0}[-]
+20000020,thuê [ffd83c]{0}[-]- {1}
+20000021,Trong trận hình tồn tại tướng loại trừ nhau, không thể ra trận
+20000022,Sự kiện sẽ mở vào {0}:00
+20000023,Đếm ngược kết thúc thí luyện
+20000024,{0:00} phút {1:00} giây
+20000025,Đang trị thương {0:00}:{1:00}
+20000026,Tiêu quân tư triệu hồi Boss, ấn giữ ảnh để xem Boss rớt\n sau khi triệu hồi trong ngày không được triệu hồi nữa, không được thay đổi sau khi triệu hồi
+20000027,Quân tư Bang:
+20000028,Lượt triệu hồi tuần này còn:[00ff00]{0}[-]
+20000029,Có triệu hồi {0} tiến hành thách đấu\n Nếu đồng ý hôm nay sẽ không được triệu hồi tiếp thiên thần khác
+20000030,Đang làm mới dữ liệu, hãy chờ
+20000031,Không đủ quân tư
+20000032,Không còn lượt triệu hồi
+20000033,HP:{0}
+20000034,Điểm yếu:{0}
+20000035,Không có
+20000036,Tự động tiêu KNB hồi sinh
+20000037,VIP{0} hồi sinh miễn phí
+20000038,Hãy khai chiến sau khi điều chỉnh đội hình ở giao diện này
+20000039,Cài lại thời gian chờ thách đấu
+20000040,Boss đã chết
+20000041,Không đủ KNB, không thể cài lại thời gian thách đấu thí luyện thiên thần, hãy nạp
+20000042,Đã điều động tướng này, không thể ra trận
+20000043,Sau khi ra khỏi bang, điểm cống hiến bang ban đầu về 0, không được khôi phục, vào bang mới không được thực hiện sự kiện bang trong ngày. Có thoát bang?
+20000044,Boss bang đã được triệu hồi
+20000045,Đã có tướng này, thẻ sẽ tự động đổi thành đá ngang bằng. 
+20000046,Vẫn còn {0} địch đang chuẩn bị vào chiến trường
+20000046,Thể lực đã đạt tối đa, không thể mua
+20000047,Không được để trống nội dung nhập!
+20000048,Bang cấp {0} mở sự kiện
+20000049,Cứ điểm tuần sản xuất ra:([00ff41]số lượng nhận thực tế[-]/số lượng tổng)
+20000050,Cứ điểm sản xuất ra:Sau Bang chiến hàng tuần, mỗi cứ điểm sẽ căn cứ theo                  tỷ lệ chiếm hữu của từng Bang phân chia phần thưởng.\n\n Phần thưởng:Tất cả thành viên Bang sẽ nhận phần thưởng thực tế nhận được,                  tướng phụ sẽ nhận được x1.5 phần thưởng, cấp chủ soái                 sẽ nhận được x2 phần thưởng.\n\nĐặc sản cứ điểm:Phần thưởng sau khi cứ điểm sản xuất ra top4 phần thưởng sẽ là                 đặc sản của mỗi cứ điểm, khi Bang hoàn toàn khống chế cứ điểm, chủ                  soái sẽ tự điều chỉnh đặc sản theo nhu cầu bản thân.
+20000051,Bạn hiện là người sở hữu của {0}, \n Bạn được tùy ý điều chỉnh đặc sản của cứ điểm này!
+20000052,Hãy quyết định mệnh lệnh tuần này của quân ta!
+20000053,Tỷ lệ chiếm hữu quân ta:{0}%
+20000054,Cột Mốc quân ta:{0}
+20000055,Click Bang bên phải\n Chọn mục tiêu
+20000056,XH
+20000057,Tên Bang
+20000058,Tỷ lệ chiếm hữu Bang
+20000059,Cấp Bang
+20000060,Cột Mốc
+20000061,Lần chiến đấu này tổng cộng nhận được {0} điểm chiến công, đứng hạng {1} XH chiến công quân ta!
+20000062,Tình báo chiến trường
+20000063,Lực chiến {0}
+20000064,Số người tham chiến {0} người
+20000065,Số người tiến công {0} người
+20000066,Số người thủ {0} người
+20000067,Đợi hồi sinh {0} người
+20000068,Click avatar quân địch\n Phát động chiến đấu!
+20000069,Vẫn còn {0} địch đang thủ
+20000070,Vẫn còn {0} địch đang công
+20000071,Hiện không có cứ điểm
+20000072,Cứ điểm quân ta:{0}
+20000073,Tỷ lệ chiếm hữu cứ điểm:{0}%
+20000074,Cấp Cột Mốc quân ta:{0}
+20000075,Kế hoạch quân ta tuần này:{0}
+20000076,Bản thổ tác chiến
+20000077,Đợi lệnh
+20000078,Tập kích {0} Bang
+20000079,Tiến quân {0}
+20000080,Bang chiến sẽ mở vào [00ff00]{1:00}:{2:00}[-] thứ {0} hàng tuần
+20000081,Đang tiến hành Bang chiến
+20000082,Đang tính kết quả Bang chiến, hãy nhận sau {0} giờ!
+20000083,Lệnh hành quân
+20000084,Sau khôi phục 1 lần
+20000085,Tập kích tiêu hao:
+20000086,1
+20000087,Thắng sẽ nhận được
+20000088,Hãy khai chiến sau khi điều chỉnh đội hình ở giao diện này
+20000089,Số ít đá
+20000090,Vừa đá
+20000091,Nhiều đá
+20000092,Có tiêu
+20000093,Bù đầy
+20000094,Lệnh hành quân
+20000095,Không đủ nguyên liệu, không thể ghép
+20000096,Hãy chọn 1 mục tiêu trước
+20000097,Tiến quân{0}sẽ tiêu hao{1}
+20000098,Hãy quyết định mệnh lệnh tuần này của quân ta!
+20000099,Bang hiện không có cứ điểm, không thể thiết lập kế hoạch này
+20000100,Bạn đã có 1 mục tiêu tiến quân, sửa kế hoạch sẽ không trả lại quân tư đã trả, có OK?
+20000101,Chưa rõ mục tiêu
+20000102,Vẫn còn {0} địch đang thủ
+20000103,Vẫn còn {0} địch đang công
+20000104,VIP{0} tính năng tiêu KNB hồi sinh
+20000105,HP Cột Mốc không đủ, không thể hồi sinh tham chiến
+20000106,Tham chiến thất bại
+20000107,Người chơi đang chiến đấu, hãy đợi lát
+20000108,Người chơi này đã không còn tồn tại 
+20000109,Gây {0} điểm sát thương cho Cột mốc đích
+20000110,Địch đang thủ, không thể công Cột Mốc
+20000111,Ngày trước
+20000112,Tiếng trước
+20000113,Phút trước
+20000114,Vừa mới
+20000115,Có thể ghép
+20000116,Đã ghép
+20000117,Đã ghép pháp bảo này, mảnh sẽ tự động chuyển thành exp pháp bảo
+20000118,Không đủ KNB, không thể cài lại thời gian thách đấu, hãy nạp trước
+20000119,Click Cột Mốc địch\n có thể gây sát thương cho Cột Mốc địch
+20000120,CN
+20000121,Thứ 2
+20000122,Thứ 3
+20000123,Thứ 4
+20000124,Thứ 5
+20000125,Thứ 6
+20000126,Thứ 7
+20000127,Có tiến quân?
+20000128,Rút thẻ
+20000129,[808080]Đang thi đấu[-]
+20000130,Không được cài Bang của mình thành mục tiêu tập kích
+20000131,Không được cài Bang thành trì Bang thành mục tiêu tiến quân
+20000132,Chủ tướng cấp {0} mở
+20000133,Bạn đã tham gia thi đấu lần này
+20000134,Đã kết thúc báo danh thi đấu chủ soái Bang, không thể tham gia
+20000135,Không có người thủ
+20000136,Không có người tiến công
+20000137,Đang điều động tướng này, không thể tiến cấp
+20000138,Đang điều động tướng này, không thể khôi phục
+20000139,Đang CD Cột Mốc, sau {0} giây lại click
+20000140,Tham gia chiến đấu thành công, tiêu hao năng lượng Cột Mốc đối phương {0}
+20000141,Chiến báo!, Quân ta [ffd83c]{0}[-] đã tiêu diệt [ff0000]{2}[-] của quân đoàn [ff0000]{1}[-]
+20000142,Chiến báo!, Quân ta [ffd83c]{0}[-] phòng ngự [ff0000]{2}[-] của quân đoàn [ff0000]{1}[-] thất bại, hiện đang xếp hàng hồi sinh…
+20000143,Chiến báo!, Quân ta [ffd83c]{0}[-] tấn công thành công [ff0000]{1}[-] danh giới quân đoàn,tạo [ff0000]{2}[-] sát thương và lui binh!
+20000144,Tham gia công thành công!
+20000145,Tham gia thủ thành công!
+20000146,Có muốn tiêu[FFDE00]{0}[-] 
+20000147,Tướng này đang trấn thủ, không thể thực hiện thao tác này 
+20000148,Có thể đánh giá sao cho PB
+20000149,Mở khóa
+20000150,Tinh Tú trước chưa kích hoạt, không thể chiếm Tinh Tú này
+20000151,Hiện tại:
+20000152,Hiệu quả:
+20000153,Cần:
+20000154,Hiện có:
+20000155,Nhắc nhở:Sau khi nâng cấp Tiên Pháp tất cả tướng trong đội đều được thêm thuộc tính tương ứng.
+20000156,Chiến Tích:
+20000157,Yêu cầu:
+20000158,Chức trách:
+20000159,(Khôi phục không ảnh hưởng cấp thẻ bài)
+20000160,Khôi phục nhận được
+20000161,Tất cả
+20000162,Phí {0}%
+20000163,Khôi phục [EDB802]{0}[-]đến màu trắng 1 sao
+20000164,Máu:
+20000165,Công trước:
+20000166,Đan dược tổng thể
+20000167,Exp:
+20000168,Giữ chuột để xem
+20000169,Hộ phù
+20000170,Mũ
+20000171,Vũ khí
+20000172,Chiến y
+20000173,Nhẫn
+20000174,Giầy
+20000175,Hiện tại
+20000176,Phí cường hóa
+20000177,Hiện có
+20000178,Nguyên liệu (Click vào nguyên liệu để tìm)
+20000179,Thôn tính
+20000180,(Sau khi thôn tính exp mệnh cách sẽ vượt cấp tối đa, sẽ hao tổn 1 phần exp
+20000181,Miễn phí Săn Mệnh ngày:
+20000182,Tự động ghép [EE28EE]mệnh cách[-] tím trở xuống
+20000183,Hiện cần
+20000184,Phát thưởng sau khi chiến dịch kết thúc
+20000185,Tên
+20000186,Nick
+20000187,Chiến công
+20000188,Chiến công phe
+20000189,Chiến dịch kết thúc
+20000190,Pháp Bảo đã trang bị có thể nhận được Exp trong chiến đấu
+20000191,Exp
+20000192,Điều kiện
+20000193,Làm mới tiếp viện còn
+20000194,Bỏ qua
+20000195,Lần càn quét này không nhận được vật phẩm
+20000196,Thưởng:
+20000197,X2 thẻ nạp,nhận ngay mỹ nhân [f4eba4]Đát Kỷ[-] và phần quà giá trị
+20000203,Xếp hạng:
+20000204,Chiến lực:
+20000205,Hiện tại:
+20000206,Hôm này có thể khiêu chiến:
+20000207,[fed73c]Người gửi:[-]{0}
+20000208,Nguyên liệu (click vào nguyên liệu để tìm)
+20000209,Võ lực:
+20000210,Pháp thuật:
+20000211,Tuyệt kỹ:
+20000212,Thuộc tính tích lũy
+20000213,Exp trưng thu
+20000214,Exp trưng thu nhanh
+20000215,Số lần mỗi ngày
+20000216,Lần trưng thu tiếp theo cần
+20000217,trưng thu nhanh sẽ tiêu hao KNB
+20000218,KN tích lũy hiện tại
+20000219,Làm mới sau {0:00}:{1:00}:{2:00}
+20000220,Không có Thiên Mệnh Liên Hiệp
+20000221,3 loại thủ
+20000222,3 loại công
+20000223,3 thuộc tính
+20000224,[ffd83c] cùng {0} cùng vào trận thì {1}tăng thuộc tính{2}[-]
+20000225,[ffd83c] đội trang bị Pháp Bảo {0}giờ,{1}tăng thuộc tính{2}[-]
+20000226,[14ff00](Đã kích hoạt)[-]
+20000227,[818181](Chưa kích hoạt)[-]
+20000228,Chưa đến giờ
+20000229,Hồi 1 lần
+20000230,Lần nhận hôm nay
+20000231,Hảo hữu đạt tối đa
+20000232,Làm mới sau  00:00:00
+20000233,{0} tấn công bạn bất ngờ, cướp đi 1{1}
+20000234,Cấp 1:
+20000235,Cấp 2:
+20000236,Cấp 3:
+20000237,Cấp 4:
+20000238,Cấp 5:
+20000239,Cấp 6:
+20000240,Exp tích lũy:
+20000241,Exp tiêu hao:
+20000242,Uy hiện tại:
+20000243,KNB hiện tại:
+20000244,Thưởng xếp hạng
+20000245,Thưởng thắng trận doanh
+20000246,Chúc mừng phe bạn đã chiến thắng trong chiến dịch
+20000247,Báo danh sẽ nhận được thưởng ngay
+20000248,Đã nhận thưởng báo danh hàng ngày
+20000249,Nạp xong sẽ nhận cấp Vip hiện tại, thưởng x2 tháng này chưa nhận
+20000250,Số lần còn lại
+20000251,Số lần Thám hiểm đã đầy, không thể mua thêm
+20000252,Thám hiểm nhanh
+20000253,VIP{0} mở Thám hiểm nhanh
+20000254,Tài khoản được đăng nhập ở thiết bị khác
+20000255,Xóa dữ liệu client sẽ tải lại tài nguyên, có xóa không?
+20000256,Xóa client thành công
+20000257,Xóa client thất bại
+20000258,Cấp{0}của bạn nâng lên cấp{1}
+20000259,Cấp chủ tướng không đủ, hãy càn quét ải để nâng cấp
+20000260,[c635d9]Tỷ lệ cao[-]
+20000261,[00d5e3]Tỷ lệ vừa[-]
+20000262,[45d935]Tỷ lệ thấp[-]
+20000263,VIP{0}Mở chiêm tinh nhanh
+20000264,Có muốn tiêu [0FFFFF]{0}[-]
+20000265,Chiêm tinh nhanh
+20000266,Có thể nhận kết tinh linh khí trong shop Bang
+20000267,Click vào nguyên liệu dưới đây mua
+20000268,(Giữ chuột có thể sửa số lượng mua)
+20000269,Giá bán
+20000270,Sau khi click vào, không thể đổi phe trong chiến dịch này. Việc chọn phe không ảnh hưởng thưởng xếp hạng.
+20000271,Click để tiếp tục
+20000272,Vui lòng chờ
+20000273,Thưởng Liên Sát:
+20000274,Kiệt sức:
+20000275,Thưởng xác suất:
+20000276,Thể lực cần:
+20000277,Giá bán:
+20000278,Đếm ngược
+20000279,Chưa lọt BXH\nHãy cố gắng hơn nữa
+20000280,22h hàng ngày phát qua thư
+20000281,đến
+20000282,nói
+20000283,Quặng linh thạch
+20000284,Lò Luyện Đan
+20000285,Bách Bảo Các
+20000286,Sảnh Chiến dịch
+20000287,Bang
+20000288,Tuần tra
+20000289,Tiên Thị
+20000290,Tụ Tiên Đài
+20000291,Chuyển Long Trì
+20000292,Chiêm Tinh Đài
+20000293,Hệ thống tăng chiến lực bao gồm
+20000294,Chỉ hiện Bang được yêu cầu
+20000295,Không có Bang để hiển thị
+20000296,Hãy chọn phương châm
+20000297,Tự động mời bạn bè
+20000298,Click nhập tên Bang
+20000299,Nhập thông báo chiêu hiền
+20000300,Chủ soái:{0}
+20000301,Cấp:{0}
+20000302,Exp Bang
+20000303,Vật tư Bang
+20000304,Thành viên:{0}/{1}
+20000305,Click sửa thông báo
+20000306,Trong thời gian ứng cử không thể thoát, tiếp tục ứng cử?
+20000307,Không giới hạn người gia nhập
+20000308,Đạt cấp 
+20000309,Được yêu cầu
+20000310,Không được yêu cầu, cần chờ người mời
+20000311,Nhập tên đối tượng cần mời
+20000312,Click sửa thông báo, thông báo sẽ hiện trên kênh Thế Giới và phát 1 lần.
+20000313,Cống hiến:
+20000314,       Vì một số nguyên nhân chưa rõ, Chủ soái trước đã rời bỏ chúng tôi...\n       Trên hành trình diệt trừ Ma Vương, hi sinh là điều khó tránh, hãy nhận trọng trách đưa quân ta tiếp tục tiến lên!
+20000315,Đã ứng cử
+20000316,Nhập thông báo ứng cử
+20000317,Thông báo ứng cử
+20000318,Đang ứng cử, không thể rút
+20000319,Cường hóa thành công:{0}{1}
+20000320,Cường hóa thất bại
+20000321,Phí ghép
+20000322,Chiến lực đã tăng {0}
+20000323,Hãy nhập giftcode
+20000324,Dùng thành công
+20000325,Giftcode sai
+20000326,Giftcode đã hết hạn
+20000327,Giftcode đã từng sử dụng
+20000328,Thu thập đủ mảnh tướng để chiêu mộ tướng tương ứng
+20000329,Đã nhận thưởng
+20000330,BXH Tổng chiến lực cập nhật mỗi 2h, mỗi 2 ngày sẽ phát rương thứ hạng
+20000331,BXH sẽ cập nhật vào 0h hàng ngày
+20000332,Bảng chiến lực tướng cập nhật mỗi 2h
+20000333,[00FFFF]Hạng hiện tại:[-][FFFA00]{0}
+20000334,Tướng mạnh nhất:{0}
+20000335,Hạng của bạn
+20000336,Yêu cầu thành công
+20000337,Thêm thành công
+20000338,Có thể kéo lên xuống, giữ để xem chi tiết vật phẩm!
+20000339,Từ nay đến {2} giờ ngày {1} tháng {0}, mỗi lần đấu phụ bản thường, Thí Luyện Trường, Đấu Trường đều có thể nhận chữ bí ẩn, vàng và đá dùng để đổi quà hấp dẫn.
+20000340,Đổi thưởng diễn ra đến hết {2} giờ ngày {1} tháng {0}
+20000341,Đã hết lượt
+20000342,Đã quá thời gian đổi
+20000343,Hết lượt đổi thưởng loại này
+20000344,Không đủ vật phẩm đổi
+20000345,[u]Kết bạn[/u]

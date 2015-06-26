@@ -37,6 +37,7 @@ Rewards：
 	<Map MapID="2">
 		<Grade Star="27">
 			<Reward RewardType="6" Key="0" Value="500"/>
+			<Reward RewardType="2" Key="0" Value="800"/>
 		</Grade>
 		<Grade Star="45">
 			<Reward RewardType="6" Key="0" Value="650"/>

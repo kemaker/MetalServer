@@ -2132,10 +2132,10 @@ Trigers：
 	</Task>
 	<Task ID="1123" GoToUIID="14">
 		<Type>0</Type>
-		<Title>Sử dụng mỏ Ngọc</Title>
-		<SmallTitle>Mỏ Ngọc</SmallTitle>
+		<Title>Sử dụng mỏ Đá</Title>
+		<SmallTitle>mỏ Đá</SmallTitle>
 		<IconType>2</IconType>
-		<Text>Tại[FF7F00] Thành chính[-] click vào Mỏ Ngọc để tìm Ngọc.</Text>
+		<Text>Tại[FF7F00] Thành chính[-] click vào Mỏ Đá để tìm Đá.</Text>
 		<CheckType>1025</CheckType>
 		<CheckValue>1</CheckValue>
 		<CheckLevel>12</CheckLevel>

@@ -18,12 +18,12 @@ maxDrop：
 	<Item id="180015" minDrop="1" maxDrop="5"/>
 	<Item id="180018" minDrop="1" maxDrop="5"/>
 	<Item id="180016" minDrop="1" maxDrop="5"/>
-	<Item id="180019" minDrop="1" maxDrop="5"/>
+	<Item id="180019" minDrop="1" maxDrop="2"/>
 	<Item id="180003" minDrop="1" maxDrop="5"/>
-	<Item id="180013" minDrop="1" maxDrop="5"/>
-	<Item id="180012" minDrop="1" maxDrop="5"/>
-	<Item id="180009" minDrop="1" maxDrop="5"/>
-	<Item id="180022" minDrop="1" maxDrop="5"/>
-	<Item id="180006" minDrop="1" maxDrop="5"/>
-	<Item id="180023" minDrop="1" maxDrop="5"/>
+	<Item id="180013" minDrop="1" maxDrop="2"/>
+	<Item id="180012" minDrop="1" maxDrop="2"/>
+	<Item id="180009" minDrop="1" maxDrop="2"/>
+	<Item id="180022" minDrop="1" maxDrop="2"/>
+	<Item id="180006" minDrop="1" maxDrop="2"/>
+	<Item id="180023" minDrop="1" maxDrop="2"/>
 </JielueItems>

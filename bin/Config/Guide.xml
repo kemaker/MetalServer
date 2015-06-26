@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2013 (http://www.altova.com) by  () -->
+<!--
+	新手引导表.
+	GroupID:组ID. 一组引导的ID.(一组内ID相同 不能为0)
+	GuideID:引导ID. 处于一个组内的ID不能相同. 只能从1开始并且连续.
+	JvQingID:剧情ID. 当前引导被触发的时候要触发剧情(剧情可能只会出现一次! ID=0表示没有剧情)
+	GuideMsg:引导文字.
+	
+	※:本表的ID由代码生成. 公式: [GroupID * 10000 + GuideID]. 填表请注意GroupID的值不能太大!
+-->
+<Guides>
+	<!-- 这里有重复20次左右的副本引导,注意每一次对应的副本和关卡ID, 副本ID不能修改!!! -->
+	<!-- 第一段剧情 第一次进入游戏后自动触发 "对应副本 1-1" -->
+	<!-- 出征 - 3D -->
+	<Guide GroupID="2" GuideID="1" JvQingID="" GuideMsg=""/>
+	<!-- 副本地图 -->
+	<Guide GroupID="2" GuideID="2" JvQingID="" GuideMsg="Click bản đồ"/>
+	<!-- 具体的副本 -->
+	<Guide GroupID="2" GuideID="3" JvQingID="" GuideMsg="Click phụ bản"/>
+	<!-- 布阵 -->
+	<Guide GroupID="2" GuideID="4" JvQingID="" GuideMsg="Click bố trận"/>
+	<!-- 征战 -->
+	<Guide GroupID="2" GuideID="5" JvQingID="" GuideMsg="Click ra trận"/>
+	<!-- 主UI 任务追踪 -->
+	<Guide GroupID="2" GuideID="6" JvQingID="" GuideMsg="Click nhận thưởng"/>
+	<!-- "对应副本 1-2" -->
+	<Guide GroupID="120" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="120" GuideID="2" JvQingID="" GuideMsg="Click bản đồ"/>
+	<Guide GroupID="120" GuideID="3" JvQingID="" GuideMsg="Click phụ bản"/>
+	<Guide GroupID="120" GuideID="4" JvQingID="" GuideMsg="Click bố trận"/>
+	<Guide GroupID="120" GuideID="5" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<Guide GroupID="120" GuideID="6" JvQingID="" GuideMsg="Click nhận thưởng"/>
+	<!-- "对应副本 1-3" -->
+	<Guide GroupID="130" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="130" GuideID="2" JvQingID="" GuideMsg="Click bản đồ"/>
+	<Guide GroupID="130" GuideID="3" JvQingID="" GuideMsg="Click phụ bản"/>
+	<Guide GroupID="130" GuideID="4" JvQingID="" GuideMsg="Click bố trận"/>
+	<Guide GroupID="130" GuideID="5" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<Guide GroupID="130" GuideID="6" JvQingID="" GuideMsg="Click nhận thưởng"/>
+	<!-- "对应副本 1-4" -->
+	<Guide GroupID="140" GuideID="1" JvQingID="" GuideMsg="Click đi đến"/>
+	<Guide GroupID="140" GuideID="2" JvQingID="" GuideMsg="Click bản đồ"/>
+	<Guide GroupID="140" GuideID="3" JvQingID="" GuideMsg="Click đi đến"/>
+	<Guide GroupID="140" GuideID="4" JvQingID="" GuideMsg="Click bố trận"/>
+	<Guide GroupID="140" GuideID="5" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<Guide GroupID="140" GuideID="6" JvQingID="" GuideMsg="Click nhận thưởng"/>
+	<!-- "对应副本 1-5" -->
+	<Guide GroupID="150" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="150" GuideID="2" JvQingID="" GuideMsg="Click bản đồ"/>
+	<Guide GroupID="150" GuideID="3" JvQingID="" GuideMsg="Click phụ bản"/>
+	<Guide GroupID="150" GuideID="4" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<Guide GroupID="150" GuideID="5" JvQingID="" GuideMsg="Click nhận thưởng"/>
+	<!-- "对应副本 1-6" -->
+	<Guide GroupID="160" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="160" GuideID="2" JvQingID="" GuideMsg="Click bản đồ"/>
+	<Guide GroupID="160" GuideID="3" JvQingID="" GuideMsg="Click phụ bản"/>
+	<Guide GroupID="160" GuideID="4" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<Guide GroupID="160" GuideID="5" JvQingID="" GuideMsg="Click nhận thưởng"/>
+	<!-- "对应副本 2-1" -->
+	<Guide GroupID="210" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="210" GuideID="2" JvQingID="" GuideMsg="Click bản đồ"/>
+	<Guide GroupID="210" GuideID="3" JvQingID="" GuideMsg="Click phụ bản"/>
+	<Guide GroupID="210" GuideID="4" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<Guide GroupID="210" GuideID="5" JvQingID="" GuideMsg="Click nhận thưởng"/>
+	<!-- "对应副本 2-2" -->
+	<Guide GroupID="220" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="220" GuideID="2" JvQingID="" GuideMsg="Click bản đồ"/>
+	<Guide GroupID="220" GuideID="3" JvQingID="" GuideMsg="Click phụ bản"/>
+	<Guide GroupID="220" GuideID="4" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<Guide GroupID="220" GuideID="5" JvQingID="" GuideMsg="Click nhận thưởng"/>
+	<!-- "对应副本 2-3" -->
+	<Guide GroupID="230" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="230" GuideID="2" JvQingID="" GuideMsg="Click bản đồ"/>
+	<Guide GroupID="230" GuideID="3" JvQingID="" GuideMsg="Click phụ bản"/>
+	<Guide GroupID="230" GuideID="4" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<Guide GroupID="230" GuideID="5" JvQingID="" GuideMsg="Click nhận thưởng"/>
+	<!-- "对应副本 2-4" -->
+	<Guide GroupID="240" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="240" GuideID="2" JvQingID="" GuideMsg="Click bản đồ"/>
+	<Guide GroupID="240" GuideID="3" JvQingID="" GuideMsg="Click phụ bản"/>
+	<Guide GroupID="240" GuideID="4" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<Guide GroupID="240" GuideID="5" JvQingID="" GuideMsg="Click nhận thưởng"/>
+	<!-- "对应副本 2-5" -->
+	<Guide GroupID="250" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="250" GuideID="2" JvQingID="" GuideMsg="Click bản đồ"/>
+	<Guide GroupID="250" GuideID="3" JvQingID="" GuideMsg="Click phụ bản"/>
+	<Guide GroupID="250" GuideID="4" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<Guide GroupID="250" GuideID="5" JvQingID="" GuideMsg="Click nhận thưởng"/>
+	<!-- "对应副本 2-6" -->
+	<Guide GroupID="260" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="260" GuideID="2" JvQingID="" GuideMsg="Click bản đồ"/>
+	<Guide GroupID="260" GuideID="3" JvQingID="" GuideMsg="Click phụ bản"/>
+	<Guide GroupID="260" GuideID="4" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<Guide GroupID="260" GuideID="5" JvQingID="" GuideMsg="Click nhận thưởng"/>
+	<!-- "对应副本 2-7" -->
+	<Guide GroupID="270" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="270" GuideID="2" JvQingID="" GuideMsg="Click bản đồ"/>
+	<Guide GroupID="270" GuideID="3" JvQingID="" GuideMsg="Click phụ bản"/>
+	<Guide GroupID="270" GuideID="4" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<Guide GroupID="270" GuideID="5" JvQingID="" GuideMsg="Click nhận thưởng"/>
+	<!-- "对应副本 2-8" -->
+	<Guide GroupID="280" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="280" GuideID="2" JvQingID="" GuideMsg="Click bản đồ"/>
+	<Guide GroupID="280" GuideID="3" JvQingID="" GuideMsg="Click phụ bản"/>
+	<Guide GroupID="280" GuideID="4" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<Guide GroupID="280" GuideID="5" JvQingID="" GuideMsg="Click nhận thưởng"/>
+	<!-- "对应副本 2-9" -->
+	<Guide GroupID="290" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="290" GuideID="2" JvQingID="" GuideMsg="Click bản đồ"/>
+	<Guide GroupID="290" GuideID="3" JvQingID="" GuideMsg="Click phụ bản"/>
+	<Guide GroupID="290" GuideID="4" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<Guide GroupID="290" GuideID="5" JvQingID="" GuideMsg="Click nhận thưởng"/>
+	<!-- "对应副本 2-10" -->
+	<Guide GroupID="2100" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="2100" GuideID="2" JvQingID="" GuideMsg="Click bản đồ"/>
+	<Guide GroupID="2100" GuideID="3" JvQingID="" GuideMsg="Click phụ bản"/>
+	<Guide GroupID="2100" GuideID="4" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<Guide GroupID="2100" GuideID="5" JvQingID="" GuideMsg="Click nhận thưởng"/>
+	<!-- "对应副本 2-11" -->
+	<Guide GroupID="2110" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="2110" GuideID="2" JvQingID="" GuideMsg="Click bản đồ"/>
+	<Guide GroupID="2110" GuideID="3" JvQingID="" GuideMsg="Click phụ bản"/>
+	<Guide GroupID="2110" GuideID="4" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<Guide GroupID="2110" GuideID="5" JvQingID="" GuideMsg="Click nhận thưởng"/>
+	<!-- "对应副本 2-12" -->
+	<Guide GroupID="2120" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="2120" GuideID="2" JvQingID="" GuideMsg="Click bản đồ"/>
+	<Guide GroupID="2120" GuideID="3" JvQingID="" GuideMsg="Click phụ bản"/>
+	<Guide GroupID="2120" GuideID="4" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<Guide GroupID="2120" GuideID="5" JvQingID="" GuideMsg="Click nhận thưởng"/>
+	<!-- "对应副本 2-13" -->
+	<Guide GroupID="2130" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="2130" GuideID="2" JvQingID="" GuideMsg="Click bản đồ"/>
+	<Guide GroupID="2130" GuideID="3" JvQingID="" GuideMsg="Click phụ bản"/>
+	<Guide GroupID="2130" GuideID="4" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<Guide GroupID="2130" GuideID="5" JvQingID="" GuideMsg="Click nhận thưởng"/>
+	<!-- "对应副本 2-14" -->
+	<Guide GroupID="2140" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="2140" GuideID="2" JvQingID="" GuideMsg="Click bản đồ"/>
+	<Guide GroupID="2140" GuideID="3" JvQingID="" GuideMsg="Click phụ bản"/>
+	<Guide GroupID="2140" GuideID="4" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<Guide GroupID="2140" GuideID="5" JvQingID="" GuideMsg="Click nhận thưởng"/>
+	<!-- 试炼场引导 -->
+	<Guide GroupID="300" GuideID="1" JvQingID="Tham gia phụ bản Tướng để nhận thưởng, mỗi ngày hạn chế lượt tham gia, được mua thêm lượt." GuideMsg="Click phụ bản tướng"/>
+	<Guide GroupID="300" GuideID="2" JvQingID="" GuideMsg="Click ải"/>
+	<Guide GroupID="300" GuideID="3" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<!-- 伙伴进阶 -->
+	<Guide GroupID="3" GuideID="1" JvQingID="Nhận mảnh Tướng tại Điểm Tướng, chuyển hóa thành [Mảnh nâng cấp]. Dùng để nâng cấp Tướng, thực lực sẽ tăng mạnh." GuideMsg="Click Tướng"/>
+	<Guide GroupID="3" GuideID="2" JvQingID="" GuideMsg="Chọn Tướng"/>
+	<Guide GroupID="3" GuideID="3" JvQingID="" GuideMsg="Click nâng cấp"/>
+	<Guide GroupID="3" GuideID="4" JvQingID="" GuideMsg="Click đóng"/>
+	<Guide GroupID="3" GuideID="5" JvQingID="Hoàn thành một lần nâng cấp, chủ công nhớ tới nơi này để nâng cao thực lực." GuideMsg="Click đóng"/>
+	<Guide GroupID="3" GuideID="6" JvQingID="" GuideMsg="Nhận thưởng"/>
+	<!-- 签到 -->
+	<Guide GroupID="4" GuideID="1" JvQingID="" GuideMsg="Click sự kiện"/>
+	<Guide GroupID="4" GuideID="2" JvQingID="" GuideMsg="Tới Ký danh"/>
+	<Guide GroupID="4" GuideID="3" JvQingID="" GuideMsg="Click Ký danh"/>
+	<Guide GroupID="4" GuideID="4" JvQingID="" GuideMsg="Click đóng"/>
+	<Guide GroupID="4" GuideID="5" JvQingID="" GuideMsg="Click sự kiện"/>
+	<Guide GroupID="4" GuideID="6" JvQingID="" GuideMsg="Click nhận"/>
+	<Guide GroupID="4" GuideID="7" JvQingID="" GuideMsg="Click đóng"/>
+	<!-- 背包功能开启 引导穿装备! -->
+	<!-- Click túi -->
+	<Guide GroupID="5" GuideID="1" JvQingID="" GuideMsg="Click túi"/>
+	<!-- Click trang bị -->
+	<Guide GroupID="5" GuideID="2" JvQingID="" GuideMsg="Click trang bị"/>
+	<!-- Click trang bị按钮 -->
+	<Guide GroupID="5" GuideID="3" JvQingID="" GuideMsg="Click dùng trang bị"/>
+	<!-- Click đóng -->
+	<Guide GroupID="5" GuideID="4" JvQingID="" GuideMsg="Nhận thưởng"/>
+	<!-- 强化 功能开启! 引导升级炼器阁并强化装备 -->
+	<Guide GroupID="6" GuideID="1" JvQingID="Có thể cường hóa nâng cấp trang bị vũ khí, nếu gặp đối thủ mạnh, hãy nhớ cường hóa trang bị rồi phản công." GuideMsg="Click cường hóa"/>
+	<Guide GroupID="6" GuideID="2" JvQingID="" GuideMsg="Click cường hóa"/>
+	<Guide GroupID="6" GuideID="3" JvQingID="" GuideMsg="Click cường hóa"/>
+	<Guide GroupID="6" GuideID="4" JvQingID="" GuideMsg="Nhận thưởng"/>
+	<Guide GroupID="61" GuideID="1" JvQingID="" GuideMsg="Click cường hóa"/>
+	<Guide GroupID="61" GuideID="2" JvQingID="" GuideMsg="Click cường hóa"/>
+	<Guide GroupID="61" GuideID="3" JvQingID="" GuideMsg="Click cường hóa"/>
+	<Guide GroupID="61" GuideID="4" JvQingID="" GuideMsg="Nhận thưởng"/>
+	<Guide GroupID="62" GuideID="1" JvQingID="" GuideMsg="Click cường hóa"/>
+	<Guide GroupID="62" GuideID="2" JvQingID="" GuideMsg="Click cường hóa"/>
+	<Guide GroupID="62" GuideID="3" JvQingID="" GuideMsg="Click cường hóa"/>
+	<Guide GroupID="62" GuideID="4" JvQingID="" GuideMsg="Nhận thưởng"/>
+	<!-- 聚仙台/抽卡 功能开启! 引导普通抽卡 -->
+	<Guide GroupID="7" GuideID="1" JvQingID="Tụ Tiên Đài ngọa hổ tàng long, nhanh tới để chiêu mộ Tướng. Điểm tướng thường cần dùng [Uy], tích cực tham gia PVP để nhận Uy, mỗi ngày đều có lượt miễn phí" GuideMsg=""/>
+	<Guide GroupID="7" GuideID="2" JvQingID="" GuideMsg="Click rút thẻ"/>
+	<Guide GroupID="7" GuideID="3" JvQingID="" GuideMsg="Click OK"/>
+	<Guide GroupID="7" GuideID="4" JvQingID="" GuideMsg="Click đóng"/>
+	<Guide GroupID="7" GuideID="5" JvQingID="" GuideMsg="Nhận thưởng"/>
+	<!-- 聚仙台/抽卡! 引导元宝抽卡 -->
+	<Guide GroupID="70" GuideID="1" JvQingID="Click 'Quay đặc biệt' để nhận Tướng hiếm, Dùng [KNB] để quay." GuideMsg=""/>
+	<Guide GroupID="70" GuideID="2" JvQingID="" GuideMsg="Click rút thẻ"/>
+	<Guide GroupID="70" GuideID="3" JvQingID="" GuideMsg="Click OK"/>
+	<Guide GroupID="70" GuideID="4" JvQingID="" GuideMsg="Click đóng"/>
+	<Guide GroupID="70" GuideID="5" JvQingID="" GuideMsg="Nhận thưởng"/>
+	<!-- 聚仙台/抽卡! 十连抽 -->
+	<Guide GroupID="71" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="71" GuideID="2" JvQingID="" GuideMsg="Rút 10 lần"/>
+	<Guide GroupID="71" GuideID="3" JvQingID="" GuideMsg="Click OK"/>
+	<Guide GroupID="71" GuideID="4" JvQingID="" GuideMsg="Click đóng"/>
+	<Guide GroupID="71" GuideID="5" JvQingID="" GuideMsg="Nhận thưởng"/>
+	<!-- 队形/上阵 功能开启! 引导上阵(共4次) -->
+	<Guide GroupID="8" GuideID="1" JvQingID="Tướng trong đội ra trận mới có thể chiến đấu, cho Tướng mới gia nhập đội chiến đấu, Tướng được phân thành điều khiển gần và xa." GuideMsg="Click ra trận"/>
+	<Guide GroupID="8" GuideID="2" JvQingID="" GuideMsg="Click ra trận"/>
+	<Guide GroupID="8" GuideID="3" JvQingID="" GuideMsg="Click đóng"/>
+	<Guide GroupID="8" GuideID="4" JvQingID="" GuideMsg="Nhận thưởng"/>
+	<Guide GroupID="81" GuideID="1" JvQingID="Chủ công nhận thêm 1 tướng, nhanh cho Tướng ra trận thể hiện thân thủ." GuideMsg="Click ra trận"/>
+	<Guide GroupID="81" GuideID="2" JvQingID="" GuideMsg="Click ra trận"/>
+	<Guide GroupID="81" GuideID="3" JvQingID="" GuideMsg="Click đóng"/>
+	<Guide GroupID="81" GuideID="4" JvQingID="" GuideMsg="Nhận thưởng"/>
+	<Guide GroupID="82" GuideID="1" JvQingID="Trận hình của chủ công ngày càng mạnh, nhanh cho Tướng thứ 3 ra trận. Các Tướng phối hợp các kỹ năng khác nhau là mấu chốt quyết định thắng thua." GuideMsg="Click ra trận"/>
+	<Guide GroupID="82" GuideID="2" JvQingID="" GuideMsg="Click ra trận"/>
+	<Guide GroupID="82" GuideID="3" JvQingID="" GuideMsg="Click đóng"/>
+	<Guide GroupID="82" GuideID="4" JvQingID="" GuideMsg="Nhận thưởng"/>
+	<Guide GroupID="83" GuideID="1" JvQingID="Nhận thêm Tướng mới, nhanh cho ra trận nào!17" GuideMsg="Click ra trận"/>
+	<Guide GroupID="83" GuideID="2" JvQingID="" GuideMsg="Click ra trận"/>
+	<Guide GroupID="83" GuideID="3" JvQingID="" GuideMsg="Click đóng"/>
+	<Guide GroupID="83" GuideID="4" JvQingID="" GuideMsg="Nhận thưởng"/>
+	<!-- 培养 功能开启!  -->
+	<Guide GroupID="9" GuideID="1" JvQingID="Huấn luyện để tăng thuộc tính nhân vật, có xác xuất hạ cấp thuộc tính. Chú ý khi click Lưu." GuideMsg="Click nhân vật"/>
+	<Guide GroupID="9" GuideID="2" JvQingID="" GuideMsg="Click huấn luyện"/>
+	<Guide GroupID="9" GuideID="3" JvQingID="" GuideMsg="Chọn Tướng"/>
+	<Guide GroupID="9" GuideID="4" JvQingID="" GuideMsg="Click chọn"/>
+	<Guide GroupID="9" GuideID="5" JvQingID="" GuideMsg="Click huấn luyện"/>
+	<Guide GroupID="9" GuideID="6" JvQingID="" GuideMsg="Click OK"/>
+	<Guide GroupID="9" GuideID="7" JvQingID="" GuideMsg="Click đóng"/>
+	<!-- 仙法 功能开启!  -->
+	<Guide GroupID="10" GuideID="1" JvQingID="Nâng cấp Tiên Pháp để tăng thuộc tính tương ứng của toàn bộ Tướng." GuideMsg="Click nhân vật"/>
+	<Guide GroupID="10" GuideID="2" JvQingID="" GuideMsg="Click Tiên Pháp"/>
+	<Guide GroupID="10" GuideID="3" JvQingID="" GuideMsg="Click nâng cấp"/>
+	<Guide GroupID="10" GuideID="4" JvQingID="" GuideMsg="Click đóng"/>
+	<!-- 静室/转龙池 功能开启!  -->
+	<Guide GroupID="11" GuideID="1" JvQingID="Chuyển Long Trì để phân bổ EXP thu hoạch, tham gia chuyển hàng ngày để tăng sức mạnh." GuideMsg=""/>
+	<Guide GroupID="11" GuideID="2" JvQingID="" GuideMsg="Nhận EXP"/>
+	<Guide GroupID="11" GuideID="3" JvQingID="" GuideMsg="Phân bố EXP"/>
+	<Guide GroupID="11" GuideID="4" JvQingID="" GuideMsg="Chọn Tướng"/>
+	<Guide GroupID="11" GuideID="5" JvQingID="" GuideMsg="Click nâng cấp"/>
+	<Guide GroupID="11" GuideID="6" JvQingID="" GuideMsg="Click đóng"/>
+	<Guide GroupID="11" GuideID="7" JvQingID="" GuideMsg="Click đóng"/>
+	<Guide GroupID="11" GuideID="8" JvQingID="" GuideMsg="Nhận thưởng"/>
+	<!-- 仙市 功能开启!  -->
+	<!-- 仙市 - 3D -->
+	<Guide GroupID="12" GuideID="1" JvQingID="Mua trang bị và bản vẽ trong Tiên Thị, mặc để tăng thuộc tính và nâng cao khí chất." GuideMsg=""/>
+	<!-- Click mua -->
+	<Guide GroupID="12" GuideID="2" JvQingID="" GuideMsg="Click mua"/>
+	<Guide GroupID="12" GuideID="3" JvQingID="" GuideMsg="Nhận thưởng"/>
+	<!-- 炼丹炉 功能开启!  -->
+	<Guide GroupID="13" GuideID="1" JvQingID="Đến Tiên Thị mua bản vẽ Đan Dược để ghép Đan Dược, Đan Dược tăng thuộc tính nhân vật vĩnh viễn, sau khi dùng không thể bỏ ra." GuideMsg=""/>
+	<Guide GroupID="13" GuideID="2" JvQingID="" GuideMsg="Chọn Tướng"/>
+	<Guide GroupID="13" GuideID="3" JvQingID="" GuideMsg="Click chọn"/>
+	<Guide GroupID="13" GuideID="4" JvQingID="" GuideMsg="Click ghép"/>
+	<Guide GroupID="13" GuideID="5" JvQingID="" GuideMsg="Click ghép"/>
+	<Guide GroupID="13" GuideID="6" JvQingID="" GuideMsg="Click đóng"/>
+	<Guide GroupID="13" GuideID="7" JvQingID="" GuideMsg="Click dùng"/>
+	<Guide GroupID="13" GuideID="8" JvQingID="" GuideMsg="Click đóng"/>
+	<!-- 竞技场 功能开启!  -->
+	<!-- Click đấu trường -->
+	<Guide GroupID="14" GuideID="1" JvQingID="So tài với người chơi khác trong đấu trường để nhận [Uy]." GuideMsg="Click đấu trường"/>
+	<!-- Click khiêu chiến -->
+	<Guide GroupID="14" GuideID="2" JvQingID="" GuideMsg="Click khiêu chiến"/>
+	<!-- 训练场 功能开启!  -->
+	<!-- 训练场 - 3D -->
+	<Guide GroupID="15" GuideID="1" JvQingID="" GuideMsg=""/>
+	<!-- Click nâng cấp -->
+	<Guide GroupID="15" GuideID="2" JvQingID="" GuideMsg="Click nâng cấp"/>
+	<!-- 点击Thu ngay -->
+	<Guide GroupID="15" GuideID="3" JvQingID="" GuideMsg="Thu ngay"/>
+	<!-- Click OK -->
+	<Guide GroupID="15" GuideID="4" JvQingID="" GuideMsg="Click OK"/>
+	<!-- Click đóng -->
+	<Guide GroupID="15" GuideID="5" JvQingID="" GuideMsg="Click đóng"/>
+	<!-- Click đóng -->
+	<Guide GroupID="15" GuideID="6" JvQingID="" GuideMsg="Click đóng"/>
+	<!-- 扫荡 功能开启!  -->
+	<!-- Click quét -->
+	<Guide GroupID="16" GuideID="1" JvQingID="" GuideMsg="Click quét"/>
+	<!-- 点击Bắt đầu -->
+	<Guide GroupID="16" GuideID="2" JvQingID="" GuideMsg="Bắt đầu"/>
+	<!-- 猎命 功能开启!  -->
+	<!-- Click Săn mệnh -->
+	<Guide GroupID="17" GuideID="1" JvQingID="Săn mệnh thay đổi [Mệnh Cách] của nhân vật, nâng cao thực lực, gặp Thợ Săn mệnh cấp càng cao, càng có cơ hội nhận Mệnh Cách phẩm chất cao." GuideMsg="Click Săn mệnh"/>
+	<!-- Click Săn mệnh -->
+	<Guide GroupID="17" GuideID="2" JvQingID="" GuideMsg="Click Săn mệnh"/>
+	<!-- 点击一键拾取 -->
+	<Guide GroupID="17" GuideID="3" JvQingID="" GuideMsg="Click nhặt"/>
+	<!-- Click Mệnh Cách -->
+	<Guide GroupID="17" GuideID="4" JvQingID="" GuideMsg="Click Mệnh Cách"/>
+	<!-- 屏幕Hiệu ứng kéo 特殊处理哦! -->
+	<Guide GroupID="17" GuideID="5" JvQingID="" GuideMsg="Hiệu ứng kéo"/>
+	<!-- 合成 功能开启!  -->
+	<!-- Click cường hóa -->
+	<Guide GroupID="18" GuideID="1" JvQingID="" GuideMsg="Click cường hóa"/>
+	<!-- Click ghép -->
+	<Guide GroupID="18" GuideID="2" JvQingID="Trang bị sơ cấp thông qua nguyên liệu và [Bản vẽ trang bị] để ghép trang bị cấp cao, chăm chỉ thu thập nguyên liệu để ghép." GuideMsg="Click ghép"/>
+	<!-- Click ghép -->
+	<Guide GroupID="18" GuideID="3" JvQingID="" GuideMsg="Click ghép"/>
+	<!-- 灵石矿 功能开启!  -->
+	<!-- 灵石矿 - 3D -->
+	<Guide GroupID="19" GuideID="1" JvQingID="Mỏ Đá tạo nhiều Đá để cung cấp cho bạn, cách một khoảng thời gian hãy tới thu hoạch, dùng KNB để [Trưng thu nhanh]." GuideMsg=""/>
+	<!-- Click nâng cấp -->
+	<Guide GroupID="19" GuideID="2" JvQingID="" GuideMsg="Click nâng cấp"/>
+	<!-- 点击Thu ngay-->
+	<Guide GroupID="19" GuideID="3" JvQingID="" GuideMsg="Thu ngay"/>
+	<!-- Click đóng -->
+	<Guide GroupID="19" GuideID="4" JvQingID="" GuideMsg="Click đóng"/>
+	<!-- 弟子居/出巡 功能开启!  -->
+	<!-- 弟子居 - 3D -->
+	<Guide GroupID="20" GuideID="1" JvQingID="Tuần tra tầm bảo để nhận mảnh Tướng hoặc nhiều loại nguyên liệu. Lượt miễn phí có hạn, dùng KNB để thêm lượt." GuideMsg=""/>
+	<Guide GroupID="20" GuideID="2" JvQingID="" GuideMsg="Click tuần tra"/>
+	<Guide GroupID="20" GuideID="3" JvQingID="" GuideMsg="Click đóng"/>
+	<!-- 天赐灵石!  -->
+	<Guide GroupID="21" GuideID="1" JvQingID="Tiến hành tế trời đất nhiều lần để nhận Đá" GuideMsg="Click nhận"/>
+	<Guide GroupID="21" GuideID="2" JvQingID="" GuideMsg="Click OK"/>
+	<!-- 碎片兑换伙伴!  -->
+	<!--<Guide GroupID="22" GuideID="1" JvQingID="主公,当您收集足量特定将领的碎片后,就可以直接兑换将这位将领拉入你的大军之中咯." GuideMsg="Click Tướng"/>
+	<Guide GroupID="22" GuideID="2" JvQingID="" GuideMsg="获得将领"/>
+	<Guide GroupID="22" GuideID="3" JvQingID="" GuideMsg="点击招募"/>
+	<Guide GroupID="22" GuideID="4" JvQingID="" GuideMsg="Click đóng"/>
+	<Guide GroupID="22" GuideID="5" JvQingID="" GuideMsg="Click đóng"/>-->
+	<!-- 法宝 功能开启! -->
+	<Guide GroupID="23" GuideID="1" JvQingID="" GuideMsg="Click Pháp Bảo"/>
+	<Guide GroupID="23" GuideID="2" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="23" GuideID="3" JvQingID="" GuideMsg="Click đóng"/>
+	<Guide GroupID="23" GuideID="4" JvQingID="" GuideMsg="Click dùng"/>
+	<!-- 星级礼包任务引导! -->
+	<Guide GroupID="24" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="24" GuideID="2" JvQingID="" GuideMsg="Click phụ bản"/>
+	<Guide GroupID="24" GuideID="3" JvQingID="" GuideMsg="Nhận thưởng"/>
+	<Guide GroupID="24" GuideID="4" JvQingID="" GuideMsg="Click đóng"/>
+	<Guide GroupID="24" GuideID="5" JvQingID="" GuideMsg="Click đóng"/>
+	<!-- 乾坤圈法宝开启引导! -->
+	<Guide GroupID="25" GuideID="1" JvQingID="" GuideMsg="Click mở"/>
+	<Guide GroupID="25" GuideID="2" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="25" GuideID="3" JvQingID="" GuideMsg="Click trở về"/>
+	<Guide GroupID="25" GuideID="4" JvQingID="" GuideMsg="Click hoàn thành"/>
+	<!-- 法宝升级任务引导! -->
+	<Guide GroupID="26" GuideID="1" JvQingID="" GuideMsg="Click Pháp Bảo"/>
+	<Guide GroupID="26" GuideID="2" JvQingID="" GuideMsg="Click mở"/>
+	<Guide GroupID="26" GuideID="3" JvQingID="" GuideMsg="Click dùng"/>
+	<Guide GroupID="26" GuideID="4" JvQingID="" GuideMsg="Click đóng"/>
+	<Guide GroupID="26" GuideID="5" JvQingID="" GuideMsg="Click đóng"/>
+	<!-- 占星任务引导! -->
+	<Guide GroupID="27" GuideID="1" JvQingID="" GuideMsg=""/>
+	<Guide GroupID="27" GuideID="2" JvQingID="" GuideMsg="Click Tinh"/>
+	<!-- 中间过渡队形引导部分! -->
+	<Guide GroupID="-1" GuideID="1" JvQingID="" GuideMsg="Click bố trận"/>
+	<Guide GroupID="-1" GuideID="2" JvQingID="" GuideMsg="Click đóng"/>
+	<Guide GroupID="-1" GuideID="3" JvQingID="" GuideMsg="Click chinh chiến"/>
+	<!-- 封神榜相关! -->
+	<Guide GroupID="-1" GuideID="10" JvQingID="" GuideMsg="Click mở"/>
+	<Guide GroupID="-1" GuideID="11" JvQingID="" GuideMsg="Click đóng"/>
+	<!-- 装备合成中间引导步骤 没有Click vũ khí时的提示! -->
+	<Guide GroupID="-1" GuideID="12" JvQingID="" GuideMsg="Click vũ khí"/>
+	<!-- 法宝升级中的可返回引导 玩家点了其他物品,箭头返回上一步! -->
+	<Guide GroupID="-1" GuideID="13" JvQingID="" GuideMsg="Click chọn"/>
+	<Guide GroupID="-1" GuideID="14" JvQingID="" GuideMsg="Click dùng"/>
+</Guides>

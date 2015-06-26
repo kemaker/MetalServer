@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!--注释
+
+id：
+	需要获得途径的伙伴ID,对应Partner数据ID字段；
+	
+Pstr：
+	非副本掉落的伙伴的获得描述文字,当不为空时,Collect字段无效；
+	
+Collect:(可填 1-3 行, 当PStr=""时必须要填,否则可不填)
+	副本掉落的伙伴的场景信息；
+	HeroFBID = 试炼场的ID, 参考试炼场表.
+	IconName  = 掉落的关卡图标(001-006 现在共6个图标)
+	Name=策划自己填写,尽量和试炼场对上就行.
+	
+注释结束-->
+
+<Root>
+	<Partner id="4009" PStr="">
+		<Collect HeroFBID="303" MapName="Sa Mạc Chết (T)" GuanQianName="Đồi cát cháy (T)-3" IconName="3"/>
+		<Collect HeroFBID="405" MapName="Rừng Thúy Ngọc (T)" GuanQianName="Lục Đình (T)-1" IconName="4"/>
+		<Collect HeroFBID="507" MapName="Địa Lao Ma Giới (T)" GuanQianName="Lệ Quỷ Đàn (T)-3" IconName="5"/>
+	</Partner>
+	<Partner id="4011" PStr="">
+		<Collect HeroFBID="104" MapName="Tộc ăn thịt Tuyết Sơn (T)" GuanQianName="Thôn Tuyết (T)-4" IconName="1"/>
+		<Collect HeroFBID="207" MapName="Huyễn Thú Cốc (t)" GuanQianName="Mộng Nhiễu Cốc (T)-3" IconName="2"/>
+		<Collect HeroFBID="501" MapName="Địa Lao Ma Giới (T)" GuanQianName="Lôi Đài Cương Thi (T)-1" IconName="5"/>
+	</Partner>
+	<Partner id="4014" PStr="">
+		<Collect HeroFBID="101" MapName="Tộc ăn thịt Tuyết Sơn (T)" GuanQianName="Thôn Tuyết (T)-1" IconName="1"/>
+		<Collect HeroFBID="205" MapName="Huyễn Thú Cốc (t)" GuanQianName="Mộng Nhiễu Cốc (T)-1" IconName="2"/>
+		<Collect HeroFBID="601" MapName="Long Vương Hải (T)" GuanQianName="Bãi San Hô (T)-1" IconName="6"/>
+	</Partner>
+	<Partner id="4015" PStr="">
+		<Collect HeroFBID="201" MapName="Huyễn Thú Cốc (t)" GuanQianName="Đồi Huyễn Thú (T)-1" IconName="2"/>
+		<Collect HeroFBID="204" MapName="Huyễn Thú Cốc (t)" GuanQianName="Đồi Huyễn Thú (T)-4" IconName="2"/>
+		<Collect HeroFBID="407" MapName="Rừng Thúy Ngọc (T)" GuanQianName="Lục Đình (T)-3" IconName="4"/>
+	</Partner>
+	<Partner id="4027" PStr="">
+		<Collect HeroFBID="102" MapName="Tộc ăn thịt Tuyết Sơn (T)" GuanQianName="Thôn Tuyết (T)-2" IconName="1"/>
+		<Collect HeroFBID="305" MapName="Sa Mạc Chết (T)" GuanQianName="Biển cát (T)-1" IconName="3"/>
+		<Collect HeroFBID="307" MapName="Sa Mạc Chết (T)" GuanQianName="Biển cát (T)-3" IconName="3"/>
+	</Partner>
+	<Partner id="4031" PStr="">
+		<Collect HeroFBID="208" MapName="Huyễn Thú Cốc (t)" GuanQianName="Mộng Nhiễu Cốc (T)-4" IconName="2"/>
+		<Collect HeroFBID="401" MapName="Rừng Thúy Ngọc (T)" GuanQianName="Huyễn Ảnh Tiên Đạo (T)-1" IconName="4"/>
+		<Collect HeroFBID="502" MapName="Địa Lao Ma Giới (T)" GuanQianName="Lôi Đài Cương Thi (T)-2" IconName="5"/>
+	</Partner>
+	<Partner id="4034" PStr="">
+		<Collect HeroFBID="503" MapName="Địa Lao Ma Giới (T)" GuanQianName="Lôi Đài Cương Thi (T)-3" IconName="5"/>
+		<Collect HeroFBID="606" MapName="Long Vương Hải (T)" GuanQianName="Thần Điện (T)-2" IconName="6"/>
+	</Partner>
+	<Partner id="4017" PStr="">
+		<Collect HeroFBID="508" MapName="Địa Lao Ma Giới (T)" GuanQianName="Lệ Quỷ Đàn (T)-4" IconName="5"/>
+		<Collect HeroFBID="607" MapName="Long Vương Hải (T)" GuanQianName="Thần Điện (T)-3" IconName="6"/>
+	</Partner>
+	<Partner id="4042" PStr="">
+		<Collect HeroFBID="107" MapName="Tộc ăn thịt Tuyết Sơn (T)" GuanQianName="Linh Phong (T)-3" IconName="1"/>
+		<Collect HeroFBID="304" MapName="Sa Mạc Chết (T)" GuanQianName="Đồi cát cháy (T)-4" IconName="3"/>
+		<Collect HeroFBID="406" MapName="Rừng Thúy Ngọc (T)" GuanQianName="Lục Đình (T)-2" IconName="4"/>
+	</Partner>
+	<Partner id="4043" PStr="">
+		<Collect HeroFBID="403" MapName="Rừng Thúy Ngọc (T)" GuanQianName="Huyễn Ảnh Tiên Đạo (T)-3" IconName="4"/>
+		<Collect HeroFBID="506" MapName="Địa Lao Ma Giới (T)" GuanQianName="Lệ Quỷ Đàn (T)-2" IconName="5"/>
+		<Collect HeroFBID="605" MapName="Long Vương Hải (T)" GuanQianName="Thần Điện (T)-1" IconName="6"/>
+	</Partner>
+	<Partner id="4047" PStr="">
+		<Collect HeroFBID="602" MapName="Long Vương Hải (T)" GuanQianName="Bãi San Hô (T)-2" IconName="6"/>
+	</Partner>
+	<Partner id="4051" PStr="">
+		<Collect HeroFBID="105" MapName="Tộc ăn thịt Tuyết Sơn (T)" GuanQianName="Linh Phong (T)-1" IconName="1"/>
+		<Collect HeroFBID="202" MapName="Huyễn Thú Cốc (t)" GuanQianName="Đồi Huyễn Thú (T)-2" IconName="2"/>
+		<Collect HeroFBID="306" MapName="Sa Mạc Chết (T)" GuanQianName="Biển cát (T)-2" IconName="3"/>
+	</Partner>
+	<Partner id="4056" PStr="">
+		<Collect HeroFBID="608" MapName="Long Vương Hải (T)" GuanQianName="Thần Điện (T)-4" IconName="6"/>
+	</Partner>
+	<Partner id="4059" PStr="">
+		<Collect HeroFBID="408" MapName="Rừng Thúy Ngọc (T)" GuanQianName="Lục Đình (T)-4" IconName="4"/>
+		<Collect HeroFBID="504" MapName="Địa Lao Ma Giới (T)" GuanQianName="Lôi Đài Cương Thi (T)-4" IconName="5"/>
+		<Collect HeroFBID="603" MapName="Long Vương Hải (T)" GuanQianName="Bãi San Hô (T)-3" IconName="6"/>
+	</Partner>
+	<Partner id="4065" PStr="">
+		<Collect HeroFBID="106" MapName="Tộc ăn thịt Tuyết Sơn (T)" GuanQianName="Linh Phong (T)-2" IconName="1"/>
+		<Collect HeroFBID="302" MapName="Sa Mạc Chết (T)" GuanQianName="Đồi cát cháy (T)-2" IconName="3"/>
+		<Collect HeroFBID="402" MapName="Rừng Thúy Ngọc (T)" GuanQianName="Huyễn Ảnh Tiên Đạo (T)-2" IconName="4"/>
+	</Partner>
+	<Partner id="4069" PStr="">
+		<Collect HeroFBID="108" MapName="Tộc ăn thịt Tuyết Sơn (T)" GuanQianName="Linh Phong (T)-4" IconName="1"/>
+		<Collect HeroFBID="206" MapName="Huyễn Thú Cốc (t)" GuanQianName="Mộng Nhiễu Cốc (T)-2" IconName="2"/>
+		<Collect HeroFBID="404" MapName="Rừng Thúy Ngọc (T)" GuanQianName="Huyễn Ảnh Tiên Đạo (T)-4" IconName="4"/>
+	</Partner>
+	<Partner id="4071" PStr="">
+		<Collect HeroFBID="103" MapName="Tộc ăn thịt Tuyết Sơn (T)" GuanQianName="Thôn Tuyết (T)-3" IconName="1"/>
+		<Collect HeroFBID="203" MapName="Huyễn Thú Cốc (t)" GuanQianName="Đồi Huyễn Thú (T)-3" IconName="2"/>
+		<Collect HeroFBID="301" MapName="Sa Mạc Chết (T)" GuanQianName="Đồi cát cháy (T)-1" IconName="3"/>
+	</Partner>
+	<Partner id="4022" PStr="">
+		<Collect HeroFBID="508" MapName="Địa Lao Ma Giới (T)" GuanQianName="Lệ Quỷ Đàn (T)-3" IconName="5"/>
+		<Collect HeroFBID="608" MapName="Long Vương Hải (T)" GuanQianName="Thần Điện (T)-3" IconName="6"/>
+	</Partner>
+	<Partner id="4073" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4010" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4023" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4058" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4045" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4057" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4036" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4029" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4002" PStr="Nhận tại Phong Thần Bảng"/>
+	<Partner id="4049" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4072" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4035" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4001" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4025" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4013" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4052" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4050" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4039" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4004" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4019" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4066" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4021" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4012" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4032" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4037" PStr="Có thể nhận khi tuần tra"/>
+	<Partner id="4028" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4044" PStr="Nhận tại Phong Thần Bảng"/>
+	<Partner id="4062" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4016" PStr="Có thể nhận khi tuần tra"/>
+	<Partner id="4054" PStr="Có thể nhận khi tuần tra"/>
+	<Partner id="4070" PStr="Nhận tại Phong Thần Bảng"/>
+	<Partner id="4060" PStr="Có thể nhận khi tuần tra"/>
+	<Partner id="4048" PStr="Thưởng đấu trường bí ẩn"/>
+	<Partner id="4006" PStr="Thưởng đấu trường bí ẩn"/>
+	<Partner id="4007" PStr="Có thể nhận khi tuần tra"/>
+	<Partner id="4063" PStr="Thưởng đấu trường bí ẩn"/>
+	<Partner id="4005" PStr="Thưởng đấu trường bí ẩn"/>
+	<Partner id="4003" PStr="Thưởng đấu trường bí ẩn"/>
+	<Partner id="4083" PStr="Thưởng đăng nhập 7 ngày"/>
+	<Partner id="4082" PStr="Thưởng đăng nhập ngày kế tiếp"/>
+	<Partner id="4008" PStr="Thưởng nạp lần đầu"/>
+	<Partner id="4041" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4046" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4084" PStr="Nhận tại Chiến Dịch"/>
+	<Partner id="4085" PStr="Nhận tại Chiến Dịch"/>
+	<Partner id="4086" PStr="Nhận tại Chiến Dịch"/>
+	<Partner id="4096" PStr="Thưởng đấu trường bí ẩn"/>
+	<Partner id="4087" PStr="Nhận tại Phong Thần Bảng"/>
+	<Partner id="4088" PStr="Nhận tại Phong Thần Bảng"/>
+	<Partner id="4089" PStr="Nhận tại Phong Thần Bảng"/>
+	<Partner id="4024" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4061" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4090" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4091" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4092" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4093" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4094" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+	<Partner id="4095" PStr="Có thể nhận được khi rút thẻ tại Tụ Tiên Đài"/>
+</Root>

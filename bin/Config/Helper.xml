@@ -183,7 +183,7 @@ HelperRiChang：
 				<Reward RewardType="11" Key="0" Value="5"/>
 			</Rewards>
 		</RiChang>
-		<RiChang ID="11" GoToUIID="14" Title="Trưng thu mỏ ngọc hàng ngày" Des="Tiến hành 3 lần thu hoạch mỏ ngọc" RiChangSystem="33" CheckValue="3">
+		<RiChang ID="11" GoToUIID="14" Title="Trưng thu mỏ Đá hàng ngày" Des="Tiến hành 3 lần thu hoạch mỏ Đá" RiChangSystem="33" CheckValue="3">
 			<Rewards>
 				<Reward RewardType="2" Key="0" Value="1000"/>
 				<Reward RewardType="3" Key="0" Value="2"/>
@@ -204,8 +204,7 @@ HelperRiChang：
 		<RiChang ID="14" GoToUIID="17" Title="Phúc lợi hàng ngày: Mỳ quân sư" Des="Ăn mỳ quân sư tăng thể lực" RiChangSystem="41" CheckValue="0">
 			<Times>
 				<Time Start="11:30" End="14:30"/>
-				<Time Start="17:30" End="19:30"/>
-				<Time Start="21:30" End="23:30"/>
+				<Time Start="19:30" End="22:30"/>
 			</Times>
 			<Rewards>
 				<Reward RewardType="5" Key="0" Value="40"/>

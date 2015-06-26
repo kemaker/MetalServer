@@ -22,10 +22,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="1001" defaultStar="1" zhaoMu="0">
 		<Upgrade star="2" needCost="10"/>
@@ -33,10 +33,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="1002" defaultStar="1" zhaoMu="0">
 		<Upgrade star="2" needCost="10"/>
@@ -44,10 +44,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="1003" defaultStar="1" zhaoMu="0">
 		<Upgrade star="2" needCost="10"/>
@@ -55,10 +55,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="1010" defaultStar="1" zhaoMu="0">
 		<Upgrade star="2" needCost="10"/>
@@ -66,10 +66,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="1011" defaultStar="1" zhaoMu="0">
 		<Upgrade star="2" needCost="10"/>
@@ -77,10 +77,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="1012" defaultStar="1" zhaoMu="0">
 		<Upgrade star="2" needCost="10"/>
@@ -88,10 +88,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="1013" defaultStar="1" zhaoMu="0">
 		<Upgrade star="2" needCost="10"/>
@@ -99,10 +99,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4073" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -110,10 +110,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4058" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -121,10 +121,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4014" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -132,10 +132,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4043" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -143,10 +143,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4023" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -154,10 +154,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4071" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -165,10 +165,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4065" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -176,10 +176,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4057" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -187,10 +187,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4062" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -198,10 +198,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4056" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -209,10 +209,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4042" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -220,10 +220,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4072" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -231,10 +231,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4069" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -242,10 +242,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4051" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -253,10 +253,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4015" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -264,10 +264,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4034" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -275,10 +275,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4025" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -286,10 +286,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4052" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -297,10 +297,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4039" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -308,10 +308,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4027" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -319,10 +319,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4046" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -330,10 +330,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4066" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -341,10 +341,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4021" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -352,10 +352,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4028" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -363,10 +363,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4044" defaultStar="4" zhaoMu="6">
 		<Upgrade star="2" needCost="10"/>
@@ -374,10 +374,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4010" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -385,10 +385,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4045" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -396,10 +396,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4036" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -407,10 +407,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4029" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -418,10 +418,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4002" defaultStar="4" zhaoMu="6">
 		<Upgrade star="2" needCost="10"/>
@@ -429,10 +429,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4031" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -440,10 +440,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4049" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -451,10 +451,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4009" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -462,10 +462,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4041" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -473,10 +473,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4024" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -484,10 +484,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4047" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -495,10 +495,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4013" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -506,10 +506,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4050" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -517,10 +517,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4004" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -528,10 +528,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4017" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -539,10 +539,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4012" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -550,10 +550,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4032" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -561,10 +561,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4022" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -572,10 +572,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4068" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -583,10 +583,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4074" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -594,10 +594,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4020" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -605,10 +605,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4035" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -616,10 +616,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4070" defaultStar="4" zhaoMu="6">
 		<Upgrade star="2" needCost="10"/>
@@ -627,10 +627,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4008" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -638,10 +638,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4082" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -649,10 +649,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4083" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -660,10 +660,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4001" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -671,10 +671,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4059" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -682,10 +682,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4011" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -693,10 +693,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4016" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -704,10 +704,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4060" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -715,10 +715,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4061" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -726,10 +726,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4054" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -737,10 +737,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4037" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -748,10 +748,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4007" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -759,10 +759,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4005" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -770,10 +770,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4006" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -781,10 +781,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4019" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -792,10 +792,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4048" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -803,10 +803,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4003" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -814,10 +814,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4063" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -825,10 +825,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4084" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -836,10 +836,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4085" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -847,10 +847,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4086" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -858,10 +858,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4087" defaultStar="7" zhaoMu="6">
 		<Upgrade star="2" needCost="10"/>
@@ -869,10 +869,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4088" defaultStar="7" zhaoMu="6">
 		<Upgrade star="2" needCost="10"/>
@@ -880,10 +880,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4089" defaultStar="7" zhaoMu="6">
 		<Upgrade star="2" needCost="10"/>
@@ -891,10 +891,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4090" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -902,10 +902,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4091" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -913,10 +913,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4092" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -924,10 +924,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4093" defaultStar="4" zhaoMu="80">
 		<Upgrade star="2" needCost="10"/>
@@ -935,10 +935,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4094" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -946,10 +946,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 	<Piece id="4095" defaultStar="2" zhaoMu="10">
 		<Upgrade star="2" needCost="10"/>
@@ -957,10 +957,10 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 		<Piece id="4096" defaultStar="7" zhaoMu="400">
 		<Upgrade star="2" needCost="10"/>
@@ -968,9 +968,9 @@ Upgrade：
 		<Upgrade star="4" needCost="50"/>
 		<Upgrade star="5" needCost="70"/>
 		<Upgrade star="6" needCost="90"/>
-		<Upgrade star="7" needCost="160"/>
-		<Upgrade star="8" needCost="500"/>
-		<Upgrade star="9" needCost="1000"/>
-		<Upgrade star="10" needCost="2500"/>
+		<Upgrade star="7" needCost="500"/>
+		<Upgrade star="8" needCost="800"/>
+		<Upgrade star="9" needCost="1800"/>
+		<Upgrade star="10" needCost="3000"/>
 	</Piece>
 </Root>

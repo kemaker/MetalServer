@@ -30,9 +30,9 @@ max：
 注释结束-->
 
 <Config Default="5">
-	<Peiyang Type="1" Cost="100" CostType="0" min="1" max="50" />
-	<Peiyang Type="2" Cost="2" CostType="1" min="20" max="75" />
-	<Peiyang Type="3" Cost="10" CostType="1" min="30" max="110" />
-	<Peiyang Type="4" Cost="20" CostType="1" min="40" max="140" />
-	<Peiyang Type="5" Cost="100" CostType="1" min="5" max="5" />
+	<Peiyang Type="1" Cost="1000" CostType="0" min="1" max="50" />
+	<Peiyang Type="2" Cost="5" CostType="1" min="20" max="75" />
+	<Peiyang Type="3" Cost="20" CostType="1" min="30" max="110" />
+	<Peiyang Type="4" Cost="50" CostType="1" min="40" max="140" />
+	<Peiyang Type="5" Cost="250" CostType="1" min="5" max="5" />
 </Config>

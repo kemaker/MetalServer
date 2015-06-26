@@ -9,6 +9,7 @@ Category：
 	道具类型：
     0 = 丹药；
     1 = 可使用道具；
+    2 = 不可使用道具；
     
 UseLevel：
 	道具使用等级,与Category相关,如下：
@@ -54,11 +55,11 @@ IconResID：
 	<Item ID="20006" Category="0" UseLevel="1" StackCount="20" SellPrice="4384" BuyBackPrice="8768" n_Name="[ffff00]Đan Võ Lực Lv6[-]" Des="Thuốc tăng thuộc tính võ lực vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20006"/>
 	<Item ID="20016" Category="0" UseLevel="1" StackCount="20" SellPrice="4384" BuyBackPrice="8768" n_Name="[ffff00]Đan Pháp Thuật Lv6[-]" Des="Thuốc tăng thuộc tính pháp thuật vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20016"/>
 	<Item ID="20026" Category="0" UseLevel="1" StackCount="20" SellPrice="4384" BuyBackPrice="8768" n_Name="[ffff00]Đan Tuyệt Kỹ Lv6[-]" Des="Thuốc tăng thuộc tính tuyệt kỹ vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20026"/>
-    <Item ID="21001" Category="0" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Yêu[-]" Des="1 Phù bí ẩn chữ 'Yêu'" IconResID="21001"/>
-    <Item ID="21002" Category="0" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Tiên[-]" Des="1 Phù bí ẩn chữ 'Tiên'" IconResID="21002"/>
-    <Item ID="21003" Category="0" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Truyện[-]" Des="1 Phù bí ẩn chữ 'Truyện'" IconResID="21003"/>
-    <Item ID="21004" Category="0" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Đá[-]" Des="1 viên ngọc phát ra màu sắc lấp lánh" IconResID="21004"/>
-    <Item ID="21005" Category="0" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Thỏi vàng[-]" Des="1 thỏi vàng lấp lánh chói mắt" IconResID="21005"/>
+    <Item ID="21001" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Yêu[-]" Des="1 Phù bí ẩn chữ 'Yêu'" IconResID="21001"/>
+    <Item ID="21002" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Tiên[-]" Des="1 Phù bí ẩn chữ 'Tiên'" IconResID="21002"/>
+    <Item ID="21003" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Truyện[-]" Des="1 Phù bí ẩn chữ 'Truyện'" IconResID="21003"/>
+    <Item ID="21004" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Đá[-]" Des="1 viên ngọc phát ra màu sắc lấp lánh" IconResID="21004"/>
+    <Item ID="21005" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Thỏi vàng[-]" Des="1 thỏi vàng lấp lánh chói mắt" IconResID="21005"/>
 	<Item ID="81001" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà Ký danh 1[-]" Des="Click vào sử dụng có thể nhận được 200 Ngọc" IconResID="81001"/>
 	<Item ID="81002" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà Ký danh 2[-]" Des="Click vào sử dụng có thể nhận được 500 Ngọc, 10 Thể lực" IconResID="81002"/>
 	<Item ID="81003" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Quà Ký danh 3[-]" Des="Click vào sử dụng có thể nhận được 500 Ngọc, 50 Uy" IconResID="81003"/>

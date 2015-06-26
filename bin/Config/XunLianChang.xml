@@ -1,0 +1,426 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+Partner
+	Id : 伙伴ID
+	ZhiYe : 伙伴职业
+	Name : 伙伴名字
+	Jie
+		Id : 阶ID
+		Icon : 到达该阶时伙伴头像
+		MaterialId : 该阶所需材料
+		Duan
+			Id : 段ID
+			Value : 所提升的值
+-->
+<XunLianChang>
+	<Partner Id="1" ZhiYe="天兵" n_Name="孙悟空1">
+		<Jie Id="1" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="10"/>
+			<Duan Id="2" Value="5"/>
+		</Jie>
+		<Jie Id="2" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="15"/>
+			<Duan Id="2" Value="10"/>
+			<Duan Id="3" Value="5"/>
+		</Jie>
+		<Jie Id="3" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="20"/>
+			<Duan Id="2" Value="15"/>
+			<Duan Id="3" Value="10"/>
+			<Duan Id="4" Value="5"/>
+		</Jie>
+		<Jie Id="4" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="25"/>
+			<Duan Id="2" Value="20"/>
+			<Duan Id="3" Value="15"/>
+			<Duan Id="4" Value="10"/>
+			<Duan Id="5" Value="5"/>
+		</Jie>
+		<Jie Id="5" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="30"/>
+			<Duan Id="2" Value="25"/>
+			<Duan Id="3" Value="20"/>
+			<Duan Id="4" Value="15"/>
+			<Duan Id="5" Value="10"/>
+			<Duan Id="6" Value="5"/>
+		</Jie>
+		<Jie Id="6" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="35"/>
+			<Duan Id="2" Value="30"/>
+			<Duan Id="3" Value="25"/>
+			<Duan Id="4" Value="20"/>
+			<Duan Id="5" Value="15"/>
+			<Duan Id="6" Value="10"/>
+			<Duan Id="7" Value="5"/>
+		</Jie>
+	</Partner>
+	<Partner Id="2" ZhiYe="天兵" n_Name="孙悟空2">
+		<Jie Id="1" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="10"/>
+			<Duan Id="2" Value="5"/>
+		</Jie>
+		<Jie Id="2" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="15"/>
+			<Duan Id="2" Value="10"/>
+			<Duan Id="3" Value="5"/>
+		</Jie>
+		<Jie Id="3" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="20"/>
+			<Duan Id="2" Value="15"/>
+			<Duan Id="3" Value="10"/>
+			<Duan Id="4" Value="5"/>
+		</Jie>
+		<Jie Id="4" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="25"/>
+			<Duan Id="2" Value="20"/>
+			<Duan Id="3" Value="15"/>
+			<Duan Id="4" Value="10"/>
+			<Duan Id="5" Value="5"/>
+		</Jie>
+		<Jie Id="5" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="30"/>
+			<Duan Id="2" Value="25"/>
+			<Duan Id="3" Value="20"/>
+			<Duan Id="4" Value="15"/>
+			<Duan Id="5" Value="10"/>
+			<Duan Id="6" Value="5"/>
+		</Jie>
+		<Jie Id="6" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="35"/>
+			<Duan Id="2" Value="30"/>
+			<Duan Id="3" Value="25"/>
+			<Duan Id="4" Value="20"/>
+			<Duan Id="5" Value="15"/>
+			<Duan Id="6" Value="10"/>
+			<Duan Id="7" Value="5"/>
+		</Jie>
+	</Partner>
+	<Partner Id="3" ZhiYe="天兵" n_Name="孙悟空3">
+		<Jie Id="1" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="10"/>
+			<Duan Id="2" Value="5"/>
+		</Jie>
+		<Jie Id="2" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="15"/>
+			<Duan Id="2" Value="10"/>
+			<Duan Id="3" Value="5"/>
+		</Jie>
+		<Jie Id="3" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="20"/>
+			<Duan Id="2" Value="15"/>
+			<Duan Id="3" Value="10"/>
+			<Duan Id="4" Value="5"/>
+		</Jie>
+		<Jie Id="4" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="25"/>
+			<Duan Id="2" Value="20"/>
+			<Duan Id="3" Value="15"/>
+			<Duan Id="4" Value="10"/>
+			<Duan Id="5" Value="5"/>
+		</Jie>
+		<Jie Id="5" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="30"/>
+			<Duan Id="2" Value="25"/>
+			<Duan Id="3" Value="20"/>
+			<Duan Id="4" Value="15"/>
+			<Duan Id="5" Value="10"/>
+			<Duan Id="6" Value="5"/>
+		</Jie>
+		<Jie Id="6" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="35"/>
+			<Duan Id="2" Value="30"/>
+			<Duan Id="3" Value="25"/>
+			<Duan Id="4" Value="20"/>
+			<Duan Id="5" Value="15"/>
+			<Duan Id="6" Value="10"/>
+			<Duan Id="7" Value="5"/>
+		</Jie>
+	</Partner>
+	<Partner Id="4" ZhiYe="天兵" n_Name="孙悟空4">
+		<Jie Id="1" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="10"/>
+			<Duan Id="2" Value="5"/>
+		</Jie>
+		<Jie Id="2" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="15"/>
+			<Duan Id="2" Value="10"/>
+			<Duan Id="3" Value="5"/>
+		</Jie>
+		<Jie Id="3" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="20"/>
+			<Duan Id="2" Value="15"/>
+			<Duan Id="3" Value="10"/>
+			<Duan Id="4" Value="5"/>
+		</Jie>
+		<Jie Id="4" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="25"/>
+			<Duan Id="2" Value="20"/>
+			<Duan Id="3" Value="15"/>
+			<Duan Id="4" Value="10"/>
+			<Duan Id="5" Value="5"/>
+		</Jie>
+		<Jie Id="5" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="30"/>
+			<Duan Id="2" Value="25"/>
+			<Duan Id="3" Value="20"/>
+			<Duan Id="4" Value="15"/>
+			<Duan Id="5" Value="10"/>
+			<Duan Id="6" Value="5"/>
+		</Jie>
+		<Jie Id="6" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="35"/>
+			<Duan Id="2" Value="30"/>
+			<Duan Id="3" Value="25"/>
+			<Duan Id="4" Value="20"/>
+			<Duan Id="5" Value="15"/>
+			<Duan Id="6" Value="10"/>
+			<Duan Id="7" Value="5"/>
+		</Jie>
+	</Partner>
+	<Partner Id="5" ZhiYe="天兵" n_Name="孙悟空5">
+		<Jie Id="1" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="10"/>
+			<Duan Id="2" Value="5"/>
+		</Jie>
+		<Jie Id="2" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="15"/>
+			<Duan Id="2" Value="10"/>
+			<Duan Id="3" Value="5"/>
+		</Jie>
+		<Jie Id="3" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="20"/>
+			<Duan Id="2" Value="15"/>
+			<Duan Id="3" Value="10"/>
+			<Duan Id="4" Value="5"/>
+		</Jie>
+		<Jie Id="4" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="25"/>
+			<Duan Id="2" Value="20"/>
+			<Duan Id="3" Value="15"/>
+			<Duan Id="4" Value="10"/>
+			<Duan Id="5" Value="5"/>
+		</Jie>
+		<Jie Id="5" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="30"/>
+			<Duan Id="2" Value="25"/>
+			<Duan Id="3" Value="20"/>
+			<Duan Id="4" Value="15"/>
+			<Duan Id="5" Value="10"/>
+			<Duan Id="6" Value="5"/>
+		</Jie>
+		<Jie Id="6" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="35"/>
+			<Duan Id="2" Value="30"/>
+			<Duan Id="3" Value="25"/>
+			<Duan Id="4" Value="20"/>
+			<Duan Id="5" Value="15"/>
+			<Duan Id="6" Value="10"/>
+			<Duan Id="7" Value="5"/>
+		</Jie>
+	</Partner>
+	<Partner Id="6" ZhiYe="天兵" n_Name="孙悟空6">
+		<Jie Id="1" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="10"/>
+			<Duan Id="2" Value="5"/>
+		</Jie>
+		<Jie Id="2" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="15"/>
+			<Duan Id="2" Value="10"/>
+			<Duan Id="3" Value="5"/>
+		</Jie>
+		<Jie Id="3" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="20"/>
+			<Duan Id="2" Value="15"/>
+			<Duan Id="3" Value="10"/>
+			<Duan Id="4" Value="5"/>
+		</Jie>
+		<Jie Id="4" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="25"/>
+			<Duan Id="2" Value="20"/>
+			<Duan Id="3" Value="15"/>
+			<Duan Id="4" Value="10"/>
+			<Duan Id="5" Value="5"/>
+		</Jie>
+		<Jie Id="5" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="30"/>
+			<Duan Id="2" Value="25"/>
+			<Duan Id="3" Value="20"/>
+			<Duan Id="4" Value="15"/>
+			<Duan Id="5" Value="10"/>
+			<Duan Id="6" Value="5"/>
+		</Jie>
+		<Jie Id="6" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="35"/>
+			<Duan Id="2" Value="30"/>
+			<Duan Id="3" Value="25"/>
+			<Duan Id="4" Value="20"/>
+			<Duan Id="5" Value="15"/>
+			<Duan Id="6" Value="10"/>
+			<Duan Id="7" Value="5"/>
+		</Jie>
+	</Partner>
+	<Partner Id="7" ZhiYe="天兵" n_Name="孙悟空7">
+		<Jie Id="1" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="10"/>
+			<Duan Id="2" Value="5"/>
+		</Jie>
+		<Jie Id="2" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="15"/>
+			<Duan Id="2" Value="10"/>
+			<Duan Id="3" Value="5"/>
+		</Jie>
+		<Jie Id="3" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="20"/>
+			<Duan Id="2" Value="15"/>
+			<Duan Id="3" Value="10"/>
+			<Duan Id="4" Value="5"/>
+		</Jie>
+		<Jie Id="4" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="25"/>
+			<Duan Id="2" Value="20"/>
+			<Duan Id="3" Value="15"/>
+			<Duan Id="4" Value="10"/>
+			<Duan Id="5" Value="5"/>
+		</Jie>
+		<Jie Id="5" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="30"/>
+			<Duan Id="2" Value="25"/>
+			<Duan Id="3" Value="20"/>
+			<Duan Id="4" Value="15"/>
+			<Duan Id="5" Value="10"/>
+			<Duan Id="6" Value="5"/>
+		</Jie>
+		<Jie Id="6" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="35"/>
+			<Duan Id="2" Value="30"/>
+			<Duan Id="3" Value="25"/>
+			<Duan Id="4" Value="20"/>
+			<Duan Id="5" Value="15"/>
+			<Duan Id="6" Value="10"/>
+			<Duan Id="7" Value="5"/>
+		</Jie>
+	</Partner>
+	<Partner Id="8" ZhiYe="天兵" n_Name="孙悟空8">
+		<Jie Id="1" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="10"/>
+			<Duan Id="2" Value="5"/>
+		</Jie>
+		<Jie Id="2" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="15"/>
+			<Duan Id="2" Value="10"/>
+			<Duan Id="3" Value="5"/>
+		</Jie>
+		<Jie Id="3" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="20"/>
+			<Duan Id="2" Value="15"/>
+			<Duan Id="3" Value="10"/>
+			<Duan Id="4" Value="5"/>
+		</Jie>
+		<Jie Id="4" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="25"/>
+			<Duan Id="2" Value="20"/>
+			<Duan Id="3" Value="15"/>
+			<Duan Id="4" Value="10"/>
+			<Duan Id="5" Value="5"/>
+		</Jie>
+		<Jie Id="5" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="30"/>
+			<Duan Id="2" Value="25"/>
+			<Duan Id="3" Value="20"/>
+			<Duan Id="4" Value="15"/>
+			<Duan Id="5" Value="10"/>
+			<Duan Id="6" Value="5"/>
+		</Jie>
+		<Jie Id="6" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="35"/>
+			<Duan Id="2" Value="30"/>
+			<Duan Id="3" Value="25"/>
+			<Duan Id="4" Value="20"/>
+			<Duan Id="5" Value="15"/>
+			<Duan Id="6" Value="10"/>
+			<Duan Id="7" Value="5"/>
+		</Jie>
+	</Partner>
+	<Partner Id="9" ZhiYe="天兵" n_Name="孙悟空9">
+		<Jie Id="1" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="10"/>
+			<Duan Id="2" Value="5"/>
+		</Jie>
+		<Jie Id="2" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="15"/>
+			<Duan Id="2" Value="10"/>
+			<Duan Id="3" Value="5"/>
+		</Jie>
+		<Jie Id="3" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="20"/>
+			<Duan Id="2" Value="15"/>
+			<Duan Id="3" Value="10"/>
+			<Duan Id="4" Value="5"/>
+		</Jie>
+		<Jie Id="4" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="25"/>
+			<Duan Id="2" Value="20"/>
+			<Duan Id="3" Value="15"/>
+			<Duan Id="4" Value="10"/>
+			<Duan Id="5" Value="5"/>
+		</Jie>
+		<Jie Id="5" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="30"/>
+			<Duan Id="2" Value="25"/>
+			<Duan Id="3" Value="20"/>
+			<Duan Id="4" Value="15"/>
+			<Duan Id="5" Value="10"/>
+			<Duan Id="6" Value="5"/>
+		</Jie>
+		<Jie Id="6" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="35"/>
+			<Duan Id="2" Value="30"/>
+			<Duan Id="3" Value="25"/>
+			<Duan Id="4" Value="20"/>
+			<Duan Id="5" Value="15"/>
+			<Duan Id="6" Value="10"/>
+			<Duan Id="7" Value="5"/>
+		</Jie>
+	</Partner>
+	<Partner Id="10" ZhiYe="天兵" n_Name="孙悟空10">
+		<Jie Id="1" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="10"/>
+			<Duan Id="2" Value="5"/>
+		</Jie>
+		<Jie Id="2" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="15"/>
+			<Duan Id="2" Value="10"/>
+			<Duan Id="3" Value="5"/>
+		</Jie>
+		<Jie Id="3" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="20"/>
+			<Duan Id="2" Value="15"/>
+			<Duan Id="3" Value="10"/>
+			<Duan Id="4" Value="5"/>
+		</Jie>
+		<Jie Id="4" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="25"/>
+			<Duan Id="2" Value="20"/>
+			<Duan Id="3" Value="15"/>
+			<Duan Id="4" Value="10"/>
+			<Duan Id="5" Value="5"/>
+		</Jie>
+		<Jie Id="5" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="30"/>
+			<Duan Id="2" Value="25"/>
+			<Duan Id="3" Value="20"/>
+			<Duan Id="4" Value="15"/>
+			<Duan Id="5" Value="10"/>
+			<Duan Id="6" Value="5"/>
+		</Jie>
+		<Jie Id="6" Icon="PlayerIcon" MaterialId="0">
+			<Duan Id="1" Value="35"/>
+			<Duan Id="2" Value="30"/>
+			<Duan Id="3" Value="25"/>
+			<Duan Id="4" Value="20"/>
+			<Duan Id="5" Value="15"/>
+			<Duan Id="6" Value="10"/>
+			<Duan Id="7" Value="5"/>
+		</Jie>
+	</Partner>
+</XunLianChang>

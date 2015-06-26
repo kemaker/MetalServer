@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!--注释
+
+MapID：
+	剧情ID,对应ChuZheng数据JuQing下Id字段；
+	
+FuBenID：
+	关卡ID,对应ChuZheng数据GuanKa下Id字段；
+	
+n_Name：
+	关卡名称；
+	
+Desc：
+	关卡描述；
+	
+NeedPlayerLevel：
+	关卡开启所需主将等级；
+	
+DiaoLuoID：
+	掉落ID,对应FuBenDiaoLuo数据DiaoLuoID字段；
+	
+SenceRes：
+	场景模型名称；
+	
+GS：
+	关卡怪物战力值；
+	
+TaskID：
+	关卡对应任务ID,对应Task数据ID字段；
+	0 	= 无任务；
+	非0 = 任务ID；
+
+DuibaiID：
+	关卡战斗前播放对白ID；
+	0 	= 无对白；
+	非0 = 对白ID；
+	
+DuiBaiID2：
+	关卡战斗后播放对白ID；
+	0 	= 无对白；
+	非0 = 对白ID；
+	
+Group：
+	副本中怪物信息：
+	MonsterID = 怪物ID,对应Monster数据ID字段
+	PlaceX = 怪物的X坐标,对应战斗场景的位置坐标,0-6；
+	PlaceY = 怪物的Y坐标,对应战斗场景的位置坐标,0-2；
+
+注释结束-->
+
+<FirstFight>
+	<Map MapID="9998">
+		<FuBen FuBenID="9998" n_Name="Trận 1" Desc="Trận 1" NeedPlayerLevel="1" DiaoLuoID="0" SceneRes="model_tg" GS="0" TaskID="0" DuiBaiID="9001" DuiBaiID2="9019" FaBao1ID="0" FaBao1Lev="0" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+			<Group MonsterID="9013" PlaceX="2" PlaceY="0"/>
+			<Group MonsterID="9004" PlaceX="2" PlaceY="1"/>
+			<Group MonsterID="9001" PlaceX="1" PlaceY="1"/>
+			<Group MonsterID="9005" PlaceX="1" PlaceY="2"/>
+			<Group MonsterID="9002" PlaceX="0" PlaceY="0"/>
+			<Group MonsterID="9006" PlaceX="0" PlaceY="1"/>
+			<Group MonsterID="9014" PlaceX="4" PlaceY="0"/>
+			<Group MonsterID="9010" PlaceX="4" PlaceY="1"/>
+			<Group MonsterID="9008" PlaceX="4" PlaceY="2"/>
+			<Group MonsterID="9011" PlaceX="5" PlaceY="1"/>
+			<Group MonsterID="9015" PlaceX="6" PlaceY="0"/>
+			<Group MonsterID="9012" PlaceX="6" PlaceY="1"/>
+		</FuBen>
+	</Map>
+</FirstFight>

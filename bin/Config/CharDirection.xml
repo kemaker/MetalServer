@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!--注释
+
+m_ID：
+	创建角色ID；
+	
+m_Nameicon：
+	创建角色职业名称；
+	
+m_Title:
+	该职业描述；
+	
+m_Atk：
+	攻击星级,1-5；
+	
+m_Def：
+	防御星级,1-5；
+	
+m_Life：
+	生命星级,1-5；
+	
+m_Len：
+	距离星级,1-5；
+	
+m_Dec：
+	描述星级,1-5；
+
+注释结束-->
+
+<RECORDS>
+	<RECORD m_ID="1" m_NameIcon="Kiếm" m_Title="Công cao, tầm trung" m_Atk="5" m_Def="3" m_Life="3" m_Len="1" m_Dec="3"/>
+	<RECORD m_ID="2" m_NameIcon="Võ" m_Title="Thủ cao, lá chắn" m_Atk="2" m_Def="5" m_Life="5" m_Len="1" m_Dec="5"/>
+	<RECORD m_ID="3" m_NameIcon="Phật" m_Title="Trị liệu cao, bổ trợ" m_Atk="3" m_Def="4" m_Life="3" m_Len="3" m_Dec="4"/>
+	<RECORD m_ID="4" m_NameIcon="Pháp" m_Title="Công cao, tầm xa" m_Atk="5" m_Def="1" m_Life="2" m_Len="5" m_Dec="2"/>
+	<RECORD m_ID="5" m_NameIcon="Yêu" m_Title="Trị liệu cao, bổ trợ" m_Atk="1" m_Def="2" m_Life="3" m_Len="5" m_Dec="3"/>
+	<RECORD m_ID="6" m_NameIcon="Kiếm" m_Title="Công cao, tầm trung" m_Atk="5" m_Def="3" m_Life="3" m_Len="1" m_Dec="2"/>
+	<RECORD m_ID="7" m_NameIcon="Ma" m_Title="Thủ cao, cận chiến" m_Atk="4" m_Def="4" m_Life="4" m_Len="3" m_Dec="2"/>
+	<RECORD m_ID="8" m_NameIcon="Pháp" m_Title="Công cao, tầm xa" m_Atk="5" m_Def="1" m_Life="2" m_Len="5" m_Dec="2"/>
+</RECORDS>

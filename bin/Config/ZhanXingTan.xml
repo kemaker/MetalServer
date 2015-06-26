@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!--注释
 
 ID：
@@ -43,118 +42,117 @@ Attr：
 		加成数值；
 
 注释结束-->
-
 <ZhanXingTan>
-	<XingXiu ID="1" n_Name="Tử Vi" NeedStar="80" SpendMoney="2000">
-		<Attr Type="5" Value="25"/>
-		<Attr Type="6" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="2" n_Name="Thất Sát" NeedStar="86" SpendMoney="2000">
-		<Attr Type="7" Value="25"/>
-		<Attr Type="8" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="3" n_Name="Phá Quân" NeedStar="90" SpendMoney="2000">
-		<Attr Type="9" Value="25"/>
-		<Attr Type="10" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="4" n_Name="Thanh Liêm" NeedStar="94" SpendMoney="2000">
-		<Attr Type="13" Value="25"/>
-		<Attr Type="14" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="5" n_Name="Tham Lang" NeedStar="98" SpendMoney="2000">
-		<Attr Type="15" Value="25"/>
-		<Attr Type="16" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="6" n_Name="Thiên Phủ" NeedStar="102" SpendMoney="2000">
-		<Attr Type="11" Value="25"/>
-		<Attr Type="12" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="7" n_Name="Võ Khúc" NeedStar="110" SpendMoney="2500">
-		<Attr Type="5" Value="25"/>
-		<Attr Type="6" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="8" n_Name="Thiên Tướng" NeedStar="118" SpendMoney="2500">
-		<Attr Type="7" Value="25"/>
-		<Attr Type="8" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="9" n_Name="Thái Dương" NeedStar="126" SpendMoney="2500">
-		<Attr Type="9" Value="25"/>
-		<Attr Type="10" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="10" n_Name="Cự Môn" NeedStar="134" SpendMoney="2500">
-		<Attr Type="13" Value="25"/>
-		<Attr Type="14" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="11" n_Name="Thiên Cơ" NeedStar="142" SpendMoney="2500">
-		<Attr Type="15" Value="25"/>
-		<Attr Type="16" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="12" n_Name="Thái Âm" NeedStar="152" SpendMoney="2500">
-		<Attr Type="11" Value="25"/>
-		<Attr Type="12" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="13" n_Name="Thiên Lương" NeedStar="164" SpendMoney="3000">
-		<Attr Type="5" Value="25"/>
-		<Attr Type="6" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="14" n_Name="Thiên Đồng" NeedStar="176" SpendMoney="3000">
-		<Attr Type="7" Value="25"/>
-		<Attr Type="8" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="15" n_Name="Long Trì" NeedStar="188" SpendMoney="3000">
-		<Attr Type="9" Value="25"/>
-		<Attr Type="10" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="16" n_Name="Thiên Sử" NeedStar="200" SpendMoney="3000">
-		<Attr Type="13" Value="25"/>
-		<Attr Type="14" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="17" n_Name="Quả Túc" NeedStar="212" SpendMoney="3000">
-		<Attr Type="15" Value="25"/>
-		<Attr Type="16" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="18" n_Name="Khiên Khốc" NeedStar="228" SpendMoney="3000">
-		<Attr Type="11" Value="25"/>
-		<Attr Type="12" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="19" n_Name="Phong Cáo" NeedStar="244" SpendMoney="4000">
-		<Attr Type="5" Value="25"/>
-		<Attr Type="6" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="20" n_Name="Thiên Hình" NeedStar="260" SpendMoney="4000">
-		<Attr Type="7" Value="25"/>
-		<Attr Type="8" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="21" n_Name="Hồng Loan" NeedStar="276" SpendMoney="4000">
-		<Attr Type="9" Value="25"/>
-		<Attr Type="10" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="22" n_Name="Phỉ Liêm" NeedStar="292" SpendMoney="4000">
-		<Attr Type="13" Value="25"/>
-		<Attr Type="14" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="23" n_Name="Tả Phụ" NeedStar="310" SpendMoney="4000">
-		<Attr Type="15" Value="25"/>
-		<Attr Type="16" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="24" n_Name="Phượng Các" NeedStar="330" SpendMoney="4000">
-		<Attr Type="11" Value="25"/>
-		<Attr Type="12" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="25" n_Name="Đài Phụ" NeedStar="350" SpendMoney="5000">
-		<Attr Type="5" Value="25"/>
-		<Attr Type="6" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="26" n_Name="Hữu Bật" NeedStar="370" SpendMoney="5000">
-		<Attr Type="7" Value="25"/>
-		<Attr Type="8" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="27" n_Name="Thiên Trù" NeedStar="390" SpendMoney="5000">
-		<Attr Type="9" Value="25"/>
-		<Attr Type="10" Value="25"/>
-	</XingXiu>
-	<XingXiu ID="28" n_Name="Cô Thần" NeedStar="410" SpendMoney="5000">
-		<Attr Type="13" Value="25"/>
-		<Attr Type="14" Value="25"/>
-	</XingXiu>
+  <XingXiu ID="1" n_Name="Tử Vi" NeedStar="80" SpendMoney="10000">
+    <Attr Type="5" Value="25" />
+    <Attr Type="6" Value="25" />
+  </XingXiu>
+  <XingXiu ID="2" n_Name="Thất Sát" NeedStar="86" SpendMoney="10000">
+    <Attr Type="7" Value="25" />
+    <Attr Type="8" Value="25" />
+  </XingXiu>
+  <XingXiu ID="3" n_Name="Phá Quân" NeedStar="90" SpendMoney="10000">
+    <Attr Type="9" Value="25" />
+    <Attr Type="10" Value="25" />
+  </XingXiu>
+  <XingXiu ID="4" n_Name="Thanh Liêm" NeedStar="94" SpendMoney="10000">
+    <Attr Type="13" Value="25" />
+    <Attr Type="14" Value="25" />
+  </XingXiu>
+  <XingXiu ID="5" n_Name="Tham Lang" NeedStar="98" SpendMoney="10000">
+    <Attr Type="15" Value="25" />
+    <Attr Type="16" Value="25" />
+  </XingXiu>
+  <XingXiu ID="6" n_Name="Thiên Phủ" NeedStar="102" SpendMoney="10000">
+    <Attr Type="11" Value="25" />
+    <Attr Type="12" Value="25" />
+  </XingXiu>
+  <XingXiu ID="7" n_Name="Võ Khúc" NeedStar="110" SpendMoney="12500">
+    <Attr Type="5" Value="25" />
+    <Attr Type="6" Value="25" />
+  </XingXiu>
+  <XingXiu ID="8" n_Name="Thiên Tướng" NeedStar="118" SpendMoney="12500">
+    <Attr Type="7" Value="25" />
+    <Attr Type="8" Value="25" />
+  </XingXiu>
+  <XingXiu ID="9" n_Name="Thái Dương" NeedStar="126" SpendMoney="12500">
+    <Attr Type="9" Value="25" />
+    <Attr Type="10" Value="25" />
+  </XingXiu>
+  <XingXiu ID="10" n_Name="Cự Môn" NeedStar="134" SpendMoney="12500">
+    <Attr Type="13" Value="25" />
+    <Attr Type="14" Value="25" />
+  </XingXiu>
+  <XingXiu ID="11" n_Name="Thiên Cơ" NeedStar="142" SpendMoney="12500">
+    <Attr Type="15" Value="25" />
+    <Attr Type="16" Value="25" />
+  </XingXiu>
+  <XingXiu ID="12" n_Name="Thái Âm" NeedStar="152" SpendMoney="12500">
+    <Attr Type="11" Value="25" />
+    <Attr Type="12" Value="25" />
+  </XingXiu>
+  <XingXiu ID="13" n_Name="Thiên Lương" NeedStar="164" SpendMoney="15000">
+    <Attr Type="5" Value="25" />
+    <Attr Type="6" Value="25" />
+  </XingXiu>
+  <XingXiu ID="14" n_Name="Thiên Đồng" NeedStar="176" SpendMoney="15000">
+    <Attr Type="7" Value="25" />
+    <Attr Type="8" Value="25" />
+  </XingXiu>
+  <XingXiu ID="15" n_Name="Long Trì" NeedStar="188" SpendMoney="15000">
+    <Attr Type="9" Value="25" />
+    <Attr Type="10" Value="25" />
+  </XingXiu>
+  <XingXiu ID="16" n_Name="Thiên Sử" NeedStar="200" SpendMoney="15000">
+    <Attr Type="13" Value="25" />
+    <Attr Type="14" Value="25" />
+  </XingXiu>
+  <XingXiu ID="17" n_Name="Quả Túc" NeedStar="212" SpendMoney="15000">
+    <Attr Type="15" Value="25" />
+    <Attr Type="16" Value="25" />
+  </XingXiu>
+  <XingXiu ID="18" n_Name="Khiên Khốc" NeedStar="228" SpendMoney="15000">
+    <Attr Type="11" Value="25" />
+    <Attr Type="12" Value="25" />
+  </XingXiu>
+  <XingXiu ID="19" n_Name="Phong Cáo" NeedStar="244" SpendMoney="20000">
+    <Attr Type="5" Value="25" />
+    <Attr Type="6" Value="25" />
+  </XingXiu>
+  <XingXiu ID="20" n_Name="Thiên Hình" NeedStar="260" SpendMoney="20000">
+    <Attr Type="7" Value="25" />
+    <Attr Type="8" Value="25" />
+  </XingXiu>
+  <XingXiu ID="21" n_Name="Hồng Loan" NeedStar="276" SpendMoney="20000">
+    <Attr Type="9" Value="25" />
+    <Attr Type="10" Value="25" />
+  </XingXiu>
+  <XingXiu ID="22" n_Name="Phỉ Liêm" NeedStar="292" SpendMoney="20000">
+    <Attr Type="13" Value="25" />
+    <Attr Type="14" Value="25" />
+  </XingXiu>
+  <XingXiu ID="23" n_Name="Tả Phụ" NeedStar="310" SpendMoney="20000">
+    <Attr Type="15" Value="25" />
+    <Attr Type="16" Value="25" />
+  </XingXiu>
+  <XingXiu ID="24" n_Name="Phượng Các" NeedStar="330" SpendMoney="20000">
+    <Attr Type="11" Value="25" />
+    <Attr Type="12" Value="25" />
+  </XingXiu>
+  <XingXiu ID="25" n_Name="Đài Phụ" NeedStar="350" SpendMoney="25000">
+    <Attr Type="5" Value="25" />
+    <Attr Type="6" Value="25" />
+  </XingXiu>
+  <XingXiu ID="26" n_Name="Hữu Bật" NeedStar="370" SpendMoney="25000">
+    <Attr Type="7" Value="25" />
+    <Attr Type="8" Value="25" />
+  </XingXiu>
+  <XingXiu ID="27" n_Name="Thiên Trù" NeedStar="390" SpendMoney="25000">
+    <Attr Type="9" Value="25" />
+    <Attr Type="10" Value="25" />
+  </XingXiu>
+  <XingXiu ID="28" n_Name="Cô Thần" NeedStar="410" SpendMoney="25000">
+    <Attr Type="13" Value="25" />
+    <Attr Type="14" Value="25" />
+  </XingXiu>
 </ZhanXingTan>

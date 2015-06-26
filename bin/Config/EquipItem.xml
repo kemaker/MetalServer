@@ -192,7 +192,7 @@ Compound：
       <Material ID="132011" Count="5" />
     </Compound>
   </Equip>
-  <Equip ID="10102" EquipType="1" UseLevel="1" StackCount="1" SellPrice="108" BuyBackPrice="217" n_Name="[67d64a]]Huyền Quang Giáp[-]" Des="Giáp tinh phẩm của Tiên gia." IconResID="10102">
+  <Equip ID="10102" EquipType="1" UseLevel="1" StackCount="1" SellPrice="108" BuyBackPrice="217" n_Name="[67d64a]Huyền Quang Giáp[-]" Des="Giáp tinh phẩm của Tiên gia." IconResID="10102">
     <AddAttr>
       <Attr Type="6" Value="22" />
       <Attr Type="15" Value="17" />
@@ -294,7 +294,7 @@ Compound：
       <Material ID="132011" Count="5" />
     </Compound>
   </Equip>
-  <Equip ID="10202" EquipType="3" UseLevel="1" StackCount="1" SellPrice="108" BuyBackPrice="217" n_Name="[67d64a]]Huyền Quang Khôi[-]" Des="Mũ tinh phẩm của Tiên gia." IconResID="10202">
+  <Equip ID="10202" EquipType="3" UseLevel="1" StackCount="1" SellPrice="108" BuyBackPrice="217" n_Name="[67d64a]Huyền Quang Khôi[-]" Des="Mũ tinh phẩm của Tiên gia." IconResID="10202">
     <AddAttr>
       <Attr Type="7" Value="27" />
       <Attr Type="9" Value="27" />
@@ -396,7 +396,7 @@ Compound：
       <Material ID="132011" Count="5" />
     </Compound>
   </Equip>
-  <Equip ID="10302" EquipType="2" UseLevel="1" StackCount="1" SellPrice="108" BuyBackPrice="217" n_Name="[67d64a]]Huyền Quang Phù[-]" Des="Phù tinh phẩm của Tiên gia." IconResID="10302">
+  <Equip ID="10302" EquipType="2" UseLevel="1" StackCount="1" SellPrice="108" BuyBackPrice="217" n_Name="[67d64a]Huyền Quang Phù[-]" Des="Phù tinh phẩm của Tiên gia." IconResID="10302">
     <AddAttr>
       <Attr Type="8" Value="22" />
       <Attr Type="10" Value="22" />
@@ -498,7 +498,7 @@ Compound：
       <Material ID="132011" Count="5" />
     </Compound>
   </Equip>
-  <Equip ID="10402" EquipType="4" UseLevel="1" StackCount="1" SellPrice="108" BuyBackPrice="217" n_Name="[67d64a]]Huyền Quang Giới[-]" Des="Nhẫn tinh phẩm của Tiên gia." IconResID="10402">
+  <Equip ID="10402" EquipType="4" UseLevel="1" StackCount="1" SellPrice="108" BuyBackPrice="217" n_Name="[67d64a]Huyền Quang Giới[-]" Des="Nhẫn tinh phẩm của Tiên gia." IconResID="10402">
     <AddAttr>
       <Attr Type="3" Value="52" />
       <Attr Type="14" Value="20" />
@@ -600,7 +600,7 @@ Compound：
       <Material ID="132011" Count="5" />
     </Compound>
   </Equip>
-  <Equip ID="10502" EquipType="5" UseLevel="1" StackCount="1" SellPrice="108" BuyBackPrice="217" n_Name="[67d64a]]Huyền Quang Ngoa[-]" Des="Giầy tinh phẩm của Tiên gia." IconResID="10502">
+  <Equip ID="10502" EquipType="5" UseLevel="1" StackCount="1" SellPrice="108" BuyBackPrice="217" n_Name="[67d64a]Huyền Quang Ngoa[-]" Des="Giầy tinh phẩm của Tiên gia." IconResID="10502">
     <AddAttr>
       <Attr Type="12" Value="25" />
       <Attr Type="16" Value="17" />

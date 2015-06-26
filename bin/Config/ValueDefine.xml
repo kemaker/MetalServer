@@ -9,9 +9,9 @@
     <LegioBroadcastGold>100</LegioBroadcastGold><!--军团求贤公告消耗的元宝-->
     <LegioBroadcastCredit>100</LegioBroadcastCredit><!--军团求贤公告消耗的军团贡献-->
 	
-	<JxtUsualNeed>180</JxtUsualNeed><!--聚仙台普抽消耗-->
+	<JxtUsualNeed>360</JxtUsualNeed><!--聚仙台普抽消耗-->
 	<JxtUsualCD>600</JxtUsualCD><!--聚仙台普抽CD时间 秒-->
-	<JxtSpecialNeed>180</JxtSpecialNeed><!--聚仙台普抽消耗-->
+	<JxtSpecialNeed>200</JxtSpecialNeed><!--聚仙台特抽消耗-->
 	<JxtSpecialCD>172800</JxtSpecialCD><!--聚仙台特抽CD时间 秒-->
 	
     <ArenaSpeedNeed>9</ArenaSpeedNeed><!--竞技场加速需要的元宝-->
@@ -73,8 +73,15 @@
     <CreateStar>1</CreateStar><!--角色初始星级-->
     <HFBCount>3</HFBCount><!--试炼场挑战次数上限-->
 	<HFBPowerNeed>0</HFBPowerNeed><!--试炼场体力消耗-->
-	<RestoreCostGold>200</RestoreCostGold><!--进阶还原消耗的元宝-->
-	<RestoreCostMoney>10000</RestoreCostMoney><!--进阶还原消耗的灵石-->
+	
+    <GreenRestoreCostGold>200</GreenRestoreCostGold><!--绿色品质进阶还原消耗的元宝-->
+    <GreenRestoreCostMoney>100000</GreenRestoreCostMoney><!--绿色品质进阶还原消耗的灵石-->
+    <BlueRestoreCostGold>500</BlueRestoreCostGold><!--蓝色品质进阶还原消耗的元宝-->
+    <BlueRestoreCostMoney>250000</BlueRestoreCostMoney><!--蓝色品质进阶还原消耗的灵石-->
+    <PurpleRestoreCostGold>1000</PurpleRestoreCostGold><!--紫色品质进阶还原消耗的元宝-->
+    <PurpleRestoreCostMoney>500000</PurpleRestoreCostMoney><!--紫色品质进阶还原消耗的灵石-->
+    <MoneyRestorePiece>50</MoneyRestorePiece><!--使用灵石还原时，得到碎片的百分比-->
+    
     <ZhanXingStar>0</ZhanXingStar><!--角色初始占星星数-->
     <BuyMoneyBaojiLevel>2</BuyMoneyBaojiLevel><!--购买灵石初期暴击等级-->
     <HeiShiItemCount>6</HeiShiItemCount><!--黑市刷新物品个数-->

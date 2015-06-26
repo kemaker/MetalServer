@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--注释
 
 ID：
@@ -48,1186 +47,1185 @@ Levels：
 		其他 = 花费数值；
 		
 注释结束-->
-
 <XianFas>
-	<XF ID="801001" n_Name="Võ Thánh Thần Công" OpenLv="10" LvGrow="3" AttrType="5" IconRes="8001">
-		<Levels Lv="0" Cost="10"/>
-		<Levels Lv="1" Cost="14"/>
-		<Levels Lv="2" Cost="18"/>
-		<Levels Lv="3" Cost="24"/>
-		<Levels Lv="4" Cost="29"/>
-		<Levels Lv="5" Cost="35"/>
-		<Levels Lv="6" Cost="40"/>
-		<Levels Lv="7" Cost="46"/>
-		<Levels Lv="8" Cost="50"/>
-		<Levels Lv="9" Cost="56"/>
-		<Levels Lv="10" Cost="62"/>
-		<Levels Lv="11" Cost="68"/>
-		<Levels Lv="12" Cost="74"/>
-		<Levels Lv="13" Cost="80"/>
-		<Levels Lv="14" Cost="86"/>
-		<Levels Lv="15" Cost="91"/>
-		<Levels Lv="16" Cost="97"/>
-		<Levels Lv="17" Cost="104"/>
-		<Levels Lv="18" Cost="110"/>
-		<Levels Lv="19" Cost="117"/>
-		<Levels Lv="20" Cost="124"/>
-		<Levels Lv="21" Cost="130"/>
-		<Levels Lv="22" Cost="137"/>
-		<Levels Lv="23" Cost="145"/>
-		<Levels Lv="24" Cost="152"/>
-		<Levels Lv="25" Cost="160"/>
-		<Levels Lv="26" Cost="168"/>
-		<Levels Lv="27" Cost="176"/>
-		<Levels Lv="28" Cost="184"/>
-		<Levels Lv="29" Cost="193"/>
-		<Levels Lv="30" Cost="203"/>
-		<Levels Lv="31" Cost="212"/>
-		<Levels Lv="32" Cost="223"/>
-		<Levels Lv="33" Cost="233"/>
-		<Levels Lv="34" Cost="244"/>
-		<Levels Lv="35" Cost="255"/>
-		<Levels Lv="36" Cost="268"/>
-		<Levels Lv="37" Cost="281"/>
-		<Levels Lv="38" Cost="294"/>
-		<Levels Lv="39" Cost="309"/>
-		<Levels Lv="40" Cost="324"/>
-		<Levels Lv="41" Cost="339"/>
-		<Levels Lv="42" Cost="357"/>
-		<Levels Lv="43" Cost="375"/>
-		<Levels Lv="44" Cost="395"/>
-		<Levels Lv="45" Cost="416"/>
-		<Levels Lv="46" Cost="438"/>
-		<Levels Lv="47" Cost="462"/>
-		<Levels Lv="48" Cost="487"/>
-		<Levels Lv="49" Cost="514"/>
-		<Levels Lv="50" Cost="544"/>
-		<Levels Lv="51" Cost="576"/>
-		<Levels Lv="52" Cost="610"/>
-		<Levels Lv="53" Cost="647"/>
-		<Levels Lv="54" Cost="685"/>
-		<Levels Lv="55" Cost="728"/>
-		<Levels Lv="56" Cost="774"/>
-		<Levels Lv="57" Cost="824"/>
-		<Levels Lv="58" Cost="878"/>
-		<Levels Lv="59" Cost="936"/>
-		<Levels Lv="60" Cost="1000"/>
-		<Levels Lv="61" Cost="1067"/>
-		<Levels Lv="62" Cost="1141"/>
-		<Levels Lv="63" Cost="1221"/>
-		<Levels Lv="64" Cost="1308"/>
-		<Levels Lv="65" Cost="1403"/>
-		<Levels Lv="66" Cost="1505"/>
-		<Levels Lv="67" Cost="1617"/>
-		<Levels Lv="68" Cost="1737"/>
-		<Levels Lv="69" Cost="1868"/>
-		<Levels Lv="70" Cost="2010"/>
-		<Levels Lv="71" Cost="2165"/>
-		<Levels Lv="72" Cost="2334"/>
-		<Levels Lv="73" Cost="2517"/>
-		<Levels Lv="74" Cost="2715"/>
-		<Levels Lv="75" Cost="2932"/>
-		<Levels Lv="76" Cost="3168"/>
-		<Levels Lv="77" Cost="3425"/>
-		<Levels Lv="78" Cost="3704"/>
-		<Levels Lv="79" Cost="4008"/>
-		<Levels Lv="80" Cost="4339"/>
-		<Levels Lv="81" Cost="4698"/>
-		<Levels Lv="82" Cost="5090"/>
-		<Levels Lv="83" Cost="5517"/>
-		<Levels Lv="84" Cost="5982"/>
-		<Levels Lv="85" Cost="6488"/>
-		<Levels Lv="86" Cost="7040"/>
-		<Levels Lv="87" Cost="7640"/>
-		<Levels Lv="88" Cost="8294"/>
-		<Levels Lv="89" Cost="9006"/>
-		<Levels Lv="90" Cost="9783"/>
-		<Levels Lv="91" Cost="10628"/>
-		<Levels Lv="92" Cost="11550"/>
-		<Levels Lv="93" Cost="12554"/>
-		<Levels Lv="94" Cost="13647"/>
-		<Levels Lv="95" Cost="14838"/>
-		<Levels Lv="96" Cost="16137"/>
-		<Levels Lv="97" Cost="17552"/>
-		<Levels Lv="98" Cost="19094"/>
-		<Levels Lv="99" Cost="0"/>
-	</XF>
-	<XF ID="802001" n_Name="Ma Tông Thần Công" OpenLv="10" LvGrow="3" AttrType="7" IconRes="8002">
-		<Levels Lv="0" Cost="10"/>
-		<Levels Lv="1" Cost="14"/>
-		<Levels Lv="2" Cost="18"/>
-		<Levels Lv="3" Cost="24"/>
-		<Levels Lv="4" Cost="29"/>
-		<Levels Lv="5" Cost="35"/>
-		<Levels Lv="6" Cost="40"/>
-		<Levels Lv="7" Cost="46"/>
-		<Levels Lv="8" Cost="50"/>
-		<Levels Lv="9" Cost="56"/>
-		<Levels Lv="10" Cost="62"/>
-		<Levels Lv="11" Cost="68"/>
-		<Levels Lv="12" Cost="74"/>
-		<Levels Lv="13" Cost="80"/>
-		<Levels Lv="14" Cost="86"/>
-		<Levels Lv="15" Cost="91"/>
-		<Levels Lv="16" Cost="97"/>
-		<Levels Lv="17" Cost="104"/>
-		<Levels Lv="18" Cost="110"/>
-		<Levels Lv="19" Cost="117"/>
-		<Levels Lv="20" Cost="124"/>
-		<Levels Lv="21" Cost="130"/>
-		<Levels Lv="22" Cost="137"/>
-		<Levels Lv="23" Cost="145"/>
-		<Levels Lv="24" Cost="152"/>
-		<Levels Lv="25" Cost="160"/>
-		<Levels Lv="26" Cost="168"/>
-		<Levels Lv="27" Cost="176"/>
-		<Levels Lv="28" Cost="184"/>
-		<Levels Lv="29" Cost="193"/>
-		<Levels Lv="30" Cost="203"/>
-		<Levels Lv="31" Cost="212"/>
-		<Levels Lv="32" Cost="223"/>
-		<Levels Lv="33" Cost="233"/>
-		<Levels Lv="34" Cost="244"/>
-		<Levels Lv="35" Cost="255"/>
-		<Levels Lv="36" Cost="268"/>
-		<Levels Lv="37" Cost="281"/>
-		<Levels Lv="38" Cost="294"/>
-		<Levels Lv="39" Cost="309"/>
-		<Levels Lv="40" Cost="324"/>
-		<Levels Lv="41" Cost="339"/>
-		<Levels Lv="42" Cost="357"/>
-		<Levels Lv="43" Cost="375"/>
-		<Levels Lv="44" Cost="395"/>
-		<Levels Lv="45" Cost="416"/>
-		<Levels Lv="46" Cost="438"/>
-		<Levels Lv="47" Cost="462"/>
-		<Levels Lv="48" Cost="487"/>
-		<Levels Lv="49" Cost="514"/>
-		<Levels Lv="50" Cost="544"/>
-		<Levels Lv="51" Cost="576"/>
-		<Levels Lv="52" Cost="610"/>
-		<Levels Lv="53" Cost="647"/>
-		<Levels Lv="54" Cost="685"/>
-		<Levels Lv="55" Cost="728"/>
-		<Levels Lv="56" Cost="774"/>
-		<Levels Lv="57" Cost="824"/>
-		<Levels Lv="58" Cost="878"/>
-		<Levels Lv="59" Cost="936"/>
-		<Levels Lv="60" Cost="1000"/>
-		<Levels Lv="61" Cost="1067"/>
-		<Levels Lv="62" Cost="1141"/>
-		<Levels Lv="63" Cost="1221"/>
-		<Levels Lv="64" Cost="1308"/>
-		<Levels Lv="65" Cost="1403"/>
-		<Levels Lv="66" Cost="1505"/>
-		<Levels Lv="67" Cost="1617"/>
-		<Levels Lv="68" Cost="1737"/>
-		<Levels Lv="69" Cost="1868"/>
-		<Levels Lv="70" Cost="2010"/>
-		<Levels Lv="71" Cost="2165"/>
-		<Levels Lv="72" Cost="2334"/>
-		<Levels Lv="73" Cost="2517"/>
-		<Levels Lv="74" Cost="2715"/>
-		<Levels Lv="75" Cost="2932"/>
-		<Levels Lv="76" Cost="3168"/>
-		<Levels Lv="77" Cost="3425"/>
-		<Levels Lv="78" Cost="3704"/>
-		<Levels Lv="79" Cost="4008"/>
-		<Levels Lv="80" Cost="4339"/>
-		<Levels Lv="81" Cost="4698"/>
-		<Levels Lv="82" Cost="5090"/>
-		<Levels Lv="83" Cost="5517"/>
-		<Levels Lv="84" Cost="5982"/>
-		<Levels Lv="85" Cost="6488"/>
-		<Levels Lv="86" Cost="7040"/>
-		<Levels Lv="87" Cost="7640"/>
-		<Levels Lv="88" Cost="8294"/>
-		<Levels Lv="89" Cost="9006"/>
-		<Levels Lv="90" Cost="9783"/>
-		<Levels Lv="91" Cost="10628"/>
-		<Levels Lv="92" Cost="11550"/>
-		<Levels Lv="93" Cost="12554"/>
-		<Levels Lv="94" Cost="13647"/>
-		<Levels Lv="95" Cost="14838"/>
-		<Levels Lv="96" Cost="16137"/>
-		<Levels Lv="97" Cost="17552"/>
-		<Levels Lv="98" Cost="19094"/>
-		<Levels Lv="99" Cost="0"/>
-	</XF>
-	<XF ID="803001" n_Name="Tuyệt Tôn Thần Công" OpenLv="10" LvGrow="3" AttrType="9" IconRes="8003">
-		<Levels Lv="0" Cost="10"/>
-		<Levels Lv="1" Cost="14"/>
-		<Levels Lv="2" Cost="18"/>
-		<Levels Lv="3" Cost="24"/>
-		<Levels Lv="4" Cost="29"/>
-		<Levels Lv="5" Cost="35"/>
-		<Levels Lv="6" Cost="40"/>
-		<Levels Lv="7" Cost="46"/>
-		<Levels Lv="8" Cost="50"/>
-		<Levels Lv="9" Cost="56"/>
-		<Levels Lv="10" Cost="62"/>
-		<Levels Lv="11" Cost="68"/>
-		<Levels Lv="12" Cost="74"/>
-		<Levels Lv="13" Cost="80"/>
-		<Levels Lv="14" Cost="86"/>
-		<Levels Lv="15" Cost="91"/>
-		<Levels Lv="16" Cost="97"/>
-		<Levels Lv="17" Cost="104"/>
-		<Levels Lv="18" Cost="110"/>
-		<Levels Lv="19" Cost="117"/>
-		<Levels Lv="20" Cost="124"/>
-		<Levels Lv="21" Cost="130"/>
-		<Levels Lv="22" Cost="137"/>
-		<Levels Lv="23" Cost="145"/>
-		<Levels Lv="24" Cost="152"/>
-		<Levels Lv="25" Cost="160"/>
-		<Levels Lv="26" Cost="168"/>
-		<Levels Lv="27" Cost="176"/>
-		<Levels Lv="28" Cost="184"/>
-		<Levels Lv="29" Cost="193"/>
-		<Levels Lv="30" Cost="203"/>
-		<Levels Lv="31" Cost="212"/>
-		<Levels Lv="32" Cost="223"/>
-		<Levels Lv="33" Cost="233"/>
-		<Levels Lv="34" Cost="244"/>
-		<Levels Lv="35" Cost="255"/>
-		<Levels Lv="36" Cost="268"/>
-		<Levels Lv="37" Cost="281"/>
-		<Levels Lv="38" Cost="294"/>
-		<Levels Lv="39" Cost="309"/>
-		<Levels Lv="40" Cost="324"/>
-		<Levels Lv="41" Cost="339"/>
-		<Levels Lv="42" Cost="357"/>
-		<Levels Lv="43" Cost="375"/>
-		<Levels Lv="44" Cost="395"/>
-		<Levels Lv="45" Cost="416"/>
-		<Levels Lv="46" Cost="438"/>
-		<Levels Lv="47" Cost="462"/>
-		<Levels Lv="48" Cost="487"/>
-		<Levels Lv="49" Cost="514"/>
-		<Levels Lv="50" Cost="544"/>
-		<Levels Lv="51" Cost="576"/>
-		<Levels Lv="52" Cost="610"/>
-		<Levels Lv="53" Cost="647"/>
-		<Levels Lv="54" Cost="685"/>
-		<Levels Lv="55" Cost="728"/>
-		<Levels Lv="56" Cost="774"/>
-		<Levels Lv="57" Cost="824"/>
-		<Levels Lv="58" Cost="878"/>
-		<Levels Lv="59" Cost="936"/>
-		<Levels Lv="60" Cost="1000"/>
-		<Levels Lv="61" Cost="1067"/>
-		<Levels Lv="62" Cost="1141"/>
-		<Levels Lv="63" Cost="1221"/>
-		<Levels Lv="64" Cost="1308"/>
-		<Levels Lv="65" Cost="1403"/>
-		<Levels Lv="66" Cost="1505"/>
-		<Levels Lv="67" Cost="1617"/>
-		<Levels Lv="68" Cost="1737"/>
-		<Levels Lv="69" Cost="1868"/>
-		<Levels Lv="70" Cost="2010"/>
-		<Levels Lv="71" Cost="2165"/>
-		<Levels Lv="72" Cost="2334"/>
-		<Levels Lv="73" Cost="2517"/>
-		<Levels Lv="74" Cost="2715"/>
-		<Levels Lv="75" Cost="2932"/>
-		<Levels Lv="76" Cost="3168"/>
-		<Levels Lv="77" Cost="3425"/>
-		<Levels Lv="78" Cost="3704"/>
-		<Levels Lv="79" Cost="4008"/>
-		<Levels Lv="80" Cost="4339"/>
-		<Levels Lv="81" Cost="4698"/>
-		<Levels Lv="82" Cost="5090"/>
-		<Levels Lv="83" Cost="5517"/>
-		<Levels Lv="84" Cost="5982"/>
-		<Levels Lv="85" Cost="6488"/>
-		<Levels Lv="86" Cost="7040"/>
-		<Levels Lv="87" Cost="7640"/>
-		<Levels Lv="88" Cost="8294"/>
-		<Levels Lv="89" Cost="9006"/>
-		<Levels Lv="90" Cost="9783"/>
-		<Levels Lv="91" Cost="10628"/>
-		<Levels Lv="92" Cost="11550"/>
-		<Levels Lv="93" Cost="12554"/>
-		<Levels Lv="94" Cost="13647"/>
-		<Levels Lv="95" Cost="14838"/>
-		<Levels Lv="96" Cost="16137"/>
-		<Levels Lv="97" Cost="17552"/>
-		<Levels Lv="98" Cost="19094"/>
-		<Levels Lv="99" Cost="0"/>
-	</XF>
-	<XF ID="804001" n_Name="Liệt Dương Tâm Kinh" OpenLv="10" LvGrow="3" AttrType="3" IconRes="8004">
-		<Levels Lv="0" Cost="10"/>
-		<Levels Lv="1" Cost="14"/>
-		<Levels Lv="2" Cost="18"/>
-		<Levels Lv="3" Cost="24"/>
-		<Levels Lv="4" Cost="29"/>
-		<Levels Lv="5" Cost="35"/>
-		<Levels Lv="6" Cost="40"/>
-		<Levels Lv="7" Cost="46"/>
-		<Levels Lv="8" Cost="50"/>
-		<Levels Lv="9" Cost="56"/>
-		<Levels Lv="10" Cost="62"/>
-		<Levels Lv="11" Cost="68"/>
-		<Levels Lv="12" Cost="74"/>
-		<Levels Lv="13" Cost="80"/>
-		<Levels Lv="14" Cost="86"/>
-		<Levels Lv="15" Cost="91"/>
-		<Levels Lv="16" Cost="97"/>
-		<Levels Lv="17" Cost="104"/>
-		<Levels Lv="18" Cost="110"/>
-		<Levels Lv="19" Cost="117"/>
-		<Levels Lv="20" Cost="124"/>
-		<Levels Lv="21" Cost="130"/>
-		<Levels Lv="22" Cost="137"/>
-		<Levels Lv="23" Cost="145"/>
-		<Levels Lv="24" Cost="152"/>
-		<Levels Lv="25" Cost="160"/>
-		<Levels Lv="26" Cost="168"/>
-		<Levels Lv="27" Cost="176"/>
-		<Levels Lv="28" Cost="184"/>
-		<Levels Lv="29" Cost="193"/>
-		<Levels Lv="30" Cost="203"/>
-		<Levels Lv="31" Cost="212"/>
-		<Levels Lv="32" Cost="223"/>
-		<Levels Lv="33" Cost="233"/>
-		<Levels Lv="34" Cost="244"/>
-		<Levels Lv="35" Cost="255"/>
-		<Levels Lv="36" Cost="268"/>
-		<Levels Lv="37" Cost="281"/>
-		<Levels Lv="38" Cost="294"/>
-		<Levels Lv="39" Cost="309"/>
-		<Levels Lv="40" Cost="324"/>
-		<Levels Lv="41" Cost="339"/>
-		<Levels Lv="42" Cost="357"/>
-		<Levels Lv="43" Cost="375"/>
-		<Levels Lv="44" Cost="395"/>
-		<Levels Lv="45" Cost="416"/>
-		<Levels Lv="46" Cost="438"/>
-		<Levels Lv="47" Cost="462"/>
-		<Levels Lv="48" Cost="487"/>
-		<Levels Lv="49" Cost="514"/>
-		<Levels Lv="50" Cost="544"/>
-		<Levels Lv="51" Cost="576"/>
-		<Levels Lv="52" Cost="610"/>
-		<Levels Lv="53" Cost="647"/>
-		<Levels Lv="54" Cost="685"/>
-		<Levels Lv="55" Cost="728"/>
-		<Levels Lv="56" Cost="774"/>
-		<Levels Lv="57" Cost="824"/>
-		<Levels Lv="58" Cost="878"/>
-		<Levels Lv="59" Cost="936"/>
-		<Levels Lv="60" Cost="1000"/>
-		<Levels Lv="61" Cost="1067"/>
-		<Levels Lv="62" Cost="1141"/>
-		<Levels Lv="63" Cost="1221"/>
-		<Levels Lv="64" Cost="1308"/>
-		<Levels Lv="65" Cost="1403"/>
-		<Levels Lv="66" Cost="1505"/>
-		<Levels Lv="67" Cost="1617"/>
-		<Levels Lv="68" Cost="1737"/>
-		<Levels Lv="69" Cost="1868"/>
-		<Levels Lv="70" Cost="2010"/>
-		<Levels Lv="71" Cost="2165"/>
-		<Levels Lv="72" Cost="2334"/>
-		<Levels Lv="73" Cost="2517"/>
-		<Levels Lv="74" Cost="2715"/>
-		<Levels Lv="75" Cost="2932"/>
-		<Levels Lv="76" Cost="3168"/>
-		<Levels Lv="77" Cost="3425"/>
-		<Levels Lv="78" Cost="3704"/>
-		<Levels Lv="79" Cost="4008"/>
-		<Levels Lv="80" Cost="4339"/>
-		<Levels Lv="81" Cost="4698"/>
-		<Levels Lv="82" Cost="5090"/>
-		<Levels Lv="83" Cost="5517"/>
-		<Levels Lv="84" Cost="5982"/>
-		<Levels Lv="85" Cost="6488"/>
-		<Levels Lv="86" Cost="7040"/>
-		<Levels Lv="87" Cost="7640"/>
-		<Levels Lv="88" Cost="8294"/>
-		<Levels Lv="89" Cost="9006"/>
-		<Levels Lv="90" Cost="9783"/>
-		<Levels Lv="91" Cost="10628"/>
-		<Levels Lv="92" Cost="11550"/>
-		<Levels Lv="93" Cost="12554"/>
-		<Levels Lv="94" Cost="13647"/>
-		<Levels Lv="95" Cost="14838"/>
-		<Levels Lv="96" Cost="16137"/>
-		<Levels Lv="97" Cost="17552"/>
-		<Levels Lv="98" Cost="19094"/>
-		<Levels Lv="99" Cost="0"/>
-	</XF>
-	<XF ID="805001" n_Name="Võ Tiên Hộ Thể" OpenLv="20" LvGrow="6" AttrType="6" IconRes="8005">
-		<Levels Lv="0" Cost="18"/>
-		<Levels Lv="1" Cost="24"/>
-		<Levels Lv="2" Cost="32"/>
-		<Levels Lv="3" Cost="42"/>
-		<Levels Lv="4" Cost="52"/>
-		<Levels Lv="5" Cost="62"/>
-		<Levels Lv="6" Cost="72"/>
-		<Levels Lv="7" Cost="82"/>
-		<Levels Lv="8" Cost="90"/>
-		<Levels Lv="9" Cost="101"/>
-		<Levels Lv="10" Cost="112"/>
-		<Levels Lv="11" Cost="122"/>
-		<Levels Lv="12" Cost="132"/>
-		<Levels Lv="13" Cost="143"/>
-		<Levels Lv="14" Cost="155"/>
-		<Levels Lv="15" Cost="163"/>
-		<Levels Lv="16" Cost="174"/>
-		<Levels Lv="17" Cost="185"/>
-		<Levels Lv="18" Cost="198"/>
-		<Levels Lv="19" Cost="209"/>
-		<Levels Lv="20" Cost="221"/>
-		<Levels Lv="21" Cost="232"/>
-		<Levels Lv="22" Cost="244"/>
-		<Levels Lv="23" Cost="257"/>
-		<Levels Lv="24" Cost="270"/>
-		<Levels Lv="25" Cost="284"/>
-		<Levels Lv="26" Cost="298"/>
-		<Levels Lv="27" Cost="312"/>
-		<Levels Lv="28" Cost="326"/>
-		<Levels Lv="29" Cost="341"/>
-		<Levels Lv="30" Cost="356"/>
-		<Levels Lv="31" Cost="372"/>
-		<Levels Lv="32" Cost="390"/>
-		<Levels Lv="33" Cost="408"/>
-		<Levels Lv="34" Cost="426"/>
-		<Levels Lv="35" Cost="443"/>
-		<Levels Lv="36" Cost="464"/>
-		<Levels Lv="37" Cost="485"/>
-		<Levels Lv="38" Cost="507"/>
-		<Levels Lv="39" Cost="530"/>
-		<Levels Lv="40" Cost="556"/>
-		<Levels Lv="41" Cost="580"/>
-		<Levels Lv="42" Cost="607"/>
-		<Levels Lv="43" Cost="638"/>
-		<Levels Lv="44" Cost="669"/>
-		<Levels Lv="45" Cost="701"/>
-		<Levels Lv="46" Cost="737"/>
-		<Levels Lv="47" Cost="775"/>
-		<Levels Lv="48" Cost="813"/>
-		<Levels Lv="49" Cost="856"/>
-		<Levels Lv="50" Cost="902"/>
-		<Levels Lv="51" Cost="952"/>
-		<Levels Lv="52" Cost="1005"/>
-		<Levels Lv="53" Cost="1061"/>
-		<Levels Lv="54" Cost="1121"/>
-		<Levels Lv="55" Cost="1187"/>
-		<Levels Lv="56" Cost="1258"/>
-		<Levels Lv="57" Cost="1334"/>
-		<Levels Lv="58" Cost="1417"/>
-		<Levels Lv="59" Cost="1506"/>
-		<Levels Lv="60" Cost="1603"/>
-		<Levels Lv="61" Cost="1706"/>
-		<Levels Lv="62" Cost="1818"/>
-		<Levels Lv="63" Cost="1940"/>
-		<Levels Lv="64" Cost="2072"/>
-		<Levels Lv="65" Cost="2217"/>
-		<Levels Lv="66" Cost="2372"/>
-		<Levels Lv="67" Cost="2540"/>
-		<Levels Lv="68" Cost="2721"/>
-		<Levels Lv="69" Cost="2920"/>
-		<Levels Lv="70" Cost="3136"/>
-		<Levels Lv="71" Cost="3370"/>
-		<Levels Lv="72" Cost="3624"/>
-		<Levels Lv="73" Cost="3902"/>
-		<Levels Lv="74" Cost="4200"/>
-		<Levels Lv="75" Cost="4527"/>
-		<Levels Lv="76" Cost="4883"/>
-		<Levels Lv="77" Cost="5269"/>
-		<Levels Lv="78" Cost="5690"/>
-		<Levels Lv="79" Cost="6147"/>
-		<Levels Lv="80" Cost="6646"/>
-		<Levels Lv="81" Cost="7186"/>
-		<Levels Lv="82" Cost="7775"/>
-		<Levels Lv="83" Cost="8417"/>
-		<Levels Lv="84" Cost="9117"/>
-		<Levels Lv="85" Cost="9878"/>
-		<Levels Lv="86" Cost="10707"/>
-		<Levels Lv="87" Cost="11609"/>
-		<Levels Lv="88" Cost="12591"/>
-		<Levels Lv="89" Cost="13662"/>
-		<Levels Lv="90" Cost="14828"/>
-		<Levels Lv="91" Cost="16099"/>
-		<Levels Lv="92" Cost="17483"/>
-		<Levels Lv="93" Cost="18990"/>
-		<Levels Lv="94" Cost="20631"/>
-		<Levels Lv="95" Cost="22420"/>
-		<Levels Lv="96" Cost="24370"/>
-		<Levels Lv="97" Cost="26494"/>
-		<Levels Lv="98" Cost="28810"/>
-		<Levels Lv="99" Cost="0"/>
-	</XF>
-	<XF ID="806001" n_Name="Ma Tông Hộ Thể" OpenLv="20" LvGrow="6" AttrType="8" IconRes="8006">
-		<Levels Lv="0" Cost="18"/>
-		<Levels Lv="1" Cost="24"/>
-		<Levels Lv="2" Cost="32"/>
-		<Levels Lv="3" Cost="42"/>
-		<Levels Lv="4" Cost="52"/>
-		<Levels Lv="5" Cost="62"/>
-		<Levels Lv="6" Cost="72"/>
-		<Levels Lv="7" Cost="82"/>
-		<Levels Lv="8" Cost="90"/>
-		<Levels Lv="9" Cost="101"/>
-		<Levels Lv="10" Cost="112"/>
-		<Levels Lv="11" Cost="122"/>
-		<Levels Lv="12" Cost="132"/>
-		<Levels Lv="13" Cost="143"/>
-		<Levels Lv="14" Cost="155"/>
-		<Levels Lv="15" Cost="163"/>
-		<Levels Lv="16" Cost="174"/>
-		<Levels Lv="17" Cost="185"/>
-		<Levels Lv="18" Cost="198"/>
-		<Levels Lv="19" Cost="209"/>
-		<Levels Lv="20" Cost="221"/>
-		<Levels Lv="21" Cost="232"/>
-		<Levels Lv="22" Cost="244"/>
-		<Levels Lv="23" Cost="257"/>
-		<Levels Lv="24" Cost="270"/>
-		<Levels Lv="25" Cost="284"/>
-		<Levels Lv="26" Cost="298"/>
-		<Levels Lv="27" Cost="312"/>
-		<Levels Lv="28" Cost="326"/>
-		<Levels Lv="29" Cost="341"/>
-		<Levels Lv="30" Cost="356"/>
-		<Levels Lv="31" Cost="372"/>
-		<Levels Lv="32" Cost="390"/>
-		<Levels Lv="33" Cost="408"/>
-		<Levels Lv="34" Cost="426"/>
-		<Levels Lv="35" Cost="443"/>
-		<Levels Lv="36" Cost="464"/>
-		<Levels Lv="37" Cost="485"/>
-		<Levels Lv="38" Cost="507"/>
-		<Levels Lv="39" Cost="530"/>
-		<Levels Lv="40" Cost="556"/>
-		<Levels Lv="41" Cost="580"/>
-		<Levels Lv="42" Cost="607"/>
-		<Levels Lv="43" Cost="638"/>
-		<Levels Lv="44" Cost="669"/>
-		<Levels Lv="45" Cost="701"/>
-		<Levels Lv="46" Cost="737"/>
-		<Levels Lv="47" Cost="775"/>
-		<Levels Lv="48" Cost="813"/>
-		<Levels Lv="49" Cost="856"/>
-		<Levels Lv="50" Cost="902"/>
-		<Levels Lv="51" Cost="952"/>
-		<Levels Lv="52" Cost="1005"/>
-		<Levels Lv="53" Cost="1061"/>
-		<Levels Lv="54" Cost="1121"/>
-		<Levels Lv="55" Cost="1187"/>
-		<Levels Lv="56" Cost="1258"/>
-		<Levels Lv="57" Cost="1334"/>
-		<Levels Lv="58" Cost="1417"/>
-		<Levels Lv="59" Cost="1506"/>
-		<Levels Lv="60" Cost="1603"/>
-		<Levels Lv="61" Cost="1706"/>
-		<Levels Lv="62" Cost="1818"/>
-		<Levels Lv="63" Cost="1940"/>
-		<Levels Lv="64" Cost="2072"/>
-		<Levels Lv="65" Cost="2217"/>
-		<Levels Lv="66" Cost="2372"/>
-		<Levels Lv="67" Cost="2540"/>
-		<Levels Lv="68" Cost="2721"/>
-		<Levels Lv="69" Cost="2920"/>
-		<Levels Lv="70" Cost="3136"/>
-		<Levels Lv="71" Cost="3370"/>
-		<Levels Lv="72" Cost="3624"/>
-		<Levels Lv="73" Cost="3902"/>
-		<Levels Lv="74" Cost="4200"/>
-		<Levels Lv="75" Cost="4527"/>
-		<Levels Lv="76" Cost="4883"/>
-		<Levels Lv="77" Cost="5269"/>
-		<Levels Lv="78" Cost="5690"/>
-		<Levels Lv="79" Cost="6147"/>
-		<Levels Lv="80" Cost="6646"/>
-		<Levels Lv="81" Cost="7186"/>
-		<Levels Lv="82" Cost="7775"/>
-		<Levels Lv="83" Cost="8417"/>
-		<Levels Lv="84" Cost="9117"/>
-		<Levels Lv="85" Cost="9878"/>
-		<Levels Lv="86" Cost="10707"/>
-		<Levels Lv="87" Cost="11609"/>
-		<Levels Lv="88" Cost="12591"/>
-		<Levels Lv="89" Cost="13662"/>
-		<Levels Lv="90" Cost="14828"/>
-		<Levels Lv="91" Cost="16099"/>
-		<Levels Lv="92" Cost="17483"/>
-		<Levels Lv="93" Cost="18990"/>
-		<Levels Lv="94" Cost="20631"/>
-		<Levels Lv="95" Cost="22420"/>
-		<Levels Lv="96" Cost="24370"/>
-		<Levels Lv="97" Cost="26494"/>
-		<Levels Lv="98" Cost="28810"/>
-		<Levels Lv="99" Cost="0"/>
-	</XF>
-	<XF ID="807001" n_Name="Tuyệt Tôn Hộ Thể" OpenLv="20" LvGrow="6" AttrType="10" IconRes="8007">
-		<Levels Lv="0" Cost="18"/>
-		<Levels Lv="1" Cost="24"/>
-		<Levels Lv="2" Cost="32"/>
-		<Levels Lv="3" Cost="42"/>
-		<Levels Lv="4" Cost="52"/>
-		<Levels Lv="5" Cost="62"/>
-		<Levels Lv="6" Cost="72"/>
-		<Levels Lv="7" Cost="82"/>
-		<Levels Lv="8" Cost="90"/>
-		<Levels Lv="9" Cost="101"/>
-		<Levels Lv="10" Cost="112"/>
-		<Levels Lv="11" Cost="122"/>
-		<Levels Lv="12" Cost="132"/>
-		<Levels Lv="13" Cost="143"/>
-		<Levels Lv="14" Cost="155"/>
-		<Levels Lv="15" Cost="163"/>
-		<Levels Lv="16" Cost="174"/>
-		<Levels Lv="17" Cost="185"/>
-		<Levels Lv="18" Cost="198"/>
-		<Levels Lv="19" Cost="209"/>
-		<Levels Lv="20" Cost="221"/>
-		<Levels Lv="21" Cost="232"/>
-		<Levels Lv="22" Cost="244"/>
-		<Levels Lv="23" Cost="257"/>
-		<Levels Lv="24" Cost="270"/>
-		<Levels Lv="25" Cost="284"/>
-		<Levels Lv="26" Cost="298"/>
-		<Levels Lv="27" Cost="312"/>
-		<Levels Lv="28" Cost="326"/>
-		<Levels Lv="29" Cost="341"/>
-		<Levels Lv="30" Cost="356"/>
-		<Levels Lv="31" Cost="372"/>
-		<Levels Lv="32" Cost="390"/>
-		<Levels Lv="33" Cost="408"/>
-		<Levels Lv="34" Cost="426"/>
-		<Levels Lv="35" Cost="443"/>
-		<Levels Lv="36" Cost="464"/>
-		<Levels Lv="37" Cost="485"/>
-		<Levels Lv="38" Cost="507"/>
-		<Levels Lv="39" Cost="530"/>
-		<Levels Lv="40" Cost="556"/>
-		<Levels Lv="41" Cost="580"/>
-		<Levels Lv="42" Cost="607"/>
-		<Levels Lv="43" Cost="638"/>
-		<Levels Lv="44" Cost="669"/>
-		<Levels Lv="45" Cost="701"/>
-		<Levels Lv="46" Cost="737"/>
-		<Levels Lv="47" Cost="775"/>
-		<Levels Lv="48" Cost="813"/>
-		<Levels Lv="49" Cost="856"/>
-		<Levels Lv="50" Cost="902"/>
-		<Levels Lv="51" Cost="952"/>
-		<Levels Lv="52" Cost="1005"/>
-		<Levels Lv="53" Cost="1061"/>
-		<Levels Lv="54" Cost="1121"/>
-		<Levels Lv="55" Cost="1187"/>
-		<Levels Lv="56" Cost="1258"/>
-		<Levels Lv="57" Cost="1334"/>
-		<Levels Lv="58" Cost="1417"/>
-		<Levels Lv="59" Cost="1506"/>
-		<Levels Lv="60" Cost="1603"/>
-		<Levels Lv="61" Cost="1706"/>
-		<Levels Lv="62" Cost="1818"/>
-		<Levels Lv="63" Cost="1940"/>
-		<Levels Lv="64" Cost="2072"/>
-		<Levels Lv="65" Cost="2217"/>
-		<Levels Lv="66" Cost="2372"/>
-		<Levels Lv="67" Cost="2540"/>
-		<Levels Lv="68" Cost="2721"/>
-		<Levels Lv="69" Cost="2920"/>
-		<Levels Lv="70" Cost="3136"/>
-		<Levels Lv="71" Cost="3370"/>
-		<Levels Lv="72" Cost="3624"/>
-		<Levels Lv="73" Cost="3902"/>
-		<Levels Lv="74" Cost="4200"/>
-		<Levels Lv="75" Cost="4527"/>
-		<Levels Lv="76" Cost="4883"/>
-		<Levels Lv="77" Cost="5269"/>
-		<Levels Lv="78" Cost="5690"/>
-		<Levels Lv="79" Cost="6147"/>
-		<Levels Lv="80" Cost="6646"/>
-		<Levels Lv="81" Cost="7186"/>
-		<Levels Lv="82" Cost="7775"/>
-		<Levels Lv="83" Cost="8417"/>
-		<Levels Lv="84" Cost="9117"/>
-		<Levels Lv="85" Cost="9878"/>
-		<Levels Lv="86" Cost="10707"/>
-		<Levels Lv="87" Cost="11609"/>
-		<Levels Lv="88" Cost="12591"/>
-		<Levels Lv="89" Cost="13662"/>
-		<Levels Lv="90" Cost="14828"/>
-		<Levels Lv="91" Cost="16099"/>
-		<Levels Lv="92" Cost="17483"/>
-		<Levels Lv="93" Cost="18990"/>
-		<Levels Lv="94" Cost="20631"/>
-		<Levels Lv="95" Cost="22420"/>
-		<Levels Lv="96" Cost="24370"/>
-		<Levels Lv="97" Cost="26494"/>
-		<Levels Lv="98" Cost="28810"/>
-		<Levels Lv="99" Cost="0"/>
-	</XF>
-	<XF ID="808001" n_Name="Tật Phong Bảo Điển" OpenLv="35" LvGrow="2" AttrType="4" IconRes="8008">
-		<Levels Lv="0" Cost="1000"/>
-		<Levels Lv="1" Cost="1105"/>
-		<Levels Lv="2" Cost="1210"/>
-		<Levels Lv="3" Cost="1315"/>
-		<Levels Lv="4" Cost="1421"/>
-		<Levels Lv="5" Cost="1526"/>
-		<Levels Lv="6" Cost="1631"/>
-		<Levels Lv="7" Cost="1737"/>
-		<Levels Lv="8" Cost="1842"/>
-		<Levels Lv="9" Cost="1947"/>
-		<Levels Lv="10" Cost="2053"/>
-		<Levels Lv="11" Cost="2158"/>
-		<Levels Lv="12" Cost="2263"/>
-		<Levels Lv="13" Cost="2368"/>
-		<Levels Lv="14" Cost="2474"/>
-		<Levels Lv="15" Cost="2579"/>
-		<Levels Lv="16" Cost="2684"/>
-		<Levels Lv="17" Cost="2790"/>
-		<Levels Lv="18" Cost="2895"/>
-		<Levels Lv="19" Cost="0"/>
-	</XF>
-	<XF ID="809001" n_Name="Chân Võ Thánh Thần Công" OpenLv="40" LvGrow="12" AttrType="5" IconRes="8009">
-		<Levels Lv="0" Cost="50"/>
-		<Levels Lv="1" Cost="70"/>
-		<Levels Lv="2" Cost="91"/>
-		<Levels Lv="3" Cost="113"/>
-		<Levels Lv="4" Cost="136"/>
-		<Levels Lv="5" Cost="159"/>
-		<Levels Lv="6" Cost="182"/>
-		<Levels Lv="7" Cost="207"/>
-		<Levels Lv="8" Cost="233"/>
-		<Levels Lv="9" Cost="259"/>
-		<Levels Lv="10" Cost="287"/>
-		<Levels Lv="11" Cost="316"/>
-		<Levels Lv="12" Cost="348"/>
-		<Levels Lv="13" Cost="380"/>
-		<Levels Lv="14" Cost="415"/>
-		<Levels Lv="15" Cost="453"/>
-		<Levels Lv="16" Cost="493"/>
-		<Levels Lv="17" Cost="536"/>
-		<Levels Lv="18" Cost="584"/>
-		<Levels Lv="19" Cost="636"/>
-		<Levels Lv="20" Cost="693"/>
-		<Levels Lv="21" Cost="755"/>
-		<Levels Lv="22" Cost="824"/>
-		<Levels Lv="23" Cost="902"/>
-		<Levels Lv="24" Cost="987"/>
-		<Levels Lv="25" Cost="1082"/>
-		<Levels Lv="26" Cost="1190"/>
-		<Levels Lv="27" Cost="1310"/>
-		<Levels Lv="28" Cost="1446"/>
-		<Levels Lv="29" Cost="1600"/>
-		<Levels Lv="30" Cost="1773"/>
-		<Levels Lv="31" Cost="1971"/>
-		<Levels Lv="32" Cost="2195"/>
-		<Levels Lv="33" Cost="2449"/>
-		<Levels Lv="34" Cost="2740"/>
-		<Levels Lv="35" Cost="3071"/>
-		<Levels Lv="36" Cost="3448"/>
-		<Levels Lv="37" Cost="3881"/>
-		<Levels Lv="38" Cost="4374"/>
-		<Levels Lv="39" Cost="4940"/>
-		<Levels Lv="40" Cost="5587"/>
-		<Levels Lv="41" Cost="6328"/>
-		<Levels Lv="42" Cost="7179"/>
-		<Levels Lv="43" Cost="8153"/>
-		<Levels Lv="44" Cost="9271"/>
-		<Levels Lv="45" Cost="10555"/>
-		<Levels Lv="46" Cost="12028"/>
-		<Levels Lv="47" Cost="13720"/>
-		<Levels Lv="48" Cost="15662"/>
-		<Levels Lv="49" Cost="0"/>
-	</XF>
-	<XF ID="810001" n_Name="Chân Ma Tông Thần Công" OpenLv="40" LvGrow="12" AttrType="7" IconRes="8010">
-		<Levels Lv="0" Cost="50"/>
-		<Levels Lv="1" Cost="70"/>
-		<Levels Lv="2" Cost="91"/>
-		<Levels Lv="3" Cost="113"/>
-		<Levels Lv="4" Cost="136"/>
-		<Levels Lv="5" Cost="159"/>
-		<Levels Lv="6" Cost="182"/>
-		<Levels Lv="7" Cost="207"/>
-		<Levels Lv="8" Cost="233"/>
-		<Levels Lv="9" Cost="259"/>
-		<Levels Lv="10" Cost="287"/>
-		<Levels Lv="11" Cost="316"/>
-		<Levels Lv="12" Cost="348"/>
-		<Levels Lv="13" Cost="380"/>
-		<Levels Lv="14" Cost="415"/>
-		<Levels Lv="15" Cost="453"/>
-		<Levels Lv="16" Cost="493"/>
-		<Levels Lv="17" Cost="536"/>
-		<Levels Lv="18" Cost="584"/>
-		<Levels Lv="19" Cost="636"/>
-		<Levels Lv="20" Cost="693"/>
-		<Levels Lv="21" Cost="755"/>
-		<Levels Lv="22" Cost="824"/>
-		<Levels Lv="23" Cost="902"/>
-		<Levels Lv="24" Cost="987"/>
-		<Levels Lv="25" Cost="1082"/>
-		<Levels Lv="26" Cost="1190"/>
-		<Levels Lv="27" Cost="1310"/>
-		<Levels Lv="28" Cost="1446"/>
-		<Levels Lv="29" Cost="1600"/>
-		<Levels Lv="30" Cost="1773"/>
-		<Levels Lv="31" Cost="1971"/>
-		<Levels Lv="32" Cost="2195"/>
-		<Levels Lv="33" Cost="2449"/>
-		<Levels Lv="34" Cost="2740"/>
-		<Levels Lv="35" Cost="3071"/>
-		<Levels Lv="36" Cost="3448"/>
-		<Levels Lv="37" Cost="3881"/>
-		<Levels Lv="38" Cost="4374"/>
-		<Levels Lv="39" Cost="4940"/>
-		<Levels Lv="40" Cost="5587"/>
-		<Levels Lv="41" Cost="6328"/>
-		<Levels Lv="42" Cost="7179"/>
-		<Levels Lv="43" Cost="8153"/>
-		<Levels Lv="44" Cost="9271"/>
-		<Levels Lv="45" Cost="10555"/>
-		<Levels Lv="46" Cost="12028"/>
-		<Levels Lv="47" Cost="13720"/>
-		<Levels Lv="48" Cost="15662"/>
-		<Levels Lv="49" Cost="0"/>
-	</XF>
-	<XF ID="811001" n_Name="Chân Tuyệt Tôn Thần Công" OpenLv="40" LvGrow="12" AttrType="9" IconRes="8011">
-		<Levels Lv="0" Cost="50"/>
-		<Levels Lv="1" Cost="70"/>
-		<Levels Lv="2" Cost="91"/>
-		<Levels Lv="3" Cost="113"/>
-		<Levels Lv="4" Cost="136"/>
-		<Levels Lv="5" Cost="159"/>
-		<Levels Lv="6" Cost="182"/>
-		<Levels Lv="7" Cost="207"/>
-		<Levels Lv="8" Cost="233"/>
-		<Levels Lv="9" Cost="259"/>
-		<Levels Lv="10" Cost="287"/>
-		<Levels Lv="11" Cost="316"/>
-		<Levels Lv="12" Cost="348"/>
-		<Levels Lv="13" Cost="380"/>
-		<Levels Lv="14" Cost="415"/>
-		<Levels Lv="15" Cost="453"/>
-		<Levels Lv="16" Cost="493"/>
-		<Levels Lv="17" Cost="536"/>
-		<Levels Lv="18" Cost="584"/>
-		<Levels Lv="19" Cost="636"/>
-		<Levels Lv="20" Cost="693"/>
-		<Levels Lv="21" Cost="755"/>
-		<Levels Lv="22" Cost="824"/>
-		<Levels Lv="23" Cost="902"/>
-		<Levels Lv="24" Cost="987"/>
-		<Levels Lv="25" Cost="1082"/>
-		<Levels Lv="26" Cost="1190"/>
-		<Levels Lv="27" Cost="1310"/>
-		<Levels Lv="28" Cost="1446"/>
-		<Levels Lv="29" Cost="1600"/>
-		<Levels Lv="30" Cost="1773"/>
-		<Levels Lv="31" Cost="1971"/>
-		<Levels Lv="32" Cost="2195"/>
-		<Levels Lv="33" Cost="2449"/>
-		<Levels Lv="34" Cost="2740"/>
-		<Levels Lv="35" Cost="3071"/>
-		<Levels Lv="36" Cost="3448"/>
-		<Levels Lv="37" Cost="3881"/>
-		<Levels Lv="38" Cost="4374"/>
-		<Levels Lv="39" Cost="4940"/>
-		<Levels Lv="40" Cost="5587"/>
-		<Levels Lv="41" Cost="6328"/>
-		<Levels Lv="42" Cost="7179"/>
-		<Levels Lv="43" Cost="8153"/>
-		<Levels Lv="44" Cost="9271"/>
-		<Levels Lv="45" Cost="10555"/>
-		<Levels Lv="46" Cost="12028"/>
-		<Levels Lv="47" Cost="13720"/>
-		<Levels Lv="48" Cost="15662"/>
-		<Levels Lv="49" Cost="0"/>
-	</XF>
-	<XF ID="812001" n_Name="Chân Võ Tiên Hộ Thể" OpenLv="50" LvGrow="15" AttrType="6" IconRes="8012">
-		<Levels Lv="0" Cost="50"/>
-		<Levels Lv="1" Cost="73"/>
-		<Levels Lv="2" Cost="94"/>
-		<Levels Lv="3" Cost="116"/>
-		<Levels Lv="4" Cost="139"/>
-		<Levels Lv="5" Cost="163"/>
-		<Levels Lv="6" Cost="187"/>
-		<Levels Lv="7" Cost="213"/>
-		<Levels Lv="8" Cost="239"/>
-		<Levels Lv="9" Cost="266"/>
-		<Levels Lv="10" Cost="295"/>
-		<Levels Lv="11" Cost="326"/>
-		<Levels Lv="12" Cost="359"/>
-		<Levels Lv="13" Cost="393"/>
-		<Levels Lv="14" Cost="429"/>
-		<Levels Lv="15" Cost="469"/>
-		<Levels Lv="16" Cost="512"/>
-		<Levels Lv="17" Cost="558"/>
-		<Levels Lv="18" Cost="609"/>
-		<Levels Lv="19" Cost="664"/>
-		<Levels Lv="20" Cost="726"/>
-		<Levels Lv="21" Cost="793"/>
-		<Levels Lv="22" Cost="867"/>
-		<Levels Lv="23" Cost="951"/>
-		<Levels Lv="24" Cost="1044"/>
-		<Levels Lv="25" Cost="1148"/>
-		<Levels Lv="26" Cost="1266"/>
-		<Levels Lv="27" Cost="1397"/>
-		<Levels Lv="28" Cost="1546"/>
-		<Levels Lv="29" Cost="1715"/>
-		<Levels Lv="30" Cost="1906"/>
-		<Levels Lv="31" Cost="2123"/>
-		<Levels Lv="32" Cost="2370"/>
-		<Levels Lv="33" Cost="2650"/>
-		<Levels Lv="34" Cost="2972"/>
-		<Levels Lv="35" Cost="3337"/>
-		<Levels Lv="36" Cost="3755"/>
-		<Levels Lv="37" Cost="4233"/>
-		<Levels Lv="38" Cost="4779"/>
-		<Levels Lv="39" Cost="5406"/>
-		<Levels Lv="40" Cost="6123"/>
-		<Levels Lv="41" Cost="6944"/>
-		<Levels Lv="42" Cost="7887"/>
-		<Levels Lv="43" Cost="8968"/>
-		<Levels Lv="44" Cost="10208"/>
-		<Levels Lv="45" Cost="11633"/>
-		<Levels Lv="46" Cost="13267"/>
-		<Levels Lv="47" Cost="15145"/>
-		<Levels Lv="48" Cost="17301"/>
-		<Levels Lv="49" Cost="0"/>
-	</XF>
-	<XF ID="813001" n_Name="Chân Ma Tông Hộ Thể" OpenLv="50" LvGrow="15" AttrType="8" IconRes="8013">
-		<Levels Lv="0" Cost="50"/>
-		<Levels Lv="1" Cost="73"/>
-		<Levels Lv="2" Cost="94"/>
-		<Levels Lv="3" Cost="116"/>
-		<Levels Lv="4" Cost="139"/>
-		<Levels Lv="5" Cost="163"/>
-		<Levels Lv="6" Cost="187"/>
-		<Levels Lv="7" Cost="213"/>
-		<Levels Lv="8" Cost="239"/>
-		<Levels Lv="9" Cost="266"/>
-		<Levels Lv="10" Cost="295"/>
-		<Levels Lv="11" Cost="326"/>
-		<Levels Lv="12" Cost="359"/>
-		<Levels Lv="13" Cost="393"/>
-		<Levels Lv="14" Cost="429"/>
-		<Levels Lv="15" Cost="469"/>
-		<Levels Lv="16" Cost="512"/>
-		<Levels Lv="17" Cost="558"/>
-		<Levels Lv="18" Cost="609"/>
-		<Levels Lv="19" Cost="664"/>
-		<Levels Lv="20" Cost="726"/>
-		<Levels Lv="21" Cost="793"/>
-		<Levels Lv="22" Cost="867"/>
-		<Levels Lv="23" Cost="951"/>
-		<Levels Lv="24" Cost="1044"/>
-		<Levels Lv="25" Cost="1148"/>
-		<Levels Lv="26" Cost="1266"/>
-		<Levels Lv="27" Cost="1397"/>
-		<Levels Lv="28" Cost="1546"/>
-		<Levels Lv="29" Cost="1715"/>
-		<Levels Lv="30" Cost="1906"/>
-		<Levels Lv="31" Cost="2123"/>
-		<Levels Lv="32" Cost="2370"/>
-		<Levels Lv="33" Cost="2650"/>
-		<Levels Lv="34" Cost="2972"/>
-		<Levels Lv="35" Cost="3337"/>
-		<Levels Lv="36" Cost="3755"/>
-		<Levels Lv="37" Cost="4233"/>
-		<Levels Lv="38" Cost="4779"/>
-		<Levels Lv="39" Cost="5406"/>
-		<Levels Lv="40" Cost="6123"/>
-		<Levels Lv="41" Cost="6944"/>
-		<Levels Lv="42" Cost="7887"/>
-		<Levels Lv="43" Cost="8968"/>
-		<Levels Lv="44" Cost="10208"/>
-		<Levels Lv="45" Cost="11633"/>
-		<Levels Lv="46" Cost="13267"/>
-		<Levels Lv="47" Cost="15145"/>
-		<Levels Lv="48" Cost="17301"/>
-		<Levels Lv="49" Cost="0"/>
-	</XF>
-	<XF ID="814001" n_Name="Chân Tuyệt Tôn Hộ Thể" OpenLv="50" LvGrow="15" AttrType="10" IconRes="8014">
-		<Levels Lv="0" Cost="50"/>
-		<Levels Lv="1" Cost="73"/>
-		<Levels Lv="2" Cost="94"/>
-		<Levels Lv="3" Cost="116"/>
-		<Levels Lv="4" Cost="139"/>
-		<Levels Lv="5" Cost="163"/>
-		<Levels Lv="6" Cost="187"/>
-		<Levels Lv="7" Cost="213"/>
-		<Levels Lv="8" Cost="239"/>
-		<Levels Lv="9" Cost="266"/>
-		<Levels Lv="10" Cost="295"/>
-		<Levels Lv="11" Cost="326"/>
-		<Levels Lv="12" Cost="359"/>
-		<Levels Lv="13" Cost="393"/>
-		<Levels Lv="14" Cost="429"/>
-		<Levels Lv="15" Cost="469"/>
-		<Levels Lv="16" Cost="512"/>
-		<Levels Lv="17" Cost="558"/>
-		<Levels Lv="18" Cost="609"/>
-		<Levels Lv="19" Cost="664"/>
-		<Levels Lv="20" Cost="726"/>
-		<Levels Lv="21" Cost="793"/>
-		<Levels Lv="22" Cost="867"/>
-		<Levels Lv="23" Cost="951"/>
-		<Levels Lv="24" Cost="1044"/>
-		<Levels Lv="25" Cost="1148"/>
-		<Levels Lv="26" Cost="1266"/>
-		<Levels Lv="27" Cost="1397"/>
-		<Levels Lv="28" Cost="1546"/>
-		<Levels Lv="29" Cost="1715"/>
-		<Levels Lv="30" Cost="1906"/>
-		<Levels Lv="31" Cost="2123"/>
-		<Levels Lv="32" Cost="2370"/>
-		<Levels Lv="33" Cost="2650"/>
-		<Levels Lv="34" Cost="2972"/>
-		<Levels Lv="35" Cost="3337"/>
-		<Levels Lv="36" Cost="3755"/>
-		<Levels Lv="37" Cost="4233"/>
-		<Levels Lv="38" Cost="4779"/>
-		<Levels Lv="39" Cost="5406"/>
-		<Levels Lv="40" Cost="6123"/>
-		<Levels Lv="41" Cost="6944"/>
-		<Levels Lv="42" Cost="7887"/>
-		<Levels Lv="43" Cost="8968"/>
-		<Levels Lv="44" Cost="10208"/>
-		<Levels Lv="45" Cost="11633"/>
-		<Levels Lv="46" Cost="13267"/>
-		<Levels Lv="47" Cost="15145"/>
-		<Levels Lv="48" Cost="17301"/>
-		<Levels Lv="49" Cost="0"/>
-	</XF>
-	<XF ID="815001" n_Name="Mắt Đại Bàng" OpenLv="60" LvGrow="18" AttrType="11" IconRes="8015">
-		<Levels Lv="0" Cost="1000"/>
-		<Levels Lv="1" Cost="1126"/>
-		<Levels Lv="2" Cost="1282"/>
-		<Levels Lv="3" Cost="1476"/>
-		<Levels Lv="4" Cost="1717"/>
-		<Levels Lv="5" Cost="2016"/>
-		<Levels Lv="6" Cost="2386"/>
-		<Levels Lv="7" Cost="2845"/>
-		<Levels Lv="8" Cost="3415"/>
-		<Levels Lv="9" Cost="4121"/>
-		<Levels Lv="10" Cost="4997"/>
-		<Levels Lv="11" Cost="6084"/>
-		<Levels Lv="12" Cost="7431"/>
-		<Levels Lv="13" Cost="9102"/>
-		<Levels Lv="14" Cost="11174"/>
-		<Levels Lv="15" Cost="13743"/>
-		<Levels Lv="16" Cost="16929"/>
-		<Levels Lv="17" Cost="20880"/>
-		<Levels Lv="18" Cost="25779"/>
-		<Levels Lv="19" Cost="0"/>
-	</XF>
-	<XF ID="816001" n_Name="Cự Hùng Chưởng Pháp" OpenLv="60" LvGrow="18" AttrType="16" IconRes="8016">
-		<Levels Lv="0" Cost="1000"/>
-		<Levels Lv="1" Cost="1126"/>
-		<Levels Lv="2" Cost="1282"/>
-		<Levels Lv="3" Cost="1476"/>
-		<Levels Lv="4" Cost="1717"/>
-		<Levels Lv="5" Cost="2016"/>
-		<Levels Lv="6" Cost="2386"/>
-		<Levels Lv="7" Cost="2845"/>
-		<Levels Lv="8" Cost="3415"/>
-		<Levels Lv="9" Cost="4121"/>
-		<Levels Lv="10" Cost="4997"/>
-		<Levels Lv="11" Cost="6084"/>
-		<Levels Lv="12" Cost="7431"/>
-		<Levels Lv="13" Cost="9102"/>
-		<Levels Lv="14" Cost="11174"/>
-		<Levels Lv="15" Cost="13743"/>
-		<Levels Lv="16" Cost="16929"/>
-		<Levels Lv="17" Cost="20880"/>
-		<Levels Lv="18" Cost="25779"/>
-		<Levels Lv="19" Cost="0"/>
-	</XF>
-	<XF ID="817001" n_Name="Thanh Long Chân Kinh" OpenLv="70" LvGrow="21" AttrType="13" IconRes="8017">
-		<Levels Lv="0" Cost="1000"/>
-		<Levels Lv="1" Cost="1126"/>
-		<Levels Lv="2" Cost="1282"/>
-		<Levels Lv="3" Cost="1476"/>
-		<Levels Lv="4" Cost="1717"/>
-		<Levels Lv="5" Cost="2016"/>
-		<Levels Lv="6" Cost="2386"/>
-		<Levels Lv="7" Cost="2845"/>
-		<Levels Lv="8" Cost="3415"/>
-		<Levels Lv="9" Cost="4121"/>
-		<Levels Lv="10" Cost="4997"/>
-		<Levels Lv="11" Cost="6084"/>
-		<Levels Lv="12" Cost="7431"/>
-		<Levels Lv="13" Cost="9102"/>
-		<Levels Lv="14" Cost="11174"/>
-		<Levels Lv="15" Cost="13743"/>
-		<Levels Lv="16" Cost="16929"/>
-		<Levels Lv="17" Cost="20880"/>
-		<Levels Lv="18" Cost="25779"/>
-		<Levels Lv="19" Cost="0"/>
-	</XF>
-	<XF ID="818001" n_Name="Chu Tước Chân Kinh" OpenLv="70" LvGrow="21" AttrType="14" IconRes="8018">
-		<Levels Lv="0" Cost="1000"/>
-		<Levels Lv="1" Cost="1126"/>
-		<Levels Lv="2" Cost="1282"/>
-		<Levels Lv="3" Cost="1476"/>
-		<Levels Lv="4" Cost="1717"/>
-		<Levels Lv="5" Cost="2016"/>
-		<Levels Lv="6" Cost="2386"/>
-		<Levels Lv="7" Cost="2845"/>
-		<Levels Lv="8" Cost="3415"/>
-		<Levels Lv="9" Cost="4121"/>
-		<Levels Lv="10" Cost="4997"/>
-		<Levels Lv="11" Cost="6084"/>
-		<Levels Lv="12" Cost="7431"/>
-		<Levels Lv="13" Cost="9102"/>
-		<Levels Lv="14" Cost="11174"/>
-		<Levels Lv="15" Cost="13743"/>
-		<Levels Lv="16" Cost="16929"/>
-		<Levels Lv="17" Cost="20880"/>
-		<Levels Lv="18" Cost="25779"/>
-		<Levels Lv="19" Cost="0"/>
-	</XF>
-	<XF ID="819001" n_Name="Bạch Hổ Chân Kinh" OpenLv="80" LvGrow="24" AttrType="12" IconRes="8019">
-		<Levels Lv="0" Cost="1000"/>
-		<Levels Lv="1" Cost="1126"/>
-		<Levels Lv="2" Cost="1282"/>
-		<Levels Lv="3" Cost="1476"/>
-		<Levels Lv="4" Cost="1717"/>
-		<Levels Lv="5" Cost="2016"/>
-		<Levels Lv="6" Cost="2386"/>
-		<Levels Lv="7" Cost="2845"/>
-		<Levels Lv="8" Cost="3415"/>
-		<Levels Lv="9" Cost="4121"/>
-		<Levels Lv="10" Cost="4997"/>
-		<Levels Lv="11" Cost="6084"/>
-		<Levels Lv="12" Cost="7431"/>
-		<Levels Lv="13" Cost="9102"/>
-		<Levels Lv="14" Cost="11174"/>
-		<Levels Lv="15" Cost="13743"/>
-		<Levels Lv="16" Cost="16929"/>
-		<Levels Lv="17" Cost="20880"/>
-		<Levels Lv="18" Cost="25779"/>
-		<Levels Lv="19" Cost="0"/>
-	</XF>
-	<XF ID="820001" n_Name="Huyền Võ Chân Kinh" OpenLv="80" LvGrow="24" AttrType="15" IconRes="8020">
-		<Levels Lv="0" Cost="1000"/>
-		<Levels Lv="1" Cost="1126"/>
-		<Levels Lv="2" Cost="1282"/>
-		<Levels Lv="3" Cost="1476"/>
-		<Levels Lv="4" Cost="1717"/>
-		<Levels Lv="5" Cost="2016"/>
-		<Levels Lv="6" Cost="2386"/>
-		<Levels Lv="7" Cost="2845"/>
-		<Levels Lv="8" Cost="3415"/>
-		<Levels Lv="9" Cost="4121"/>
-		<Levels Lv="10" Cost="4997"/>
-		<Levels Lv="11" Cost="6084"/>
-		<Levels Lv="12" Cost="7431"/>
-		<Levels Lv="13" Cost="9102"/>
-		<Levels Lv="14" Cost="11174"/>
-		<Levels Lv="15" Cost="13743"/>
-		<Levels Lv="16" Cost="16929"/>
-		<Levels Lv="17" Cost="20880"/>
-		<Levels Lv="18" Cost="25779"/>
-		<Levels Lv="19" Cost="0"/>
-	</XF>
+  <XF ID="801001" n_Name="Võ Thánh Thần Công" OpenLv="10" LvGrow="3" AttrType="5" IconRes="8001">
+    <Levels Lv="0" Cost="20" />
+    <Levels Lv="1" Cost="28" />
+    <Levels Lv="2" Cost="36" />
+    <Levels Lv="3" Cost="48" />
+    <Levels Lv="4" Cost="58" />
+    <Levels Lv="5" Cost="70" />
+    <Levels Lv="6" Cost="80" />
+    <Levels Lv="7" Cost="92" />
+    <Levels Lv="8" Cost="100" />
+    <Levels Lv="9" Cost="112" />
+    <Levels Lv="10" Cost="124" />
+    <Levels Lv="11" Cost="136" />
+    <Levels Lv="12" Cost="148" />
+    <Levels Lv="13" Cost="160" />
+    <Levels Lv="14" Cost="172" />
+    <Levels Lv="15" Cost="182" />
+    <Levels Lv="16" Cost="194" />
+    <Levels Lv="17" Cost="208" />
+    <Levels Lv="18" Cost="220" />
+    <Levels Lv="19" Cost="234" />
+    <Levels Lv="20" Cost="248" />
+    <Levels Lv="21" Cost="260" />
+    <Levels Lv="22" Cost="274" />
+    <Levels Lv="23" Cost="290" />
+    <Levels Lv="24" Cost="304" />
+    <Levels Lv="25" Cost="320" />
+    <Levels Lv="26" Cost="336" />
+    <Levels Lv="27" Cost="352" />
+    <Levels Lv="28" Cost="368" />
+    <Levels Lv="29" Cost="386" />
+    <Levels Lv="30" Cost="406" />
+    <Levels Lv="31" Cost="424" />
+    <Levels Lv="32" Cost="446" />
+    <Levels Lv="33" Cost="466" />
+    <Levels Lv="34" Cost="488" />
+    <Levels Lv="35" Cost="510" />
+    <Levels Lv="36" Cost="536" />
+    <Levels Lv="37" Cost="562" />
+    <Levels Lv="38" Cost="588" />
+    <Levels Lv="39" Cost="618" />
+    <Levels Lv="40" Cost="648" />
+    <Levels Lv="41" Cost="678" />
+    <Levels Lv="42" Cost="714" />
+    <Levels Lv="43" Cost="750" />
+    <Levels Lv="44" Cost="790" />
+    <Levels Lv="45" Cost="832" />
+    <Levels Lv="46" Cost="876" />
+    <Levels Lv="47" Cost="924" />
+    <Levels Lv="48" Cost="974" />
+    <Levels Lv="49" Cost="1028" />
+    <Levels Lv="50" Cost="1088" />
+    <Levels Lv="51" Cost="1152" />
+    <Levels Lv="52" Cost="1220" />
+    <Levels Lv="53" Cost="1294" />
+    <Levels Lv="54" Cost="1370" />
+    <Levels Lv="55" Cost="1456" />
+    <Levels Lv="56" Cost="1548" />
+    <Levels Lv="57" Cost="1648" />
+    <Levels Lv="58" Cost="1756" />
+    <Levels Lv="59" Cost="1872" />
+    <Levels Lv="60" Cost="2000" />
+    <Levels Lv="61" Cost="2134" />
+    <Levels Lv="62" Cost="2282" />
+    <Levels Lv="63" Cost="2442" />
+    <Levels Lv="64" Cost="2616" />
+    <Levels Lv="65" Cost="2806" />
+    <Levels Lv="66" Cost="3010" />
+    <Levels Lv="67" Cost="3234" />
+    <Levels Lv="68" Cost="3474" />
+    <Levels Lv="69" Cost="3736" />
+    <Levels Lv="70" Cost="4020" />
+    <Levels Lv="71" Cost="4330" />
+    <Levels Lv="72" Cost="4668" />
+    <Levels Lv="73" Cost="5034" />
+    <Levels Lv="74" Cost="5430" />
+    <Levels Lv="75" Cost="5864" />
+    <Levels Lv="76" Cost="6336" />
+    <Levels Lv="77" Cost="6850" />
+    <Levels Lv="78" Cost="7408" />
+    <Levels Lv="79" Cost="8016" />
+    <Levels Lv="80" Cost="8678" />
+    <Levels Lv="81" Cost="9396" />
+    <Levels Lv="82" Cost="10180" />
+    <Levels Lv="83" Cost="11034" />
+    <Levels Lv="84" Cost="11964" />
+    <Levels Lv="85" Cost="12976" />
+    <Levels Lv="86" Cost="14080" />
+    <Levels Lv="87" Cost="15280" />
+    <Levels Lv="88" Cost="16588" />
+    <Levels Lv="89" Cost="18012" />
+    <Levels Lv="90" Cost="19566" />
+    <Levels Lv="91" Cost="21256" />
+    <Levels Lv="92" Cost="23100" />
+    <Levels Lv="93" Cost="25108" />
+    <Levels Lv="94" Cost="27294" />
+    <Levels Lv="95" Cost="29676" />
+    <Levels Lv="96" Cost="32274" />
+    <Levels Lv="97" Cost="35104" />
+    <Levels Lv="98" Cost="38188" />
+    <Levels Lv="99" Cost="0" />
+  </XF>
+  <XF ID="802001" n_Name="Ma Tông Thần Công" OpenLv="10" LvGrow="3" AttrType="7" IconRes="8002">
+    <Levels Lv="0" Cost="20" />
+    <Levels Lv="1" Cost="28" />
+    <Levels Lv="2" Cost="36" />
+    <Levels Lv="3" Cost="48" />
+    <Levels Lv="4" Cost="58" />
+    <Levels Lv="5" Cost="70" />
+    <Levels Lv="6" Cost="80" />
+    <Levels Lv="7" Cost="92" />
+    <Levels Lv="8" Cost="100" />
+    <Levels Lv="9" Cost="112" />
+    <Levels Lv="10" Cost="124" />
+    <Levels Lv="11" Cost="136" />
+    <Levels Lv="12" Cost="148" />
+    <Levels Lv="13" Cost="160" />
+    <Levels Lv="14" Cost="172" />
+    <Levels Lv="15" Cost="182" />
+    <Levels Lv="16" Cost="194" />
+    <Levels Lv="17" Cost="208" />
+    <Levels Lv="18" Cost="220" />
+    <Levels Lv="19" Cost="234" />
+    <Levels Lv="20" Cost="248" />
+    <Levels Lv="21" Cost="260" />
+    <Levels Lv="22" Cost="274" />
+    <Levels Lv="23" Cost="290" />
+    <Levels Lv="24" Cost="304" />
+    <Levels Lv="25" Cost="320" />
+    <Levels Lv="26" Cost="336" />
+    <Levels Lv="27" Cost="352" />
+    <Levels Lv="28" Cost="368" />
+    <Levels Lv="29" Cost="386" />
+    <Levels Lv="30" Cost="406" />
+    <Levels Lv="31" Cost="424" />
+    <Levels Lv="32" Cost="446" />
+    <Levels Lv="33" Cost="466" />
+    <Levels Lv="34" Cost="488" />
+    <Levels Lv="35" Cost="510" />
+    <Levels Lv="36" Cost="536" />
+    <Levels Lv="37" Cost="562" />
+    <Levels Lv="38" Cost="588" />
+    <Levels Lv="39" Cost="618" />
+    <Levels Lv="40" Cost="648" />
+    <Levels Lv="41" Cost="678" />
+    <Levels Lv="42" Cost="714" />
+    <Levels Lv="43" Cost="750" />
+    <Levels Lv="44" Cost="790" />
+    <Levels Lv="45" Cost="832" />
+    <Levels Lv="46" Cost="876" />
+    <Levels Lv="47" Cost="924" />
+    <Levels Lv="48" Cost="974" />
+    <Levels Lv="49" Cost="1028" />
+    <Levels Lv="50" Cost="1088" />
+    <Levels Lv="51" Cost="1152" />
+    <Levels Lv="52" Cost="1220" />
+    <Levels Lv="53" Cost="1294" />
+    <Levels Lv="54" Cost="1370" />
+    <Levels Lv="55" Cost="1456" />
+    <Levels Lv="56" Cost="1548" />
+    <Levels Lv="57" Cost="1648" />
+    <Levels Lv="58" Cost="1756" />
+    <Levels Lv="59" Cost="1872" />
+    <Levels Lv="60" Cost="2000" />
+    <Levels Lv="61" Cost="2134" />
+    <Levels Lv="62" Cost="2282" />
+    <Levels Lv="63" Cost="2442" />
+    <Levels Lv="64" Cost="2616" />
+    <Levels Lv="65" Cost="2806" />
+    <Levels Lv="66" Cost="3010" />
+    <Levels Lv="67" Cost="3234" />
+    <Levels Lv="68" Cost="3474" />
+    <Levels Lv="69" Cost="3736" />
+    <Levels Lv="70" Cost="4020" />
+    <Levels Lv="71" Cost="4330" />
+    <Levels Lv="72" Cost="4668" />
+    <Levels Lv="73" Cost="5034" />
+    <Levels Lv="74" Cost="5430" />
+    <Levels Lv="75" Cost="5864" />
+    <Levels Lv="76" Cost="6336" />
+    <Levels Lv="77" Cost="6850" />
+    <Levels Lv="78" Cost="7408" />
+    <Levels Lv="79" Cost="8016" />
+    <Levels Lv="80" Cost="8678" />
+    <Levels Lv="81" Cost="9396" />
+    <Levels Lv="82" Cost="10180" />
+    <Levels Lv="83" Cost="11034" />
+    <Levels Lv="84" Cost="11964" />
+    <Levels Lv="85" Cost="12976" />
+    <Levels Lv="86" Cost="14080" />
+    <Levels Lv="87" Cost="15280" />
+    <Levels Lv="88" Cost="16588" />
+    <Levels Lv="89" Cost="18012" />
+    <Levels Lv="90" Cost="19566" />
+    <Levels Lv="91" Cost="21256" />
+    <Levels Lv="92" Cost="23100" />
+    <Levels Lv="93" Cost="25108" />
+    <Levels Lv="94" Cost="27294" />
+    <Levels Lv="95" Cost="29676" />
+    <Levels Lv="96" Cost="32274" />
+    <Levels Lv="97" Cost="35104" />
+    <Levels Lv="98" Cost="38188" />
+    <Levels Lv="99" Cost="0" />
+  </XF>
+  <XF ID="803001" n_Name="Tuyệt Tôn Thần Công" OpenLv="10" LvGrow="3" AttrType="9" IconRes="8003">
+    <Levels Lv="0" Cost="20" />
+    <Levels Lv="1" Cost="28" />
+    <Levels Lv="2" Cost="36" />
+    <Levels Lv="3" Cost="48" />
+    <Levels Lv="4" Cost="58" />
+    <Levels Lv="5" Cost="70" />
+    <Levels Lv="6" Cost="80" />
+    <Levels Lv="7" Cost="92" />
+    <Levels Lv="8" Cost="100" />
+    <Levels Lv="9" Cost="112" />
+    <Levels Lv="10" Cost="124" />
+    <Levels Lv="11" Cost="136" />
+    <Levels Lv="12" Cost="148" />
+    <Levels Lv="13" Cost="160" />
+    <Levels Lv="14" Cost="172" />
+    <Levels Lv="15" Cost="182" />
+    <Levels Lv="16" Cost="194" />
+    <Levels Lv="17" Cost="208" />
+    <Levels Lv="18" Cost="220" />
+    <Levels Lv="19" Cost="234" />
+    <Levels Lv="20" Cost="248" />
+    <Levels Lv="21" Cost="260" />
+    <Levels Lv="22" Cost="274" />
+    <Levels Lv="23" Cost="290" />
+    <Levels Lv="24" Cost="304" />
+    <Levels Lv="25" Cost="320" />
+    <Levels Lv="26" Cost="336" />
+    <Levels Lv="27" Cost="352" />
+    <Levels Lv="28" Cost="368" />
+    <Levels Lv="29" Cost="386" />
+    <Levels Lv="30" Cost="406" />
+    <Levels Lv="31" Cost="424" />
+    <Levels Lv="32" Cost="446" />
+    <Levels Lv="33" Cost="466" />
+    <Levels Lv="34" Cost="488" />
+    <Levels Lv="35" Cost="510" />
+    <Levels Lv="36" Cost="536" />
+    <Levels Lv="37" Cost="562" />
+    <Levels Lv="38" Cost="588" />
+    <Levels Lv="39" Cost="618" />
+    <Levels Lv="40" Cost="648" />
+    <Levels Lv="41" Cost="678" />
+    <Levels Lv="42" Cost="714" />
+    <Levels Lv="43" Cost="750" />
+    <Levels Lv="44" Cost="790" />
+    <Levels Lv="45" Cost="832" />
+    <Levels Lv="46" Cost="876" />
+    <Levels Lv="47" Cost="924" />
+    <Levels Lv="48" Cost="974" />
+    <Levels Lv="49" Cost="1028" />
+    <Levels Lv="50" Cost="1088" />
+    <Levels Lv="51" Cost="1152" />
+    <Levels Lv="52" Cost="1220" />
+    <Levels Lv="53" Cost="1294" />
+    <Levels Lv="54" Cost="1370" />
+    <Levels Lv="55" Cost="1456" />
+    <Levels Lv="56" Cost="1548" />
+    <Levels Lv="57" Cost="1648" />
+    <Levels Lv="58" Cost="1756" />
+    <Levels Lv="59" Cost="1872" />
+    <Levels Lv="60" Cost="2000" />
+    <Levels Lv="61" Cost="2134" />
+    <Levels Lv="62" Cost="2282" />
+    <Levels Lv="63" Cost="2442" />
+    <Levels Lv="64" Cost="2616" />
+    <Levels Lv="65" Cost="2806" />
+    <Levels Lv="66" Cost="3010" />
+    <Levels Lv="67" Cost="3234" />
+    <Levels Lv="68" Cost="3474" />
+    <Levels Lv="69" Cost="3736" />
+    <Levels Lv="70" Cost="4020" />
+    <Levels Lv="71" Cost="4330" />
+    <Levels Lv="72" Cost="4668" />
+    <Levels Lv="73" Cost="5034" />
+    <Levels Lv="74" Cost="5430" />
+    <Levels Lv="75" Cost="5864" />
+    <Levels Lv="76" Cost="6336" />
+    <Levels Lv="77" Cost="6850" />
+    <Levels Lv="78" Cost="7408" />
+    <Levels Lv="79" Cost="8016" />
+    <Levels Lv="80" Cost="8678" />
+    <Levels Lv="81" Cost="9396" />
+    <Levels Lv="82" Cost="10180" />
+    <Levels Lv="83" Cost="11034" />
+    <Levels Lv="84" Cost="11964" />
+    <Levels Lv="85" Cost="12976" />
+    <Levels Lv="86" Cost="14080" />
+    <Levels Lv="87" Cost="15280" />
+    <Levels Lv="88" Cost="16588" />
+    <Levels Lv="89" Cost="18012" />
+    <Levels Lv="90" Cost="19566" />
+    <Levels Lv="91" Cost="21256" />
+    <Levels Lv="92" Cost="23100" />
+    <Levels Lv="93" Cost="25108" />
+    <Levels Lv="94" Cost="27294" />
+    <Levels Lv="95" Cost="29676" />
+    <Levels Lv="96" Cost="32274" />
+    <Levels Lv="97" Cost="35104" />
+    <Levels Lv="98" Cost="38188" />
+    <Levels Lv="99" Cost="0" />
+  </XF>
+  <XF ID="804001" n_Name="Liệt Dương Tâm Kinh" OpenLv="10" LvGrow="3" AttrType="3" IconRes="8004">
+    <Levels Lv="0" Cost="20" />
+    <Levels Lv="1" Cost="28" />
+    <Levels Lv="2" Cost="36" />
+    <Levels Lv="3" Cost="48" />
+    <Levels Lv="4" Cost="58" />
+    <Levels Lv="5" Cost="70" />
+    <Levels Lv="6" Cost="80" />
+    <Levels Lv="7" Cost="92" />
+    <Levels Lv="8" Cost="100" />
+    <Levels Lv="9" Cost="112" />
+    <Levels Lv="10" Cost="124" />
+    <Levels Lv="11" Cost="136" />
+    <Levels Lv="12" Cost="148" />
+    <Levels Lv="13" Cost="160" />
+    <Levels Lv="14" Cost="172" />
+    <Levels Lv="15" Cost="182" />
+    <Levels Lv="16" Cost="194" />
+    <Levels Lv="17" Cost="208" />
+    <Levels Lv="18" Cost="220" />
+    <Levels Lv="19" Cost="234" />
+    <Levels Lv="20" Cost="248" />
+    <Levels Lv="21" Cost="260" />
+    <Levels Lv="22" Cost="274" />
+    <Levels Lv="23" Cost="290" />
+    <Levels Lv="24" Cost="304" />
+    <Levels Lv="25" Cost="320" />
+    <Levels Lv="26" Cost="336" />
+    <Levels Lv="27" Cost="352" />
+    <Levels Lv="28" Cost="368" />
+    <Levels Lv="29" Cost="386" />
+    <Levels Lv="30" Cost="406" />
+    <Levels Lv="31" Cost="424" />
+    <Levels Lv="32" Cost="446" />
+    <Levels Lv="33" Cost="466" />
+    <Levels Lv="34" Cost="488" />
+    <Levels Lv="35" Cost="510" />
+    <Levels Lv="36" Cost="536" />
+    <Levels Lv="37" Cost="562" />
+    <Levels Lv="38" Cost="588" />
+    <Levels Lv="39" Cost="618" />
+    <Levels Lv="40" Cost="648" />
+    <Levels Lv="41" Cost="678" />
+    <Levels Lv="42" Cost="714" />
+    <Levels Lv="43" Cost="750" />
+    <Levels Lv="44" Cost="790" />
+    <Levels Lv="45" Cost="832" />
+    <Levels Lv="46" Cost="876" />
+    <Levels Lv="47" Cost="924" />
+    <Levels Lv="48" Cost="974" />
+    <Levels Lv="49" Cost="1028" />
+    <Levels Lv="50" Cost="1088" />
+    <Levels Lv="51" Cost="1152" />
+    <Levels Lv="52" Cost="1220" />
+    <Levels Lv="53" Cost="1294" />
+    <Levels Lv="54" Cost="1370" />
+    <Levels Lv="55" Cost="1456" />
+    <Levels Lv="56" Cost="1548" />
+    <Levels Lv="57" Cost="1648" />
+    <Levels Lv="58" Cost="1756" />
+    <Levels Lv="59" Cost="1872" />
+    <Levels Lv="60" Cost="2000" />
+    <Levels Lv="61" Cost="2134" />
+    <Levels Lv="62" Cost="2282" />
+    <Levels Lv="63" Cost="2442" />
+    <Levels Lv="64" Cost="2616" />
+    <Levels Lv="65" Cost="2806" />
+    <Levels Lv="66" Cost="3010" />
+    <Levels Lv="67" Cost="3234" />
+    <Levels Lv="68" Cost="3474" />
+    <Levels Lv="69" Cost="3736" />
+    <Levels Lv="70" Cost="4020" />
+    <Levels Lv="71" Cost="4330" />
+    <Levels Lv="72" Cost="4668" />
+    <Levels Lv="73" Cost="5034" />
+    <Levels Lv="74" Cost="5430" />
+    <Levels Lv="75" Cost="5864" />
+    <Levels Lv="76" Cost="6336" />
+    <Levels Lv="77" Cost="6850" />
+    <Levels Lv="78" Cost="7408" />
+    <Levels Lv="79" Cost="8016" />
+    <Levels Lv="80" Cost="8678" />
+    <Levels Lv="81" Cost="9396" />
+    <Levels Lv="82" Cost="10180" />
+    <Levels Lv="83" Cost="11034" />
+    <Levels Lv="84" Cost="11964" />
+    <Levels Lv="85" Cost="12976" />
+    <Levels Lv="86" Cost="14080" />
+    <Levels Lv="87" Cost="15280" />
+    <Levels Lv="88" Cost="16588" />
+    <Levels Lv="89" Cost="18012" />
+    <Levels Lv="90" Cost="19566" />
+    <Levels Lv="91" Cost="21256" />
+    <Levels Lv="92" Cost="23100" />
+    <Levels Lv="93" Cost="25108" />
+    <Levels Lv="94" Cost="27294" />
+    <Levels Lv="95" Cost="29676" />
+    <Levels Lv="96" Cost="32274" />
+    <Levels Lv="97" Cost="35104" />
+    <Levels Lv="98" Cost="38188" />
+    <Levels Lv="99" Cost="0" />
+  </XF>
+  <XF ID="805001" n_Name="Võ Tiên Hộ Thể" OpenLv="20" LvGrow="6" AttrType="6" IconRes="8005">
+    <Levels Lv="0" Cost="36" />
+    <Levels Lv="1" Cost="48" />
+    <Levels Lv="2" Cost="64" />
+    <Levels Lv="3" Cost="84" />
+    <Levels Lv="4" Cost="104" />
+    <Levels Lv="5" Cost="124" />
+    <Levels Lv="6" Cost="144" />
+    <Levels Lv="7" Cost="164" />
+    <Levels Lv="8" Cost="180" />
+    <Levels Lv="9" Cost="202" />
+    <Levels Lv="10" Cost="224" />
+    <Levels Lv="11" Cost="244" />
+    <Levels Lv="12" Cost="264" />
+    <Levels Lv="13" Cost="286" />
+    <Levels Lv="14" Cost="310" />
+    <Levels Lv="15" Cost="326" />
+    <Levels Lv="16" Cost="348" />
+    <Levels Lv="17" Cost="370" />
+    <Levels Lv="18" Cost="396" />
+    <Levels Lv="19" Cost="418" />
+    <Levels Lv="20" Cost="442" />
+    <Levels Lv="21" Cost="464" />
+    <Levels Lv="22" Cost="488" />
+    <Levels Lv="23" Cost="514" />
+    <Levels Lv="24" Cost="540" />
+    <Levels Lv="25" Cost="568" />
+    <Levels Lv="26" Cost="596" />
+    <Levels Lv="27" Cost="624" />
+    <Levels Lv="28" Cost="652" />
+    <Levels Lv="29" Cost="682" />
+    <Levels Lv="30" Cost="712" />
+    <Levels Lv="31" Cost="744" />
+    <Levels Lv="32" Cost="780" />
+    <Levels Lv="33" Cost="816" />
+    <Levels Lv="34" Cost="852" />
+    <Levels Lv="35" Cost="886" />
+    <Levels Lv="36" Cost="928" />
+    <Levels Lv="37" Cost="970" />
+    <Levels Lv="38" Cost="1014" />
+    <Levels Lv="39" Cost="1060" />
+    <Levels Lv="40" Cost="1112" />
+    <Levels Lv="41" Cost="1160" />
+    <Levels Lv="42" Cost="1214" />
+    <Levels Lv="43" Cost="1276" />
+    <Levels Lv="44" Cost="1338" />
+    <Levels Lv="45" Cost="1402" />
+    <Levels Lv="46" Cost="1474" />
+    <Levels Lv="47" Cost="1550" />
+    <Levels Lv="48" Cost="1626" />
+    <Levels Lv="49" Cost="1712" />
+    <Levels Lv="50" Cost="1804" />
+    <Levels Lv="51" Cost="1904" />
+    <Levels Lv="52" Cost="2010" />
+    <Levels Lv="53" Cost="2122" />
+    <Levels Lv="54" Cost="2242" />
+    <Levels Lv="55" Cost="2374" />
+    <Levels Lv="56" Cost="2516" />
+    <Levels Lv="57" Cost="2668" />
+    <Levels Lv="58" Cost="2834" />
+    <Levels Lv="59" Cost="3012" />
+    <Levels Lv="60" Cost="3206" />
+    <Levels Lv="61" Cost="3412" />
+    <Levels Lv="62" Cost="3636" />
+    <Levels Lv="63" Cost="3880" />
+    <Levels Lv="64" Cost="4144" />
+    <Levels Lv="65" Cost="4434" />
+    <Levels Lv="66" Cost="4744" />
+    <Levels Lv="67" Cost="5080" />
+    <Levels Lv="68" Cost="5442" />
+    <Levels Lv="69" Cost="5840" />
+    <Levels Lv="70" Cost="6272" />
+    <Levels Lv="71" Cost="6740" />
+    <Levels Lv="72" Cost="7248" />
+    <Levels Lv="73" Cost="7804" />
+    <Levels Lv="74" Cost="8400" />
+    <Levels Lv="75" Cost="9054" />
+    <Levels Lv="76" Cost="9766" />
+    <Levels Lv="77" Cost="10538" />
+    <Levels Lv="78" Cost="11380" />
+    <Levels Lv="79" Cost="12294" />
+    <Levels Lv="80" Cost="13292" />
+    <Levels Lv="81" Cost="14372" />
+    <Levels Lv="82" Cost="15550" />
+    <Levels Lv="83" Cost="16834" />
+    <Levels Lv="84" Cost="18234" />
+    <Levels Lv="85" Cost="19756" />
+    <Levels Lv="86" Cost="21414" />
+    <Levels Lv="87" Cost="23218" />
+    <Levels Lv="88" Cost="25182" />
+    <Levels Lv="89" Cost="27324" />
+    <Levels Lv="90" Cost="29656" />
+    <Levels Lv="91" Cost="32198" />
+    <Levels Lv="92" Cost="34966" />
+    <Levels Lv="93" Cost="37980" />
+    <Levels Lv="94" Cost="41262" />
+    <Levels Lv="95" Cost="44840" />
+    <Levels Lv="96" Cost="48740" />
+    <Levels Lv="97" Cost="52988" />
+    <Levels Lv="98" Cost="57620" />
+    <Levels Lv="99" Cost="0" />
+  </XF>
+  <XF ID="806001" n_Name="Ma Tông Hộ Thể" OpenLv="20" LvGrow="6" AttrType="8" IconRes="8006">
+    <Levels Lv="0" Cost="36" />
+    <Levels Lv="1" Cost="48" />
+    <Levels Lv="2" Cost="64" />
+    <Levels Lv="3" Cost="84" />
+    <Levels Lv="4" Cost="104" />
+    <Levels Lv="5" Cost="124" />
+    <Levels Lv="6" Cost="144" />
+    <Levels Lv="7" Cost="164" />
+    <Levels Lv="8" Cost="180" />
+    <Levels Lv="9" Cost="202" />
+    <Levels Lv="10" Cost="224" />
+    <Levels Lv="11" Cost="244" />
+    <Levels Lv="12" Cost="264" />
+    <Levels Lv="13" Cost="286" />
+    <Levels Lv="14" Cost="310" />
+    <Levels Lv="15" Cost="326" />
+    <Levels Lv="16" Cost="348" />
+    <Levels Lv="17" Cost="370" />
+    <Levels Lv="18" Cost="396" />
+    <Levels Lv="19" Cost="418" />
+    <Levels Lv="20" Cost="442" />
+    <Levels Lv="21" Cost="464" />
+    <Levels Lv="22" Cost="488" />
+    <Levels Lv="23" Cost="514" />
+    <Levels Lv="24" Cost="540" />
+    <Levels Lv="25" Cost="568" />
+    <Levels Lv="26" Cost="596" />
+    <Levels Lv="27" Cost="624" />
+    <Levels Lv="28" Cost="652" />
+    <Levels Lv="29" Cost="682" />
+    <Levels Lv="30" Cost="712" />
+    <Levels Lv="31" Cost="744" />
+    <Levels Lv="32" Cost="780" />
+    <Levels Lv="33" Cost="816" />
+    <Levels Lv="34" Cost="852" />
+    <Levels Lv="35" Cost="886" />
+    <Levels Lv="36" Cost="928" />
+    <Levels Lv="37" Cost="970" />
+    <Levels Lv="38" Cost="1014" />
+    <Levels Lv="39" Cost="1060" />
+    <Levels Lv="40" Cost="1112" />
+    <Levels Lv="41" Cost="1160" />
+    <Levels Lv="42" Cost="1214" />
+    <Levels Lv="43" Cost="1276" />
+    <Levels Lv="44" Cost="1338" />
+    <Levels Lv="45" Cost="1402" />
+    <Levels Lv="46" Cost="1474" />
+    <Levels Lv="47" Cost="1550" />
+    <Levels Lv="48" Cost="1626" />
+    <Levels Lv="49" Cost="1712" />
+    <Levels Lv="50" Cost="1804" />
+    <Levels Lv="51" Cost="1904" />
+    <Levels Lv="52" Cost="2010" />
+    <Levels Lv="53" Cost="2122" />
+    <Levels Lv="54" Cost="2242" />
+    <Levels Lv="55" Cost="2374" />
+    <Levels Lv="56" Cost="2516" />
+    <Levels Lv="57" Cost="2668" />
+    <Levels Lv="58" Cost="2834" />
+    <Levels Lv="59" Cost="3012" />
+    <Levels Lv="60" Cost="3206" />
+    <Levels Lv="61" Cost="3412" />
+    <Levels Lv="62" Cost="3636" />
+    <Levels Lv="63" Cost="3880" />
+    <Levels Lv="64" Cost="4144" />
+    <Levels Lv="65" Cost="4434" />
+    <Levels Lv="66" Cost="4744" />
+    <Levels Lv="67" Cost="5080" />
+    <Levels Lv="68" Cost="5442" />
+    <Levels Lv="69" Cost="5840" />
+    <Levels Lv="70" Cost="6272" />
+    <Levels Lv="71" Cost="6740" />
+    <Levels Lv="72" Cost="7248" />
+    <Levels Lv="73" Cost="7804" />
+    <Levels Lv="74" Cost="8400" />
+    <Levels Lv="75" Cost="9054" />
+    <Levels Lv="76" Cost="9766" />
+    <Levels Lv="77" Cost="10538" />
+    <Levels Lv="78" Cost="11380" />
+    <Levels Lv="79" Cost="12294" />
+    <Levels Lv="80" Cost="13292" />
+    <Levels Lv="81" Cost="14372" />
+    <Levels Lv="82" Cost="15550" />
+    <Levels Lv="83" Cost="16834" />
+    <Levels Lv="84" Cost="18234" />
+    <Levels Lv="85" Cost="19756" />
+    <Levels Lv="86" Cost="21414" />
+    <Levels Lv="87" Cost="23218" />
+    <Levels Lv="88" Cost="25182" />
+    <Levels Lv="89" Cost="27324" />
+    <Levels Lv="90" Cost="29656" />
+    <Levels Lv="91" Cost="32198" />
+    <Levels Lv="92" Cost="34966" />
+    <Levels Lv="93" Cost="37980" />
+    <Levels Lv="94" Cost="41262" />
+    <Levels Lv="95" Cost="44840" />
+    <Levels Lv="96" Cost="48740" />
+    <Levels Lv="97" Cost="52988" />
+    <Levels Lv="98" Cost="57620" />
+    <Levels Lv="99" Cost="0" />
+  </XF>
+  <XF ID="807001" n_Name="Tuyệt Tôn Hộ Thể" OpenLv="20" LvGrow="6" AttrType="10" IconRes="8007">
+    <Levels Lv="0" Cost="36" />
+    <Levels Lv="1" Cost="48" />
+    <Levels Lv="2" Cost="64" />
+    <Levels Lv="3" Cost="84" />
+    <Levels Lv="4" Cost="104" />
+    <Levels Lv="5" Cost="124" />
+    <Levels Lv="6" Cost="144" />
+    <Levels Lv="7" Cost="164" />
+    <Levels Lv="8" Cost="180" />
+    <Levels Lv="9" Cost="202" />
+    <Levels Lv="10" Cost="224" />
+    <Levels Lv="11" Cost="244" />
+    <Levels Lv="12" Cost="264" />
+    <Levels Lv="13" Cost="286" />
+    <Levels Lv="14" Cost="310" />
+    <Levels Lv="15" Cost="326" />
+    <Levels Lv="16" Cost="348" />
+    <Levels Lv="17" Cost="370" />
+    <Levels Lv="18" Cost="396" />
+    <Levels Lv="19" Cost="418" />
+    <Levels Lv="20" Cost="442" />
+    <Levels Lv="21" Cost="464" />
+    <Levels Lv="22" Cost="488" />
+    <Levels Lv="23" Cost="514" />
+    <Levels Lv="24" Cost="540" />
+    <Levels Lv="25" Cost="568" />
+    <Levels Lv="26" Cost="596" />
+    <Levels Lv="27" Cost="624" />
+    <Levels Lv="28" Cost="652" />
+    <Levels Lv="29" Cost="682" />
+    <Levels Lv="30" Cost="712" />
+    <Levels Lv="31" Cost="744" />
+    <Levels Lv="32" Cost="780" />
+    <Levels Lv="33" Cost="816" />
+    <Levels Lv="34" Cost="852" />
+    <Levels Lv="35" Cost="886" />
+    <Levels Lv="36" Cost="928" />
+    <Levels Lv="37" Cost="970" />
+    <Levels Lv="38" Cost="1014" />
+    <Levels Lv="39" Cost="1060" />
+    <Levels Lv="40" Cost="1112" />
+    <Levels Lv="41" Cost="1160" />
+    <Levels Lv="42" Cost="1214" />
+    <Levels Lv="43" Cost="1276" />
+    <Levels Lv="44" Cost="1338" />
+    <Levels Lv="45" Cost="1402" />
+    <Levels Lv="46" Cost="1474" />
+    <Levels Lv="47" Cost="1550" />
+    <Levels Lv="48" Cost="1626" />
+    <Levels Lv="49" Cost="1712" />
+    <Levels Lv="50" Cost="1804" />
+    <Levels Lv="51" Cost="1904" />
+    <Levels Lv="52" Cost="2010" />
+    <Levels Lv="53" Cost="2122" />
+    <Levels Lv="54" Cost="2242" />
+    <Levels Lv="55" Cost="2374" />
+    <Levels Lv="56" Cost="2516" />
+    <Levels Lv="57" Cost="2668" />
+    <Levels Lv="58" Cost="2834" />
+    <Levels Lv="59" Cost="3012" />
+    <Levels Lv="60" Cost="3206" />
+    <Levels Lv="61" Cost="3412" />
+    <Levels Lv="62" Cost="3636" />
+    <Levels Lv="63" Cost="3880" />
+    <Levels Lv="64" Cost="4144" />
+    <Levels Lv="65" Cost="4434" />
+    <Levels Lv="66" Cost="4744" />
+    <Levels Lv="67" Cost="5080" />
+    <Levels Lv="68" Cost="5442" />
+    <Levels Lv="69" Cost="5840" />
+    <Levels Lv="70" Cost="6272" />
+    <Levels Lv="71" Cost="6740" />
+    <Levels Lv="72" Cost="7248" />
+    <Levels Lv="73" Cost="7804" />
+    <Levels Lv="74" Cost="8400" />
+    <Levels Lv="75" Cost="9054" />
+    <Levels Lv="76" Cost="9766" />
+    <Levels Lv="77" Cost="10538" />
+    <Levels Lv="78" Cost="11380" />
+    <Levels Lv="79" Cost="12294" />
+    <Levels Lv="80" Cost="13292" />
+    <Levels Lv="81" Cost="14372" />
+    <Levels Lv="82" Cost="15550" />
+    <Levels Lv="83" Cost="16834" />
+    <Levels Lv="84" Cost="18234" />
+    <Levels Lv="85" Cost="19756" />
+    <Levels Lv="86" Cost="21414" />
+    <Levels Lv="87" Cost="23218" />
+    <Levels Lv="88" Cost="25182" />
+    <Levels Lv="89" Cost="27324" />
+    <Levels Lv="90" Cost="29656" />
+    <Levels Lv="91" Cost="32198" />
+    <Levels Lv="92" Cost="34966" />
+    <Levels Lv="93" Cost="37980" />
+    <Levels Lv="94" Cost="41262" />
+    <Levels Lv="95" Cost="44840" />
+    <Levels Lv="96" Cost="48740" />
+    <Levels Lv="97" Cost="52988" />
+    <Levels Lv="98" Cost="57620" />
+    <Levels Lv="99" Cost="0" />
+  </XF>
+  <XF ID="808001" n_Name="Tật Phong Bảo Điển" OpenLv="35" LvGrow="2" AttrType="4" IconRes="8008">
+    <Levels Lv="0" Cost="2000" />
+    <Levels Lv="1" Cost="2210" />
+    <Levels Lv="2" Cost="2420" />
+    <Levels Lv="3" Cost="2630" />
+    <Levels Lv="4" Cost="2842" />
+    <Levels Lv="5" Cost="3052" />
+    <Levels Lv="6" Cost="3262" />
+    <Levels Lv="7" Cost="3474" />
+    <Levels Lv="8" Cost="3684" />
+    <Levels Lv="9" Cost="3894" />
+    <Levels Lv="10" Cost="4106" />
+    <Levels Lv="11" Cost="4316" />
+    <Levels Lv="12" Cost="4526" />
+    <Levels Lv="13" Cost="4736" />
+    <Levels Lv="14" Cost="4948" />
+    <Levels Lv="15" Cost="5158" />
+    <Levels Lv="16" Cost="5368" />
+    <Levels Lv="17" Cost="5580" />
+    <Levels Lv="18" Cost="5790" />
+    <Levels Lv="19" Cost="0" />
+  </XF>
+  <XF ID="809001" n_Name="Chân Võ Thánh Thần Công" OpenLv="40" LvGrow="12" AttrType="5" IconRes="8009">
+    <Levels Lv="0" Cost="100" />
+    <Levels Lv="1" Cost="140" />
+    <Levels Lv="2" Cost="182" />
+    <Levels Lv="3" Cost="226" />
+    <Levels Lv="4" Cost="272" />
+    <Levels Lv="5" Cost="318" />
+    <Levels Lv="6" Cost="364" />
+    <Levels Lv="7" Cost="414" />
+    <Levels Lv="8" Cost="466" />
+    <Levels Lv="9" Cost="518" />
+    <Levels Lv="10" Cost="574" />
+    <Levels Lv="11" Cost="632" />
+    <Levels Lv="12" Cost="696" />
+    <Levels Lv="13" Cost="760" />
+    <Levels Lv="14" Cost="830" />
+    <Levels Lv="15" Cost="906" />
+    <Levels Lv="16" Cost="986" />
+    <Levels Lv="17" Cost="1072" />
+    <Levels Lv="18" Cost="1168" />
+    <Levels Lv="19" Cost="1272" />
+    <Levels Lv="20" Cost="1386" />
+    <Levels Lv="21" Cost="1510" />
+    <Levels Lv="22" Cost="1648" />
+    <Levels Lv="23" Cost="1804" />
+    <Levels Lv="24" Cost="1974" />
+    <Levels Lv="25" Cost="2164" />
+    <Levels Lv="26" Cost="2380" />
+    <Levels Lv="27" Cost="2620" />
+    <Levels Lv="28" Cost="2892" />
+    <Levels Lv="29" Cost="3200" />
+    <Levels Lv="30" Cost="3546" />
+    <Levels Lv="31" Cost="3942" />
+    <Levels Lv="32" Cost="4390" />
+    <Levels Lv="33" Cost="4898" />
+    <Levels Lv="34" Cost="5480" />
+    <Levels Lv="35" Cost="6142" />
+    <Levels Lv="36" Cost="6896" />
+    <Levels Lv="37" Cost="7762" />
+    <Levels Lv="38" Cost="8748" />
+    <Levels Lv="39" Cost="9880" />
+    <Levels Lv="40" Cost="11174" />
+    <Levels Lv="41" Cost="12656" />
+    <Levels Lv="42" Cost="14358" />
+    <Levels Lv="43" Cost="16306" />
+    <Levels Lv="44" Cost="18542" />
+    <Levels Lv="45" Cost="21110" />
+    <Levels Lv="46" Cost="24056" />
+    <Levels Lv="47" Cost="27440" />
+    <Levels Lv="48" Cost="31324" />
+    <Levels Lv="49" Cost="0" />
+  </XF>
+  <XF ID="810001" n_Name="Chân Ma Tông Thần Công" OpenLv="40" LvGrow="12" AttrType="7" IconRes="8010">
+    <Levels Lv="0" Cost="100" />
+    <Levels Lv="1" Cost="140" />
+    <Levels Lv="2" Cost="182" />
+    <Levels Lv="3" Cost="226" />
+    <Levels Lv="4" Cost="272" />
+    <Levels Lv="5" Cost="318" />
+    <Levels Lv="6" Cost="364" />
+    <Levels Lv="7" Cost="414" />
+    <Levels Lv="8" Cost="466" />
+    <Levels Lv="9" Cost="518" />
+    <Levels Lv="10" Cost="574" />
+    <Levels Lv="11" Cost="632" />
+    <Levels Lv="12" Cost="696" />
+    <Levels Lv="13" Cost="760" />
+    <Levels Lv="14" Cost="830" />
+    <Levels Lv="15" Cost="906" />
+    <Levels Lv="16" Cost="986" />
+    <Levels Lv="17" Cost="1072" />
+    <Levels Lv="18" Cost="1168" />
+    <Levels Lv="19" Cost="1272" />
+    <Levels Lv="20" Cost="1386" />
+    <Levels Lv="21" Cost="1510" />
+    <Levels Lv="22" Cost="1648" />
+    <Levels Lv="23" Cost="1804" />
+    <Levels Lv="24" Cost="1974" />
+    <Levels Lv="25" Cost="2164" />
+    <Levels Lv="26" Cost="2380" />
+    <Levels Lv="27" Cost="2620" />
+    <Levels Lv="28" Cost="2892" />
+    <Levels Lv="29" Cost="3200" />
+    <Levels Lv="30" Cost="3546" />
+    <Levels Lv="31" Cost="3942" />
+    <Levels Lv="32" Cost="4390" />
+    <Levels Lv="33" Cost="4898" />
+    <Levels Lv="34" Cost="5480" />
+    <Levels Lv="35" Cost="6142" />
+    <Levels Lv="36" Cost="6896" />
+    <Levels Lv="37" Cost="7762" />
+    <Levels Lv="38" Cost="8748" />
+    <Levels Lv="39" Cost="9880" />
+    <Levels Lv="40" Cost="11174" />
+    <Levels Lv="41" Cost="12656" />
+    <Levels Lv="42" Cost="14358" />
+    <Levels Lv="43" Cost="16306" />
+    <Levels Lv="44" Cost="18542" />
+    <Levels Lv="45" Cost="21110" />
+    <Levels Lv="46" Cost="24056" />
+    <Levels Lv="47" Cost="27440" />
+    <Levels Lv="48" Cost="31324" />
+    <Levels Lv="49" Cost="0" />
+  </XF>
+  <XF ID="811001" n_Name="Chân Tuyệt Tôn Thần Công" OpenLv="40" LvGrow="12" AttrType="9" IconRes="8011">
+    <Levels Lv="0" Cost="100" />
+    <Levels Lv="1" Cost="140" />
+    <Levels Lv="2" Cost="182" />
+    <Levels Lv="3" Cost="226" />
+    <Levels Lv="4" Cost="272" />
+    <Levels Lv="5" Cost="318" />
+    <Levels Lv="6" Cost="364" />
+    <Levels Lv="7" Cost="414" />
+    <Levels Lv="8" Cost="466" />
+    <Levels Lv="9" Cost="518" />
+    <Levels Lv="10" Cost="574" />
+    <Levels Lv="11" Cost="632" />
+    <Levels Lv="12" Cost="696" />
+    <Levels Lv="13" Cost="760" />
+    <Levels Lv="14" Cost="830" />
+    <Levels Lv="15" Cost="906" />
+    <Levels Lv="16" Cost="986" />
+    <Levels Lv="17" Cost="1072" />
+    <Levels Lv="18" Cost="1168" />
+    <Levels Lv="19" Cost="1272" />
+    <Levels Lv="20" Cost="1386" />
+    <Levels Lv="21" Cost="1510" />
+    <Levels Lv="22" Cost="1648" />
+    <Levels Lv="23" Cost="1804" />
+    <Levels Lv="24" Cost="1974" />
+    <Levels Lv="25" Cost="2164" />
+    <Levels Lv="26" Cost="2380" />
+    <Levels Lv="27" Cost="2620" />
+    <Levels Lv="28" Cost="2892" />
+    <Levels Lv="29" Cost="3200" />
+    <Levels Lv="30" Cost="3546" />
+    <Levels Lv="31" Cost="3942" />
+    <Levels Lv="32" Cost="4390" />
+    <Levels Lv="33" Cost="4898" />
+    <Levels Lv="34" Cost="5480" />
+    <Levels Lv="35" Cost="6142" />
+    <Levels Lv="36" Cost="6896" />
+    <Levels Lv="37" Cost="7762" />
+    <Levels Lv="38" Cost="8748" />
+    <Levels Lv="39" Cost="9880" />
+    <Levels Lv="40" Cost="11174" />
+    <Levels Lv="41" Cost="12656" />
+    <Levels Lv="42" Cost="14358" />
+    <Levels Lv="43" Cost="16306" />
+    <Levels Lv="44" Cost="18542" />
+    <Levels Lv="45" Cost="21110" />
+    <Levels Lv="46" Cost="24056" />
+    <Levels Lv="47" Cost="27440" />
+    <Levels Lv="48" Cost="31324" />
+    <Levels Lv="49" Cost="0" />
+  </XF>
+  <XF ID="812001" n_Name="Chân Võ Tiên Hộ Thể" OpenLv="50" LvGrow="15" AttrType="6" IconRes="8012">
+    <Levels Lv="0" Cost="100" />
+    <Levels Lv="1" Cost="146" />
+    <Levels Lv="2" Cost="188" />
+    <Levels Lv="3" Cost="232" />
+    <Levels Lv="4" Cost="278" />
+    <Levels Lv="5" Cost="326" />
+    <Levels Lv="6" Cost="374" />
+    <Levels Lv="7" Cost="426" />
+    <Levels Lv="8" Cost="478" />
+    <Levels Lv="9" Cost="532" />
+    <Levels Lv="10" Cost="590" />
+    <Levels Lv="11" Cost="652" />
+    <Levels Lv="12" Cost="718" />
+    <Levels Lv="13" Cost="786" />
+    <Levels Lv="14" Cost="858" />
+    <Levels Lv="15" Cost="938" />
+    <Levels Lv="16" Cost="1024" />
+    <Levels Lv="17" Cost="1116" />
+    <Levels Lv="18" Cost="1218" />
+    <Levels Lv="19" Cost="1328" />
+    <Levels Lv="20" Cost="1452" />
+    <Levels Lv="21" Cost="1586" />
+    <Levels Lv="22" Cost="1734" />
+    <Levels Lv="23" Cost="1902" />
+    <Levels Lv="24" Cost="2088" />
+    <Levels Lv="25" Cost="2296" />
+    <Levels Lv="26" Cost="2532" />
+    <Levels Lv="27" Cost="2794" />
+    <Levels Lv="28" Cost="3092" />
+    <Levels Lv="29" Cost="3430" />
+    <Levels Lv="30" Cost="3812" />
+    <Levels Lv="31" Cost="4246" />
+    <Levels Lv="32" Cost="4740" />
+    <Levels Lv="33" Cost="5300" />
+    <Levels Lv="34" Cost="5944" />
+    <Levels Lv="35" Cost="6674" />
+    <Levels Lv="36" Cost="7510" />
+    <Levels Lv="37" Cost="8466" />
+    <Levels Lv="38" Cost="9558" />
+    <Levels Lv="39" Cost="10812" />
+    <Levels Lv="40" Cost="12246" />
+    <Levels Lv="41" Cost="13888" />
+    <Levels Lv="42" Cost="15774" />
+    <Levels Lv="43" Cost="17936" />
+    <Levels Lv="44" Cost="20416" />
+    <Levels Lv="45" Cost="23266" />
+    <Levels Lv="46" Cost="26534" />
+    <Levels Lv="47" Cost="30290" />
+    <Levels Lv="48" Cost="34602" />
+    <Levels Lv="49" Cost="0" />
+  </XF>
+  <XF ID="813001" n_Name="Chân Ma Tông Hộ Thể" OpenLv="50" LvGrow="15" AttrType="8" IconRes="8013">
+    <Levels Lv="0" Cost="100" />
+    <Levels Lv="1" Cost="146" />
+    <Levels Lv="2" Cost="188" />
+    <Levels Lv="3" Cost="232" />
+    <Levels Lv="4" Cost="278" />
+    <Levels Lv="5" Cost="326" />
+    <Levels Lv="6" Cost="374" />
+    <Levels Lv="7" Cost="426" />
+    <Levels Lv="8" Cost="478" />
+    <Levels Lv="9" Cost="532" />
+    <Levels Lv="10" Cost="590" />
+    <Levels Lv="11" Cost="652" />
+    <Levels Lv="12" Cost="718" />
+    <Levels Lv="13" Cost="786" />
+    <Levels Lv="14" Cost="858" />
+    <Levels Lv="15" Cost="938" />
+    <Levels Lv="16" Cost="1024" />
+    <Levels Lv="17" Cost="1116" />
+    <Levels Lv="18" Cost="1218" />
+    <Levels Lv="19" Cost="1328" />
+    <Levels Lv="20" Cost="1452" />
+    <Levels Lv="21" Cost="1586" />
+    <Levels Lv="22" Cost="1734" />
+    <Levels Lv="23" Cost="1902" />
+    <Levels Lv="24" Cost="2088" />
+    <Levels Lv="25" Cost="2296" />
+    <Levels Lv="26" Cost="2532" />
+    <Levels Lv="27" Cost="2794" />
+    <Levels Lv="28" Cost="3092" />
+    <Levels Lv="29" Cost="3430" />
+    <Levels Lv="30" Cost="3812" />
+    <Levels Lv="31" Cost="4246" />
+    <Levels Lv="32" Cost="4740" />
+    <Levels Lv="33" Cost="5300" />
+    <Levels Lv="34" Cost="5944" />
+    <Levels Lv="35" Cost="6674" />
+    <Levels Lv="36" Cost="7510" />
+    <Levels Lv="37" Cost="8466" />
+    <Levels Lv="38" Cost="9558" />
+    <Levels Lv="39" Cost="10812" />
+    <Levels Lv="40" Cost="12246" />
+    <Levels Lv="41" Cost="13888" />
+    <Levels Lv="42" Cost="15774" />
+    <Levels Lv="43" Cost="17936" />
+    <Levels Lv="44" Cost="20416" />
+    <Levels Lv="45" Cost="23266" />
+    <Levels Lv="46" Cost="26534" />
+    <Levels Lv="47" Cost="30290" />
+    <Levels Lv="48" Cost="34602" />
+    <Levels Lv="49" Cost="0" />
+  </XF>
+  <XF ID="814001" n_Name="Chân Tuyệt Tôn Hộ Thể" OpenLv="50" LvGrow="15" AttrType="10" IconRes="8014">
+    <Levels Lv="0" Cost="100" />
+    <Levels Lv="1" Cost="146" />
+    <Levels Lv="2" Cost="188" />
+    <Levels Lv="3" Cost="232" />
+    <Levels Lv="4" Cost="278" />
+    <Levels Lv="5" Cost="326" />
+    <Levels Lv="6" Cost="374" />
+    <Levels Lv="7" Cost="426" />
+    <Levels Lv="8" Cost="478" />
+    <Levels Lv="9" Cost="532" />
+    <Levels Lv="10" Cost="590" />
+    <Levels Lv="11" Cost="652" />
+    <Levels Lv="12" Cost="718" />
+    <Levels Lv="13" Cost="786" />
+    <Levels Lv="14" Cost="858" />
+    <Levels Lv="15" Cost="938" />
+    <Levels Lv="16" Cost="1024" />
+    <Levels Lv="17" Cost="1116" />
+    <Levels Lv="18" Cost="1218" />
+    <Levels Lv="19" Cost="1328" />
+    <Levels Lv="20" Cost="1452" />
+    <Levels Lv="21" Cost="1586" />
+    <Levels Lv="22" Cost="1734" />
+    <Levels Lv="23" Cost="1902" />
+    <Levels Lv="24" Cost="2088" />
+    <Levels Lv="25" Cost="2296" />
+    <Levels Lv="26" Cost="2532" />
+    <Levels Lv="27" Cost="2794" />
+    <Levels Lv="28" Cost="3092" />
+    <Levels Lv="29" Cost="3430" />
+    <Levels Lv="30" Cost="3812" />
+    <Levels Lv="31" Cost="4246" />
+    <Levels Lv="32" Cost="4740" />
+    <Levels Lv="33" Cost="5300" />
+    <Levels Lv="34" Cost="5944" />
+    <Levels Lv="35" Cost="6674" />
+    <Levels Lv="36" Cost="7510" />
+    <Levels Lv="37" Cost="8466" />
+    <Levels Lv="38" Cost="9558" />
+    <Levels Lv="39" Cost="10812" />
+    <Levels Lv="40" Cost="12246" />
+    <Levels Lv="41" Cost="13888" />
+    <Levels Lv="42" Cost="15774" />
+    <Levels Lv="43" Cost="17936" />
+    <Levels Lv="44" Cost="20416" />
+    <Levels Lv="45" Cost="23266" />
+    <Levels Lv="46" Cost="26534" />
+    <Levels Lv="47" Cost="30290" />
+    <Levels Lv="48" Cost="34602" />
+    <Levels Lv="49" Cost="0" />
+  </XF>
+  <XF ID="815001" n_Name="Mắt Đại Bàng" OpenLv="60" LvGrow="18" AttrType="11" IconRes="8015">
+    <Levels Lv="0" Cost="2000" />
+    <Levels Lv="1" Cost="2252" />
+    <Levels Lv="2" Cost="2564" />
+    <Levels Lv="3" Cost="2952" />
+    <Levels Lv="4" Cost="3434" />
+    <Levels Lv="5" Cost="4032" />
+    <Levels Lv="6" Cost="4772" />
+    <Levels Lv="7" Cost="5690" />
+    <Levels Lv="8" Cost="6830" />
+    <Levels Lv="9" Cost="8242" />
+    <Levels Lv="10" Cost="9994" />
+    <Levels Lv="11" Cost="12168" />
+    <Levels Lv="12" Cost="14862" />
+    <Levels Lv="13" Cost="18204" />
+    <Levels Lv="14" Cost="22348" />
+    <Levels Lv="15" Cost="27486" />
+    <Levels Lv="16" Cost="33858" />
+    <Levels Lv="17" Cost="41760" />
+    <Levels Lv="18" Cost="51558" />
+    <Levels Lv="19" Cost="0" />
+  </XF>
+  <XF ID="816001" n_Name="Cự Hùng Chưởng Pháp" OpenLv="60" LvGrow="18" AttrType="16" IconRes="8016">
+    <Levels Lv="0" Cost="2000" />
+    <Levels Lv="1" Cost="2252" />
+    <Levels Lv="2" Cost="2564" />
+    <Levels Lv="3" Cost="2952" />
+    <Levels Lv="4" Cost="3434" />
+    <Levels Lv="5" Cost="4032" />
+    <Levels Lv="6" Cost="4772" />
+    <Levels Lv="7" Cost="5690" />
+    <Levels Lv="8" Cost="6830" />
+    <Levels Lv="9" Cost="8242" />
+    <Levels Lv="10" Cost="9994" />
+    <Levels Lv="11" Cost="12168" />
+    <Levels Lv="12" Cost="14862" />
+    <Levels Lv="13" Cost="18204" />
+    <Levels Lv="14" Cost="22348" />
+    <Levels Lv="15" Cost="27486" />
+    <Levels Lv="16" Cost="33858" />
+    <Levels Lv="17" Cost="41760" />
+    <Levels Lv="18" Cost="51558" />
+    <Levels Lv="19" Cost="0" />
+  </XF>
+  <XF ID="817001" n_Name="Thanh Long Chân Kinh" OpenLv="70" LvGrow="21" AttrType="13" IconRes="8017">
+    <Levels Lv="0" Cost="2000" />
+    <Levels Lv="1" Cost="2252" />
+    <Levels Lv="2" Cost="2564" />
+    <Levels Lv="3" Cost="2952" />
+    <Levels Lv="4" Cost="3434" />
+    <Levels Lv="5" Cost="4032" />
+    <Levels Lv="6" Cost="4772" />
+    <Levels Lv="7" Cost="5690" />
+    <Levels Lv="8" Cost="6830" />
+    <Levels Lv="9" Cost="8242" />
+    <Levels Lv="10" Cost="9994" />
+    <Levels Lv="11" Cost="12168" />
+    <Levels Lv="12" Cost="14862" />
+    <Levels Lv="13" Cost="18204" />
+    <Levels Lv="14" Cost="22348" />
+    <Levels Lv="15" Cost="27486" />
+    <Levels Lv="16" Cost="33858" />
+    <Levels Lv="17" Cost="41760" />
+    <Levels Lv="18" Cost="51558" />
+    <Levels Lv="19" Cost="0" />
+  </XF>
+  <XF ID="818001" n_Name="Chu Tước Chân Kinh" OpenLv="70" LvGrow="21" AttrType="14" IconRes="8018">
+    <Levels Lv="0" Cost="2000" />
+    <Levels Lv="1" Cost="2252" />
+    <Levels Lv="2" Cost="2564" />
+    <Levels Lv="3" Cost="2952" />
+    <Levels Lv="4" Cost="3434" />
+    <Levels Lv="5" Cost="4032" />
+    <Levels Lv="6" Cost="4772" />
+    <Levels Lv="7" Cost="5690" />
+    <Levels Lv="8" Cost="6830" />
+    <Levels Lv="9" Cost="8242" />
+    <Levels Lv="10" Cost="9994" />
+    <Levels Lv="11" Cost="12168" />
+    <Levels Lv="12" Cost="14862" />
+    <Levels Lv="13" Cost="18204" />
+    <Levels Lv="14" Cost="22348" />
+    <Levels Lv="15" Cost="27486" />
+    <Levels Lv="16" Cost="33858" />
+    <Levels Lv="17" Cost="41760" />
+    <Levels Lv="18" Cost="51558" />
+    <Levels Lv="19" Cost="0" />
+  </XF>
+  <XF ID="819001" n_Name="Bạch Hổ Chân Kinh" OpenLv="80" LvGrow="24" AttrType="12" IconRes="8019">
+    <Levels Lv="0" Cost="2000" />
+    <Levels Lv="1" Cost="2252" />
+    <Levels Lv="2" Cost="2564" />
+    <Levels Lv="3" Cost="2952" />
+    <Levels Lv="4" Cost="3434" />
+    <Levels Lv="5" Cost="4032" />
+    <Levels Lv="6" Cost="4772" />
+    <Levels Lv="7" Cost="5690" />
+    <Levels Lv="8" Cost="6830" />
+    <Levels Lv="9" Cost="8242" />
+    <Levels Lv="10" Cost="9994" />
+    <Levels Lv="11" Cost="12168" />
+    <Levels Lv="12" Cost="14862" />
+    <Levels Lv="13" Cost="18204" />
+    <Levels Lv="14" Cost="22348" />
+    <Levels Lv="15" Cost="27486" />
+    <Levels Lv="16" Cost="33858" />
+    <Levels Lv="17" Cost="41760" />
+    <Levels Lv="18" Cost="51558" />
+    <Levels Lv="19" Cost="0" />
+  </XF>
+  <XF ID="820001" n_Name="Huyền Võ Chân Kinh" OpenLv="80" LvGrow="24" AttrType="15" IconRes="8020">
+    <Levels Lv="0" Cost="2000" />
+    <Levels Lv="1" Cost="2252" />
+    <Levels Lv="2" Cost="2564" />
+    <Levels Lv="3" Cost="2952" />
+    <Levels Lv="4" Cost="3434" />
+    <Levels Lv="5" Cost="4032" />
+    <Levels Lv="6" Cost="4772" />
+    <Levels Lv="7" Cost="5690" />
+    <Levels Lv="8" Cost="6830" />
+    <Levels Lv="9" Cost="8242" />
+    <Levels Lv="10" Cost="9994" />
+    <Levels Lv="11" Cost="12168" />
+    <Levels Lv="12" Cost="14862" />
+    <Levels Lv="13" Cost="18204" />
+    <Levels Lv="14" Cost="22348" />
+    <Levels Lv="15" Cost="27486" />
+    <Levels Lv="16" Cost="33858" />
+    <Levels Lv="17" Cost="41760" />
+    <Levels Lv="18" Cost="51558" />
+    <Levels Lv="19" Cost="0" />
+  </XF>
 </XianFas>

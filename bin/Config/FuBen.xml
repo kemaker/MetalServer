@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!-- edited with XMLSpy v2013 (http://www.altova.com) by  () -->
 <!--注释
 
@@ -59,110 +59,110 @@ Group：
 		<FuBen FuBenID="9999" n_Name="Đấu trường" Desc="Đấu trường" NeedPlayerLevel="1" DiaoLuoID="0" SceneRes="model_jjc" GS="0" TaskID="0" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="0" FaBao1Lev="0" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0"/>
 	</Map>
 	<Map MapID="1" FengShenId="1">
-		<FuBen FuBenID="1" n_Name="Thôn Tuyết 1" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="1" DiaoLuoID="1" SceneRes="model_xd" GS="599" TaskID="1001" DuiBaiID="2007" DuiBaiID2="2012" PiecePos="1" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="1" n_Name="Thôn Tuyết 1" Desc="Thưởng EXP và Đá" NeedPlayerLevel="1" DiaoLuoID="1" SceneRes="model_xd" GS="599" TaskID="1001" DuiBaiID="2007" DuiBaiID2="2012" PiecePos="1" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="1" PlaceX="4" PlaceY="1"/>
 		</FuBen>
-		<FuBen FuBenID="2" n_Name="Thôn Tuyết 2" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="1" DiaoLuoID="2" SceneRes="model_xd" GS="1491" TaskID="1004" DuiBaiID="2026" DuiBaiID2="2028" PiecePos="4" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="2" n_Name="Thôn Tuyết 2" Desc="Thưởng EXP và Đá" NeedPlayerLevel="1" DiaoLuoID="2" SceneRes="model_xd" GS="1491" TaskID="1004" DuiBaiID="2026" DuiBaiID2="2028" PiecePos="4" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="2" PlaceX="4" PlaceY="1"/>
 			<Group MonsterID="3" PlaceX="4" PlaceY="2"/>
 		</FuBen>
-		<FuBen FuBenID="3" n_Name="Thôn Tuyết 3" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="1" DiaoLuoID="3" SceneRes="model_xd" GS="1528" TaskID="1006" DuiBaiID="0" DuiBaiID2="0" PiecePos="2" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="3" n_Name="Thôn Tuyết 3" Desc="Thưởng EXP và Đá" NeedPlayerLevel="1" DiaoLuoID="3" SceneRes="model_xd" GS="1528" TaskID="1006" DuiBaiID="0" DuiBaiID2="0" PiecePos="2" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="4" PlaceX="4" PlaceY="1"/>
 			<Group MonsterID="5" PlaceX="4" PlaceY="2"/>
 		</FuBen>
-		<FuBen FuBenID="4" n_Name="Linh Phong 1" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="1" DiaoLuoID="4" SceneRes="model_xd" GS="1712" TaskID="1007" DuiBaiID="2035" DuiBaiID2="2040" PiecePos="5" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="4" n_Name="Linh Phong 1" Desc="Thưởng EXP và Đá" NeedPlayerLevel="1" DiaoLuoID="4" SceneRes="model_xd" GS="1712" TaskID="1007" DuiBaiID="2035" DuiBaiID2="2040" PiecePos="5" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="6" PlaceX="4" PlaceY="1"/>
 			<Group MonsterID="7" PlaceX="4" PlaceY="2"/>
 		</FuBen>
-		<FuBen FuBenID="5" n_Name="Linh Phong 2" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="1" DiaoLuoID="5" SceneRes="model_xd" GS="3252" TaskID="1011" DuiBaiID="0" DuiBaiID2="0" PiecePos="6" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="5" n_Name="Linh Phong 2" Desc="Thưởng EXP và Đá" NeedPlayerLevel="1" DiaoLuoID="5" SceneRes="model_xd" GS="3252" TaskID="1011" DuiBaiID="0" DuiBaiID2="0" PiecePos="6" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="8" PlaceX="4" PlaceY="0"/>
 			<Group MonsterID="9" PlaceX="4" PlaceY="1"/>
 			<Group MonsterID="10" PlaceX="4" PlaceY="2"/>
 		</FuBen>
-		<FuBen FuBenID="6" n_Name="Linh Phong 3" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="1" DiaoLuoID="6" SceneRes="model_xd" GS="3064" TaskID="1012" DuiBaiID="2043" DuiBaiID2="2050" PiecePos="3" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="6" n_Name="Linh Phong 3" Desc="Thưởng EXP và Đá" NeedPlayerLevel="1" DiaoLuoID="6" SceneRes="model_xd" GS="3064" TaskID="1012" DuiBaiID="2043" DuiBaiID2="2050" PiecePos="3" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="11" PlaceX="4" PlaceY="0"/>
 			<Group MonsterID="12" PlaceX="4" PlaceY="2"/>
 			<Group MonsterID="13" PlaceX="4" PlaceY="1"/>
 		</FuBen>
 	</Map>
 	<Map MapID="2" FengShenId="2">
-		<FuBen FuBenID="1" n_Name="Đồi Huyễn Thú 1" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="7" SceneRes="model_xg" GS="3814" TaskID="1014" DuiBaiID="2069" DuiBaiID2="2076" PiecePos="0" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="1" n_Name="Đồi Huyễn Thú 1" Desc="Thưởng EXP và Đá" NeedPlayerLevel="6" DiaoLuoID="7" SceneRes="model_xg" GS="3814" TaskID="1014" DuiBaiID="2069" DuiBaiID2="2076" PiecePos="0" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="14" PlaceX="4" PlaceY="0"/>
 			<Group MonsterID="15" PlaceX="4" PlaceY="1"/>
 			<Group MonsterID="16" PlaceX="5" PlaceY="1"/>
 		</FuBen>
-		<FuBen FuBenID="2" n_Name="Đồi Huyễn Thú 2" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="8" SceneRes="model_xg" GS="4417" TaskID="1016" DuiBaiID="0" DuiBaiID2="2087" PiecePos="2" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="2" n_Name="Đồi Huyễn Thú 2" Desc="Thưởng EXP và Đá" NeedPlayerLevel="6" DiaoLuoID="8" SceneRes="model_xg" GS="4417" TaskID="1016" DuiBaiID="0" DuiBaiID2="2087" PiecePos="2" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="17" PlaceX="4" PlaceY="0"/>
 			<Group MonsterID="18" PlaceX="4" PlaceY="2"/>
 			<Group MonsterID="19" PlaceX="5" PlaceY="0"/>
 		</FuBen>
-		<FuBen FuBenID="3" n_Name="Đồi Huyễn Thú 3" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="9" SceneRes="model_xg" GS="5922" TaskID="1017" DuiBaiID="0" DuiBaiID2="2093" PiecePos="0" FaBao1ID="0" FaBao1Lev="0" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="3" n_Name="Đồi Huyễn Thú 3" Desc="Thưởng EXP và Đá" NeedPlayerLevel="6" DiaoLuoID="9" SceneRes="model_xg" GS="5922" TaskID="1017" DuiBaiID="0" DuiBaiID2="2093" PiecePos="0" FaBao1ID="0" FaBao1Lev="0" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="20" PlaceX="4" PlaceY="1"/>
 			<Group MonsterID="21" PlaceX="4" PlaceY="2"/>
 			<Group MonsterID="22" PlaceX="6" PlaceY="1"/>
 		</FuBen>
-		<FuBen FuBenID="4" n_Name="Đồi Huyễn Thú 4" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="10" SceneRes="model_xg" GS="5871" TaskID="1019" DuiBaiID="0" DuiBaiID2="0" PiecePos="1" FaBao1ID="0" FaBao1Lev="0" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="4" n_Name="Đồi Huyễn Thú 4" Desc="Thưởng EXP và Đá" NeedPlayerLevel="6" DiaoLuoID="10" SceneRes="model_xg" GS="5871" TaskID="1019" DuiBaiID="0" DuiBaiID2="0" PiecePos="1" FaBao1ID="0" FaBao1Lev="0" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="23" PlaceX="4" PlaceY="0"/>
 			<Group MonsterID="24" PlaceX="4" PlaceY="1"/>
 			<Group MonsterID="25" PlaceX="5" PlaceY="2"/>
 		</FuBen>
-		<FuBen FuBenID="5" n_Name="Đồi Huyễn Thú 5" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="11" SceneRes="model_xg" GS="7106" TaskID="1020" DuiBaiID="2102" DuiBaiID2="2105" PiecePos="0" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="5" n_Name="Đồi Huyễn Thú 5" Desc="Thưởng EXP và Đá" NeedPlayerLevel="6" DiaoLuoID="11" SceneRes="model_xg" GS="7106" TaskID="1020" DuiBaiID="2102" DuiBaiID2="2105" PiecePos="0" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="26" PlaceX="5" PlaceY="2"/>
 			<Group MonsterID="27" PlaceX="5" PlaceY="1"/>
 			<Group MonsterID="28" PlaceX="5" PlaceY="0"/>
 		</FuBen>
-		<FuBen FuBenID="6" n_Name="Đồi Huyễn Thú 6" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="12" SceneRes="model_xg" GS="6089" TaskID="1021" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="6" n_Name="Đồi Huyễn Thú 6" Desc="Thưởng EXP và Đá" NeedPlayerLevel="6" DiaoLuoID="12" SceneRes="model_xg" GS="6089" TaskID="1021" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="0" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="29" PlaceX="4" PlaceY="1"/>
 			<Group MonsterID="30" PlaceX="5" PlaceY="1"/>
 			<Group MonsterID="31" PlaceX="5" PlaceY="2"/>
 		</FuBen>
-		<FuBen FuBenID="7" n_Name="Đồi Huyễn Thú 7" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="13" SceneRes="model_xg" GS="7868" TaskID="1022" DuiBaiID="2113" DuiBaiID2="2118" PiecePos="4" FaBao1ID="0" FaBao1Lev="0" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="7" n_Name="Đồi Huyễn Thú 7" Desc="Thưởng EXP và Đá" NeedPlayerLevel="6" DiaoLuoID="13" SceneRes="model_xg" GS="7868" TaskID="1022" DuiBaiID="2113" DuiBaiID2="2118" PiecePos="4" FaBao1ID="0" FaBao1Lev="0" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="32" PlaceX="5" PlaceY="2"/>
 			<Group MonsterID="33" PlaceX="5" PlaceY="1"/>
 			<Group MonsterID="34" PlaceX="4" PlaceY="1"/>
 		</FuBen>
-		<FuBen FuBenID="8" n_Name="Đồi Huyễn Thú 8" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="14" SceneRes="model_xg" GS="6465" TaskID="1024" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="8" n_Name="Đồi Huyễn Thú 8" Desc="Thưởng EXP và Đá" NeedPlayerLevel="6" DiaoLuoID="14" SceneRes="model_xg" GS="6465" TaskID="1024" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="35" PlaceX="4" PlaceY="0"/>
 			<Group MonsterID="36" PlaceX="4" PlaceY="1"/>
 			<Group MonsterID="37" PlaceX="5" PlaceY="2"/>
 		</FuBen>
-		<FuBen FuBenID="9" n_Name="Đồi Huyễn Thú 9" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="15" SceneRes="model_xg" GS="10605" TaskID="1025" DuiBaiID="2124" DuiBaiID2="2134" PiecePos="3" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="9" n_Name="Đồi Huyễn Thú 9" Desc="Thưởng EXP và Đá" NeedPlayerLevel="6" DiaoLuoID="15" SceneRes="model_xg" GS="10605" TaskID="1025" DuiBaiID="2124" DuiBaiID2="2134" PiecePos="3" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="38" PlaceX="6" PlaceY="1"/>
 			<Group MonsterID="39" PlaceX="5" PlaceY="0"/>
 			<Group MonsterID="40" PlaceX="5" PlaceY="2"/>
 			<Group MonsterID="902" PlaceX="5" PlaceY="1"/>
 		</FuBen>
-		<FuBen FuBenID="10" n_Name="Đồi Huyễn Thú 10" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="16" SceneRes="model_xg" GS="10148" TaskID="1029" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="10" n_Name="Đồi Huyễn Thú 10" Desc="Thưởng EXP và Đá" NeedPlayerLevel="6" DiaoLuoID="16" SceneRes="model_xg" GS="10148" TaskID="1029" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="41" PlaceX="4" PlaceY="0"/>
 			<Group MonsterID="42" PlaceX="4" PlaceY="2"/>
 			<Group MonsterID="43" PlaceX="5" PlaceY="0"/>
 			<Group MonsterID="903" PlaceX="5" PlaceY="2"/>
 		</FuBen>
-		<FuBen FuBenID="11" n_Name="Đồi Huyễn Thú 11" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="17" SceneRes="model_xg" GS="9773" TaskID="1030" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="11" n_Name="Đồi Huyễn Thú 11" Desc="Thưởng EXP và Đá" NeedPlayerLevel="6" DiaoLuoID="17" SceneRes="model_xg" GS="9773" TaskID="1030" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="44" PlaceX="4" PlaceY="0"/>
 			<Group MonsterID="45" PlaceX="4" PlaceY="1"/>
 			<Group MonsterID="46" PlaceX="5" PlaceY="1"/>
 			<Group MonsterID="904" PlaceX="5" PlaceY="2"/>
 		</FuBen>
-		<FuBen FuBenID="12" n_Name="Đồi Huyễn Thú 12" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="26" SceneRes="model_xg" GS="11498" TaskID="1031" DuiBaiID="2135" DuiBaiID2="2143" PiecePos="6" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="12" n_Name="Đồi Huyễn Thú 12" Desc="Thưởng EXP và Đá" NeedPlayerLevel="6" DiaoLuoID="26" SceneRes="model_xg" GS="11498" TaskID="1031" DuiBaiID="2135" DuiBaiID2="2143" PiecePos="6" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="47" PlaceX="6" PlaceY="1"/>
 			<Group MonsterID="48" PlaceX="4" PlaceY="0"/>
 			<Group MonsterID="49" PlaceX="4" PlaceY="2"/>
 			<Group MonsterID="905" PlaceX="5" PlaceY="1"/>
 		</FuBen>
-		<FuBen FuBenID="13" n_Name="Đồi Huyễn Thú 13" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="27" SceneRes="model_xg" GS="12659" TaskID="1032" DuiBaiID="2151" DuiBaiID2="2158" PiecePos="0" FaBao1ID="180014" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="13" n_Name="Đồi Huyễn Thú 13" Desc="Thưởng EXP và Đá" NeedPlayerLevel="6" DiaoLuoID="27" SceneRes="model_xg" GS="12659" TaskID="1032" DuiBaiID="2151" DuiBaiID2="2158" PiecePos="0" FaBao1ID="180014" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="50" PlaceX="4" PlaceY="0"/>
 			<Group MonsterID="51" PlaceX="4" PlaceY="1"/>
 			<Group MonsterID="52" PlaceX="5" PlaceY="0"/>
 			<Group MonsterID="906" PlaceX="5" PlaceY="1"/>
 		</FuBen>
-		<FuBen FuBenID="14" n_Name="Đồi Huyễn Thú 14" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="28" SceneRes="model_xg" GS="10119" TaskID="1033" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="14" n_Name="Đồi Huyễn Thú 14" Desc="Thưởng EXP và Đá" NeedPlayerLevel="6" DiaoLuoID="28" SceneRes="model_xg" GS="10119" TaskID="1033" DuiBaiID="0" DuiBaiID2="0" PiecePos="0" FaBao1ID="180014" FaBao1Lev="2" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="54" PlaceX="4" PlaceY="0"/>
 			<Group MonsterID="53" PlaceX="4" PlaceY="2"/>
 			<Group MonsterID="55" PlaceX="5" PlaceY="0"/>
 			<Group MonsterID="907" PlaceX="5" PlaceY="2"/>
 		</FuBen>
-		<FuBen FuBenID="15" n_Name="Đồi Huyễn Thú 15" Desc="Thưởng EXP và Ngọc" NeedPlayerLevel="6" DiaoLuoID="29" SceneRes="model_xg" GS="14155" TaskID="1034" DuiBaiID="2179" DuiBaiID2="2188" PiecePos="5" FaBao1ID="180014" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
+		<FuBen FuBenID="15" n_Name="Đồi Huyễn Thú 15" Desc="Thưởng EXP và Đá" NeedPlayerLevel="6" DiaoLuoID="29" SceneRes="model_xg" GS="14155" TaskID="1034" DuiBaiID="2179" DuiBaiID2="2188" PiecePos="5" FaBao1ID="180014" FaBao1Lev="1" FaBao2ID="0" FaBao2Lev="0" FaBao3ID="0" FaBao3Lev="0">
 			<Group MonsterID="56" PlaceX="6" PlaceY="1"/>
 			<Group MonsterID="57" PlaceX="4" PlaceY="1"/>
 			<Group MonsterID="58" PlaceX="4" PlaceY="2"/>
