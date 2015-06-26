@@ -27,7 +27,7 @@
 	<gameResource id="1003" folder="Config" version="1220" type="1" name="CharDirection.assetbundle" />
 	<gameResource id="1004" folder="Config" version="1220" type="1" name="ChuZheng.assetbundle" />
 	<gameResource id="1005" folder="Config" version="1220" type="1" name="CollectPiece.assetbundle" />
-	<gameResource id="1006" folder="Config" version="1220" type="1" name="DuiBai.assetbundle" />
+	<gameResource id="1006" folder="Config" version="1221" type="1" name="DuiBai.assetbundle" />
 	<gameResource id="1007" folder="Config" version="1220" type="1" name="Enhance.assetbundle" />
 	<gameResource id="1008" folder="Config" version="1220" type="1" name="EquipItem.assetbundle" />
 	<gameResource id="1009" folder="Config" version="1220" type="1" name="FaBao.assetbundle" />
@@ -40,7 +40,7 @@
 	<gameResource id="1016" folder="Config" version="1220" type="1" name="HeroFuBen.assetbundle" />
 	<gameResource id="1017" folder="Config" version="1220" type="1" name="IconRes.assetbundle" />
 	<gameResource id="1018" folder="Config" version="1220" type="1" name="LevelExp.assetbundle" />
-	<gameResource id="1019" folder="Config" version="1220" type="1" name="Mail.assetbundle" />
+	<gameResource id="1019" folder="Config" version="1221" type="1" name="Mail.assetbundle" />
 	<gameResource id="1020" folder="Config" version="1220" type="1" name="MaterialItem.assetbundle" />
 	<gameResource id="1021" folder="Config" version="1220" type="1" name="MingGe.assetbundle" />
 	<gameResource id="1022" folder="Config" version="1220" type="1" name="Monster.assetbundle" />
@@ -66,7 +66,7 @@
 	<gameResource id="1042" folder="Config" version="1220" type="1" name="StudentRoom.assetbundle" />
 	<gameResource id="1043" folder="Config" version="1220" type="1" name="Task.assetbundle" />
 	<gameResource id="1044" folder="Config" version="1220" type="1" name="UseItem.assetbundle" />
-	<gameResource id="1045" folder="Config" version="1221" type="1" name="ValueDefine.assetbundle" />
+	<gameResource id="1045" folder="Config" version="1223" type="1" name="ValueDefine.assetbundle" />
 	<gameResource id="1046" folder="Config" version="1220" type="1" name="VipConfig.assetbundle" />
 	<gameResource id="1047" folder="Config" version="1220" type="1" name="XianFa.assetbundle" />
 	<gameResource id="1048" folder="Config" version="1220" type="1" name="XunLianChang.assetbundle" />
@@ -82,14 +82,14 @@
   <gameResource id="1058" folder="Config" version="1220" type="1" name="CampBattle.assetbundle" />
   <gameResource id="1059" folder="Config" version="1220" type="1" name="CampBattleReward.assetbundle" />
   <gameResource id="1060" folder="Config" version="1220" type="1" name="CampNPC.assetbundle" />
-  <gameResource id="1061" folder="Config" version="1220" type="1" name="FaBaoNew.assetbundle" />
+  <gameResource id="1061" folder="Config" version="1221" type="1" name="FaBaoNew.assetbundle" />
   <gameResource id="1062" folder="Config" version="1220" type="1" name="FubenGradeReward.assetbundle" />
   <gameResource id="1063" folder="Config" version="1220" type="1" name="HeiShi.assetbundle" />
   <gameResource id="1064" folder="Config" version="1220" type="1" name="LegioLevel.assetbundle" />
   <gameResource id="1065" folder="Config" version="1220" type="1" name="LegioStore.assetbundle" />
   <gameResource id="1066" folder="Config" version="1220" type="1" name="LegioBookReward.assetbundle" />
   <gameResource id="1067" folder="Config" version="1220" type="1" name="FengShenBang.assetbundle" />
-  <gameResource id="1068" folder="Config" version="1220" type="1" name="HardCodeData.assetbundle" />
+  <gameResource id="1068" folder="Config" version="1221" type="1" name="HardCodeData.assetbundle" />
   <gameResource id="1069" folder="Config" version="1220" type="1" name="HardCode.assetbundle" />
   <gameResource id="1070" folder="Config" version="1220" type="1" name="LegioGodBattle.assetbundle" />
   <gameResource id="1071" folder="Config" version="1220" type="1" name="LegioAccreditReward.assetbundle" />

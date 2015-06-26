@@ -128,8 +128,8 @@
 	<JielueLotLingsi>5000</JielueLotLingsi>
   
     <!--时间类格式为 周几(0~6) 小时(0~23) 分钟(0~59) ,注意周几中0为周日-->
-    <LegioWarOpenTime>5 21 30</LegioWarOpenTime><!--军团战活动开启时间-->
-	<LegioWarEndTime>5 14 20</LegioWarEndTime><!--军团战活动结束时间-->
+    <LegioWarOpenTime>4 21 30</LegioWarOpenTime><!--军团战活动开启时间-->
+	<LegioWarEndTime>4 22 00</LegioWarEndTime><!--军团战活动结束时间-->
 	
 	<LegioWarMarchCost>100</LegioWarMarchCost><!--军团战进军消耗的军资-->
 	<AccreditLimitLevel>20</AccreditLimitLevel><!--派驻功能开启等级-->
