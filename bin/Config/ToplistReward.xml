@@ -9,54 +9,54 @@ ShengWang:
 
 -->
 <Root>
-	<Level Lv="1" LingShi="150" ShengWang="150"/>
-	<Level Lv="2" LingShi="150" ShengWang="150"/>
-	<Level Lv="3" LingShi="150" ShengWang="150"/>
-	<Level Lv="4" LingShi="150" ShengWang="150"/>
-	<Level Lv="5" LingShi="150" ShengWang="150"/>
-	<Level Lv="6" LingShi="150" ShengWang="150"/>
-	<Level Lv="7" LingShi="150" ShengWang="150"/>
-	<Level Lv="8" LingShi="150" ShengWang="150"/>
-	<Level Lv="9" LingShi="150" ShengWang="150"/>
-	<Level Lv="10" LingShi="150" ShengWang="150"/>
-	<Level Lv="11" LingShi="200" ShengWang="150"/>
-	<Level Lv="12" LingShi="200" ShengWang="150"/>
-	<Level Lv="13" LingShi="200" ShengWang="150"/>
-	<Level Lv="14" LingShi="200" ShengWang="150"/>
-	<Level Lv="15" LingShi="200" ShengWang="150"/>
-	<Level Lv="16" LingShi="200" ShengWang="150"/>
-	<Level Lv="17" LingShi="200" ShengWang="150"/>
-	<Level Lv="18" LingShi="200" ShengWang="150"/>
-	<Level Lv="19" LingShi="200" ShengWang="150"/>
-	<Level Lv="20" LingShi="200" ShengWang="150"/>
-	<Level Lv="21" LingShi="1000" ShengWang="150"/>
-	<Level Lv="22" LingShi="1000" ShengWang="150"/>
-	<Level Lv="23" LingShi="1000" ShengWang="150"/>
-	<Level Lv="24" LingShi="1000" ShengWang="150"/>
-	<Level Lv="25" LingShi="1400" ShengWang="150"/>
-	<Level Lv="26" LingShi="1400" ShengWang="150"/>
-	<Level Lv="27" LingShi="1400" ShengWang="150"/>
-	<Level Lv="28" LingShi="1400" ShengWang="150"/>
-	<Level Lv="29" LingShi="1400" ShengWang="150"/>
-	<Level Lv="30" LingShi="1400" ShengWang="150"/>
-	<Level Lv="31" LingShi="3000" ShengWang="150"/>
-	<Level Lv="32" LingShi="3000" ShengWang="150"/>
-	<Level Lv="33" LingShi="3000" ShengWang="150"/>
-	<Level Lv="34" LingShi="3000" ShengWang="150"/>
-	<Level Lv="35" LingShi="3000" ShengWang="150"/>
-	<Level Lv="36" LingShi="7000" ShengWang="150"/>
-	<Level Lv="37" LingShi="7000" ShengWang="150"/>
-	<Level Lv="38" LingShi="7000" ShengWang="150"/>
-	<Level Lv="39" LingShi="7000" ShengWang="150"/>
-	<Level Lv="40" LingShi="7000" ShengWang="150"/>
-	<Level Lv="41" LingShi="12000" ShengWang="150"/>
-	<Level Lv="42" LingShi="12000" ShengWang="150"/>
-	<Level Lv="43" LingShi="12000" ShengWang="150"/>
-	<Level Lv="44" LingShi="12000" ShengWang="150"/>
-	<Level Lv="45" LingShi="12000" ShengWang="150"/>
-	<Level Lv="46" LingShi="20000" ShengWang="150"/>
-	<Level Lv="47" LingShi="20000" ShengWang="150"/>
-	<Level Lv="48" LingShi="20000" ShengWang="150"/>
-	<Level Lv="49" LingShi="20000" ShengWang="150"/>
-	<Level Lv="50" LingShi="20000" ShengWang="150"/>
+  <Level Lv="50" LingShi="5000" ShengWang="500" />
+  <Level Lv="49" LingShi="5000" ShengWang="500" />
+  <Level Lv="48" LingShi="5000" ShengWang="500" />
+  <Level Lv="47" LingShi="5000" ShengWang="500" />
+  <Level Lv="46" LingShi="5000" ShengWang="500" />
+  <Level Lv="45" LingShi="5000" ShengWang="500" />
+  <Level Lv="44" LingShi="5000" ShengWang="500" />
+  <Level Lv="43" LingShi="5000" ShengWang="500" />
+  <Level Lv="42" LingShi="5000" ShengWang="500" />
+  <Level Lv="41" LingShi="5000" ShengWang="500" />
+  <Level Lv="40" LingShi="5000" ShengWang="500" />
+  <Level Lv="39" LingShi="5000" ShengWang="500" />
+  <Level Lv="38" LingShi="5000" ShengWang="500" />
+  <Level Lv="37" LingShi="5000" ShengWang="500" />
+  <Level Lv="36" LingShi="5000" ShengWang="500" />
+  <Level Lv="35" LingShi="5000" ShengWang="500" />
+  <Level Lv="34" LingShi="5000" ShengWang="500" />
+  <Level Lv="33" LingShi="5000" ShengWang="500" />
+  <Level Lv="32" LingShi="5000" ShengWang="500" />
+  <Level Lv="31" LingShi="5000" ShengWang="500" />
+  <Level Lv="30" LingShi="7000" ShengWang="700" />
+  <Level Lv="29" LingShi="7000" ShengWang="700" />
+  <Level Lv="28" LingShi="7000" ShengWang="700" />
+  <Level Lv="27" LingShi="7000" ShengWang="700" />
+  <Level Lv="26" LingShi="8000" ShengWang="800" />
+  <Level Lv="25" LingShi="8000" ShengWang="800" />
+  <Level Lv="24" LingShi="8000" ShengWang="800" />
+  <Level Lv="23" LingShi="8000" ShengWang="800" />
+  <Level Lv="22" LingShi="8000" ShengWang="800" />
+  <Level Lv="21" LingShi="8000" ShengWang="800" />
+  <Level Lv="20" LingShi="10000" ShengWang="1000" />
+  <Level Lv="19" LingShi="10000" ShengWang="1000" />
+  <Level Lv="18" LingShi="10000" ShengWang="1000" />
+  <Level Lv="17" LingShi="10000" ShengWang="1000" />
+  <Level Lv="16" LingShi="10000" ShengWang="1000" />
+  <Level Lv="15" LingShi="15000" ShengWang="1500" />
+  <Level Lv="14" LingShi="15000" ShengWang="1500" />
+  <Level Lv="13" LingShi="15000" ShengWang="1500" />
+  <Level Lv="12" LingShi="15000" ShengWang="1500" />
+  <Level Lv="11" LingShi="15000" ShengWang="1500" />
+  <Level Lv="10" LingShi="20000" ShengWang="2000" />
+  <Level Lv="9" LingShi="20000" ShengWang="2000" />
+  <Level Lv="8" LingShi="20000" ShengWang="2000" />
+  <Level Lv="7" LingShi="20000" ShengWang="2000" />
+  <Level Lv="6" LingShi="20000" ShengWang="2000" />
+  <Level Lv="5" LingShi="20000" ShengWang="2000" />
+  <Level Lv="4" LingShi="20000" ShengWang="2000" />
+  <Level Lv="3" LingShi="30000" ShengWang="3000" />
+  <Level Lv="2" LingShi="40000" ShengWang="4000" />
+  <Level Lv="1" LingShi="50000" ShengWang="5000" />
 </Root>

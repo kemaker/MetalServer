@@ -172,7 +172,7 @@ Lv：
 		<Lv Lv="9" Value="1344"/>
 		<Lv Lv="10" Value="1413"/>
 	</MG>
-	<MG ID="900014" n_Name="[10daff]Nộ Đào Mệnh[-]" Quality="2" Des="Tăng công trước" BaseExp="120" Sell="150" AddAttr="8" IconResID="900014">
+	<MG ID="900014" n_Name="[10daff]Nộ Đào Mệnh[-]" Quality="2" Des="Tăng công trước" BaseExp="120" Sell="150" AddAttr="4" IconResID="900014">
 		<Lv Lv="1" Value="15"/>
 		<Lv Lv="2" Value="20"/>
 		<Lv Lv="3" Value="25"/>

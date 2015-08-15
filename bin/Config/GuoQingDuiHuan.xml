@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!--注释
+DuiHuanCase:
+    兑换公式;
+    
+    Times:
+        最多兑换此公式次数
+        
+    Type:
+        兑换类型 1:整个活动次数 2:每日活动次数
+    
+    UseItem:
+        兑换使用的物品；
+        
+        Type:物品类型
+        
+        ItemID:物品ID
+        
+        Count:物品数量
+
+    GetItem:
+        兑换得到的物品；
+        
+        Type:物品类型
+        
+        ItemID:物品ID
+        
+        Count:物品数量
+
+注释结束-->
+
+<DuiHuan>
+    <DuiHuanCase CaseID="1" Times="10" Type="2">
+        <UseItem>
+            <Item Type="4" ItemID="71110" Count="10"/>
+        </UseItem>
+        <GetItem>
+            <Item Type="5" ItemID="0" Count="30"/>
+        </GetItem>
+    </DuiHuanCase>
+    <DuiHuanCase CaseID="2" Times="10" Type="2">
+        <UseItem>
+            <Item Type="4" ItemID="71110" Count="15"/>
+        </UseItem>
+        <GetItem>
+            <Item Type="2" ItemID="0" Count="15000"/>
+        </GetItem>
+    </DuiHuanCase>
+    <DuiHuanCase CaseID="3" Times="10" Type="2">
+        <UseItem>
+            <Item Type="4" ItemID="71110" Count="100"/>
+        </UseItem>
+        <GetItem>
+            <Item Type="7" ItemID="0" Count="5000"/>
+        </GetItem>
+    </DuiHuanCase>
+    <DuiHuanCase CaseID="4" Times="10" Type="2">
+        <UseItem>
+            <Item Type="4" ItemID="71110" Count="500"/>
+        </UseItem>
+        <GetItem>
+            <Item Type="4" ItemID="71054" Count="1"/>
+        </GetItem>
+    </DuiHuanCase>
+</DuiHuan>

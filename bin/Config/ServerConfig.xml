@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Config MaxPlayer="5000">
 	<!--GateServer-->
-	<GateServer IP="121.40.101.212" Port="10011" ID="1" NetServerIP="121.40.101.212"/>
+	<GateServer IP="121.40.101.212" Port="10021" ID="2" NetServerIP="121.40.101.212"/>
 	<!--GameServer-->
-	<GameServer IP="121.40.101.212" Port="10012" ID="1"/>
+	<GameServer IP="121.40.101.212" Port="10022" ID="1"/>
 	<!--DBServer-->
-	<DBServer IP="121.40.101.212" Port="10013" DBHost="127.0.0.1" DBUser="root" DBPassword="" DBName="metal" DBPort="3306" AccountHost="127.0.0.1" AccountUser="root" AccountPassword="" AccountName="metal" AccountPort="3306" MailDBHost="127.0.0.1" MailDBUser="root" MailDBPassword="" MailDBName="mail" MailDBPort="3306"/>
+	<DBServer IP="121.40.101.212" Port="10023" DBHost="127.0.0.1" DBUser="root" DBPassword="" DBName="metal_2" DBPort="3306" AccountHost="127.0.0.1" AccountUser="root" AccountPassword="" AccountName="metal_2" AccountPort="3306" MailDBHost="127.0.0.1" MailDBUser="root" MailDBPassword="" MailDBName="mail_2" MailDBPort="3306"/>
 	<!--CommunicationServer-->
-	<CommunicationServer IP="121.40.101.212" Port="10014" ID="1"/>
+	<CommunicationServer IP="121.40.101.212" Port="10024" ID="1"/>
 	<!--BillingServer-->
-	<BillingServer IP="121.40.101.212" Port="10015" ID="1"/>
+	<BillingServer IP="121.40.101.212" Port="10025" ID="1"/>
 	<!--DCServer-->
-	<DCServer IP="121.40.101.212" Port="10016" ID="1" DataDBName="datacenter"/>
+	<DCServer IP="121.40.101.212" Port="10026" ID="1" DataDBName="datacenter_2"/>
 </Config>

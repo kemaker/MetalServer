@@ -1,335 +1,306 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!--注释
-
-GetInfo：
-	普通征收数据；
-    Lv：
-    	主将等级；
-    
-    Get：
-    	当前等级征收获得经验值；
-    	
-    RefreshTime：
-    	征收刷新时间,单位：分钟；
-  
-	MaxTimes：
-		当日最大征收次数；
-
-QZCost：
-	强征花费配置；
-	QZGet：
-		单次强征获得经验值；
-		
-	Times：
-		当日强征次数；
-		
-	Gold：
-		当次元宝花费；
-		
-注释结束-->
 <ZhuanLongChi>
   <GetInfo>
-    <Levels Lv="1" Get="2688" QZGet="18500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="2" Get="2688" QZGet="18500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="3" Get="2688" QZGet="18500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="4" Get="2688" QZGet="18500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="5" Get="2688" QZGet="18500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="6" Get="2972" QZGet="18500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="7" Get="3257" QZGet="18500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="8" Get="3541" QZGet="18500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="9" Get="3826" QZGet="18500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="10" Get="4110" QZGet="18500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="11" Get="4395" QZGet="23500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="12" Get="4679" QZGet="23500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="13" Get="4964" QZGet="23500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="14" Get="5248" QZGet="23500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="15" Get="5533" QZGet="23500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="16" Get="5817" QZGet="23500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="17" Get="6102" QZGet="23500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="18" Get="6386" QZGet="23500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="19" Get="6671" QZGet="23500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="20" Get="6955" QZGet="23500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="21" Get="7240" QZGet="28500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="22" Get="7524" QZGet="28500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="23" Get="7809" QZGet="28500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="24" Get="8093" QZGet="28500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="25" Get="8378" QZGet="28500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="26" Get="8662" QZGet="28500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="27" Get="8947" QZGet="28500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="28" Get="9231" QZGet="28500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="29" Get="9516" QZGet="28500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="30" Get="9800" QZGet="28500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="31" Get="10085" QZGet="33500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="32" Get="10369" QZGet="33500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="33" Get="10654" QZGet="33500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="34" Get="10938" QZGet="33500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="35" Get="11223" QZGet="33500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="36" Get="11507" QZGet="33500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="37" Get="11792" QZGet="33500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="38" Get="12076" QZGet="33500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="39" Get="12361" QZGet="33500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="40" Get="12645" QZGet="33500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="41" Get="12930" QZGet="38500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="42" Get="13214" QZGet="38500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="43" Get="13499" QZGet="38500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="44" Get="13783" QZGet="38500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="45" Get="14068" QZGet="38500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="46" Get="14352" QZGet="38500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="47" Get="14637" QZGet="38500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="48" Get="14921" QZGet="38500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="49" Get="15206" QZGet="38500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="50" Get="15490" QZGet="38500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="51" Get="15775" QZGet="43500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="52" Get="16059" QZGet="43500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="53" Get="16344" QZGet="43500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="54" Get="16628" QZGet="43500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="55" Get="16913" QZGet="43500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="56" Get="17197" QZGet="43500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="57" Get="17482" QZGet="43500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="58" Get="17766" QZGet="43500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="59" Get="18051" QZGet="43500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="60" Get="18335" QZGet="43500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="61" Get="18620" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="62" Get="18904" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="63" Get="19189" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="64" Get="19473" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="65" Get="19758" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="66" Get="20042" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="67" Get="20327" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="68" Get="20611" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="69" Get="20896" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="70" Get="21180" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="71" Get="21465" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="72" Get="21749" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="73" Get="22034" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="74" Get="22318" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="75" Get="22603" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="76" Get="22887" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="77" Get="23172" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="78" Get="23456" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="79" Get="23741" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="80" Get="24025" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="81" Get="24310" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="82" Get="24594" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="83" Get="24879" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="84" Get="25163" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="85" Get="25448" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="86" Get="25732" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="87" Get="26017" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="88" Get="26301" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="89" Get="26586" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="90" Get="26870" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="91" Get="27155" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="92" Get="27439" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="93" Get="27724" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="94" Get="28008" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="95" Get="28293" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="96" Get="28577" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="97" Get="28862" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="98" Get="29146" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="99" Get="29431" QZGet="48500" RefreshTime="10" MaxTimes="8" />
-    <Levels Lv="100" Get="29715" QZGet="48500" RefreshTime="10" MaxTimes="8" />
+    <Levels Get="2312" Lv="1" MaxTimes="8" QZGet="2312" RefreshTime="30" />
+    <Levels Get="2312" Lv="2" MaxTimes="8" QZGet="2312" RefreshTime="30" />
+    <Levels Get="2312" Lv="3" MaxTimes="8" QZGet="2312" RefreshTime="30" />
+    <Levels Get="2312" Lv="4" MaxTimes="8" QZGet="2312" RefreshTime="30" />
+    <Levels Get="2312" Lv="5" MaxTimes="8" QZGet="2312" RefreshTime="30" />
+    <Levels Get="2312" Lv="6" MaxTimes="8" QZGet="2312" RefreshTime="30" />
+    <Levels Get="2312" Lv="7" MaxTimes="8" QZGet="2312" RefreshTime="30" />
+    <Levels Get="2312" Lv="8" MaxTimes="8" QZGet="2312" RefreshTime="30" />
+    <Levels Get="2312" Lv="9" MaxTimes="8" QZGet="2312" RefreshTime="30" />
+    <Levels Get="2312" Lv="10" MaxTimes="8" QZGet="2312" RefreshTime="30" />
+    <Levels Get="2937" Lv="11" MaxTimes="8" QZGet="2937" RefreshTime="30" />
+    <Levels Get="2937" Lv="12" MaxTimes="8" QZGet="2937" RefreshTime="30" />
+    <Levels Get="2937" Lv="13" MaxTimes="8" QZGet="2937" RefreshTime="30" />
+    <Levels Get="2937" Lv="14" MaxTimes="8" QZGet="2937" RefreshTime="30" />
+    <Levels Get="2937" Lv="15" MaxTimes="8" QZGet="2937" RefreshTime="30" />
+    <Levels Get="2937" Lv="16" MaxTimes="8" QZGet="2937" RefreshTime="30" />
+    <Levels Get="2937" Lv="17" MaxTimes="8" QZGet="2937" RefreshTime="30" />
+    <Levels Get="2937" Lv="18" MaxTimes="8" QZGet="2937" RefreshTime="30" />
+    <Levels Get="2937" Lv="19" MaxTimes="8" QZGet="2937" RefreshTime="30" />
+    <Levels Get="2937" Lv="20" MaxTimes="8" QZGet="2937" RefreshTime="30" />
+    <Levels Get="3562" Lv="21" MaxTimes="8" QZGet="3562" RefreshTime="30" />
+    <Levels Get="3562" Lv="22" MaxTimes="8" QZGet="3562" RefreshTime="30" />
+    <Levels Get="3562" Lv="23" MaxTimes="8" QZGet="3562" RefreshTime="30" />
+    <Levels Get="3562" Lv="24" MaxTimes="8" QZGet="3562" RefreshTime="30" />
+    <Levels Get="3562" Lv="25" MaxTimes="8" QZGet="3562" RefreshTime="30" />
+    <Levels Get="3562" Lv="26" MaxTimes="8" QZGet="3562" RefreshTime="30" />
+    <Levels Get="3562" Lv="27" MaxTimes="8" QZGet="3562" RefreshTime="30" />
+    <Levels Get="3562" Lv="28" MaxTimes="8" QZGet="3562" RefreshTime="30" />
+    <Levels Get="3562" Lv="29" MaxTimes="8" QZGet="3562" RefreshTime="30" />
+    <Levels Get="3562" Lv="30" MaxTimes="8" QZGet="3562" RefreshTime="30" />
+    <Levels Get="4187" Lv="31" MaxTimes="8" QZGet="4187" RefreshTime="30" />
+    <Levels Get="4187" Lv="32" MaxTimes="8" QZGet="4187" RefreshTime="30" />
+    <Levels Get="4187" Lv="33" MaxTimes="8" QZGet="4187" RefreshTime="30" />
+    <Levels Get="4187" Lv="34" MaxTimes="8" QZGet="4187" RefreshTime="30" />
+    <Levels Get="4187" Lv="35" MaxTimes="8" QZGet="4187" RefreshTime="30" />
+    <Levels Get="4187" Lv="36" MaxTimes="8" QZGet="4187" RefreshTime="30" />
+    <Levels Get="4187" Lv="37" MaxTimes="8" QZGet="4187" RefreshTime="30" />
+    <Levels Get="4187" Lv="38" MaxTimes="8" QZGet="4187" RefreshTime="30" />
+    <Levels Get="4187" Lv="39" MaxTimes="8" QZGet="4187" RefreshTime="30" />
+    <Levels Get="4187" Lv="40" MaxTimes="8" QZGet="4187" RefreshTime="30" />
+    <Levels Get="4812" Lv="41" MaxTimes="8" QZGet="4812" RefreshTime="30" />
+    <Levels Get="4812" Lv="42" MaxTimes="8" QZGet="4812" RefreshTime="30" />
+    <Levels Get="4812" Lv="43" MaxTimes="8" QZGet="4812" RefreshTime="30" />
+    <Levels Get="4812" Lv="44" MaxTimes="8" QZGet="4812" RefreshTime="30" />
+    <Levels Get="4812" Lv="45" MaxTimes="8" QZGet="4812" RefreshTime="30" />
+    <Levels Get="4812" Lv="46" MaxTimes="8" QZGet="4812" RefreshTime="30" />
+    <Levels Get="4812" Lv="47" MaxTimes="8" QZGet="4812" RefreshTime="30" />
+    <Levels Get="4812" Lv="48" MaxTimes="8" QZGet="4812" RefreshTime="30" />
+    <Levels Get="4812" Lv="49" MaxTimes="8" QZGet="4812" RefreshTime="30" />
+    <Levels Get="4812" Lv="50" MaxTimes="8" QZGet="4812" RefreshTime="30" />
+    <Levels Get="5437" Lv="51" MaxTimes="8" QZGet="5437" RefreshTime="30" />
+    <Levels Get="5437" Lv="52" MaxTimes="8" QZGet="5437" RefreshTime="30" />
+    <Levels Get="5437" Lv="53" MaxTimes="8" QZGet="5437" RefreshTime="30" />
+    <Levels Get="5437" Lv="54" MaxTimes="8" QZGet="5437" RefreshTime="30" />
+    <Levels Get="5437" Lv="55" MaxTimes="8" QZGet="5437" RefreshTime="30" />
+    <Levels Get="5437" Lv="56" MaxTimes="8" QZGet="5437" RefreshTime="30" />
+    <Levels Get="5437" Lv="57" MaxTimes="8" QZGet="5437" RefreshTime="30" />
+    <Levels Get="5437" Lv="58" MaxTimes="8" QZGet="5437" RefreshTime="30" />
+    <Levels Get="5437" Lv="59" MaxTimes="8" QZGet="5437" RefreshTime="30" />
+    <Levels Get="5437" Lv="60" MaxTimes="8" QZGet="5437" RefreshTime="30" />
+    <Levels Get="6062" Lv="61" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="62" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="63" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="64" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="65" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="66" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="67" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="68" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="69" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="70" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="71" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="72" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="73" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="74" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="75" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="76" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="77" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="78" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="79" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="80" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="81" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="82" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="83" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="84" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="85" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="86" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="87" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="88" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="89" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="90" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="91" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="92" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="93" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="94" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="95" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="96" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="97" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="98" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="99" MaxTimes="8" QZGet="6062" RefreshTime="30" />
+    <Levels Get="6062" Lv="100" MaxTimes="8" QZGet="6062" RefreshTime="30" />
   </GetInfo>
   <QZCost QZGet="37000">
-    <Cost Times="1" Gold="2" />
-    <Cost Times="2" Gold="2" />
-    <Cost Times="3" Gold="2" />
-    <Cost Times="4" Gold="5" />
-    <Cost Times="5" Gold="5" />
-    <Cost Times="6" Gold="5" />
-    <Cost Times="7" Gold="10" />
-    <Cost Times="8" Gold="10" />
-    <Cost Times="9" Gold="10" />
-    <Cost Times="10" Gold="10" />
-    <Cost Times="11" Gold="10" />
-    <Cost Times="12" Gold="10" />
-    <Cost Times="13" Gold="15" />
-    <Cost Times="14" Gold="15" />
-    <Cost Times="15" Gold="15" />
-    <Cost Times="16" Gold="15" />
-    <Cost Times="17" Gold="15" />
-    <Cost Times="18" Gold="15" />
-    <Cost Times="19" Gold="20" />
-    <Cost Times="20" Gold="20" />
-    <Cost Times="21" Gold="20" />
-    <Cost Times="22" Gold="20" />
-    <Cost Times="23" Gold="20" />
-    <Cost Times="24" Gold="20" />
-    <Cost Times="25" Gold="40" />
-    <Cost Times="26" Gold="40" />
-    <Cost Times="27" Gold="40" />
-    <Cost Times="28" Gold="40" />
-    <Cost Times="29" Gold="40" />
-    <Cost Times="30" Gold="40" />
-    <Cost Times="31" Gold="40" />
-    <Cost Times="32" Gold="40" />
-    <Cost Times="33" Gold="40" />
-    <Cost Times="34" Gold="60" />
-    <Cost Times="35" Gold="60" />
-    <Cost Times="36" Gold="60" />
-    <Cost Times="37" Gold="60" />
-    <Cost Times="38" Gold="60" />
-    <Cost Times="39" Gold="60" />
-    <Cost Times="40" Gold="60" />
-    <Cost Times="41" Gold="60" />
-    <Cost Times="42" Gold="60" />
-    <Cost Times="43" Gold="80" />
-    <Cost Times="44" Gold="80" />
-    <Cost Times="45" Gold="80" />
-    <Cost Times="46" Gold="80" />
-    <Cost Times="47" Gold="80" />
-    <Cost Times="48" Gold="80" />
-    <Cost Times="49" Gold="80" />
-    <Cost Times="50" Gold="80" />
-    <Cost Times="51" Gold="80" />
-    <Cost Times="52" Gold="80" />
-    <Cost Times="53" Gold="80" />
-    <Cost Times="54" Gold="80" />
-    <Cost Times="55" Gold="100" />
-    <Cost Times="56" Gold="100" />
-    <Cost Times="57" Gold="100" />
-    <Cost Times="58" Gold="100" />
-    <Cost Times="59" Gold="100" />
-    <Cost Times="60" Gold="100" />
-    <Cost Times="61" Gold="100" />
-    <Cost Times="62" Gold="100" />
-    <Cost Times="63" Gold="100" />
-    <Cost Times="64" Gold="100" />
-    <Cost Times="65" Gold="100" />
-    <Cost Times="66" Gold="100" />
-    <Cost Times="67" Gold="120" />
-    <Cost Times="68" Gold="120" />
-    <Cost Times="69" Gold="120" />
-    <Cost Times="70" Gold="120" />
-    <Cost Times="71" Gold="120" />
-    <Cost Times="72" Gold="120" />
-    <Cost Times="73" Gold="120" />
-    <Cost Times="74" Gold="120" />
-    <Cost Times="75" Gold="120" />
-    <Cost Times="76" Gold="120" />
-    <Cost Times="77" Gold="120" />
-    <Cost Times="78" Gold="120" />
-    <Cost Times="79" Gold="120" />
-    <Cost Times="80" Gold="120" />
-    <Cost Times="81" Gold="120" />
-    <Cost Times="82" Gold="150" />
-    <Cost Times="83" Gold="150" />
-    <Cost Times="84" Gold="150" />
-    <Cost Times="85" Gold="150" />
-    <Cost Times="86" Gold="150" />
-    <Cost Times="87" Gold="150" />
-    <Cost Times="88" Gold="150" />
-    <Cost Times="89" Gold="150" />
-    <Cost Times="90" Gold="150" />
-    <Cost Times="91" Gold="150" />
-    <Cost Times="92" Gold="150" />
-    <Cost Times="93" Gold="150" />
-    <Cost Times="94" Gold="150" />
-    <Cost Times="95" Gold="150" />
-    <Cost Times="96" Gold="150" />
-    <Cost Times="97" Gold="150" />
-    <Cost Times="98" Gold="150" />
-    <Cost Times="99" Gold="150" />
-    <Cost Times="100" Gold="150" />
-    <Cost Times="101" Gold="150" />
-    <Cost Times="102" Gold="150" />
-    <Cost Times="103" Gold="150" />
-    <Cost Times="104" Gold="150" />
-    <Cost Times="105" Gold="150" />
-    <Cost Times="106" Gold="150" />
-    <Cost Times="107" Gold="150" />
-    <Cost Times="108" Gold="150" />
-    <Cost Times="109" Gold="150" />
-    <Cost Times="110" Gold="150" />
-    <Cost Times="111" Gold="150" />
-    <Cost Times="112" Gold="150" />
-    <Cost Times="113" Gold="150" />
-    <Cost Times="114" Gold="150" />
-    <Cost Times="115" Gold="150" />
-    <Cost Times="116" Gold="150" />
-    <Cost Times="117" Gold="150" />
-    <Cost Times="118" Gold="150" />
-    <Cost Times="119" Gold="150" />
-    <Cost Times="120" Gold="150" />
-    <Cost Times="121" Gold="150" />
-    <Cost Times="122" Gold="150" />
-    <Cost Times="123" Gold="150" />
-    <Cost Times="124" Gold="150" />
-    <Cost Times="125" Gold="150" />
-    <Cost Times="126" Gold="150" />
-    <Cost Times="127" Gold="150" />
-    <Cost Times="128" Gold="150" />
-    <Cost Times="129" Gold="150" />
-    <Cost Times="130" Gold="150" />
-    <Cost Times="131" Gold="150" />
-    <Cost Times="132" Gold="150" />
-    <Cost Times="133" Gold="150" />
-    <Cost Times="134" Gold="150" />
-    <Cost Times="135" Gold="150" />
-    <Cost Times="136" Gold="150" />
-    <Cost Times="137" Gold="150" />
-    <Cost Times="138" Gold="150" />
-    <Cost Times="139" Gold="150" />
-    <Cost Times="140" Gold="150" />
-    <Cost Times="141" Gold="150" />
-    <Cost Times="142" Gold="150" />
-    <Cost Times="143" Gold="150" />
-    <Cost Times="144" Gold="150" />
-    <Cost Times="145" Gold="150" />
-    <Cost Times="146" Gold="150" />
-    <Cost Times="147" Gold="150" />
-    <Cost Times="148" Gold="150" />
-    <Cost Times="149" Gold="150" />
-    <Cost Times="150" Gold="150" />
-    <Cost Times="151" Gold="150" />
-    <Cost Times="152" Gold="150" />
-    <Cost Times="153" Gold="150" />
-    <Cost Times="154" Gold="150" />
-    <Cost Times="155" Gold="150" />
-    <Cost Times="156" Gold="150" />
-    <Cost Times="157" Gold="150" />
-    <Cost Times="158" Gold="150" />
-    <Cost Times="159" Gold="150" />
-    <Cost Times="160" Gold="150" />
-    <Cost Times="161" Gold="150" />
-    <Cost Times="162" Gold="150" />
-    <Cost Times="163" Gold="150" />
-    <Cost Times="164" Gold="150" />
-    <Cost Times="165" Gold="150" />
-    <Cost Times="166" Gold="150" />
-    <Cost Times="167" Gold="150" />
-    <Cost Times="168" Gold="150" />
-    <Cost Times="169" Gold="150" />
-    <Cost Times="170" Gold="150" />
-    <Cost Times="171" Gold="150" />
-    <Cost Times="172" Gold="150" />
-    <Cost Times="173" Gold="150" />
-    <Cost Times="174" Gold="150" />
-    <Cost Times="175" Gold="150" />
-    <Cost Times="176" Gold="150" />
-    <Cost Times="177" Gold="150" />
-    <Cost Times="178" Gold="150" />
-    <Cost Times="179" Gold="150" />
-    <Cost Times="180" Gold="150" />
-    <Cost Times="181" Gold="150" />
-    <Cost Times="182" Gold="150" />
-    <Cost Times="183" Gold="150" />
-    <Cost Times="184" Gold="150" />
-    <Cost Times="185" Gold="150" />
-    <Cost Times="186" Gold="150" />
-    <Cost Times="187" Gold="150" />
-    <Cost Times="188" Gold="150" />
-    <Cost Times="189" Gold="150" />
-    <Cost Times="190" Gold="150" />
-    <Cost Times="191" Gold="150" />
-    <Cost Times="192" Gold="150" />
-    <Cost Times="193" Gold="150" />
-    <Cost Times="194" Gold="150" />
-    <Cost Times="195" Gold="150" />
-    <Cost Times="196" Gold="150" />
-    <Cost Times="197" Gold="150" />
-    <Cost Times="198" Gold="150" />
-    <Cost Times="199" Gold="150" />
-    <Cost Times="200" Gold="150" />
+    <Cost Gold="2" Times="1" />
+    <Cost Gold="2" Times="2" />
+    <Cost Gold="2" Times="3" />
+    <Cost Gold="5" Times="4" />
+    <Cost Gold="5" Times="5" />
+    <Cost Gold="5" Times="6" />
+    <Cost Gold="10" Times="7" />
+    <Cost Gold="10" Times="8" />
+    <Cost Gold="10" Times="9" />
+    <Cost Gold="10" Times="10" />
+    <Cost Gold="10" Times="11" />
+    <Cost Gold="10" Times="12" />
+    <Cost Gold="15" Times="13" />
+    <Cost Gold="15" Times="14" />
+    <Cost Gold="15" Times="15" />
+    <Cost Gold="15" Times="16" />
+    <Cost Gold="15" Times="17" />
+    <Cost Gold="15" Times="18" />
+    <Cost Gold="20" Times="19" />
+    <Cost Gold="20" Times="20" />
+    <Cost Gold="20" Times="21" />
+    <Cost Gold="20" Times="22" />
+    <Cost Gold="20" Times="23" />
+    <Cost Gold="20" Times="24" />
+    <Cost Gold="40" Times="25" />
+    <Cost Gold="40" Times="26" />
+    <Cost Gold="40" Times="27" />
+    <Cost Gold="40" Times="28" />
+    <Cost Gold="40" Times="29" />
+    <Cost Gold="40" Times="30" />
+    <Cost Gold="40" Times="31" />
+    <Cost Gold="40" Times="32" />
+    <Cost Gold="40" Times="33" />
+    <Cost Gold="60" Times="34" />
+    <Cost Gold="60" Times="35" />
+    <Cost Gold="60" Times="36" />
+    <Cost Gold="60" Times="37" />
+    <Cost Gold="60" Times="38" />
+    <Cost Gold="60" Times="39" />
+    <Cost Gold="60" Times="40" />
+    <Cost Gold="60" Times="41" />
+    <Cost Gold="60" Times="42" />
+    <Cost Gold="80" Times="43" />
+    <Cost Gold="80" Times="44" />
+    <Cost Gold="80" Times="45" />
+    <Cost Gold="80" Times="46" />
+    <Cost Gold="80" Times="47" />
+    <Cost Gold="80" Times="48" />
+    <Cost Gold="80" Times="49" />
+    <Cost Gold="80" Times="50" />
+    <Cost Gold="80" Times="51" />
+    <Cost Gold="80" Times="52" />
+    <Cost Gold="80" Times="53" />
+    <Cost Gold="80" Times="54" />
+    <Cost Gold="100" Times="55" />
+    <Cost Gold="100" Times="56" />
+    <Cost Gold="100" Times="57" />
+    <Cost Gold="100" Times="58" />
+    <Cost Gold="100" Times="59" />
+    <Cost Gold="100" Times="60" />
+    <Cost Gold="100" Times="61" />
+    <Cost Gold="100" Times="62" />
+    <Cost Gold="100" Times="63" />
+    <Cost Gold="100" Times="64" />
+    <Cost Gold="100" Times="65" />
+    <Cost Gold="100" Times="66" />
+    <Cost Gold="120" Times="67" />
+    <Cost Gold="120" Times="68" />
+    <Cost Gold="120" Times="69" />
+    <Cost Gold="120" Times="70" />
+    <Cost Gold="120" Times="71" />
+    <Cost Gold="120" Times="72" />
+    <Cost Gold="120" Times="73" />
+    <Cost Gold="120" Times="74" />
+    <Cost Gold="120" Times="75" />
+    <Cost Gold="120" Times="76" />
+    <Cost Gold="120" Times="77" />
+    <Cost Gold="120" Times="78" />
+    <Cost Gold="120" Times="79" />
+    <Cost Gold="120" Times="80" />
+    <Cost Gold="120" Times="81" />
+    <Cost Gold="150" Times="82" />
+    <Cost Gold="150" Times="83" />
+    <Cost Gold="150" Times="84" />
+    <Cost Gold="150" Times="85" />
+    <Cost Gold="150" Times="86" />
+    <Cost Gold="150" Times="87" />
+    <Cost Gold="150" Times="88" />
+    <Cost Gold="150" Times="89" />
+    <Cost Gold="150" Times="90" />
+    <Cost Gold="150" Times="91" />
+    <Cost Gold="150" Times="92" />
+    <Cost Gold="150" Times="93" />
+    <Cost Gold="150" Times="94" />
+    <Cost Gold="150" Times="95" />
+    <Cost Gold="150" Times="96" />
+    <Cost Gold="150" Times="97" />
+    <Cost Gold="150" Times="98" />
+    <Cost Gold="150" Times="99" />
+    <Cost Gold="150" Times="100" />
+    <Cost Gold="150" Times="101" />
+    <Cost Gold="150" Times="102" />
+    <Cost Gold="150" Times="103" />
+    <Cost Gold="150" Times="104" />
+    <Cost Gold="150" Times="105" />
+    <Cost Gold="150" Times="106" />
+    <Cost Gold="150" Times="107" />
+    <Cost Gold="150" Times="108" />
+    <Cost Gold="150" Times="109" />
+    <Cost Gold="150" Times="110" />
+    <Cost Gold="150" Times="111" />
+    <Cost Gold="150" Times="112" />
+    <Cost Gold="150" Times="113" />
+    <Cost Gold="150" Times="114" />
+    <Cost Gold="150" Times="115" />
+    <Cost Gold="150" Times="116" />
+    <Cost Gold="150" Times="117" />
+    <Cost Gold="150" Times="118" />
+    <Cost Gold="150" Times="119" />
+    <Cost Gold="150" Times="120" />
+    <Cost Gold="150" Times="121" />
+    <Cost Gold="150" Times="122" />
+    <Cost Gold="150" Times="123" />
+    <Cost Gold="150" Times="124" />
+    <Cost Gold="150" Times="125" />
+    <Cost Gold="150" Times="126" />
+    <Cost Gold="150" Times="127" />
+    <Cost Gold="150" Times="128" />
+    <Cost Gold="150" Times="129" />
+    <Cost Gold="150" Times="130" />
+    <Cost Gold="150" Times="131" />
+    <Cost Gold="150" Times="132" />
+    <Cost Gold="150" Times="133" />
+    <Cost Gold="150" Times="134" />
+    <Cost Gold="150" Times="135" />
+    <Cost Gold="150" Times="136" />
+    <Cost Gold="150" Times="137" />
+    <Cost Gold="150" Times="138" />
+    <Cost Gold="150" Times="139" />
+    <Cost Gold="150" Times="140" />
+    <Cost Gold="150" Times="141" />
+    <Cost Gold="150" Times="142" />
+    <Cost Gold="150" Times="143" />
+    <Cost Gold="150" Times="144" />
+    <Cost Gold="150" Times="145" />
+    <Cost Gold="150" Times="146" />
+    <Cost Gold="150" Times="147" />
+    <Cost Gold="150" Times="148" />
+    <Cost Gold="150" Times="149" />
+    <Cost Gold="150" Times="150" />
+    <Cost Gold="150" Times="151" />
+    <Cost Gold="150" Times="152" />
+    <Cost Gold="150" Times="153" />
+    <Cost Gold="150" Times="154" />
+    <Cost Gold="150" Times="155" />
+    <Cost Gold="150" Times="156" />
+    <Cost Gold="150" Times="157" />
+    <Cost Gold="150" Times="158" />
+    <Cost Gold="150" Times="159" />
+    <Cost Gold="150" Times="160" />
+    <Cost Gold="150" Times="161" />
+    <Cost Gold="150" Times="162" />
+    <Cost Gold="150" Times="163" />
+    <Cost Gold="150" Times="164" />
+    <Cost Gold="150" Times="165" />
+    <Cost Gold="150" Times="166" />
+    <Cost Gold="150" Times="167" />
+    <Cost Gold="150" Times="168" />
+    <Cost Gold="150" Times="169" />
+    <Cost Gold="150" Times="170" />
+    <Cost Gold="150" Times="171" />
+    <Cost Gold="150" Times="172" />
+    <Cost Gold="150" Times="173" />
+    <Cost Gold="150" Times="174" />
+    <Cost Gold="150" Times="175" />
+    <Cost Gold="150" Times="176" />
+    <Cost Gold="150" Times="177" />
+    <Cost Gold="150" Times="178" />
+    <Cost Gold="150" Times="179" />
+    <Cost Gold="150" Times="180" />
+    <Cost Gold="150" Times="181" />
+    <Cost Gold="150" Times="182" />
+    <Cost Gold="150" Times="183" />
+    <Cost Gold="150" Times="184" />
+    <Cost Gold="150" Times="185" />
+    <Cost Gold="150" Times="186" />
+    <Cost Gold="150" Times="187" />
+    <Cost Gold="150" Times="188" />
+    <Cost Gold="150" Times="189" />
+    <Cost Gold="150" Times="190" />
+    <Cost Gold="150" Times="191" />
+    <Cost Gold="150" Times="192" />
+    <Cost Gold="150" Times="193" />
+    <Cost Gold="150" Times="194" />
+    <Cost Gold="150" Times="195" />
+    <Cost Gold="150" Times="196" />
+    <Cost Gold="150" Times="197" />
+    <Cost Gold="150" Times="198" />
+    <Cost Gold="150" Times="199" />
+    <Cost Gold="150" Times="200" />
   </QZCost>
 </ZhuanLongChi>

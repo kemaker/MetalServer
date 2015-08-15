@@ -221,10 +221,11 @@
 	<Guide GroupID="9" GuideID="1" JvQingID="Huấn luyện để tăng thuộc tính nhân vật, có xác xuất hạ cấp thuộc tính. Chú ý khi click Lưu." GuideMsg="Click nhân vật"/>
 	<Guide GroupID="9" GuideID="2" JvQingID="" GuideMsg="Click huấn luyện"/>
 	<Guide GroupID="9" GuideID="3" JvQingID="" GuideMsg="Chọn Tướng"/>
-	<Guide GroupID="9" GuideID="4" JvQingID="" GuideMsg="Click chọn"/>
+	<Guide GroupID="9" GuideID="4" JvQingID="" GuideMsg="Click chọn"/>      
 	<Guide GroupID="9" GuideID="5" JvQingID="" GuideMsg="Click huấn luyện"/>
-	<Guide GroupID="9" GuideID="6" JvQingID="" GuideMsg="Click OK"/>
-	<Guide GroupID="9" GuideID="7" JvQingID="" GuideMsg="Click đóng"/>
+	<Guide GroupID="9" GuideID="6" JvQingID="" GuideMsg="Click OK"/>        
+	<Guide GroupID="9" GuideID="7" JvQingID="" GuideMsg="Click đóng"/>      
+
 	<!-- 仙法 功能开启!  -->
 	<Guide GroupID="10" GuideID="1" JvQingID="Nâng cấp Tiên Pháp để tăng thuộc tính tương ứng của toàn bộ Tướng." GuideMsg="Click nhân vật"/>
 	<Guide GroupID="10" GuideID="2" JvQingID="" GuideMsg="Click Tiên Pháp"/>
@@ -355,4 +356,9 @@
 	<!-- 法宝升级中的可返回引导 玩家点了其他物品,箭头返回上一步! -->
 	<Guide GroupID="-1" GuideID="13" JvQingID="" GuideMsg="Click chọn"/>
 	<Guide GroupID="-1" GuideID="14" JvQingID="" GuideMsg="Click dùng"/>
+	<!-- 阵眼引导! -->
+  <Guide GroupID="28" GuideID="1" JvQingID="" GuideMsg="Click ra trận"/>
+  <Guide GroupID="28" GuideID="2" JvQingID="" GuideMsg="Click Trận Nhãn"/>
+  <Guide GroupID="28" GuideID="3" JvQingID="" GuideMsg="Click Mở khóa"/>
+	
 </Guides>

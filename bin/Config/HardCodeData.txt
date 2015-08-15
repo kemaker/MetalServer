@@ -285,17 +285,17 @@
 10000288,Mảnh Phong Thần
 10000289,Mảnh tiến cấp
 10000290,Chiến công
-10000291,{0}(mảnh)
+10000291,mảnh {0}
 10000292,Vật phẩm chưa rõ,ID:{0} loại{1}
 10000293,Thu thập đủ mảnh tướng sẽ chiêu mộ được tướng này
 10000294,Không có kỹ năng
 10000295,Thu thập đủ mảnh pháo bảo sẽ ghép được pháp bảo này
 10000296,Ra trận PB nhận được, tài nguyên cần khi nâng cấp tướng
 10000297,Lưu trữ trong Chuyển Long Trì, dùng nâng cấp tướng
-10000298,Tự động nhận được sau khi thu thập tướng đã chiêu mộ và mảnh, dùng tiến cấp tướng
+10000298,Dùng để nâng cấp tướng
 10000299,Tiền hiếm trong Yêu Tiên Truyện
 10000300,Tiền thông dụng trong Yêu Tiên Truyện
-10000301,Cứ 30ph sẽ hồi 5 điểm, ra trận PB thường/tướng sẽ tiêu hao thể lực
+10000301,Mỗi 5 phút hồi 1 thể lực, tham gia phụ bản thường/Tướng sẽ tiêu hao thể lực
 10000302,Vượt qua sự kiện PVP nhận được, dùng quay thẻ thường Tụ Tiên Đài
 10000303,Ra trận PB thường nhận được, dùng tăng tiên pháp
 10000304,Dùng trong phe chiến
@@ -444,18 +444,18 @@
 10000447,Không đủ exp tích lũy
 10000448,Lỗi dữ liệu nạp
 10000449,Nạp tiếp {0}KNB, sẽ trở thành VIP {1}
-10000450,Đạt VIP1, có thể dùng:\n1.Mỗi ngày rút thẻ thường 10 lần\n2.Chuyển Long Chì mỗi ngày có thể trưng thu nhanh 12 lần\n3. Bao gồm tất cả đặc quyền của cấp vip 0
-10000451,Đạt VIP2, có thể dùng:\n1. Mỗi ngày mua thể lực 2 lần\n2. Mỗi ngày có thể dùng Thiên Phú Linh Thạch 10 lần\n3. Mỗi ngày mua thêm 7 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm 3 lần\n5. Có thể dùng huấn luyện trung cấp để nâng cao thuộc tính tướng\n6. Mỗi ngày trưng thu nhanh mỏ Linh Thạch 6 lần\n7. Mỗi ngày có thể làm mới Chợ 1 lần\n8.Mỗi ngày trưng thu Chuyển Long Chì 14 lần\n9. bao gồm tất cả đặc quyền vip1
-10000452,Đạt VIP3, có thể dùng:\n1. Mỗi ngày mua thể lực 4 lần\n2. Mỗi ngày có thể dùng Thiên Phú Linh Thạch 20 lần\n3. Mỗi ngày mua thêm 8 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  4 lần\n5. Có thể dùng huấn luyện trung cấp để nâng cao thuộc tính tướng\n6. Mỗi ngày trưng thu nhanh mỏ Linh Thạch 12 lần\n7. Mở tính năng săn mệnh nhanh và tự động ghép mệnh các\n8. Mỗi ngày có thể làm mới Chợ 2 lần\n9.Mỗi ngày trưng thu Chuyển Long Chì 20 lần\n10. bao gồm tất cả đặc quyền vip2
-10000453,Đạt VIP4, có thể dùng:\n1. Mỗi ngày mua thể lực 6 lần\n2. Mỗi ngày có thể dùng Thiên Phú Linh Thạch 30 lần\n3. Mỗi ngày mua thêm 9 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  5 lần\n5. Mỗi ngày trưng thu mỏ Linh Thạch 18 lần\n6.Mỗi ngày trưng thu nhanh Chuyển Long Chì 30 lần\n7. bao gồm tất cả đặc quyền vip3
-10000454,Đạt VIP5, có thể dùng:\n1. Mỗi ngày mua thể lực 8 lần\n2. Mỗi ngày có thể dùng Thiên Phú Linh Thạch 40 lần\n3. Mỗi ngày mua thêm 10 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  6 lần\n5. Mỗi ngày trưng thu mỏ Linh Thạch 24 lần\n6.Mỗi ngày trưng thu nhanh Chuyển Long Chì 40 lần\n7. bao gồm tất cả đặc quyền vip4
-10000455,Đạt VIP6, có thể dùng:\n1. Mỗi ngày mua thể lực 11 lần\n2. Mỗi ngày có thể dùng Thiên Phú Linh Thạch 55 lần\n3. Mỗi ngày mua thêm 11 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  7 lần\n5. Có thể dùng huấn luyện cao cấp để nâng cao thuộc tính tướng\n6. Mỗi ngày trưng thu nhanh mỏ Linh Thạch 33 lần\n7. Số lần Thám hiểm miễn phí hàng ngày tăng lên 10 lần\n8. Mỗi ngày mua thêm 10 lần Thám hiểm\n9.Mỗi ngày trưng thu Chuyển Long Chì 50 lần\n10. bao gồm tất cả đặc quyền vip5
-10000456,Đạt VIP7 có thể dùng:\n1. Mỗi ngày mua thể lực 14 lần\n2. Mỗi ngày dùng Thiên Phú Linh Thạch 70 lần\n3. Mỗi ngày mua thêm 12 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  8 lần\n5. Mỗi ngày trưng thu mỏ Linh Thạch 42 lần\n6.Mỗi ngày trưng thu nhanh Chuyển Long Chì 60 lần\n7. bao gồm tất cả đặc quyền vip6
-10000457,Đạt VIP8 dùng:\n1. Mỗi ngày mua thể lực 18 lần\n2. Mỗi ngày dùng Thiên Phú Linh Thạch 90 lần\n3. Mỗi ngày mua thêm 13 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  9 lần\n5. dùng huấn luyện cao cấp để nâng cao thuộc tính tướng\n6. Mỗi ngày trưng thu nhanh mỏ Linh Thạch 54 lần\n7. Số lần Thám hiểm miễn phí hàng ngày tăng lên 11 lần\n8. Mỗi ngày mua thêm 15 lần Thám hiểm\n9.Mỗi ngày trưng thu Chuyển Long Chì 70 lần\n10. bao gồm tất cả đặc quyền vip7
-10000458,Đạt VIP9 dùng:\n1. Mỗi ngày mua thể lực 22 lần\n2. Mỗi ngày dùng Thiên Phú Linh Thạch 110 lần\n3. Mỗi ngày mua thêm 14 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  10 lần\n5. Mỗi ngày trưng thu mỏ Linh Thạch 66 lần\n6.Mỗi ngày trưng thu nhanh Chuyển Long Chì 80 lần\n7. bao gồm tất cả đặc quyền vip8
-10000459,Đạt VIP10 dùng:\n1. Mỗi ngày mua thể lực 27 lần\n2. Mỗi ngày dùng Thiên Phú Linh Thạch 135 lần\n3. Mỗi ngày mua thêm 15 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  11 lần\n5. Mỗi ngày trưng thu mỏ Linh Thạch 81 lần\n7. Số lần Thám hiểm miễn phí hàng ngày tăng lên 12 lần\n8. Mỗi ngày mua thêm 20 lần Thám hiểm\n9. Mỗi ngày có thể làm mới Chợ 8 lần\n10.Mỗi ngày trưng thu Chuyển Long Chì 90 lần\n11. bao gồm tất cả đặc quyền vip9
-10000460,Đạt VIP11 dùng:\n1. Mỗi ngày mua thể lực 32 lần\n2. Mỗi ngày dùng Thiên Phú Linh Thạch 160 lần\n3. Mỗi ngày mua thêm 16 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  12 lần\n5. Mỗi ngày trưng thu mỏ Linh Thạch 96 lần\n6. Mỗi ngày có thể làm mới Chợ 16 lần\n7.Mỗi ngày trưng thu nhanh Chuyển Long Chì 100 lần\n8. bao gồm tất cả đặc quyền vip10
-10000461,Đạt VIP12 dùng:\n1. Mỗi ngày mua thể lực 37 lần\n2. Mỗi ngày dùng Thiên Phú Linh Thạch 185 lần\n3. Mỗi ngày mua thêm 17 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  13 lần\n5. Mỗi ngày trưng thu mỏ Linh Thạch 111 lần\n6. Mỗi ngày có thể làm mới Chợ 24 lần\n7.Mỗi ngày trưng thu nhanh Chuyển Long Chì 110 lần\n8. bao gồm tất cả đặc quyền vip11
+10000450,Đạt VIP1, có thể dùng:\n1.Mỗi ngày được mua thể lực 3 lần\n2.Mỗi ngày được dùng Thiên Thạch 10 lần\n3.Phụ bản Tướng mỗi ngày được cài lại thêm 2 lần\n4.Mỗi ngày được trưng thu Linh thạch nhanh 5 lần\n5.Mỗi ngày trong tuần tra được mua thêm 20 lần\n6.Mỗi ngày làm mới chợ đen 10 lần\n7.Chuyển Long Trì mỗi ngày được trưng thu nhanh 12 lần
+10000451,Đạt VIP2, có thể dùng:\n1.Mỗi ngày được mua thể lực 6 lần\n2.Mỗi ngày được dùng Thiên Thạch 20 lần\n3.Mỗi ngày trong Đấu Trường được mua thêm 10 lần thách đấu\n4.Phụ bản Tướng mỗi ngày được cài lại thêm 4 lần\n5.Mỗi ngày được trưng thu Linh thạch nhanh 8 lần\n6.Mỗi ngày trong tuần tra được mua thêm 30 lần\n7.Mỗi ngày làm mới chợ đen 15 lần\n8.Chuyển Long Trì mỗi ngày được trưng thu nhanh 14 lần\n9.Gồm toàn bộ quyền VIP1
+10000452,Đạt VIP3, có thể dùng:\n1.Mỗi ngày được mua thể lực 10 lần\n2.Mỗi ngày được dùng Thiên Thạch 30 lần\n3.Mỗi ngày trong Đấu Trường được mua thêm 12 lần thách đấu\n4.Phụ bản Tướng mỗi ngày được cài lại thêm 5 lần\n5.Được dùng huấn luyện cao cấp nâng t.tính tướng\n6.Mỗi ngày được trưng thu Linh thạch nhanh 12 lần\n7.Mỗi ngày trong tuần tra được mua thêm 40 lần\n8.Mở săn mệnh nhanh và tự động ghép Mệnh cách\n9.Mỗi ngày làm mới chợ đen 20 lần\n10.Chuyển Long Trì mỗi ngày được trưng thu nhanh 20 lần\n11.Gồm toàn bộ quyền VIP2
+10000453,Đạt VIP4, có thể dùng:\n1.Mỗi ngày được mua thể lực 15 lần\n2.Mỗi ngày được dùng Thiên Thạch 40 lần\n3.Mỗi ngày trong Đấu Trường được mua thêm 15 lần thách đấu\n4.Phụ bản Tướng mỗi ngày được cài lại thêm 6 lần\n5.Mỗi ngày được trưng thu Linh thạch nhanh 18 lần\n6.Lượt tuần tra miễn phí mỗi ngày đạt 9 lần\n7.Mỗi ngày trong tuần tra được mua thêm 50 lần\n8.Mỗi ngày làm mới chợ đen 25 lần\n9.Chuyển Long Trì mỗi ngày được trưng thu nhanh 30 lần\n10.Gồm toàn bộ quyền VIP3
+10000454,Đạt VIP5, có thể dùng:\n1.Mỗi ngày được mua thể lực 20 lần\n2.Mỗi ngày được dùng Thiên Thạch 60 lần\n3.Mỗi ngày trong Đấu Trường được mua thêm 18 lần thách đấu\n4.Phụ bản Tướng mỗi ngày được cài lại thêm 8 lần\n5.Mỗi ngày được trưng thu Linh thạch nhanh 24 lần\n6.Mỗi ngày trong tuần tra được mua thêm 60 lần\n7.Mỗi ngày làm mới chợ đen 30 lần\n8.Chuyển Long Trì mỗi ngày được trưng thu nhanh 40 lần\n9.Gồm toàn bộ quyền VIP4
+10000455,Đạt VIP6, có thể dùng:\n1.Mỗi ngày được mua thể lực 25 lần\n2.Mỗi ngày được dùng Thiên Thạch 80 lần\n3.Mỗi ngày trong Đấu Trường được mua thêm 20 lần thách đấu\n4.Phụ bản Tướng mỗi ngày được cài lại thêm 10 lần\n5.Được dùng huấn luyện siêu cấp nâng t.tính tướng\n6.Mỗi ngày được trưng thu Linh thạch nhanh 33 lần\n7.Lượt tuần tra miễn phí mỗi ngày đạt 10 lần\n8.Mỗi ngày trong tuần tra được mua thêm 70 lần\n9.Mỗi ngày làm mới chợ đen 40 lần\n10.Chuyển Long Trì mỗi ngày được trưng thu nhanh 50 lần\n11.Gồm toàn bộ quyền VIP5
+10000456,Đạt VIP7, có thể dùng:\n1.Mỗi ngày được mua thể lực 35 lần\n2.Mỗi ngày được dùng Thiên Thạch 100 lần\n3.Mỗi ngày trong Đấu Trường được mua thêm 22 lần thách đấu\n4.Phụ bản Tướng mỗi ngày được cài lại thêm 11 lần\n5.Mỗi ngày được trưng thu Linh thạch nhanh 42 lần\n6.Mỗi ngày trong tuần tra được mua thêm 80 lần\n7.Mỗi ngày làm mới chợ đen 50 lần\n8.Chuyển Long Trì mỗi ngày được trưng thu nhanh 60 lần\n9.Gồm toàn bộ quyền VIP6
+10000457,Đạt VIP8 dùng:\n1.Mỗi ngày được mua thể lực 45 lần\n2.Mỗi ngày được dùng Thiên Thạch 120 lần\n3.Mỗi ngày trong Đấu Trường được mua thêm 25 lần thách đấu\n4.Phụ bản Tướng mỗi ngày được cài lại thêm 12 lần\n5.Được dùng huấn luyện thần cấp nâng t.tính tướng\n6.Mỗi ngày được trưng thu Linh thạch nhanh 54 lần\n7.Lượt tuần tra miễn phí mỗi ngày đạt 11 lần\n8.Mỗi ngày trong tuần tra được mua thêm 90 lần\n9.Mỗi ngày làm mới chợ đen 60 lần\n10.Chuyển Long Trì mỗi ngày được trưng thu nhanh 70 lần\n11.Gồm toàn bộ quyền VIP7
+10000458,Đạt VIP9 dùng:\n1.Mỗi ngày được mua thể lực 55 lần\n2.Mỗi ngày được dùng Thiên Thạch 150 lần\n3.Mỗi ngày trong Đấu Trường được mua thêm 27 lần thách đấu\n4.Phụ bản Tướng mỗi ngày được cài lại thêm 13 lần\n5.Mỗi ngày được trưng thu Linh thạch nhanh 66 lần\n6.Mỗi ngày trong tuần tra được mua thêm 100 lần\n7.Mỗi ngày làm mới chợ đen 70 lần\n8.Chuyển Long Trì mỗi ngày được trưng thu nhanh 80 lần\n9.Gồm toàn bộ quyền VIP8
+10000459,Đạt VIP10 dùng:\n1.Mỗi ngày được mua thể lực 65 lần\n2.Mỗi ngày được dùng Thiên Thạch 200 lần\n3.Mỗi ngày trong Đấu Trường được mua thêm 30 lần thách đấu\n4.Phụ bản Tướng mỗi ngày được cài lại thêm 14 lần\n5.Mỗi ngày được trưng thu Linh thạch nhanh 81 lần\n6.Lượt tuần tra miễn phí mỗi ngày đạt 12 lần\n7.Mỗi ngày trong tuần tra được mua thêm 150 lần\n8.Mỗi ngày làm mới chợ đen 80 lần\n9.Chuyển Long Trì mỗi ngày được trưng thu nhanh 90 lần\n10.Gồm toàn bộ quyền VIP9
+10000460,Đạt VIP11 dùng:\n1.Mỗi ngày được mua thể lực 75 lần\n2.Mỗi ngày được dùng Thiên Thạch 250 lần\n3.Mỗi ngày trong Đấu Trường được mua thêm 32 lần thách đấu\n4.Phụ bản Tướng mỗi ngày được cài lại thêm 15 lần\n5.Mỗi ngày được trưng thu Linh thạch nhanh 96 lần\n6.Mỗi ngày trong tuần tra được mua thêm 170 lần\n7.Mỗi ngày làm mới chợ đen 90 lần\n8.Chuyển Long Trì mỗi ngày được trưng thu nhanh 100 lần\n9.Gồm toàn bộ quyền VIP10
+10000461,Đạt VIP12 dùng:\n1.Mỗi ngày được mua thể lực 85 lần\n2.Mỗi ngày được dùng Thiên Thạch 350 lần\n3.Mỗi ngày trong Đấu Trường được mua thêm 35 lần thách đấu\n4.Phụ bản Tướng mỗi ngày được cài lại thêm 16 lần\n5.Mỗi ngày được trưng thu Linh thạch nhanh 111 lần\n6.Mỗi ngày trong tuần tra được mua thêm 200 lần\n7.Mỗi ngày làm mới chợ đen 100 lần\n8.Chuyển Long Trì mỗi ngày được trưng thu nhanh 110 lần\n9.Gồm toàn bộ quyền VIP11
 10000462,không còn lượt làm mới!
 10000463,(Hôm nay còn được làm mới {0} lần)
 10000464,Làm mới vật phẩm
@@ -489,9 +489,9 @@
 10000511,Không tồn tại tài nguyên chủ tướng này:
 10000512,Không tồn tại tài nguyên tiểu binh này:
 10000523,Không nhận được đạo cụ, không thể dùng
-10000524,Đạt VIP13 dùng:\n1. Mỗi ngày mua thể lực 43 lần\n2. Mỗi ngày dùng Thiên Phú Linh Thạch 215 lần\n3. Mỗi ngày mua thêm 18 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  14 lần\n5. Mỗi ngày trưng thu mỏ Linh Thạch 129 lần\n7. Số lần Thám hiểm miễn phí hàng ngày tăng lên 13 lần\n8. Mỗi ngày mua thêm 25 lần Thám hiểm\n9. Mỗi ngày có thể làm mới Chợ 32 lần\n10.Mỗi ngày trưng thu Chuyển Long Chì 120 lần\n11. bao gồm tất cả đặc quyền vip12
-10000525,Đạt VIP14 dùng:\n1. Mỗi ngày mua thể lực 49 lần\n2. Mỗi ngày dùng Thiên Phú Linh Thạch 245 lần\n3. Mỗi ngày mua thêm 19 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  15 lần\n5. Mỗi ngày trưng thu mỏ Linh Thạch 147 lần\n6. Mỗi ngày có thể làm mới Chợ 40 lần\n7.Mỗi ngày trưng thu Chuyển Long Chì 130 lần\n8. bao gồm tất cả đặc quyền vip13
-10000526,Đạt VIP15 dùng:\n1. Mỗi ngày mua thể lực 200 lần\n2. Mỗi ngày dùng Thiên Phú Linh Thạch 1000 lần\n3. Mỗi ngày mua thêm 200 lần khiêu chiến đấu trường\n4. P.bản Tướng mỗi ngày sẽ làm mới thêm  200 lần\n5. Mỗi ngày trưng thu mỏ Linh Thạch 600 lần\n7. Số lần Thám hiểm miễn phí hàng ngày tăng lên 15 lần\n8. Mỗi ngày mua thêm 200 lần Thám hiểm\n9. Mỗi ngày có thể làm mới Chợ 200 lần\n10.Mỗi ngày trưng thu Chuyển Long Chì 200 lần\n11. bao gồm tất cả đặc quyền vip14
+10000524,Đạt VIP13 dùng:\n1.Mỗi ngày được mua thể lực 95 lần\n2.Mỗi ngày được dùng Thiên Thạch 450 lần\n3.Mỗi ngày trong Đấu Trường được mua thêm 37 lần thách đấu\n4.Phụ bản Tướng mỗi ngày được cài lại thêm 18 lần\n5.Mỗi ngày được trưng thu Linh thạch nhanh 129 lần\n6.Lượt tuần tra miễn phí mỗi ngày đạt 13 lần\n7.Mỗi ngày trong tuần tra được mua thêm 220 lần\n8.Mỗi ngày làm mới chợ đen 120 lần\n9.Chuyển Long Trì mỗi ngày được trưng thu nhanh 120 lần\n10.Gồm toàn bộ quyền VIP12
+10000525,Đạt VIP14 dùng:\n1.Mỗi ngày được mua thể lực 120 lần\n2.Mỗi ngày được dùng Thiên Thạch 600 lần\n3.Mỗi ngày trong Đấu Trường được mua thêm 40 lần thách đấu\n4.Phụ bản Tướng mỗi ngày được cài lại thêm 20 lần\n5.Mỗi ngày được trưng thu Linh thạch nhanh 147 lần\n6.Mỗi ngày trong tuần tra được mua thêm 250 lần\n7.Mỗi ngày làm mới chợ đen 150 lần\n8.Chuyển Long Trì mỗi ngày được trưng thu nhanh 130 lần\n9.Gồm toàn bộ quyền VIP13
+10000526,Đạt VIP15 dùng:\n1.Mỗi ngày được mua thể lực 500 lần\n2.Mỗi ngày được dùng Thiên Thạch 1500 lần\n3.Mỗi ngày trong Đấu Trường được mua thêm 200 lần thách đấu\n4.Phụ bản Tướng mỗi ngày được cài lại thêm 200 lần\n5.Mỗi ngày được trưng thu Linh thạch nhanh 600 lần\n6.Lượt tuần tra miễn phí mỗi ngày đạt 15 lần\n7.Mỗi ngày trong tuần tra được mua thêm 500 lần\n8.Mỗi ngày làm mới chợ đen 500 lần\n9.Chuyển Long Trì mỗi ngày được trưng thu nhanh 200 lần\n10.Gồm toàn bộ quyền VIP14
 20000000,Cấp hiện tại:{0}
 20000001,Đá có thể trưng thu
 20000002,Đá có thể trưng thu nhanh
@@ -514,7 +514,7 @@
 20000019,Có tiêu hao [33ffff]{0}[-]
 20000020,thuê [ffd83c]{0}[-]- {1}
 20000021,Trong trận hình tồn tại tướng loại trừ nhau, không thể ra trận
-20000022,Sự kiện sẽ mở vào {0}:00
+20000022,Sự kiện sẽ mở vào {0:00}:{1:00}
 20000023,Đếm ngược kết thúc thí luyện
 20000024,{0:00} phút {1:00} giây
 20000025,Đang trị thương {0:00}:{1:00}
@@ -543,7 +543,7 @@
 20000047,Không được để trống nội dung nhập!
 20000048,Bang cấp {0} mở sự kiện
 20000049,Cứ điểm tuần sản xuất ra:([00ff41]số lượng nhận thực tế[-]/số lượng tổng)
-20000050,Cứ điểm sản xuất ra:Sau Bang chiến hàng tuần, mỗi cứ điểm sẽ căn cứ theo                  tỷ lệ chiếm hữu của từng Bang phân chia phần thưởng.\n\n Phần thưởng:Tất cả thành viên Bang sẽ nhận phần thưởng thực tế nhận được,                  tướng phụ sẽ nhận được x1.5 phần thưởng, cấp chủ soái                 sẽ nhận được x2 phần thưởng.\n\nĐặc sản cứ điểm:Phần thưởng sau khi cứ điểm sản xuất ra top4 phần thưởng sẽ là                 đặc sản của mỗi cứ điểm, khi Bang hoàn toàn khống chế cứ điểm, chủ                  soái sẽ tự điều chỉnh đặc sản theo nhu cầu bản thân.
+20000050,Cứ điểm sản xuất ra: Sau Bang chiến hàng tuần, mỗi cứ điểm sẽ căn cứ theo tỷ lệ chiếm hữu của từng Bang phân chia phần thưởng.\n\n Phần thưởng: Tất cả thành viên Bang sẽ nhận phần thưởng thực tế nhận được, tướng phụ sẽ nhận được x1.5 phần thưởng, cấp chủ soái sẽ nhận được x2 phần thưởng.\n\nĐặc sản cứ điểm: Phần thưởng sau khi cứ điểm sản xuất ra top4 phần thưởng sẽ là đặc sản của mỗi cứ điểm, khi Bang hoàn toàn khống chế cứ điểm, chủ soái sẽ tự điều chỉnh đặc sản theo nhu cầu bản thân.
 20000051,Bạn hiện là người sở hữu của {0}, \n Bạn được tùy ý điều chỉnh đặc sản của cứ điểm này!
 20000052,Hãy quyết định mệnh lệnh tuần này của quân ta!
 20000053,Tỷ lệ chiếm hữu quân ta:{0}%
@@ -557,10 +557,10 @@
 20000061,Lần chiến đấu này tổng cộng nhận được {0} điểm chiến công, đứng hạng {1} XH chiến công quân ta!
 20000062,Tình báo chiến trường
 20000063,Lực chiến {0}
-20000064,Số người tham chiến {0} người
-20000065,Số người tiến công {0} người
-20000066,Số người thủ {0} người
-20000067,Đợi hồi sinh {0} người
+20000064,Số người tham chiến:{0} người
+20000065,Số người tiến công:{0} người
+20000066,Số người thủ:{0} người
+20000067,Đợi hồi sinh:{0} người
 20000068,Click avatar quân địch\n Phát động chiến đấu!
 20000069,Vẫn còn {0} địch đang thủ
 20000070,Vẫn còn {0} địch đang công
@@ -573,7 +573,7 @@
 20000077,Đợi lệnh
 20000078,Tập kích {0} Bang
 20000079,Tiến quân {0}
-20000080,Bang chiến sẽ mở vào [00ff00]{1:00}:{2:00}[-] {0} hàng tuần
+20000080,Chiến dịch Bang sẽ diễn ra hàng ngày từ [00ff00]{0:00}:{1:00}[-]
 20000081,Đang tiến hành Bang chiến
 20000082,Đang tính kết quả Bang chiến, hãy nhận sau {0} giờ!
 20000083,Lệnh hành quân
@@ -793,7 +793,7 @@
 20000302,Exp Bang
 20000303,Vật tư Bang
 20000304,Thành viên:{0}/{1}
-20000305,Click sửa thông báo
+20000305,        Click sửa thông báo
 20000306,Trong thời gian ứng cử không thể thoát, tiếp tục ứng cử?
 20000307,Không giới hạn người gia nhập
 20000308,Đạt cấp 
@@ -834,3 +834,52 @@
 20000343,Hết lượt đổi thưởng loại này
 20000344,Không đủ vật phẩm đổi
 20000345,[u]Kết bạn[/u]
+20000346,Lỗi tài khoản, không thể đăng nhập
+20000347,Bạn bị cấm chat
+20000348,Thời gian:{0}.{1}.{2}-{3}.{4}.{5}
+20000349,Trong thời gian sự kiện, mỗi ngày nạp 1 lần đạt đủ yêu cầu sẽ nhận thưởng hấp dẫn, mỗi mức thưởng chỉ được nhận 1 lần, nạp không tích lũy
+20000350,Nạp 1 lần {0} KNB
+20000351,Chưa đạt điều kiện
+20000352,Đã gửi thư thưởng
+20000353,Bạn đã nhận quà nạp, hãy kiểm tra hòm thư!
+20000354,Trong sự kiện, tích lũy nạp đạt yêu cầu sẽ nhận thưởng hấp dẫn
+20000355,{0} KNB
+20000356,Tích lũy tiêu đạt mức chỉ định có thể nhận thưởng tương ứng
+20000357,Hiện tích lũy tiêu KNB:{0}
+20000358,Tiêu {0} KNB
+20000359,Đã nhận
+20000360,Hôm nay được nhận {0} KNB
+20000361,Lượt nhận còn:{0}
+20000362,Click rương nhận thưởng
+20000363,Bạn đã nạp {0} KNB, nạp tiếp {1} KNB
+20000364,Mỗi ngày được nhận thêm {0} KNB
+20000365,Trong sự kiện, nạp mức chỉ định sẽ nhận được KNB ưu đãi mỗi ngày, liên tiếp trong 10 ngày sự kiện.
+20000366,Rương trống, mau nạp thôi
+20000367,Hôm nay đã nhận, hãy quay lại vào ngày mai!
+20000368,Rương Thần mỗi ngày chỉ được nhận 1 lần, xác nhận mở rương?
+20000369,Dùng {0} 
+20000370,nâng cấp thẻ này
+20000371,Trong sự kiện, nạp 1 lần đạt mức chỉ định sẽ được nhận thưởng tương ứng qua thư
+20000372,Lượt nhận còn {0}
+20000373,Nạp {0} KNB
+20000374,Lượt đổi còn:{0}
+20000375,Tướng ra trận không thể làm Trận Nhãn
+20000376,Tướng trấn thủ khổng thể làm Trận Nhãn
+20000377,Tướng này đã là Trận Nhãn
+20000378,Lv{0} (Hiện tại)
+20000379,Tăng Trận Nhãn cho toàn bộ tướng ra trận {0}%{1}
+20000380,Lv{0} (Hạ cấp)
+20000381,Tăng Trận Nhãn cho toàn bộ tướng ra trận {0}%{1}
+20000382,Đã đạt tối đa
+20000383,Trận Nhãn không thể ra trận
+20000384,Số trận vị đã đạt tối đa
+20000385,Click avatar đổi Trận Nhãn
+20000386,(Hãy thu thập [0FFFFF]Trận Đồ cổ[-] tăng số trận vị)
+20000387,Mở Trận vị mới
+20000388,Tướng này đã làm Trận Nhãn, không thể thực hiện thao tác này
+20000389,Từ nay đến tháng {0} ngày {1} {2} giờ, tham gia phụ bản thường, phụ bản Thí Luyện và thắng (bao gồm càn quét) có xác suất nhận Quốc kỳ Việt Nam, có thể dùng để đổi thưởng sự kiện.
+20000390,Không đủ số lượng
+20000391,Không đủ lượt
+20000392,Đã quá hạn, không thể mua
+20000393,Tiêu hao nâng trận vị này
+20000394,Máy chủ đang bảo trì, không thể đăng nhập

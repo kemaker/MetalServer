@@ -18,9 +18,9 @@ Item：
 注释结束-->
 
 <DiaoLuo>
-    <Item Type="4" GaiLv="2" ItemID="21003" Count="1"/>
-    <Item Type="4" GaiLv="10" ItemID="21002" Count="1"/>
-    <Item Type="4" GaiLv="10" ItemID="21005" Count="1"/>
-    <Item Type="4" GaiLv="20" ItemID="21001" Count="1"/>
-    <Item Type="4" GaiLv="50" ItemID="21004" Count="1"/>
+    <Item Type="4" GaiLv="5" ItemID="71110" Count="9"/>
+    <Item Type="4" GaiLv="10" ItemID="71110" Count="7"/>
+    <Item Type="4" GaiLv="30" ItemID="71110" Count="5"/>
+    <Item Type="4" GaiLv="50" ItemID="71110" Count="3"/>
+    <Item Type="4" GaiLv="70" ItemID="71110" Count="1"/>
 </DiaoLuo>

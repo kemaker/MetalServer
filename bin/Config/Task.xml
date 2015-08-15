@@ -1118,7 +1118,7 @@ Trigers：
 		<CheckLevel>15</CheckLevel>
 		<Dialogue>2787</Dialogue>
 		<Rewards>
-			<Reward RewardType="2" Key="0" Value="1063"/>
+			<Reward RewardType="2" Key="0" Value="6063"/>
 			<Reward RewardType="8" Key="0" Value="422"/>
 			<Reward RewardType="1" Key="0" Value="32"/>
 			<Reward RewardType="4" Key="132011" Value="5"/>
@@ -1248,7 +1248,7 @@ Trigers：
 		<CheckLevel>16</CheckLevel>
 		<Dialogue>0</Dialogue>
 		<Rewards>
-			<Reward RewardType="2" Key="0" Value="2054"/>
+			<Reward RewardType="2" Key="0" Value="62054"/>
 			<Reward RewardType="8" Key="0" Value="1425"/>
 			<Reward RewardType="1" Key="0" Value="28"/>
 			<Reward RewardType="9" Key="27" Value="1"/>
@@ -1603,11 +1603,31 @@ Trigers：
 		<Rewards>
 			<Reward RewardType="2" Key="0" Value="3678"/>
 			<Reward RewardType="8" Key="0" Value="1174"/>
+			<Reward RewardType="9" Key="28" Value="1"/>
+			<Reward RewardType="4" Key="71109" Value="1"/>
+		</Rewards>
+		<Trigers>
+			<Triger TaskID="2050"/>
+		</Trigers>
+	</Task>
+	<!--军阵开启任务-->
+	<Task ID="2050" GoToUIID="0">
+		<Type>0</Type>
+		<Title>Mở Quân Trận</Title>
+		<SmallTitle>Mở Quân Trận</SmallTitle>
+		<IconType>4</IconType>
+		<Text>Mở hệ thống Quân Trận.</Text>
+		<CheckType>1066</CheckType>
+		<CheckValue>1</CheckValue>
+		<CheckLevel>23</CheckLevel>
+		<Dialogue>0</Dialogue>
+		<Rewards>
+			<Reward RewardType="2" Key="0" Value="3678"/>
 		</Rewards>
 		<Trigers>
 			<Triger TaskID="1091"/>
 		</Trigers>
-	</Task>
+	</Task>	
 	<Task ID="1091" GoToUIID="0">
 		<Type>0</Type>
 		<Title>Vượt ải Rừng Thúy Ngọc-Huyễn Ảnh Tiên Đạo 2</Title>

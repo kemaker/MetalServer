@@ -11,7 +11,7 @@
 	<Broadcast ID="1008" Type="0" Text="Chúc mừng [ffa800]{0}[-]{1} tại Săn Mệnh nhận được [e17f00]{2}[-] chiến lực tăng cao!"/>
 	<Broadcast ID="1009" Type="0" Text="Mục tiêu là Bang mới của  {0} - {1} thành lập! Tuyên ngôn chiêu tài! :{2}"/>
 	<Broadcast ID="1010" Type="0" Text="Bang {0} hoàn thành thí luyện lv{1}, lần này {2} gây cho Thiên Thần sát thương nghiêm trọng, {3} hoàn thành đòn chí mạng!"/>
-	<Broadcast ID="1011" Type="0" Text="[{0}] Thông báo Bang:{1}"/>
+	<Broadcast ID="1011" Type="0" Text="【{0}】 Thông báo Bang:{1}"/>
 	<Broadcast ID="1012" Type="0" Text="Thiên Thần giáng thế, khai mở thí luyện, nhanh tới Bang tham gia để nhận quà!"/>
 	<Broadcast ID="2001" Type="1" Text="[b249fb]Chiến dịch [-] sẽ mở trong [e17f00]30 phút [-], hãy chuẩn bị sẵn sàng!"/>
 	<Broadcast ID="2002" Type="1" Text="[b249fb]Máy chủ[-] sẽ đóng sau [e17f00]1 phút [-] để update, mời chư vị tạm thoát!"/>
@@ -19,4 +19,5 @@
     <Broadcast ID="2004" Type="0" Text="Bang Chiến sẽ mở sau 5 phút nữa, hãy chú ý tham dự!"/>
   	<Broadcast ID="2005" Type="0" Text="Bang Chiến đang diễn ra, sẽ kéo dài trong 60 phút, hãy mau chóng vào Bang tham dự!"/>
     <Broadcast ID="2006" Type="0" Text="Bang Chiến đã kết thúc, tuần sau có thể tiếp tục tham dự"/>
+    <Broadcast ID="2007" Type="0" Text="[ffa800]{0}[-] nhận được [0FFFFF] Trận Đồ cổ[-] Chí Bảo tại chợ đen, khiến nhiều kẻ ghen tị!"/>
 </Config>

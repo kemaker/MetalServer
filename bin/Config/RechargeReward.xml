@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!--注释
+RechargeReward:
+    充值奖励;
+
+    GodBox:
+        神之宝箱(活动期间累计充值后每天可以领取返利元宝)
+        Reward:
+            累计充值
+        
+        ID:
+            充值奖励ID
+        
+        Value:
+            累计充值金额
+            
+        Flag:
+            是否起用 0:不起用 1:起用
+        
+        Resource:
+            每日可以领取奖励的资源；
+            
+            Type:资源类型
+            
+            ItemID:资源ID
+            
+            Count:资源数量
+
+    OneDayRecharge:
+        每日充值(每天单笔充值)
+        Reward:
+            每日充值奖励
+        
+        ID:
+            充值奖励ID
+        
+        Value:
+            每日充值金额
+            
+        Flag:
+            是否起用 0:不起用 1:起用
+        
+        Resource:
+            奖励的资源；
+            
+            Type:资源类型
+            
+            ItemID:资源ID
+            
+            Count:资源数量
+    
+    TotalRecharge:
+        累计充值(累计充值送道具)
+        Reward:
+            累计充值奖励
+        
+        ID:
+            充值奖励ID
+        
+        Value:
+            累计充值金额
+            
+        Flag:
+            是否起用 0:不起用 1:起用
+        
+        Resource:
+            奖励的资源；
+            
+            Type:资源类型
+            
+            ItemID:资源ID
+            
+            Count:资源数量
+            
+    TotalSpend:
+        累计消费(累计消费送道具)
+        Reward:
+            累计消费奖励
+        
+        ID:
+            消费奖励ID
+        
+        Value:
+            累计消费金额
+            
+        Flag:
+            是否起用 0:不起用 1:起用
+        
+        Resource:
+            奖励的资源；
+            
+            Type:资源类型
+            
+            ItemID:资源ID
+            
+            Count:资源数量
+            
+    OnceRecharge:
+        单笔充值(一次性单笔充值)
+        Reward:
+            单笔充值奖励
+        
+        ID:
+            单笔充值奖励ID
+        
+        Value:
+            单笔充值金额
+            
+        Flag:
+            是否起用 0:不起用 1:起用
+        
+        Times:
+            活动期间可激活的次数
+        
+        Resource:
+            奖励的资源；
+            
+            Type:资源类型
+            
+            ItemID:资源ID
+            
+            Count:资源数量
+注释结束-->
+
+<RechargeReward>
+    <GodBox>
+        <Reward ID="1" Value="100" Flag="1">
+            <Resource Type="3" ItemID="0" Count="50"/>
+        </Reward>
+        <Reward ID="2" Value="300" Flag="1">
+            <Resource Type="3" ItemID="0" Count="105"/>
+        </Reward>
+        <Reward ID="3" Value="600" Flag="1">
+            <Resource Type="3" ItemID="0" Count="150"/>
+        </Reward>
+        <Reward ID="4" Value="1000" Flag="1">
+            <Resource Type="3" ItemID="0" Count="200"/>
+        </Reward>
+        <Reward ID="5" Value="2000" Flag="1">
+            <Resource Type="3" ItemID="0" Count="360"/>
+        </Reward>
+        <Reward ID="6" Value="4000" Flag="1">
+            <Resource Type="3" ItemID="0" Count="640"/>
+        </Reward>
+        <Reward ID="7" Value="6000" Flag="1">
+            <Resource Type="3" ItemID="0" Count="900"/>
+        </Reward>
+        <Reward ID="8" Value="10000" Flag="1">
+            <Resource Type="3" ItemID="0" Count="1400"/>
+        </Reward>
+        <Reward ID="9" Value="15000" Flag="1">
+            <Resource Type="3" ItemID="0" Count="2025"/>
+        </Reward>
+        <Reward ID="10" Value="25000" Flag="1">
+            <Resource Type="3" ItemID="0" Count="3250"/>
+        </Reward>
+    </GodBox>
+
+    <OneDayRecharge>
+        <Reward ID="1" Value="150" Flag="1">
+            <Resource Type="3" ItemID="0" Count="150"/>
+            <Resource Type="8" ItemID="0" Count="10000"/>
+        </Reward>
+        
+        <Reward ID="2" Value="300" Flag="1">
+          <Resource Type="11" ItemID="0" Count="10"/>
+          <Resource Type="3" ItemID="0" Count="240"/>
+        </Reward>
+        
+        <Reward ID="3" Value="600" Flag="1">
+          <Resource Type="3" ItemID="0" Count="420"/>
+          <Resource Type="6" ItemID="0" Count="2000"/>
+
+        </Reward>
+        <Reward ID="4" Value="1500" Flag="1">
+          <Resource Type="3" ItemID="0" Count="900"/>
+          <Resource Type="7" ItemID="0" Count="2000"/>
+
+        </Reward>
+       <Reward ID="5" Value="3000" Flag="1">
+          <Resource Type="11" ItemID="0" Count="20"/>
+          <Resource Type="3" ItemID="0" Count="1400"/>
+
+        </Reward>
+       <Reward ID="6" Value="6000" Flag="1">
+
+          <Resource Type="11" ItemID="0" Count="30"/>
+          <Resource Type="3" ItemID="0" Count="1800"/>
+        </Reward>
+    </OneDayRecharge>
+
+    <TotalRecharge>
+        <Reward ID="1" Value="600" Flag="1">
+            <Resource Type="5" ItemID="0" Count="100"/>
+            <Resource Type="6" ItemID="0" Count="2000"/>
+            <Resource Type="4" ItemID="10803" Count="1"/>
+        </Reward>
+        <Reward ID="2" Value="1500" Flag="1">
+            <Resource Type="2" ItemID="0" Count="50000"/>
+            <Resource Type="4" ItemID="10804" Count="1"/>
+            <Resource Type="4" ItemID="71052" Count="3"/>
+        </Reward>
+        <Reward ID="3" Value="3000" Flag="1">
+            <Resource Type="7" ItemID="0" Count="3000"/>
+            <Resource Type="4" ItemID="10204" Count="1"/>
+            <Resource Type="4" ItemID="10805" Count="1"/>
+        </Reward>
+        <Reward ID="4" Value="6000" Flag="1">
+            <Resource Type="4" ItemID="10405" Count="1"/>
+            <Resource Type="4" ItemID="10805" Count="1"/>
+            <Resource Type="4" ItemID="120004" Count="4"/>
+            <Resource Type="4" ItemID="120014" Count="4"/>
+        </Reward>
+        <Reward ID="5" Value="12000" Flag="1">
+            <Resource Type="12" ItemID="4074" Count="7"/>
+            <Resource Type="8" ItemID="10806" Count="50000"/>
+            <Resource Type="6" ItemID="120005" Count="5000"/>
+        </Reward>
+        <Reward ID="6" Value="20000" Flag="1">
+            <Resource Type="4" ItemID="10806" Count="1"/>
+            <Resource Type="4" ItemID="10106" Count="1"/>
+            <Resource Type="4" ItemID="120015" Count="5"/>
+            <Resource Type="4" ItemID="120025" Count="5"/>            
+        </Reward>
+        <Reward ID="7" Value="30000" Flag="1">
+            <Resource Type="5" ItemID="0" Count="200"/>
+            <Resource Type="7" ItemID="71053" Count="5000"/>
+            <Resource Type="16" ItemID="180009" Count="1"/>
+        </Reward>
+        <Reward ID="8" Value="60000" Flag="1">
+            <Resource Type="2" ItemID="0" Count="500000"/>
+            <Resource Type="7" ItemID="0" Count="10000"/>
+            <Resource Type="12" ItemID="4054" Count="8"/>
+        </Reward>
+    </TotalRecharge>
+    
+    <TotalSpend>
+        <Reward ID="1" Value="500" Flag="1">
+            <Resource Type="6" ItemID="0" Count="2000"/>
+            <Resource Type="5" ItemID="0" Count="100"/>
+            <Resource Type="4" ItemID="10203" Count="1"/>
+        </Reward>
+        <Reward ID="2" Value="1000" Flag="1">
+            <Resource Type="2" ItemID="0" Count="100000"/>
+            <Resource Type="7" ItemID="0" Count="3000"/>
+            <Resource Type="4" ItemID="10104" Count="1"/>
+        </Reward>
+        <Reward ID="3" Value="2000" Flag="1">
+            <Resource Type="4" ItemID="10804" Count="1"/>
+            <Resource Type="4" ItemID="10105" Count="1"/>
+            <Resource Type="4" ItemID="71051" Count="5"/>
+        </Reward>
+        <Reward ID="4" Value="4000" Flag="1">
+            <Resource Type="4" ItemID="10805" Count="1"/>
+            <Resource Type="4" ItemID="10106" Count="1"/>
+            <Resource Type="4" ItemID="120024" Count="6"/>
+        </Reward>
+        <Reward ID="5" Value="8000" Flag="1">
+            <Resource Type="12" ItemID="4035" Count="7"/>
+            <Resource Type="7" ItemID="0" Count="5000"/>
+            
+        </Reward>
+       <Reward ID="6" Value="15000" Flag="1">
+            <Resource Type="12" ItemID="4074" Count="7"/>
+            <Resource Type="11" ItemID="0" Count="150"/>
+        </Reward>
+        <Reward ID="7" Value="30000" Flag="1">
+            <Resource Type="16" ItemID="180009" Count="1"/>
+            <Resource Type="11" ItemID="0" Count="300"/>
+            
+        </Reward>
+        <Reward ID="8" Value="60000" Flag="1">
+            <Resource Type="16" ItemID="180001" Count="1"/>
+            <Resource Type="12" ItemID="4020" Count="7"/>
+            
+        </Reward>
+        
+        
+    </TotalSpend>
+    
+    <OnceRecharge>
+        <Reward ID="1" Value="100" Flag="1" Times="100">
+            <Resource Type="2" ItemID="0" Count="100"/>
+            <Resource Type="3" ItemID="0" Count="100"/>
+        </Reward>
+        <Reward ID="2" Value="250" Flag="1" Times="50">
+            <Resource Type="2" ItemID="0" Count="250"/>
+            <Resource Type="3" ItemID="0" Count="250"/>
+        </Reward>
+        <Reward ID="3" Value="500" Flag="1" Times="20">
+            <Resource Type="2" ItemID="0" Count="500"/>
+            <Resource Type="3" ItemID="0" Count="500"/>
+        </Reward>
+        <Reward ID="4" Value="1000" Flag="1" Times="10">
+            <Resource Type="2" ItemID="0" Count="1000"/>
+            <Resource Type="3" ItemID="0" Count="1000"/>
+        </Reward>
+        <Reward ID="5" Value="2500" Flag="1" Times="5">
+            <Resource Type="2" ItemID="0" Count="2500"/>
+            <Resource Type="3" ItemID="0" Count="2500"/>
+        </Reward>
+        <Reward ID="6" Value="5000" Flag="1" Times="1">
+            <Resource Type="2" ItemID="0" Count="5000"/>
+            <Resource Type="3" ItemID="0" Count="5000"/>
+        </Reward>
+    </OnceRecharge>
+</RechargeReward>

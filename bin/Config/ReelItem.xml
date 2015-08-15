@@ -43,8 +43,8 @@ FuBenID：
 	<Reel ID="120002" StackCount="99" SellPrice="35" BuyBackPrice="350" n_Name="[67d64a]Bản vẽ Võ Lực Đan Lv2[-]" Des="Bản vẽ chế tạo thuốc tăng võ lực vĩnh viễn" IconResID="120002" MapID="-1" FuBenID="0"/>
 	<Reel ID="120012" StackCount="99" SellPrice="35" BuyBackPrice="350" n_Name="[67d64a]Bản vẽ Pháp Thuật Đan Lv2[-]" Des="Bản vẽ chế tạo thuốc tăng pháp thuật vĩnh viễn" IconResID="120012" MapID="-1" FuBenID="0"/>
 	<Reel ID="120022" StackCount="99" SellPrice="35" BuyBackPrice="350" n_Name="[67d64a]Bản vẽ Tuyệt Kỹ Đan Lv2[-]" Des="Bản vẽ chế tạo thuốc tăng tuyệt kỹ vĩnh viễn" IconResID="120022" MapID="-1" FuBenID="0"/>
-	<Reel ID="120003" StackCount="99" SellPrice="70" BuyBackPrice="700" n_Name="[10daff]Bản vẽ Võ Lực Đan Lv3[-]" Des="Bản vẽ chế tạo thuốc tăng võ lực vĩnh viễn" IconResID="120003" MapID="101" FuBenID="0"/>
-	<Reel ID="120013" StackCount="99" SellPrice="70" BuyBackPrice="700" n_Name="[10daff]Bản vẽ Pháp Thuật Đan Lv3[-]" Des="Bản vẽ chế tạo thuốc tăng pháp thuật vĩnh viễn" IconResID="120013" MapID="102" FuBenID="0"/>
+	<Reel ID="120003" StackCount="99" SellPrice="70" BuyBackPrice="700" n_Name="[10daff]Bản vẽ Võ Lực Đan Lv3[-]" Des="Bản vẽ chế tạo thuốc tăng võ lực vĩnh viễn" IconResID="120003" MapID="104" FuBenID="0"/>
+	<Reel ID="120013" StackCount="99" SellPrice="70" BuyBackPrice="700" n_Name="[10daff]Bản vẽ Pháp Thuật Đan Lv3[-]" Des="Bản vẽ chế tạo thuốc tăng pháp thuật vĩnh viễn" IconResID="120013" MapID="105" FuBenID="0"/>
 	<Reel ID="120023" StackCount="99" SellPrice="70" BuyBackPrice="700" n_Name="[10daff]Bản vẽ Tuyệt Kỹ Đan Lv3[-]" Des="Bản vẽ chế tạo thuốc tăng tuyệt kỹ vĩnh viễn" IconResID="120023" MapID="103" FuBenID="0"/>
 	<Reel ID="120004" StackCount="99" SellPrice="140" BuyBackPrice="1400" n_Name="[b249fb]Bản vẽ Võ Lực Đan Lv4[-]" Des="Bản vẽ chế tạo thuốc tăng võ lực vĩnh viễn" IconResID="120004" MapID="206" FuBenID="0"/>
 	<Reel ID="120014" StackCount="99" SellPrice="140" BuyBackPrice="1400" n_Name="[b249fb]Bản vẽ Pháp Thuật Đan Lv4[-]" Des="Bản vẽ chế tạo thuốc tăng pháp thuật vĩnh viễn" IconResID="120014" MapID="207" FuBenID="0"/>

@@ -55,11 +55,11 @@ IconResID：
 	<Item ID="20006" Category="0" UseLevel="1" StackCount="20" SellPrice="4384" BuyBackPrice="8768" n_Name="[ffff00]Đan Võ Lực Lv6[-]" Des="Thuốc tăng thuộc tính võ lực vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20006"/>
 	<Item ID="20016" Category="0" UseLevel="1" StackCount="20" SellPrice="4384" BuyBackPrice="8768" n_Name="[ffff00]Đan Pháp Thuật Lv6[-]" Des="Thuốc tăng thuộc tính pháp thuật vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20016"/>
 	<Item ID="20026" Category="0" UseLevel="1" StackCount="20" SellPrice="4384" BuyBackPrice="8768" n_Name="[ffff00]Đan Tuyệt Kỹ Lv6[-]" Des="Thuốc tăng thuộc tính tuyệt kỹ vĩnh viễn, dùng càng nhiều hiệu quả càng kém" IconResID="20026"/>
-    <Item ID="21001" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Yêu[-]" Des="1 Phù bí ẩn chữ 'Yêu'" IconResID="21001"/>
-    <Item ID="21002" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Tiên[-]" Des="1 Phù bí ẩn chữ 'Tiên'" IconResID="21002"/>
-    <Item ID="21003" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Truyện[-]" Des="1 Phù bí ẩn chữ 'Truyện'" IconResID="21003"/>
-    <Item ID="21004" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Đá[-]" Des="1 viên ngọc phát ra màu sắc lấp lánh" IconResID="21004"/>
-    <Item ID="21005" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Thỏi vàng[-]" Des="1 thỏi vàng lấp lánh chói mắt" IconResID="21005"/>
+    <Item ID="21001" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Yêu[-]" Des="1 Phù bí ẩn chữ 'Yêu'" IconResID="21001"/><!--妖-->
+    <Item ID="21002" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Tiên[-]" Des="1 Phù bí ẩn chữ 'Tiên'" IconResID="21002"/><!--仙-->
+    <Item ID="21003" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Truyện[-]" Des="1 Phù bí ẩn chữ 'Truyện'" IconResID="21003"/><!--传-->
+    <Item ID="21004" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Đá[-]" Des="1 viên ngọc phát ra màu sắc lấp lánh" IconResID="21004"/><!--宝石-->
+    <Item ID="21005" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="[ffff00]Thỏi vàng[-]" Des="1 thỏi vàng lấp lánh chói mắt" IconResID="21005"/><!--黄金-->
 	<Item ID="81001" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà Ký danh 1[-]" Des="Click vào sử dụng có thể nhận được 200 Ngọc" IconResID="81001"/>
 	<Item ID="81002" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[67d64a]Quà Ký danh 2[-]" Des="Click vào sử dụng có thể nhận được 500 Ngọc, 10 Thể lực" IconResID="81002"/>
 	<Item ID="81003" Category="1" UseLevel="1" StackCount="1" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Quà Ký danh 3[-]" Des="Click vào sử dụng có thể nhận được 500 Ngọc, 50 Uy" IconResID="81003"/>
@@ -157,4 +157,41 @@ IconResID：
 	<Item ID="71083" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[10daff]Quà trấn thủ trung cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71057"/>
 	<Item ID="71084" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[b249fb]Quà trấn thủ cao cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71058"/>
 	<Item ID="71085" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="[ff7f00]Quà trấn thủ thần cấp[-]" Des="Sau khi dùng có thể nhận được thưởng trấn thủ bí ẩn" IconResID="71059"/>
+  <!--以下为激活码-->
+  <Item ID="71086" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Open Beta" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Open Beta" IconResID="81034"/>
+  <Item ID="71087" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Code Yêu Tiên Truyện" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Yêu Tiên Truyện" IconResID="81034"/>
+  <Item ID="71088" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Like share 1" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Đát kỷ" IconResID="81034"/>
+  <Item ID="71089" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Like share 2" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Trụ Vương" IconResID="81034"/>
+  <Item ID="71090" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Like share 3" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Na Tra" IconResID="81034"/>
+  <Item ID="71091" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="MKT1" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Dương Tiễn" IconResID="81034"/>
+  <Item ID="71092" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="MKT2" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Hằng Nga" IconResID="81034"/>
+  <Item ID="71093" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Code báo 1" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Thỏ Tinh" IconResID="81034"/>
+  <Item ID="71094" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Code báo 2" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Nữ Oa" IconResID="81034"/>
+  <Item ID="71095" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Code báo 3" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Long Vương" IconResID="81034"/>
+  <Item ID="71096" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Code báo 4" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Ngộ Không" IconResID="81034"/>
+  <Item ID="71097" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Code báo 5" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Hồng Hài Nhi" IconResID="81034"/>
+  <Item ID="71098" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Code báo danh forum" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Thái Ất" IconResID="81034"/>
+  <Item ID="71099" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Code mời bạn" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Cự Linh Thần" IconResID="81034"/>
+  <Item ID="71100" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Code fb 1" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode " IconResID="81034"/>
+  <Item ID="71101" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Code fb 2" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Khương Tử Nha" IconResID="81034"/>
+  <Item ID="71102" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Code fb 3" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Thân Công Báo" IconResID="81034"/>
+  <Item ID="71103" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Code fb 4" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Hậu Nghệ" IconResID="81034"/>
+  <Item ID="71104" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Code fb 5" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Cơ Phát" IconResID="81034"/>
+  <Item ID="71105" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Code fb 6" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Hồ Hỷ My" IconResID="81034"/>
+  <Item ID="71106" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Code fb 7" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Tiểu Bạch Long" IconResID="81034"/>
+  <Item ID="71107" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Code fb 8" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Bạch Cốt Tinh" IconResID="81034"/>
+  <Item ID="71108" Category="1" UseLevel="1" StackCount="99" SellPrice="0" BuyBackPrice="0" n_Name="Code fb 9" Des="Chúc mừng bạn nhận được phần thưởng của Giftcode Lôi Chấn Tử" IconResID="81034"/>
+  
+  <Item ID="71109" Category="1" UseLevel="1" StackCount="99" SellPrice="200000" BuyBackPrice="0" n_Name="Trận Đồ cổ" Des="Trận Đồ cổ" IconResID="71109"/><!--上古阵图-->
+  <Item ID="71110" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="Quốc Kỳ" Des="Quốc Kỳ" IconResID="71110"/><!--国旗-->
+  <Item ID="71111" Category="1" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="Gói Quốc Kỳ 1" Des="Gói Quốc Kỳ 1" IconResID="71111"/><!--国旗礼包1-->
+  <Item ID="71112" Category="1" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="Gói Quốc Kỳ 2" Des="Gói Quốc Kỳ 2" IconResID="71112"/><!--国旗礼包2-->
+  <Item ID="71113" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="Bột" Des="Bột" IconResID="71113"/><!--淀粉-->
+  <Item ID="71114" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="Trứng" Des="Trứng" IconResID="71114"/><!--鸡蛋-->
+  <Item ID="71115" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="Đỗ" Des="Đỗ" IconResID="71115"/><!--绿豆-->
+  <Item ID="71116" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="Giấy đỏ" Des="Giấy đỏ" IconResID="71116"/><!--红纸-->
+  <Item ID="71117" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="Ngôi sao" Des="Ngôi sao" IconResID="71117"/><!--星星-->
+  <Item ID="71118" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="Bánh dẻo" Des="Bánh dẻo" IconResID="71118"/><!--糯米饼-->
+  <Item ID="71119" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="Bánh nướng" Des="Bánh nướng" IconResID="71119"/><!--月饼-->
+  <Item ID="71120" Category="2" UseLevel="1" StackCount="99" SellPrice="1" BuyBackPrice="0" n_Name="Hộp bánh" Des="Hộp bánh" IconResID="71120"/><!--月饼盒子-->
 </Normal>

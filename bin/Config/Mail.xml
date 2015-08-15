@@ -70,60 +70,60 @@ Resouce
 			39 = 进阶/还原；
 	
 注释结束-->
-
+<!--1001~1008为每日竞技场奖励-->
 <Mails Count="100">
 	<Mail ID="1001" Title="Thủ lĩnh Đấu Trường" Text="Chúc mừng bạn đã đạt hạng 1 đấu trường, đây là thưởng của bạn.">
 		<Resources>
-			<Resource Type="3" Id="0" Count="500"/>
-			<Resource Type="2" Id="0" Count="50000"/>
-			<Resource Type="6" Id="0" Count="5000"/>
-		</Resources>
-	</Mail>
-    <Mail ID="1002" Title="Bá Vương Đấu Trường" Text="Chúc mừng bạn đã đạt hạng 2 đấu trường, đây là thưởng của bạn.">
-		<Resources>
-			<Resource Type="3" Id="0" Count="400"/>
+			<Resource Type="3" Id="0" Count="200"/>
 			<Resource Type="2" Id="0" Count="30000"/>
 			<Resource Type="6" Id="0" Count="3000"/>
 		</Resources>
 	</Mail>
+    <Mail ID="1002" Title="Bá Vương Đấu Trường" Text="Chúc mừng bạn đã đạt hạng 2 đấu trường, đây là thưởng của bạn.">
+		<Resources>
+			<Resource Type="3" Id="0" Count="150"/>
+			<Resource Type="2" Id="0" Count="25000"/>
+			<Resource Type="6" Id="0" Count="2500"/>
+		</Resources>
+	</Mail>
 	<Mail ID="1003" Title="Bá Vương Đấu Trường" Text="Chúc mừng bạn đã đạt hạng 3 đấu trường, đây là thưởng của bạn.">
 		<Resources>
-			<Resource Type="3" Id="0" Count="350"/>
+			<Resource Type="3" Id="0" Count="120"/>
 			<Resource Type="2" Id="0" Count="20000"/>
-			<Resource Type="6" Id="0" Count="3000"/>
+			<Resource Type="6" Id="0" Count="2000"/>
 		</Resources>
 	</Mail>
     <Mail ID="1004" Title="Đại sư Đấu Trường" Text="Chúc mừng bạn lọt Top 10 đấu trường, đây là thưởng của bạn.">
 		<Resources>
-			<Resource Type="3" Id="0" Count="300"/>
-			<Resource Type="2" Id="0" Count="10000"/>
-			<Resource Type="6" Id="0" Count="2000"/>
+			<Resource Type="3" Id="0" Count="100"/>
+			<Resource Type="2" Id="0" Count="15000"/>
+			<Resource Type="6" Id="0" Count="1500"/>
 		</Resources>
 	</Mail>
     <Mail ID="1005" Title="Master Đấu Trường" Text="Chúc mừng bạn lọt Top 50 đấu trường, đây là thưởng của bạn.">
 		<Resources>
-			<Resource Type="3" Id="0" Count="200"/>
-			<Resource Type="2" Id="0" Count="5000"/>
-			<Resource Type="6" Id="0" Count="1000"/>
+			<Resource Type="3" Id="0" Count="80"/>
+			<Resource Type="2" Id="0" Count="12000"/>
+			<Resource Type="6" Id="0" Count="1200"/>
 		</Resources>
 	</Mail>
     <Mail ID="1006" Title="Người hùng Đấu Trường" Text="Chúc mừng bạn lọt Top 100 đấu trường, đây là thưởng của bạn.">
 		<Resources>
-			<Resource Type="3" Id="0" Count="150"/>
-			<Resource Type="2" Id="0" Count="3000"/>
-			<Resource Type="6" Id="0" Count="700"/>
+			<Resource Type="3" Id="0" Count="60"/>
+			<Resource Type="2" Id="0" Count="10000"/>
+			<Resource Type="6" Id="0" Count="1000"/>
 		</Resources>
 	</Mail>
     <Mail ID="1007" Title="Thưởng XH Đấu Trường" Text="Chúc mừng bạn lọt Top 500 đấu trường, đây là thưởng của bạn.">
 		<Resources>
-			<Resource Type="3" Id="0" Count="100"/>
-			<Resource Type="2" Id="0" Count="2000"/>
-			<Resource Type="6" Id="0" Count="500"/>
+			<Resource Type="3" Id="0" Count="50"/>
+			<Resource Type="2" Id="0" Count="8000"/>
+			<Resource Type="6" Id="0" Count="800"/>
 		</Resources>
 	</Mail>
     <Mail ID="1008" Title="Tham gia Đấu Trường" Text="Hoan nghênh bạn tham gia đấu trường, đây là thưởng của bạn">
 		<Resources>
-			<Resource Type="2" Id="0" Count="1000"/>
+			<Resource Type="2" Id="0" Count="3000"/>
 			<Resource Type="6" Id="0" Count="500"/>
 		</Resources>
 	</Mail>
@@ -219,4 +219,10 @@ Resouce
 	</Mail>
     <Mail ID="1030" Title="GM" Text="GM."><!--GM补偿邮件-->
 	</Mail>
+    <Mail ID="1031" Title="Nạp 1 lần mỗi ngày" Text="Bạn đã nhận được quà nạp 1 lẫn mỗi ngày, hãy kiểm tra thư!"><!--每天单笔充值奖励-->
+    </Mail>
+    <Mail ID="1032" Title="Nạp 1 lần" Text="Bạn đã nhận được quà nạp 1 lần, hãy kiểm tra thư!">
+    </Mail>
+       <Mail ID="1033" Title="Thưởng xếp hạng!" Text="Chúc mừng bạn lọt top trong kỳ này! Hãy nhận thưởng!">
+    </Mail>
 </Mails>

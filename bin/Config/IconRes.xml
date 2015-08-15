@@ -618,4 +618,18 @@ ResName
 	<Res ID="21003" ResPath="12_DaoJu" ResName="21003"/>
 	<Res ID="21004" ResPath="12_DaoJu" ResName="21004"/>
 	<Res ID="21005" ResPath="12_DaoJu" ResName="21005"/>
+	<!--越南中秋和国庆活动Icon-->
+	<Res ID="71110" ResPath="12_DaoJu" ResName="71110"/>
+	<Res ID="71111" ResPath="12_DaoJu" ResName="71111"/>
+	<Res ID="71112" ResPath="12_DaoJu" ResName="71112"/>
+	<Res ID="71113" ResPath="12_DaoJu" ResName="71113"/>
+	<Res ID="71114" ResPath="12_DaoJu" ResName="71114"/>
+	<Res ID="71115" ResPath="12_DaoJu" ResName="71115"/>
+	<Res ID="71116" ResPath="12_DaoJu" ResName="71116"/>
+	<Res ID="71117" ResPath="12_DaoJu" ResName="71117"/>
+	<Res ID="71118" ResPath="12_DaoJu" ResName="71118"/>
+	<Res ID="71119" ResPath="12_DaoJu" ResName="71119"/>
+	<Res ID="71120" ResPath="12_DaoJu" ResName="71120"/>
+	<!--天命二期阵眼Icon-->
+	<Res ID="71109" ResPath="12_DaoJu" ResName="71109"/>
 </ItemRes>

@@ -139,39 +139,43 @@ Items：
 		<Item ID="10090" GaiLv="5" RewardType="4" Key="110406" Count="1" Cost="1000" CostType="1"/>
 		<Item ID="10091" GaiLv="5" RewardType="4" Key="110506" Count="1" Cost="1000" CostType="1"/>
 		<Item ID="10092" GaiLv="5" RewardType="4" Key="110806" Count="1" Cost="1000" CostType="1"/>
-		<Item ID="10096" GaiLv="35" RewardType="4" Key="131031" Count="50" Cost="5000" CostType="0"/>
-		<Item ID="10097" GaiLv="35" RewardType="4" Key="131032" Count="50" Cost="5000" CostType="0"/>
-		<Item ID="10098" GaiLv="35" RewardType="4" Key="131033" Count="50" Cost="5000" CostType="0"/>
-		<Item ID="10099" GaiLv="25" RewardType="4" Key="131041" Count="50" Cost="10000" CostType="0"/>
-		<Item ID="10100" GaiLv="25" RewardType="4" Key="131042" Count="50" Cost="10000" CostType="0"/>
-		<Item ID="10101" GaiLv="25" RewardType="4" Key="131043" Count="50" Cost="10000" CostType="0"/>
-		<Item ID="10102" GaiLv="25" RewardType="4" Key="131044" Count="50" Cost="10000" CostType="0"/>
-		<Item ID="10103" GaiLv="15" RewardType="4" Key="131051" Count="50" Cost="200" CostType="1"/>
-		<Item ID="10104" GaiLv="15" RewardType="4" Key="131052" Count="50" Cost="200" CostType="1"/>
-		<Item ID="10105" GaiLv="15" RewardType="4" Key="131053" Count="50" Cost="200" CostType="1"/>
-		<Item ID="10106" GaiLv="15" RewardType="4" Key="131054" Count="50" Cost="200" CostType="1"/>
-		<Item ID="10107" GaiLv="15" RewardType="4" Key="131055" Count="50" Cost="200" CostType="1"/>
-		<Item ID="10108" GaiLv="10" RewardType="4" Key="131061" Count="50" Cost="500" CostType="1"/>
-		<Item ID="10109" GaiLv="10" RewardType="4" Key="131062" Count="50" Cost="500" CostType="1"/>
-		<Item ID="10110" GaiLv="10" RewardType="4" Key="131063" Count="50" Cost="500" CostType="1"/>
-		<Item ID="10111" GaiLv="10" RewardType="4" Key="131064" Count="50" Cost="500" CostType="1"/>
-		<Item ID="10112" GaiLv="10" RewardType="4" Key="131065" Count="50" Cost="500" CostType="1"/>
-		<Item ID="10113" GaiLv="25" RewardType="4" Key="132011" Count="10" Cost="20000" CostType="0"/>
-		<Item ID="10114" GaiLv="25" RewardType="4" Key="132021" Count="10" Cost="50000" CostType="0"/>
-		<Item ID="10115" GaiLv="25" RewardType="4" Key="132022" Count="10" Cost="50000" CostType="0"/>
-		<Item ID="10116" GaiLv="25" RewardType="4" Key="132031" Count="10" Cost="100000" CostType="0"/>
-		<Item ID="10117" GaiLv="25" RewardType="4" Key="132032" Count="10" Cost="100000" CostType="0"/>
-		<Item ID="10118" GaiLv="25" RewardType="4" Key="132033" Count="10" Cost="100000" CostType="0"/>
-		<Item ID="10119" GaiLv="15" RewardType="4" Key="132041" Count="10" Cost="200" CostType="1"/>
-		<Item ID="10120" GaiLv="15" RewardType="4" Key="132042" Count="10" Cost="200" CostType="1"/>
-		<Item ID="10121" GaiLv="15" RewardType="4" Key="132043" Count="10" Cost="200" CostType="1"/>
-		<Item ID="10122" GaiLv="5" RewardType="4" Key="132051" Count="10" Cost="500" CostType="1"/>
-		<Item ID="10123" GaiLv="5" RewardType="4" Key="132052" Count="10" Cost="500" CostType="1"/>
-		<Item ID="10124" GaiLv="5" RewardType="4" Key="132053" Count="10" Cost="500" CostType="1"/>
+		<!--以下为材料-->
+		<Item ID="10096" GaiLv="35" RewardType="4" Key="131031" Count="50" Cost="10000" CostType="0"/>
+		<Item ID="10097" GaiLv="35" RewardType="4" Key="131032" Count="50" Cost="10000" CostType="0"/>
+		<Item ID="10098" GaiLv="35" RewardType="4" Key="131033" Count="50" Cost="10000" CostType="0"/>
+		<Item ID="10099" GaiLv="25" RewardType="4" Key="131041" Count="50" Cost="20000" CostType="0"/>
+		<Item ID="10100" GaiLv="25" RewardType="4" Key="131042" Count="50" Cost="20000" CostType="0"/>
+		<Item ID="10101" GaiLv="25" RewardType="4" Key="131043" Count="50" Cost="20000" CostType="0"/>
+		<Item ID="10102" GaiLv="25" RewardType="4" Key="131044" Count="50" Cost="20000" CostType="0"/>
+		<Item ID="10103" GaiLv="15" RewardType="4" Key="131051" Count="50" Cost="400" CostType="1"/>
+		<Item ID="10104" GaiLv="15" RewardType="4" Key="131052" Count="50" Cost="400" CostType="1"/>
+		<Item ID="10105" GaiLv="15" RewardType="4" Key="131053" Count="50" Cost="400" CostType="1"/>
+		<Item ID="10106" GaiLv="15" RewardType="4" Key="131054" Count="50" Cost="400" CostType="1"/>
+		<Item ID="10107" GaiLv="15" RewardType="4" Key="131055" Count="50" Cost="400" CostType="1"/>
+		<Item ID="10108" GaiLv="10" RewardType="4" Key="131061" Count="50" Cost="1000" CostType="1"/>
+		<Item ID="10109" GaiLv="10" RewardType="4" Key="131062" Count="50" Cost="1000" CostType="1"/>
+		<Item ID="10110" GaiLv="10" RewardType="4" Key="131063" Count="50" Cost="1000" CostType="1"/>
+		<Item ID="10111" GaiLv="10" RewardType="4" Key="131064" Count="50" Cost="1000" CostType="1"/>
+		<Item ID="10112" GaiLv="10" RewardType="4" Key="131065" Count="50" Cost="1000" CostType="1"/>
+		<Item ID="10113" GaiLv="25" RewardType="4" Key="132011" Count="10" Cost="40000" CostType="0"/>
+		<Item ID="10114" GaiLv="25" RewardType="4" Key="132021" Count="10" Cost="100000" CostType="0"/>
+		<Item ID="10115" GaiLv="25" RewardType="4" Key="132022" Count="10" Cost="100000" CostType="0"/>
+		<Item ID="10116" GaiLv="25" RewardType="4" Key="132031" Count="10" Cost="200000" CostType="0"/>
+		<Item ID="10117" GaiLv="25" RewardType="4" Key="132032" Count="10" Cost="200000" CostType="0"/>
+		<Item ID="10118" GaiLv="25" RewardType="4" Key="132033" Count="10" Cost="200000" CostType="0"/>
+		<Item ID="10119" GaiLv="15" RewardType="4" Key="132041" Count="10" Cost="400" CostType="1"/>
+		<Item ID="10120" GaiLv="15" RewardType="4" Key="132042" Count="10" Cost="400" CostType="1"/>
+		<Item ID="10121" GaiLv="15" RewardType="4" Key="132043" Count="10" Cost="400" CostType="1"/>
+		<Item ID="10122" GaiLv="5" RewardType="4" Key="132051" Count="10" Cost="1000" CostType="1"/>
+		<Item ID="10123" GaiLv="5" RewardType="4" Key="132052" Count="10" Cost="1000" CostType="1"/>
+		<Item ID="10124" GaiLv="5" RewardType="4" Key="132053" Count="10" Cost="1000" CostType="1"/>
+		<!--以上为材料-->
 		<Item ID="10125" GaiLv="10" RewardType="17" Key="180014" Count="1" Cost="50" CostType="1"/>
 		<Item ID="10126" GaiLv="15" RewardType="17" Key="180016" Count="1" Cost="25" CostType="1"/>
 		<Item ID="10127" GaiLv="5" RewardType="17" Key="180021" Count="1" Cost="100" CostType="1"/>
 		<Item ID="10128" GaiLv="5" RewardType="17" Key="180009" Count="1" Cost="100" CostType="1"/>
 		<Item ID="10129" GaiLv="5" RewardType="17" Key="180023" Count="1" Cost="100" CostType="1"/>
+		<!--上古阵图-->
+		<Item ID="10130" GaiLv="1" RewardType="4" Key="71109" Count="1" Cost="20000" CostType="1"/>
 	</Items>
 </Config>

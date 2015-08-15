@@ -17,16 +17,17 @@ maxDrop：
 注释结束-->
 
 <JielueItems>
-	<Item id="120003" pieceCount="5" minDrop="1" maxDrop="5"/>
-	<Item id="120013" pieceCount="5" minDrop="1" maxDrop="5"/>
-	<Item id="120023" pieceCount="5" minDrop="1" maxDrop="5"/>
-	<Item id="120004" pieceCount="5" minDrop="1" maxDrop="5"/>
-	<Item id="120014" pieceCount="5" minDrop="1" maxDrop="5"/>
-	<Item id="120024" pieceCount="5" minDrop="1" maxDrop="5"/>
-	<Item id="120005" pieceCount="5" minDrop="1" maxDrop="5"/>
-	<Item id="120015" pieceCount="5" minDrop="1" maxDrop="5"/>
-	<Item id="120025" pieceCount="5" minDrop="1" maxDrop="5"/>
-	<Item id="120006" pieceCount="5" minDrop="1" maxDrop="5"/>
-	<Item id="120016" pieceCount="5" minDrop="1" maxDrop="5"/>
-	<Item id="120026" pieceCount="5" minDrop="1" maxDrop="5"/>
+<Item id="120003" pieceCount="5" minDrop="1" maxDrop="5"/>
+<Item id="120013" pieceCount="5" minDrop="1" maxDrop="5"/>
+<Item id="120023" pieceCount="5" minDrop="1" maxDrop="5"/>
+<!--以下为四级以上图纸（包含四级）-->                                    
+<Item id="120004" pieceCount="5" minDrop="1" maxDrop="2"/>
+<Item id="120014" pieceCount="5" minDrop="1" maxDrop="2"/>
+<Item id="120024" pieceCount="5" minDrop="1" maxDrop="2"/>
+<Item id="120005" pieceCount="5" minDrop="1" maxDrop="2"/>
+<Item id="120015" pieceCount="5" minDrop="1" maxDrop="2"/>
+<Item id="120025" pieceCount="5" minDrop="1" maxDrop="2"/>
+<Item id="120006" pieceCount="5" minDrop="1" maxDrop="2"/>
+<Item id="120016" pieceCount="5" minDrop="1" maxDrop="2"/>
+<Item id="120026" pieceCount="5" minDrop="1" maxDrop="2"/>
 </JielueItems>

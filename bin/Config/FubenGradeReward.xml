@@ -30,13 +30,13 @@ Rewards：
 <Root>
 	<Map MapID="1">
 		<Grade Star="18">
-			<Reward RewardType="6" Key="0" Value="500"/>
+			<Reward RewardType="6" Key="0" Value="1500"/>
 			<Reward RewardType="3" Key="0" Value="20"/>
 		</Grade>
 	</Map>
 	<Map MapID="2">
 		<Grade Star="27">
-			<Reward RewardType="6" Key="0" Value="500"/>
+			<Reward RewardType="6" Key="0" Value="1500"/>
 			<Reward RewardType="2" Key="0" Value="800"/>
 		</Grade>
 		<Grade Star="45">

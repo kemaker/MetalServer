@@ -38,24 +38,25 @@ Goods：
 	<Goods ID="120012" Cost="350" CostType="0" OpenLv="13"/>
 	<Goods ID="120022" Cost="350" CostType="0" OpenLv="13"/>
 	<!--以下为丹药材料-->
-	<Goods ID="131011" Cost="75" CostType="0" OpenLv="13"/>
-	<Goods ID="131021" Cost="250" CostType="0" OpenLv="13"/>
-	<Goods ID="131022" Cost="250" CostType="0" OpenLv="13"/>
-	<Goods ID="131031" Cost="500" CostType="0" OpenLv="13"/>
-	<Goods ID="131032" Cost="500" CostType="0" OpenLv="13"/>
-	<Goods ID="131033" Cost="500" CostType="0" OpenLv="13"/>
-	<Goods ID="131041" Cost="750" CostType="0" OpenLv="13"/>
-	<Goods ID="131042" Cost="750" CostType="0" OpenLv="13"/>
-	<Goods ID="131043" Cost="750" CostType="0" OpenLv="13"/>
-	<Goods ID="131044" Cost="750" CostType="0" OpenLv="13"/>
-	<Goods ID="131051" Cost="1000" CostType="0" OpenLv="13"/>
-	<Goods ID="131052" Cost="1000" CostType="0" OpenLv="13"/>
-	<Goods ID="131053" Cost="1000" CostType="0" OpenLv="13"/>
-	<Goods ID="131054" Cost="1000" CostType="0" OpenLv="13"/>
-	<Goods ID="131055" Cost="1000" CostType="0" OpenLv="13"/>
-	<Goods ID="131061" Cost="1330" CostType="0" OpenLv="13"/>
-	<Goods ID="131062" Cost="1330" CostType="0" OpenLv="13"/>
-	<Goods ID="131063" Cost="1330" CostType="0" OpenLv="13"/>
-	<Goods ID="131064" Cost="1330" CostType="0" OpenLv="13"/>
-	<Goods ID="131065" Cost="1330" CostType="0" OpenLv="13"/>
+	<Goods ID="131011" Cost="150" CostType="0" OpenLv="13"/>
+	<Goods ID="131021" Cost="500" CostType="0" OpenLv="13"/>
+	<Goods ID="131022" Cost="500" CostType="0" OpenLv="13"/>
+	<Goods ID="131031" Cost="1000" CostType="0" OpenLv="13"/>
+	<Goods ID="131032" Cost="1000" CostType="0" OpenLv="13"/>
+	<Goods ID="131033" Cost="1000" CostType="0" OpenLv="13"/>
+	<Goods ID="131041" Cost="1500" CostType="0" OpenLv="13"/>
+	<Goods ID="131042" Cost="1500" CostType="0" OpenLv="13"/>
+	<Goods ID="131043" Cost="1500" CostType="0" OpenLv="13"/>
+	<Goods ID="131044" Cost="1500" CostType="0" OpenLv="13"/>
+	<Goods ID="131051" Cost="2000" CostType="0" OpenLv="13"/>
+	<Goods ID="131052" Cost="2000" CostType="0" OpenLv="13"/>
+	<Goods ID="131053" Cost="2000" CostType="0" OpenLv="13"/>
+	<Goods ID="131054" Cost="2000" CostType="0" OpenLv="13"/>
+	<Goods ID="131055" Cost="2000" CostType="0" OpenLv="13"/>
+	<Goods ID="131061" Cost="2660" CostType="0" OpenLv="13"/>
+	<Goods ID="131062" Cost="2660" CostType="0" OpenLv="13"/>
+	<Goods ID="131063" Cost="2660" CostType="0" OpenLv="13"/>
+	<Goods ID="131064" Cost="2660" CostType="0" OpenLv="13"/>
+	<Goods ID="131065" Cost="2660" CostType="0" OpenLv="13"/>
+
 </Shop>

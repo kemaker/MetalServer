@@ -1,192 +1,896 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Root>
-	<Battle ID="1561">
-		<CampWin Title="Thưởng thắng Doanh Chiến">
-			<Reward RewardType="2" Key="0" Value="20000"/>
-			<Reward RewardType="3" Key="0" Value="180"/>
-			<Reward RewardType="6" Key="0" Value="5000"/>
-		</CampWin>
-		<Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
-			<Reward RewardType="12" Key="4084" Value="7"/>
-			<Reward RewardType="2" Key="0" Value="50000"/>
-			<Reward RewardType="3" Key="0" Value="1888"/>
-			<Reward RewardType="6" Key="0" Value="20000"/>
-		</Rank>
-		<Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
-			<Reward RewardType="10" Key="4084" Value="50"/>
-			<Reward RewardType="2" Key="0" Value="30000"/>
-			<Reward RewardType="3" Key="0" Value="988"/>
-			<Reward RewardType="6" Key="0" Value="15000"/>
-		</Rank>
-		<Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
-			<Reward RewardType="10" Key="4084" Value="30"/>
-			<Reward RewardType="2" Key="0" Value="20000"/>
-			<Reward RewardType="3" Key="0" Value="588"/>
-			<Reward RewardType="6" Key="0" Value="10000"/>
-		</Rank>
-		<Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
-			<Reward RewardType="10" Key="4084" Value="20"/>
-			<Reward RewardType="2" Key="0" Value="10000"/>
-			<Reward RewardType="3" Key="0" Value="288"/>
-			<Reward RewardType="6" Key="0" Value="5000"/>
-		</Rank>
-		<Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
-			<Reward RewardType="10" Key="4084" Value="10"/>
-			<Reward RewardType="2" Key="0" Value="8000"/>
-			<Reward RewardType="3" Key="0" Value="188"/>
-			<Reward RewardType="6" Key="0" Value="3000"/>
-		</Rank>
-		<Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
-			<Reward RewardType="2" Key="0" Value="5000"/>
-			<Reward RewardType="3" Key="0" Value="88"/>
-			<Reward RewardType="6" Key="0" Value="1650"/>
-		</Rank>
-		<Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
-			<Reward RewardType="2" Key="0" Value="3000"/>
-			<Reward RewardType="3" Key="0" Value="58"/>
-			<Reward RewardType="6" Key="0" Value="800"/>
-		</Rank>
-	</Battle>
-	<Battle ID="1562">
-		<CampWin Title="Thưởng thắng Doanh Chiến">
-			<Reward RewardType="2" Key="0" Value="20000"/>
-			<Reward RewardType="3" Key="0" Value="180"/>
-			<Reward RewardType="6" Key="0" Value="5000"/>
-		</CampWin>
-		<Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
-			<Reward RewardType="12" Key="4084" Value="7"/>
-			<Reward RewardType="2" Key="0" Value="50000"/>
-			<Reward RewardType="3" Key="0" Value="1888"/>
-			<Reward RewardType="6" Key="0" Value="20000"/>
-		</Rank>
-		<Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
-			<Reward RewardType="10" Key="4084" Value="50"/>
-			<Reward RewardType="2" Key="0" Value="30000"/>
-			<Reward RewardType="3" Key="0" Value="988"/>
-			<Reward RewardType="6" Key="0" Value="15000"/>
-		</Rank>
-		<Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
-			<Reward RewardType="10" Key="4084" Value="30"/>
-			<Reward RewardType="2" Key="0" Value="20000"/>
-			<Reward RewardType="3" Key="0" Value="588"/>
-			<Reward RewardType="6" Key="0" Value="10000"/>
-		</Rank>
-		<Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
-			<Reward RewardType="10" Key="4084" Value="20"/>
-			<Reward RewardType="2" Key="0" Value="10000"/>
-			<Reward RewardType="3" Key="0" Value="288"/>
-			<Reward RewardType="6" Key="0" Value="5000"/>
-		</Rank>
-		<Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
-			<Reward RewardType="10" Key="4084" Value="10"/>
-			<Reward RewardType="2" Key="0" Value="8000"/>
-			<Reward RewardType="3" Key="0" Value="188"/>
-			<Reward RewardType="6" Key="0" Value="3000"/>
-		</Rank>
-		<Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
-			<Reward RewardType="2" Key="0" Value="5000"/>
-			<Reward RewardType="3" Key="0" Value="88"/>
-			<Reward RewardType="6" Key="0" Value="1650"/>
-		</Rank>
-		<Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
-			<Reward RewardType="2" Key="0" Value="3000"/>
-			<Reward RewardType="3" Key="0" Value="58"/>
-			<Reward RewardType="6" Key="0" Value="800"/>
-		</Rank>
-	</Battle>
-	<Battle ID="1563">
-		<CampWin Title="Thưởng thắng Doanh Chiến">
-			<Reward RewardType="2" Key="0" Value="20000"/>
-			<Reward RewardType="3" Key="0" Value="180"/>
-			<Reward RewardType="6" Key="0" Value="5000"/>
-		</CampWin>
-		<Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
-			<Reward RewardType="12" Key="4084" Value="7"/>
-			<Reward RewardType="2" Key="0" Value="50000"/>
-			<Reward RewardType="3" Key="0" Value="1888"/>
-			<Reward RewardType="6" Key="0" Value="20000"/>
-		</Rank>
-		<Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
-			<Reward RewardType="10" Key="4084" Value="50"/>
-			<Reward RewardType="2" Key="0" Value="30000"/>
-			<Reward RewardType="3" Key="0" Value="988"/>
-			<Reward RewardType="6" Key="0" Value="15000"/>
-		</Rank>
-		<Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
-			<Reward RewardType="10" Key="4084" Value="30"/>
-			<Reward RewardType="2" Key="0" Value="20000"/>
-			<Reward RewardType="3" Key="0" Value="588"/>
-			<Reward RewardType="6" Key="0" Value="10000"/>
-		</Rank>
-		<Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
-			<Reward RewardType="10" Key="4084" Value="20"/>
-			<Reward RewardType="2" Key="0" Value="10000"/>
-			<Reward RewardType="3" Key="0" Value="288"/>
-			<Reward RewardType="6" Key="0" Value="5000"/>
-		</Rank>
-		<Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
-			<Reward RewardType="10" Key="4084" Value="10"/>
-			<Reward RewardType="2" Key="0" Value="8000"/>
-			<Reward RewardType="3" Key="0" Value="188"/>
-			<Reward RewardType="6" Key="0" Value="3000"/>
-		</Rank>
-		<Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
-			<Reward RewardType="2" Key="0" Value="5000"/>
-			<Reward RewardType="3" Key="0" Value="88"/>
-			<Reward RewardType="6" Key="0" Value="1650"/>
-		</Rank>
-		<Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
-			<Reward RewardType="2" Key="0" Value="3000"/>
-			<Reward RewardType="3" Key="0" Value="58"/>
-			<Reward RewardType="6" Key="0" Value="800"/>
-		</Rank>
-	</Battle>
-	<Battle ID="1564">
-		<CampWin Title="Thưởng thắng Doanh Chiến">
-			<Reward RewardType="2" Key="0" Value="20000"/>
-			<Reward RewardType="3" Key="0" Value="180"/>
-			<Reward RewardType="6" Key="0" Value="5000"/>
-		</CampWin>
-		<Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
-			<Reward RewardType="12" Key="4084" Value="7"/>
-			<Reward RewardType="2" Key="0" Value="50000"/>
-			<Reward RewardType="3" Key="0" Value="1888"/>
-			<Reward RewardType="6" Key="0" Value="20000"/>
-		</Rank>
-		<Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
-			<Reward RewardType="10" Key="4084" Value="50"/>
-			<Reward RewardType="2" Key="0" Value="30000"/>
-			<Reward RewardType="3" Key="0" Value="988"/>
-			<Reward RewardType="6" Key="0" Value="15000"/>
-		</Rank>
-		<Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
-			<Reward RewardType="10" Key="4084" Value="30"/>
-			<Reward RewardType="2" Key="0" Value="20000"/>
-			<Reward RewardType="3" Key="0" Value="588"/>
-			<Reward RewardType="6" Key="0" Value="10000"/>
-		</Rank>
-		<Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
-			<Reward RewardType="10" Key="4084" Value="20"/>
-			<Reward RewardType="2" Key="0" Value="10000"/>
-			<Reward RewardType="3" Key="0" Value="288"/>
-			<Reward RewardType="6" Key="0" Value="5000"/>
-		</Rank>
-		<Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
-			<Reward RewardType="10" Key="4084" Value="10"/>
-			<Reward RewardType="2" Key="0" Value="8000"/>
-			<Reward RewardType="3" Key="0" Value="188"/>
-			<Reward RewardType="6" Key="0" Value="3000"/>
-		</Rank>
-		<Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
-			<Reward RewardType="2" Key="0" Value="5000"/>
-			<Reward RewardType="3" Key="0" Value="88"/>
-			<Reward RewardType="6" Key="0" Value="1650"/>
-		</Rank>
-		<Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
-			<Reward RewardType="2" Key="0" Value="3000"/>
-			<Reward RewardType="3" Key="0" Value="58"/>
-			<Reward RewardType="6" Key="0" Value="800"/>
-		</Rank>
-	</Battle>
+  <Battle ID="1561">
+    <CampWin Title="Thưởng thắng Doanh Chiến">
+      <Reward RewardType="2" Key="0" Value="50000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </CampWin>
+    <Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
+      <Reward RewardType="12" Key="4084" Value="7" />
+      <Reward RewardType="2" Key="0" Value="300000" />
+      <Reward RewardType="3" Key="0" Value="1500" />
+      <Reward RewardType="6" Key="0" Value="15000" />
+    </Rank>
+    <Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
+      <Reward RewardType="10" Key="4084" Value="70" />
+      <Reward RewardType="2" Key="0" Value="200000" />
+      <Reward RewardType="3" Key="0" Value="1000" />
+      <Reward RewardType="6" Key="0" Value="12000" />
+    </Rank>
+    <Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
+      <Reward RewardType="10" Key="4084" Value="50" />
+      <Reward RewardType="2" Key="0" Value="150000" />
+      <Reward RewardType="3" Key="0" Value="800" />
+      <Reward RewardType="6" Key="0" Value="10000" />
+    </Rank>
+    <Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
+      <Reward RewardType="10" Key="4084" Value="30" />
+      <Reward RewardType="2" Key="0" Value="120000" />
+      <Reward RewardType="3" Key="0" Value="500" />
+      <Reward RewardType="6" Key="0" Value="7000" />
+    </Rank>
+    <Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
+      <Reward RewardType="10" Key="4084" Value="20" />
+      <Reward RewardType="2" Key="0" Value="100000" />
+      <Reward RewardType="3" Key="0" Value="300" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </Rank>
+    <Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
+      <Reward RewardType="2" Key="0" Value="80000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="4000" />
+    </Rank>
+    <Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
+      <Reward RewardType="2" Key="0" Value="60000" />
+      <Reward RewardType="3" Key="0" Value="100" />
+      <Reward RewardType="6" Key="0" Value="3000" />
+    </Rank>
+  </Battle>
+  <Battle ID="1562">
+    <CampWin Title="Thưởng thắng Doanh Chiến">
+      <Reward RewardType="2" Key="0" Value="50000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </CampWin>
+    <Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
+      <Reward RewardType="12" Key="4084" Value="7" />
+      <Reward RewardType="2" Key="0" Value="300000" />
+      <Reward RewardType="3" Key="0" Value="1500" />
+      <Reward RewardType="6" Key="0" Value="15000" />
+    </Rank>
+    <Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
+      <Reward RewardType="10" Key="4084" Value="70" />
+      <Reward RewardType="2" Key="0" Value="200000" />
+      <Reward RewardType="3" Key="0" Value="1000" />
+      <Reward RewardType="6" Key="0" Value="12000" />
+    </Rank>
+    <Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
+      <Reward RewardType="10" Key="4084" Value="50" />
+      <Reward RewardType="2" Key="0" Value="150000" />
+      <Reward RewardType="3" Key="0" Value="800" />
+      <Reward RewardType="6" Key="0" Value="10000" />
+    </Rank>
+    <Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
+      <Reward RewardType="10" Key="4084" Value="30" />
+      <Reward RewardType="2" Key="0" Value="120000" />
+      <Reward RewardType="3" Key="0" Value="500" />
+      <Reward RewardType="6" Key="0" Value="7000" />
+    </Rank>
+    <Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
+      <Reward RewardType="10" Key="4084" Value="20" />
+      <Reward RewardType="2" Key="0" Value="100000" />
+      <Reward RewardType="3" Key="0" Value="300" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </Rank>
+    <Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
+      <Reward RewardType="2" Key="0" Value="80000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="4000" />
+    </Rank>
+    <Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
+      <Reward RewardType="2" Key="0" Value="60000" />
+      <Reward RewardType="3" Key="0" Value="100" />
+      <Reward RewardType="6" Key="0" Value="3000" />
+    </Rank>
+  </Battle>
+  <Battle ID="1563">
+    <CampWin Title="Thưởng thắng Doanh Chiến">
+      <Reward RewardType="2" Key="0" Value="50000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </CampWin>
+    <Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
+      <Reward RewardType="12" Key="4084" Value="7" />
+      <Reward RewardType="2" Key="0" Value="300000" />
+      <Reward RewardType="3" Key="0" Value="1500" />
+      <Reward RewardType="6" Key="0" Value="15000" />
+    </Rank>
+    <Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
+      <Reward RewardType="10" Key="4084" Value="70" />
+      <Reward RewardType="2" Key="0" Value="200000" />
+      <Reward RewardType="3" Key="0" Value="1000" />
+      <Reward RewardType="6" Key="0" Value="12000" />
+    </Rank>
+    <Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
+      <Reward RewardType="10" Key="4084" Value="50" />
+      <Reward RewardType="2" Key="0" Value="150000" />
+      <Reward RewardType="3" Key="0" Value="800" />
+      <Reward RewardType="6" Key="0" Value="10000" />
+    </Rank>
+    <Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
+      <Reward RewardType="10" Key="4084" Value="30" />
+      <Reward RewardType="2" Key="0" Value="120000" />
+      <Reward RewardType="3" Key="0" Value="500" />
+      <Reward RewardType="6" Key="0" Value="7000" />
+    </Rank>
+    <Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
+      <Reward RewardType="10" Key="4084" Value="20" />
+      <Reward RewardType="2" Key="0" Value="100000" />
+      <Reward RewardType="3" Key="0" Value="300" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </Rank>
+    <Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
+      <Reward RewardType="2" Key="0" Value="80000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="4000" />
+    </Rank>
+    <Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
+      <Reward RewardType="2" Key="0" Value="60000" />
+      <Reward RewardType="3" Key="0" Value="100" />
+      <Reward RewardType="6" Key="0" Value="3000" />
+    </Rank>
+  </Battle>
+  <Battle ID="1564">
+    <CampWin Title="Thưởng thắng Doanh Chiến">
+      <Reward RewardType="2" Key="0" Value="50000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </CampWin>
+    <Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
+      <Reward RewardType="12" Key="4084" Value="7" />
+      <Reward RewardType="2" Key="0" Value="300000" />
+      <Reward RewardType="3" Key="0" Value="1500" />
+      <Reward RewardType="6" Key="0" Value="15000" />
+    </Rank>
+    <Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
+      <Reward RewardType="10" Key="4084" Value="70" />
+      <Reward RewardType="2" Key="0" Value="200000" />
+      <Reward RewardType="3" Key="0" Value="1000" />
+      <Reward RewardType="6" Key="0" Value="12000" />
+    </Rank>
+    <Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
+      <Reward RewardType="10" Key="4084" Value="50" />
+      <Reward RewardType="2" Key="0" Value="150000" />
+      <Reward RewardType="3" Key="0" Value="800" />
+      <Reward RewardType="6" Key="0" Value="10000" />
+    </Rank>
+    <Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
+      <Reward RewardType="10" Key="4084" Value="30" />
+      <Reward RewardType="2" Key="0" Value="120000" />
+      <Reward RewardType="3" Key="0" Value="500" />
+      <Reward RewardType="6" Key="0" Value="7000" />
+    </Rank>
+    <Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
+      <Reward RewardType="10" Key="4084" Value="20" />
+      <Reward RewardType="2" Key="0" Value="100000" />
+      <Reward RewardType="3" Key="0" Value="300" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </Rank>
+    <Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
+      <Reward RewardType="2" Key="0" Value="80000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="4000" />
+    </Rank>
+    <Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
+      <Reward RewardType="2" Key="0" Value="60000" />
+      <Reward RewardType="3" Key="0" Value="100" />
+      <Reward RewardType="6" Key="0" Value="3000" />
+    </Rank>
+  </Battle>
+  <Battle ID="1565">
+    <CampWin Title="Thưởng thắng Doanh Chiến">
+      <Reward RewardType="2" Key="0" Value="50000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </CampWin>
+    <Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
+      <Reward RewardType="12" Key="4084" Value="7" />
+      <Reward RewardType="2" Key="0" Value="300000" />
+      <Reward RewardType="3" Key="0" Value="1500" />
+      <Reward RewardType="6" Key="0" Value="15000" />
+    </Rank>
+    <Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
+      <Reward RewardType="10" Key="4084" Value="70" />
+      <Reward RewardType="2" Key="0" Value="200000" />
+      <Reward RewardType="3" Key="0" Value="1000" />
+      <Reward RewardType="6" Key="0" Value="12000" />
+    </Rank>
+    <Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
+      <Reward RewardType="10" Key="4084" Value="50" />
+      <Reward RewardType="2" Key="0" Value="150000" />
+      <Reward RewardType="3" Key="0" Value="800" />
+      <Reward RewardType="6" Key="0" Value="10000" />
+    </Rank>
+    <Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
+      <Reward RewardType="10" Key="4084" Value="30" />
+      <Reward RewardType="2" Key="0" Value="120000" />
+      <Reward RewardType="3" Key="0" Value="500" />
+      <Reward RewardType="6" Key="0" Value="7000" />
+    </Rank>
+    <Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
+      <Reward RewardType="10" Key="4084" Value="20" />
+      <Reward RewardType="2" Key="0" Value="100000" />
+      <Reward RewardType="3" Key="0" Value="300" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </Rank>
+    <Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
+      <Reward RewardType="2" Key="0" Value="80000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="4000" />
+    </Rank>
+    <Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
+      <Reward RewardType="2" Key="0" Value="60000" />
+      <Reward RewardType="3" Key="0" Value="100" />
+      <Reward RewardType="6" Key="0" Value="3000" />
+    </Rank>
+  </Battle>
+  <Battle ID="1566">
+    <CampWin Title="Thưởng thắng Doanh Chiến">
+      <Reward RewardType="2" Key="0" Value="50000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </CampWin>
+    <Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
+      <Reward RewardType="12" Key="4084" Value="7" />
+      <Reward RewardType="2" Key="0" Value="300000" />
+      <Reward RewardType="3" Key="0" Value="1500" />
+      <Reward RewardType="6" Key="0" Value="15000" />
+    </Rank>
+    <Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
+      <Reward RewardType="10" Key="4084" Value="70" />
+      <Reward RewardType="2" Key="0" Value="200000" />
+      <Reward RewardType="3" Key="0" Value="1000" />
+      <Reward RewardType="6" Key="0" Value="12000" />
+    </Rank>
+    <Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
+      <Reward RewardType="10" Key="4084" Value="50" />
+      <Reward RewardType="2" Key="0" Value="150000" />
+      <Reward RewardType="3" Key="0" Value="800" />
+      <Reward RewardType="6" Key="0" Value="10000" />
+    </Rank>
+    <Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
+      <Reward RewardType="10" Key="4084" Value="30" />
+      <Reward RewardType="2" Key="0" Value="120000" />
+      <Reward RewardType="3" Key="0" Value="500" />
+      <Reward RewardType="6" Key="0" Value="7000" />
+    </Rank>
+    <Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
+      <Reward RewardType="10" Key="4084" Value="20" />
+      <Reward RewardType="2" Key="0" Value="100000" />
+      <Reward RewardType="3" Key="0" Value="300" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </Rank>
+    <Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
+      <Reward RewardType="2" Key="0" Value="80000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="4000" />
+    </Rank>
+    <Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
+      <Reward RewardType="2" Key="0" Value="60000" />
+      <Reward RewardType="3" Key="0" Value="100" />
+      <Reward RewardType="6" Key="0" Value="3000" />
+    </Rank>
+  </Battle>
+  <Battle ID="1567">
+    <CampWin Title="Thưởng thắng Doanh Chiến">
+      <Reward RewardType="2" Key="0" Value="50000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </CampWin>
+    <Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
+      <Reward RewardType="12" Key="4084" Value="7" />
+      <Reward RewardType="2" Key="0" Value="300000" />
+      <Reward RewardType="3" Key="0" Value="1500" />
+      <Reward RewardType="6" Key="0" Value="15000" />
+    </Rank>
+    <Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
+      <Reward RewardType="10" Key="4084" Value="70" />
+      <Reward RewardType="2" Key="0" Value="200000" />
+      <Reward RewardType="3" Key="0" Value="1000" />
+      <Reward RewardType="6" Key="0" Value="12000" />
+    </Rank>
+    <Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
+      <Reward RewardType="10" Key="4084" Value="50" />
+      <Reward RewardType="2" Key="0" Value="150000" />
+      <Reward RewardType="3" Key="0" Value="800" />
+      <Reward RewardType="6" Key="0" Value="10000" />
+    </Rank>
+    <Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
+      <Reward RewardType="10" Key="4084" Value="30" />
+      <Reward RewardType="2" Key="0" Value="120000" />
+      <Reward RewardType="3" Key="0" Value="500" />
+      <Reward RewardType="6" Key="0" Value="7000" />
+    </Rank>
+    <Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
+      <Reward RewardType="10" Key="4084" Value="20" />
+      <Reward RewardType="2" Key="0" Value="100000" />
+      <Reward RewardType="3" Key="0" Value="300" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </Rank>
+    <Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
+      <Reward RewardType="2" Key="0" Value="80000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="4000" />
+    </Rank>
+    <Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
+      <Reward RewardType="2" Key="0" Value="60000" />
+      <Reward RewardType="3" Key="0" Value="100" />
+      <Reward RewardType="6" Key="0" Value="3000" />
+    </Rank>
+  </Battle>
+  <Battle ID="1568">
+    <CampWin Title="Thưởng thắng Doanh Chiến">
+      <Reward RewardType="2" Key="0" Value="50000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </CampWin>
+    <Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
+      <Reward RewardType="12" Key="4084" Value="7" />
+      <Reward RewardType="2" Key="0" Value="300000" />
+      <Reward RewardType="3" Key="0" Value="1500" />
+      <Reward RewardType="6" Key="0" Value="15000" />
+    </Rank>
+    <Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
+      <Reward RewardType="10" Key="4084" Value="70" />
+      <Reward RewardType="2" Key="0" Value="200000" />
+      <Reward RewardType="3" Key="0" Value="1000" />
+      <Reward RewardType="6" Key="0" Value="12000" />
+    </Rank>
+    <Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
+      <Reward RewardType="10" Key="4084" Value="50" />
+      <Reward RewardType="2" Key="0" Value="150000" />
+      <Reward RewardType="3" Key="0" Value="800" />
+      <Reward RewardType="6" Key="0" Value="10000" />
+    </Rank>
+    <Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
+      <Reward RewardType="10" Key="4084" Value="30" />
+      <Reward RewardType="2" Key="0" Value="120000" />
+      <Reward RewardType="3" Key="0" Value="500" />
+      <Reward RewardType="6" Key="0" Value="7000" />
+    </Rank>
+    <Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
+      <Reward RewardType="10" Key="4084" Value="20" />
+      <Reward RewardType="2" Key="0" Value="100000" />
+      <Reward RewardType="3" Key="0" Value="300" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </Rank>
+    <Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
+      <Reward RewardType="2" Key="0" Value="80000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="4000" />
+    </Rank>
+    <Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
+      <Reward RewardType="2" Key="0" Value="60000" />
+      <Reward RewardType="3" Key="0" Value="100" />
+      <Reward RewardType="6" Key="0" Value="3000" />
+    </Rank>
+  </Battle>
+  <Battle ID="1569">
+    <CampWin Title="Thưởng thắng Doanh Chiến">
+      <Reward RewardType="2" Key="0" Value="50000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </CampWin>
+    <Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
+      <Reward RewardType="12" Key="4084" Value="7" />
+      <Reward RewardType="2" Key="0" Value="300000" />
+      <Reward RewardType="3" Key="0" Value="1500" />
+      <Reward RewardType="6" Key="0" Value="15000" />
+    </Rank>
+    <Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
+      <Reward RewardType="10" Key="4084" Value="70" />
+      <Reward RewardType="2" Key="0" Value="200000" />
+      <Reward RewardType="3" Key="0" Value="1000" />
+      <Reward RewardType="6" Key="0" Value="12000" />
+    </Rank>
+    <Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
+      <Reward RewardType="10" Key="4084" Value="50" />
+      <Reward RewardType="2" Key="0" Value="150000" />
+      <Reward RewardType="3" Key="0" Value="800" />
+      <Reward RewardType="6" Key="0" Value="10000" />
+    </Rank>
+    <Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
+      <Reward RewardType="10" Key="4084" Value="30" />
+      <Reward RewardType="2" Key="0" Value="120000" />
+      <Reward RewardType="3" Key="0" Value="500" />
+      <Reward RewardType="6" Key="0" Value="7000" />
+    </Rank>
+    <Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
+      <Reward RewardType="10" Key="4084" Value="20" />
+      <Reward RewardType="2" Key="0" Value="100000" />
+      <Reward RewardType="3" Key="0" Value="300" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </Rank>
+    <Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
+      <Reward RewardType="2" Key="0" Value="80000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="4000" />
+    </Rank>
+    <Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
+      <Reward RewardType="2" Key="0" Value="60000" />
+      <Reward RewardType="3" Key="0" Value="100" />
+      <Reward RewardType="6" Key="0" Value="3000" />
+    </Rank>
+  </Battle>
+  <Battle ID="1570">
+    <CampWin Title="Thưởng thắng Doanh Chiến">
+      <Reward RewardType="2" Key="0" Value="50000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </CampWin>
+    <Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
+      <Reward RewardType="12" Key="4084" Value="7" />
+      <Reward RewardType="2" Key="0" Value="300000" />
+      <Reward RewardType="3" Key="0" Value="1500" />
+      <Reward RewardType="6" Key="0" Value="15000" />
+    </Rank>
+    <Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
+      <Reward RewardType="10" Key="4084" Value="70" />
+      <Reward RewardType="2" Key="0" Value="200000" />
+      <Reward RewardType="3" Key="0" Value="1000" />
+      <Reward RewardType="6" Key="0" Value="12000" />
+    </Rank>
+    <Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
+      <Reward RewardType="10" Key="4084" Value="50" />
+      <Reward RewardType="2" Key="0" Value="150000" />
+      <Reward RewardType="3" Key="0" Value="800" />
+      <Reward RewardType="6" Key="0" Value="10000" />
+    </Rank>
+    <Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
+      <Reward RewardType="10" Key="4084" Value="30" />
+      <Reward RewardType="2" Key="0" Value="120000" />
+      <Reward RewardType="3" Key="0" Value="500" />
+      <Reward RewardType="6" Key="0" Value="7000" />
+    </Rank>
+    <Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
+      <Reward RewardType="10" Key="4084" Value="20" />
+      <Reward RewardType="2" Key="0" Value="100000" />
+      <Reward RewardType="3" Key="0" Value="300" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </Rank>
+    <Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
+      <Reward RewardType="2" Key="0" Value="80000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="4000" />
+    </Rank>
+    <Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
+      <Reward RewardType="2" Key="0" Value="60000" />
+      <Reward RewardType="3" Key="0" Value="100" />
+      <Reward RewardType="6" Key="0" Value="3000" />
+    </Rank>
+  </Battle>
+  <Battle ID="1571">
+    <CampWin Title="Thưởng thắng Doanh Chiến">
+      <Reward RewardType="2" Key="0" Value="50000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </CampWin>
+    <Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
+      <Reward RewardType="12" Key="4084" Value="7" />
+      <Reward RewardType="2" Key="0" Value="300000" />
+      <Reward RewardType="3" Key="0" Value="1500" />
+      <Reward RewardType="6" Key="0" Value="15000" />
+    </Rank>
+    <Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
+      <Reward RewardType="10" Key="4084" Value="70" />
+      <Reward RewardType="2" Key="0" Value="200000" />
+      <Reward RewardType="3" Key="0" Value="1000" />
+      <Reward RewardType="6" Key="0" Value="12000" />
+    </Rank>
+    <Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
+      <Reward RewardType="10" Key="4084" Value="50" />
+      <Reward RewardType="2" Key="0" Value="150000" />
+      <Reward RewardType="3" Key="0" Value="800" />
+      <Reward RewardType="6" Key="0" Value="10000" />
+    </Rank>
+    <Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
+      <Reward RewardType="10" Key="4084" Value="30" />
+      <Reward RewardType="2" Key="0" Value="120000" />
+      <Reward RewardType="3" Key="0" Value="500" />
+      <Reward RewardType="6" Key="0" Value="7000" />
+    </Rank>
+    <Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
+      <Reward RewardType="10" Key="4084" Value="20" />
+      <Reward RewardType="2" Key="0" Value="100000" />
+      <Reward RewardType="3" Key="0" Value="300" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </Rank>
+    <Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
+      <Reward RewardType="2" Key="0" Value="80000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="4000" />
+    </Rank>
+    <Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
+      <Reward RewardType="2" Key="0" Value="60000" />
+      <Reward RewardType="3" Key="0" Value="100" />
+      <Reward RewardType="6" Key="0" Value="3000" />
+    </Rank>
+  </Battle>
+  <Battle ID="1572">
+    <CampWin Title="Thưởng thắng Doanh Chiến">
+      <Reward RewardType="2" Key="0" Value="50000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </CampWin>
+    <Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
+      <Reward RewardType="12" Key="4084" Value="7" />
+      <Reward RewardType="2" Key="0" Value="300000" />
+      <Reward RewardType="3" Key="0" Value="1500" />
+      <Reward RewardType="6" Key="0" Value="15000" />
+    </Rank>
+    <Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
+      <Reward RewardType="10" Key="4084" Value="70" />
+      <Reward RewardType="2" Key="0" Value="200000" />
+      <Reward RewardType="3" Key="0" Value="1000" />
+      <Reward RewardType="6" Key="0" Value="12000" />
+    </Rank>
+    <Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
+      <Reward RewardType="10" Key="4084" Value="50" />
+      <Reward RewardType="2" Key="0" Value="150000" />
+      <Reward RewardType="3" Key="0" Value="800" />
+      <Reward RewardType="6" Key="0" Value="10000" />
+    </Rank>
+    <Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
+      <Reward RewardType="10" Key="4084" Value="30" />
+      <Reward RewardType="2" Key="0" Value="120000" />
+      <Reward RewardType="3" Key="0" Value="500" />
+      <Reward RewardType="6" Key="0" Value="7000" />
+    </Rank>
+    <Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
+      <Reward RewardType="10" Key="4084" Value="20" />
+      <Reward RewardType="2" Key="0" Value="100000" />
+      <Reward RewardType="3" Key="0" Value="300" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </Rank>
+    <Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
+      <Reward RewardType="2" Key="0" Value="80000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="4000" />
+    </Rank>
+    <Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
+      <Reward RewardType="2" Key="0" Value="60000" />
+      <Reward RewardType="3" Key="0" Value="100" />
+      <Reward RewardType="6" Key="0" Value="3000" />
+    </Rank>
+  </Battle>
+  <Battle ID="1573">
+    <CampWin Title="Thưởng thắng Doanh Chiến">
+      <Reward RewardType="2" Key="0" Value="50000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </CampWin>
+    <Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
+      <Reward RewardType="12" Key="4084" Value="7" />
+      <Reward RewardType="2" Key="0" Value="300000" />
+      <Reward RewardType="3" Key="0" Value="1500" />
+      <Reward RewardType="6" Key="0" Value="15000" />
+    </Rank>
+    <Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
+      <Reward RewardType="10" Key="4084" Value="70" />
+      <Reward RewardType="2" Key="0" Value="200000" />
+      <Reward RewardType="3" Key="0" Value="1000" />
+      <Reward RewardType="6" Key="0" Value="12000" />
+    </Rank>
+    <Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
+      <Reward RewardType="10" Key="4084" Value="50" />
+      <Reward RewardType="2" Key="0" Value="150000" />
+      <Reward RewardType="3" Key="0" Value="800" />
+      <Reward RewardType="6" Key="0" Value="10000" />
+    </Rank>
+    <Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
+      <Reward RewardType="10" Key="4084" Value="30" />
+      <Reward RewardType="2" Key="0" Value="120000" />
+      <Reward RewardType="3" Key="0" Value="500" />
+      <Reward RewardType="6" Key="0" Value="7000" />
+    </Rank>
+    <Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
+      <Reward RewardType="10" Key="4084" Value="20" />
+      <Reward RewardType="2" Key="0" Value="100000" />
+      <Reward RewardType="3" Key="0" Value="300" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </Rank>
+    <Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
+      <Reward RewardType="2" Key="0" Value="80000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="4000" />
+    </Rank>
+    <Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
+      <Reward RewardType="2" Key="0" Value="60000" />
+      <Reward RewardType="3" Key="0" Value="100" />
+      <Reward RewardType="6" Key="0" Value="3000" />
+    </Rank>
+  </Battle>
+  <Battle ID="1574">
+    <CampWin Title="Thưởng thắng Doanh Chiến">
+      <Reward RewardType="2" Key="0" Value="50000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </CampWin>
+    <Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
+      <Reward RewardType="12" Key="4084" Value="7" />
+      <Reward RewardType="2" Key="0" Value="300000" />
+      <Reward RewardType="3" Key="0" Value="1500" />
+      <Reward RewardType="6" Key="0" Value="15000" />
+    </Rank>
+    <Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
+      <Reward RewardType="10" Key="4084" Value="70" />
+      <Reward RewardType="2" Key="0" Value="200000" />
+      <Reward RewardType="3" Key="0" Value="1000" />
+      <Reward RewardType="6" Key="0" Value="12000" />
+    </Rank>
+    <Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
+      <Reward RewardType="10" Key="4084" Value="50" />
+      <Reward RewardType="2" Key="0" Value="150000" />
+      <Reward RewardType="3" Key="0" Value="800" />
+      <Reward RewardType="6" Key="0" Value="10000" />
+    </Rank>
+    <Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
+      <Reward RewardType="10" Key="4084" Value="30" />
+      <Reward RewardType="2" Key="0" Value="120000" />
+      <Reward RewardType="3" Key="0" Value="500" />
+      <Reward RewardType="6" Key="0" Value="7000" />
+    </Rank>
+    <Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
+      <Reward RewardType="10" Key="4084" Value="20" />
+      <Reward RewardType="2" Key="0" Value="100000" />
+      <Reward RewardType="3" Key="0" Value="300" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </Rank>
+    <Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
+      <Reward RewardType="2" Key="0" Value="80000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="4000" />
+    </Rank>
+    <Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
+      <Reward RewardType="2" Key="0" Value="60000" />
+      <Reward RewardType="3" Key="0" Value="100" />
+      <Reward RewardType="6" Key="0" Value="3000" />
+    </Rank>
+  </Battle>
+  <Battle ID="1575">
+    <CampWin Title="Thưởng thắng Doanh Chiến">
+      <Reward RewardType="2" Key="0" Value="50000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </CampWin>
+    <Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
+      <Reward RewardType="12" Key="4084" Value="7" />
+      <Reward RewardType="2" Key="0" Value="300000" />
+      <Reward RewardType="3" Key="0" Value="1500" />
+      <Reward RewardType="6" Key="0" Value="15000" />
+    </Rank>
+    <Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
+      <Reward RewardType="10" Key="4084" Value="70" />
+      <Reward RewardType="2" Key="0" Value="200000" />
+      <Reward RewardType="3" Key="0" Value="1000" />
+      <Reward RewardType="6" Key="0" Value="12000" />
+    </Rank>
+    <Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
+      <Reward RewardType="10" Key="4084" Value="50" />
+      <Reward RewardType="2" Key="0" Value="150000" />
+      <Reward RewardType="3" Key="0" Value="800" />
+      <Reward RewardType="6" Key="0" Value="10000" />
+    </Rank>
+    <Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
+      <Reward RewardType="10" Key="4084" Value="30" />
+      <Reward RewardType="2" Key="0" Value="120000" />
+      <Reward RewardType="3" Key="0" Value="500" />
+      <Reward RewardType="6" Key="0" Value="7000" />
+    </Rank>
+    <Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
+      <Reward RewardType="10" Key="4084" Value="20" />
+      <Reward RewardType="2" Key="0" Value="100000" />
+      <Reward RewardType="3" Key="0" Value="300" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </Rank>
+    <Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
+      <Reward RewardType="2" Key="0" Value="80000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="4000" />
+    </Rank>
+    <Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
+      <Reward RewardType="2" Key="0" Value="60000" />
+      <Reward RewardType="3" Key="0" Value="100" />
+      <Reward RewardType="6" Key="0" Value="3000" />
+    </Rank>
+  </Battle>
+  <Battle ID="1576">
+    <CampWin Title="Thưởng thắng Doanh Chiến">
+      <Reward RewardType="2" Key="0" Value="50000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </CampWin>
+    <Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
+      <Reward RewardType="12" Key="4084" Value="7" />
+      <Reward RewardType="2" Key="0" Value="300000" />
+      <Reward RewardType="3" Key="0" Value="1500" />
+      <Reward RewardType="6" Key="0" Value="15000" />
+    </Rank>
+    <Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
+      <Reward RewardType="10" Key="4084" Value="70" />
+      <Reward RewardType="2" Key="0" Value="200000" />
+      <Reward RewardType="3" Key="0" Value="1000" />
+      <Reward RewardType="6" Key="0" Value="12000" />
+    </Rank>
+    <Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
+      <Reward RewardType="10" Key="4084" Value="50" />
+      <Reward RewardType="2" Key="0" Value="150000" />
+      <Reward RewardType="3" Key="0" Value="800" />
+      <Reward RewardType="6" Key="0" Value="10000" />
+    </Rank>
+    <Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
+      <Reward RewardType="10" Key="4084" Value="30" />
+      <Reward RewardType="2" Key="0" Value="120000" />
+      <Reward RewardType="3" Key="0" Value="500" />
+      <Reward RewardType="6" Key="0" Value="7000" />
+    </Rank>
+    <Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
+      <Reward RewardType="10" Key="4084" Value="20" />
+      <Reward RewardType="2" Key="0" Value="100000" />
+      <Reward RewardType="3" Key="0" Value="300" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </Rank>
+    <Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
+      <Reward RewardType="2" Key="0" Value="80000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="4000" />
+    </Rank>
+    <Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
+      <Reward RewardType="2" Key="0" Value="60000" />
+      <Reward RewardType="3" Key="0" Value="100" />
+      <Reward RewardType="6" Key="0" Value="3000" />
+    </Rank>
+  </Battle>
+  <Battle ID="1577">
+    <CampWin Title="Thưởng thắng Doanh Chiến">
+      <Reward RewardType="2" Key="0" Value="50000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </CampWin>
+    <Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
+      <Reward RewardType="12" Key="4084" Value="7" />
+      <Reward RewardType="2" Key="0" Value="300000" />
+      <Reward RewardType="3" Key="0" Value="1500" />
+      <Reward RewardType="6" Key="0" Value="15000" />
+    </Rank>
+    <Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
+      <Reward RewardType="10" Key="4084" Value="70" />
+      <Reward RewardType="2" Key="0" Value="200000" />
+      <Reward RewardType="3" Key="0" Value="1000" />
+      <Reward RewardType="6" Key="0" Value="12000" />
+    </Rank>
+    <Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
+      <Reward RewardType="10" Key="4084" Value="50" />
+      <Reward RewardType="2" Key="0" Value="150000" />
+      <Reward RewardType="3" Key="0" Value="800" />
+      <Reward RewardType="6" Key="0" Value="10000" />
+    </Rank>
+    <Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
+      <Reward RewardType="10" Key="4084" Value="30" />
+      <Reward RewardType="2" Key="0" Value="120000" />
+      <Reward RewardType="3" Key="0" Value="500" />
+      <Reward RewardType="6" Key="0" Value="7000" />
+    </Rank>
+    <Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
+      <Reward RewardType="10" Key="4084" Value="20" />
+      <Reward RewardType="2" Key="0" Value="100000" />
+      <Reward RewardType="3" Key="0" Value="300" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </Rank>
+    <Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
+      <Reward RewardType="2" Key="0" Value="80000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="4000" />
+    </Rank>
+    <Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
+      <Reward RewardType="2" Key="0" Value="60000" />
+      <Reward RewardType="3" Key="0" Value="100" />
+      <Reward RewardType="6" Key="0" Value="3000" />
+    </Rank>
+  </Battle>
+  <Battle ID="1578">
+    <CampWin Title="Thưởng thắng Doanh Chiến">
+      <Reward RewardType="2" Key="0" Value="50000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </CampWin>
+    <Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
+      <Reward RewardType="12" Key="4084" Value="7" />
+      <Reward RewardType="2" Key="0" Value="300000" />
+      <Reward RewardType="3" Key="0" Value="1500" />
+      <Reward RewardType="6" Key="0" Value="15000" />
+    </Rank>
+    <Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
+      <Reward RewardType="10" Key="4084" Value="70" />
+      <Reward RewardType="2" Key="0" Value="200000" />
+      <Reward RewardType="3" Key="0" Value="1000" />
+      <Reward RewardType="6" Key="0" Value="12000" />
+    </Rank>
+    <Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
+      <Reward RewardType="10" Key="4084" Value="50" />
+      <Reward RewardType="2" Key="0" Value="150000" />
+      <Reward RewardType="3" Key="0" Value="800" />
+      <Reward RewardType="6" Key="0" Value="10000" />
+    </Rank>
+    <Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
+      <Reward RewardType="10" Key="4084" Value="30" />
+      <Reward RewardType="2" Key="0" Value="120000" />
+      <Reward RewardType="3" Key="0" Value="500" />
+      <Reward RewardType="6" Key="0" Value="7000" />
+    </Rank>
+    <Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
+      <Reward RewardType="10" Key="4084" Value="20" />
+      <Reward RewardType="2" Key="0" Value="100000" />
+      <Reward RewardType="3" Key="0" Value="300" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </Rank>
+    <Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
+      <Reward RewardType="2" Key="0" Value="80000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="4000" />
+    </Rank>
+    <Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
+      <Reward RewardType="2" Key="0" Value="60000" />
+      <Reward RewardType="3" Key="0" Value="100" />
+      <Reward RewardType="6" Key="0" Value="3000" />
+    </Rank>
+  </Battle>
+  <Battle ID="1579">
+    <CampWin Title="Thưởng thắng Doanh Chiến">
+      <Reward RewardType="2" Key="0" Value="50000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </CampWin>
+    <Rank Range1="1" Range2="1" Title="Thưởng thủ lĩnh">
+      <Reward RewardType="12" Key="4084" Value="7" />
+      <Reward RewardType="2" Key="0" Value="300000" />
+      <Reward RewardType="3" Key="0" Value="1500" />
+      <Reward RewardType="6" Key="0" Value="15000" />
+    </Rank>
+    <Rank Range1="2" Range2="5" Title="Thưởng danh sỹ (2-5)">
+      <Reward RewardType="10" Key="4084" Value="70" />
+      <Reward RewardType="2" Key="0" Value="200000" />
+      <Reward RewardType="3" Key="0" Value="1000" />
+      <Reward RewardType="6" Key="0" Value="12000" />
+    </Rank>
+    <Rank Range1="6" Range2="10" Title="Thưởng thượng nhân (6-10)">
+      <Reward RewardType="10" Key="4084" Value="50" />
+      <Reward RewardType="2" Key="0" Value="150000" />
+      <Reward RewardType="3" Key="0" Value="800" />
+      <Reward RewardType="6" Key="0" Value="10000" />
+    </Rank>
+    <Rank Range1="11" Range2="50" Title="Thưởng kẻ mạnh (11-50)">
+      <Reward RewardType="10" Key="4084" Value="30" />
+      <Reward RewardType="2" Key="0" Value="120000" />
+      <Reward RewardType="3" Key="0" Value="500" />
+      <Reward RewardType="6" Key="0" Value="7000" />
+    </Rank>
+    <Rank Range1="51" Range2="100" Title="Thưởng người tài (51-100)">
+      <Reward RewardType="10" Key="4084" Value="20" />
+      <Reward RewardType="2" Key="0" Value="100000" />
+      <Reward RewardType="3" Key="0" Value="300" />
+      <Reward RewardType="6" Key="0" Value="5000" />
+    </Rank>
+    <Rank Range1="101" Range2="200" Title="Thưởng dũng sĩ (101-200)">
+      <Reward RewardType="2" Key="0" Value="80000" />
+      <Reward RewardType="3" Key="0" Value="200" />
+      <Reward RewardType="6" Key="0" Value="4000" />
+    </Rank>
+    <Rank Range1="201" Range2="500" Title="Thưởng võ giả (200-)">
+      <Reward RewardType="2" Key="0" Value="60000" />
+      <Reward RewardType="3" Key="0" Value="100" />
+      <Reward RewardType="6" Key="0" Value="3000" />
+    </Rank>
+  </Battle>
 </Root>

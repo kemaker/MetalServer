@@ -29,6 +29,7 @@ RewardType & Key & Count：
         <Reward RewardType="2" Key="0" Count="2000"/>
         <Reward RewardType="6" Key="0" Count="160"/>
         <Reward RewardType="3" Key="0" Count="20"/>
+        <Reward RewardType="5" Key="0" Count="100"/>
     </LoginReward>
     <LoginReward Day="2" Title="Đăng nhập ngày 2" Quality="1">
         <Reward RewardType="2" Key="0" Count="5000"/>

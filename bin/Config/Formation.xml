@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+天命2军阵
+
+Cell:阵位
+BuffType:增益类型 见EFormationType
+	1 //提升生命
+	2 //提升物攻
+	3 //提升物防
+	4 //提升法防
+	5 //提升绝防
+	6 //提升法攻/绝攻
+	7 //提升武力
+	8 //提升绝技/法力
+	9 //提升命中
+	10 //提升格挡
+
+BuffValue:每级提升的百分比
+YueLiCost: 升级阵位阅历消耗  （当前等级^2*1000）
+-->
+<Root>
+	<Array ID="1" NAME="十方无极阵">
+		<Cell BuffType="1" BuffValue="5"  NAME="乾"/>
+		<Cell BuffType="2" BuffValue="5"  NAME="坤"/>
+		<Cell BuffType="3" BuffValue="5"  NAME="震"/>
+		<Cell BuffType="4" BuffValue="5"  NAME="巽"/>
+		<Cell BuffType="5" BuffValue="5"  NAME="坎"/>
+		<Cell BuffType="6" BuffValue="5"  NAME="离"/>
+		<Cell BuffType="7" BuffValue="5"  NAME="艮"/>
+		<Cell BuffType="8" BuffValue="5"  NAME="兑"/>
+		<Cell BuffType="9" BuffValue="5"  NAME="阴"/>
+		<Cell BuffType="10" BuffValue="5"  NAME="阳"/>
+	</Array>	
+</Root>

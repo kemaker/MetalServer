@@ -13,78 +13,74 @@ Specialty:特产奖励,根据特产数量,根据Index大小前N个为默认特�
 
 -->
 <Root>
-	<City CityId="10001" CityName="[ffa800]Triều Ca[-]" CityQuality="3" SpecialtyCount="2">
-		<Fixed>
-			<Item RewardType="3" Key="0" Value="1000"/>
-			<Item RewardType="2" Key="0" Value="200000"/>
-			<Item RewardType="11" Key="0" Value="200"/>
-		</Fixed>
-		<Specialty>
-			<Item Index="1" RewardType2="17" Key="180008" Value="25"/>
-			<Item Index="2" RewardType2="10" Key="4060" Value="50"/>
-			<Item Index="3" RewardType2="4" Key="71054" Value="10"/>
-			<Item Index="4" RewardType2="11" Key="0" Value="50"/>
-		</Specialty>
-	</City>
-	<City CityId="10002" CityName="[ffa800]Hạo Kinh[-]" CityQuality="3" SpecialtyCount="2">
-		<Fixed>
-			<Item RewardType="3" Key="0" Value="1000"/>
-			<Item RewardType="2" Key="0" Value="200000"/>
-			<Item RewardType="11" Key="0" Value="200"/>
-		</Fixed>
-		<Specialty>
-			<Item Index="1" RewardType2="17" Key="180012" Value="25"/>
-			<Item Index="2" RewardType2="10" Key="4037" Value="50"/>
-			<Item Index="3" RewardType2="4" Key="71054" Value="10"/>
-			<Item Index="4" RewardType2="11" Key="0" Value="50"/>
-		</Specialty>
-	</City>
-	<City CityId="10003" CityName="[b249fb]Hàm Dương[-]" CityQuality="2" SpecialtyCount="2">
-		<Fixed>
-			<Item RewardType="3" Key="0" Value="500"/>
-			<Item RewardType="2" Key="0" Value="100000"/>
-			<Item RewardType="11" Key="0" Value="100"/>
-		</Fixed>
-		<Specialty>
-			<Item Index="1" RewardType2="17" Key="180005" Value="13"/>
-			<Item Index="2" RewardType2="10" Key="4046" Value="25"/>
-			<Item Index="3" RewardType2="4" Key="71053" Value="10"/>
-			<Item Index="4" RewardType2="11" Key="0" Value="30"/>
-		</Specialty>
-	</City>
-	<City CityId="10004" CityName="[b249fb]Lạc Dương[-]" CityQuality="2" SpecialtyCount="2">
-		<Fixed>
-			<Item RewardType="3" Key="0" Value="500"/>
-			<Item RewardType="2" Key="0" Value="100000"/>
-			<Item RewardType="11" Key="0" Value="100"/>
-		</Fixed>
-		<Specialty>
-			<Item Index="1" RewardType2="17" Key="180007" Value="13"/>
-			<Item Index="2" RewardType2="10" Key="4007" Value="25"/>
-			<Item Index="3" RewardType2="4" Key="71053" Value="10"/>
-			<Item Index="4" RewardType2="11" Key="0" Value="30"/>
-		</Specialty>
-	</City>
-	<City CityId="10005" CityName="[10DAFF]Lâm Truy[-]" CityQuality="1" SpecialtyCount="1">
-		<Fixed>
-			<Item RewardType="3" Key="0" Value="300"/>
-			<Item RewardType="2" Key="0" Value="80000"/>
-			<Item RewardType="11" Key="0" Value="70"/>
-		</Fixed>
-		<Specialty>
-			<Item Index="1" RewardType2="4" Key="71052" Value="10"/>
-			<Item Index="2" RewardType2="11" Key="0" Value="20"/>
-		</Specialty>
-	</City>
-	<City CityId="10006" CityName="[67D64A]Trần Đường[-]" CityQuality="0" SpecialtyCount="1">
-		<Fixed>
-			<Item RewardType="3" Key="0" Value="200"/>
-			<Item RewardType="2" Key="0" Value="50000"/>
-			<Item RewardType="11" Key="0" Value="50"/>
-		</Fixed>
-		<Specialty>
-			<Item Index="1" RewardType2="4" Key="71051" Value="10"/>
-			<Item Index="2" RewardType2="11" Key="0" Value="15"/>
-		</Specialty>
-	</City>
+  <City CityId="10001" CityName="[ffa800]Triều Ca[-]" CityQuality="3" SpecialtyCount="2">
+    <Fixed>
+      <Item RewardType="3" Key="0" Value="50" />
+      <Item RewardType="2" Key="0" Value="30000" />
+      <Item RewardType="11" Key="0" Value="10" />
+    </Fixed>
+    <Specialty>
+      <Item Index="1" RewardType2="17" Key="180008" Value="2" />
+      <Item Index="2" RewardType2="10" Key="4060" Value="5" />
+
+    </Specialty>
+  </City>
+  <City CityId="10002" CityName="[ffa800]Hạo Kinh[-]" CityQuality="3" SpecialtyCount="2">
+    <Fixed>
+      <Item RewardType="3" Key="0" Value="50" />
+      <Item RewardType="2" Key="0" Value="30000" />
+      <Item RewardType="11" Key="0" Value="10" />
+    </Fixed>
+    <Specialty>
+      <Item Index="1" RewardType2="17" Key="180012" Value="2" />
+      <Item Index="2" RewardType2="10" Key="4037" Value="5" />
+
+    </Specialty>
+  </City>
+  <City CityId="10003" CityName="[b249fb]Hàm Dương[-]" CityQuality="2" SpecialtyCount="2">
+    <Fixed>
+      <Item RewardType="3" Key="0" Value="30" />
+      <Item RewardType="2" Key="0" Value="25000" />
+      <Item RewardType="11" Key="0" Value="8" />
+    </Fixed>
+    <Specialty>
+      <Item Index="1" RewardType2="17" Key="180005" Value="1" />
+      <Item Index="2" RewardType2="10" Key="4046" Value="3" />
+
+    </Specialty>
+  </City>
+  <City CityId="10004" CityName="[b249fb]Lạc Dương[-]" CityQuality="2" SpecialtyCount="2">
+    <Fixed>
+      <Item RewardType="3" Key="0" Value="30" />
+      <Item RewardType="2" Key="0" Value="25000" />
+      <Item RewardType="11" Key="0" Value="8" />
+    </Fixed>
+    <Specialty>
+      <Item Index="1" RewardType2="17" Key="180007" Value="1" />
+      <Item Index="2" RewardType2="10" Key="4007" Value="3" />
+
+    </Specialty>
+  </City>
+  <City CityId="10005" CityName="[10DAFF]Lâm Truy[-]" CityQuality="1" SpecialtyCount="1">
+    <Fixed>
+      <Item RewardType="3" Key="0" Value="20" />
+      <Item RewardType="2" Key="0" Value="20000" />
+      <Item RewardType="11" Key="0" Value="5" />
+    </Fixed>
+    <Specialty>
+      <Item Index="1" RewardType2="4" Key="71052" Value="1" />
+
+    </Specialty>
+  </City>
+  <City CityId="10006" CityName="[67D64A]Trần Đường[-]" CityQuality="0" SpecialtyCount="1">
+    <Fixed>
+      <Item RewardType="3" Key="0" Value="20" />
+      <Item RewardType="2" Key="0" Value="15000" />
+      <Item RewardType="11" Key="0" Value="3" />
+    </Fixed>
+    <Specialty>
+      <Item Index="1" RewardType2="4" Key="71051" Value="1" />
+
+    </Specialty>
+  </City>
 </Root>

@@ -2,8 +2,8 @@
 
 <Root>
     <!--<Rank Range1="20000" Range2="5001" Gold="0.5"/>-->
-    <Rank Range1="5000" Range2="2001" Gold="0.2"/>
-    <Rank Range1="2000" Range2="501" Gold="0.5"/>
-    <Rank Range1="500" Range2="101" Gold="3"/>
-    <Rank Range1="100" Range2="1" Gold="15"/>
+    <Rank Range1="5000" Range2="2001" Gold="0.1"/>
+    <Rank Range1="2000" Range2="501" Gold="0.25"/>
+    <Rank Range1="500" Range2="101" Gold="1.5"/>
+    <Rank Range1="100" Range2="1" Gold="7.5"/>
 </Root>

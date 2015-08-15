@@ -443,4 +443,155 @@ Resouce：
 		<Resouce Type="11" Id="0" Count="150"/>
 		<Resouce Type="4" Id="71054" Count="1"/>
 	</Item>
+  <!--以下为激活码-->
+  <Item ID="71086">
+    <Resouce Type="2" Id="0" Count="20000"/>
+    <Resouce Type="5" Id="0" Count="200"/>
+    <Resouce Type="7" Id="0" Count="1000"/>
+    <Resouce Type="6" Id="0" Count="2000"/>
+    <Resouce Type="3" Id="0" Count="300"/>
+  </Item>
+  <Item ID="71087">
+    <Resouce Type="2" Id="0" Count="10000"/>
+    <Resouce Type="5" Id="0" Count="100"/>
+    <Resouce Type="11" Id="0" Count="10"/>
+    <Resouce Type="6" Id="0" Count="2000"/>
+  </Item>
+  <Item ID="71088">
+    <Resouce Type="2" Id="0" Count="20000"/>
+    <Resouce Type="5" Id="0" Count="60"/>
+    <Resouce Type="4" Id="71027" Count="2"/>
+    <Resouce Type="4" Id="132021" Count="5"/>
+  </Item>
+  <Item ID="71089">
+    <Resouce Type="2" Id="0" Count="50000"/>
+    <Resouce Type="5" Id="0" Count="120"/>
+    <Resouce Type="4" Id="71027" Count="5"/>
+    <Resouce Type="4" Id="132022" Count="5"/>
+  </Item>
+  <Item ID="71090">
+    <Resouce Type="2" Id="0" Count="10000"/>
+    <Resouce Type="5" Id="0" Count="200"/>
+    <Resouce Type="4" Id="71051" Count="2"/>
+    <Resouce Type="4" Id="110103" Count="1"/>
+  </Item>
+  <Item ID="71091">
+    <Resouce Type="2" Id="0" Count="50000"/>
+    <Resouce Type="5" Id="0" Count="60"/>
+    <Resouce Type="4" Id="71027" Count="3"/>
+    <Resouce Type="6" Id="0" Count="360"/>
+  </Item>
+  <Item ID="71092">
+    <Resouce Type="2" Id="0" Count="50000"/>
+    <Resouce Type="1" Id="0" Count="5"/>
+    <Resouce Type="5" Id="0" Count="60"/>
+    <Resouce Type="6" Id="0" Count="500"/>
+  </Item>
+  
+  <Item ID="71093">
+    <Resouce Type="2" Id="0" Count="30000"/>
+    <Resouce Type="6" Id="0" Count="360"/>
+    <Resouce Type="11" Id="0" Count="5"/>
+    <Resouce Type="7" Id="0" Count="500"/>
+  </Item>
+  <Item ID="71094">
+    <Resouce Type="2" Id="0" Count="50000"/>
+    <Resouce Type="4" Id="71027" Count="5"/>
+    <Resouce Type="11" Id="0" Count="5"/>
+    <Resouce Type="6" Id="0" Count="500"/>
+  </Item>
+  <Item ID="71095">
+    <Resouce Type="2" Id="0" Count="50000"/>
+    <Resouce Type="6" Id="0" Count="500"/>
+    <Resouce Type="5" Id="0" Count="60"/>
+    <Resouce Type="4" Id="71051" Count="2"/>
+  </Item>
+  <Item ID="71096">
+    <Resouce Type="2" Id="0" Count="50000"/>
+    <Resouce Type="4" Id="71027" Count="500"/>
+    <Resouce Type="5" Id="0" Count="60"/>
+    <Resouce Type="6" Id="0" Count="360"/>
+  </Item>
+  <Item ID="71097">
+    <Resouce Type="2" Id="0" Count="50000"/>
+    <Resouce Type="4" Id="71028" Count="3"/>
+    <Resouce Type="5" Id="0" Count="60"/>
+    <Resouce Type="6" Id="0" Count="360"/>
+  </Item>
+  
+  <Item ID="71098">
+    <Resouce Type="4" Id="110802" Count="1"/>
+    <Resouce Type="5" Id="0" Count="60"/>
+    <Resouce Type="2" Id="0" Count="20000"/>
+    <Resouce Type="4" Id="132011" Count="5"/>
+  </Item>
+  <Item ID="71099">
+    <Resouce Type="2" Id="0" Count="50000"/>
+    <Resouce Type="4" Id="71028" Count="3"/>
+    <Resouce Type="6" Id="0" Count="360"/>
+    <Resouce Type="11" Id="0" Count="5"/>
+  </Item>
+  
+  <Item ID="71100">
+    <Resouce Type="4" Id="132011" Count="2"/>
+    <Resouce Type="2" Id="0" Count="10000"/>
+    <Resouce Type="6" Id="0" Count="180"/>
+    <Resouce Type="7" Id="0" Count="1000"/>
+  </Item>
+  <Item ID="71101">
+    <Resouce Type="2" Id="0" Count="15000"/>
+    <Resouce Type="6" Id="0" Count="180"/>
+    <Resouce Type="5" Id="0" Count="50"/>
+    <Resouce Type="4" Id="132011" Count="3"/>
+  </Item>
+  <Item ID="71102">
+    <Resouce Type="4" Id="110102" Count="1"/>
+    <Resouce Type="5" Id="0" Count="50"/>
+    <Resouce Type="11" Id="0" Count="3"/>
+    <Resouce Type="2" Id="0" Count="20000"/>
+  </Item>
+  <Item ID="71103">
+    <Resouce Type="4" Id="120012" Count="1"/>
+    <Resouce Type="2" Id="0" Count="20000"/>
+    <Resouce Type="6" Id="0" Count="360"/>
+    <Resouce Type="5" Id="0" Count="50"/>
+  </Item>
+  <Item ID="71104">
+    <Resouce Type="4" Id="131021" Count="10"/>
+    <Resouce Type="2" Id="0" Count="20000"/>
+    <Resouce Type="7" Id="0" Count="500"/>
+    <Resouce Type="6" Id="0" Count="360"/>
+  </Item>
+  <Item ID="71105">
+    <Resouce Type="4" Id="131022" Count="10"/>
+    <Resouce Type="2" Id="0" Count="30000"/>
+    <Resouce Type="4" Id="71051" Count="2"/>
+    <Resouce Type="5" Id="0" Count="50"/>
+  </Item>
+  <Item ID="71106">
+    <Resouce Type="4" Id="131031" Count="15"/>
+    <Resouce Type="2" Id="0" Count="30000"/>
+    <Resouce Type="11" Id="0" Count="3"/>
+    <Resouce Type="5" Id="0" Count="50"/>
+  </Item>
+  <Item ID="71107">
+    <Resouce Type="4" Id="131032" Count="15"/>
+    <Resouce Type="4" Id="131033" Count="15"/>
+    <Resouce Type="2" Id="0" Count="30000"/>
+    <Resouce Type="5" Id="0" Count="50"/>
+  </Item>
+  <Item ID="71108">
+    <Resouce Type="4" Id="120023" Count="3"/>
+    <Resouce Type="2" Id="0" Count="30000"/>
+    <Resouce Type="6" Id="0" Count="360"/>
+    <Resouce Type="11" Id="0" Count="3"/>
+  </Item>
+    <Item ID="71111">
+    <Resouce Type="4" Id="71110" Count="50"/>
+    <Resouce Type="2" Id="0" Count="5000"/>
+  </Item>
+    <Item ID="71112">
+    <Resouce Type="4" Id="71110" Count="500"/>
+    <Resouce Type="2" Id="0" Count="50000"/>
+  </Item>
 </Reward>

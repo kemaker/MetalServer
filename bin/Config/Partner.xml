@@ -134,7 +134,7 @@ XiaoHeiWuLife：
 	<Partner ID="4085" n_Name="Cơ Phát" Leader="0" Camp="2" Staff="5" IconResID="4085" BigIcon="4085" SkillID="1122" GeneralRes="50085" SoldierRes="40017" PaiChiId="0"/>
 	<Partner ID="4086" n_Name="Tam Thái Tử" Leader="0" Camp="2" Staff="5" IconResID="4086" BigIcon="4086" SkillID="1123" GeneralRes="50086" SoldierRes="40022" PaiChiId="1"/>
 	<Partner ID="4087" n_Name="Hậu Nghệ" Leader="0" Camp="0" Staff="2" IconResID="4087" BigIcon="4087" SkillID="1124" GeneralRes="50019" SoldierRes="40019" PaiChiId="0"/>
-	<Partner ID="4088" n_Name="Tam Thánh Mẫu" Leader="0" Camp="0" Staff="4" IconResID="4088" BigIcon="4088" SkillID="1125" GeneralRes="50021" SoldierRes="40021" PaiChiId="0"/>
+	<Partner ID="4088" n_Name="Tam Thánh Mẫu" Leader="0" Camp="0" Staff="4" IconResID="4088" BigIcon="4088" SkillID="1125" GeneralRes="50088" SoldierRes="40021" PaiChiId="0"/>
 	<Partner ID="4089" n_Name="Bồ Đề Lão Tổ" Leader="0" Camp="0" Staff="1" IconResID="4089" BigIcon="4089" SkillID="1126" GeneralRes="50024" SoldierRes="40024" PaiChiId="0"/>
 	<Partner ID="4090" n_Name="Thân Công Báo" Leader="0" Camp="0" Staff="4" IconResID="4064" BigIcon="4064" SkillID="1129" GeneralRes="50064" SoldierRes="40022" PaiChiId="0"/>
 	<Partner ID="4091" n_Name="Đặng Thiền Ngọc" Leader="0" Camp="0" Staff="5" IconResID="4078" BigIcon="4078" SkillID="1130" GeneralRes="50078" SoldierRes="40018" PaiChiId="0"/>
@@ -142,5 +142,5 @@ XiaoHeiWuLife：
 	<Partner ID="4093" n_Name="Văn Trọng" Leader="0" Camp="0" Staff="1" IconResID="4077" BigIcon="4077" SkillID="1132" GeneralRes="50077" SoldierRes="40022" PaiChiId="0"/>
 	<Partner ID="4094" n_Name="Thái Thượng Lão Quân" Leader="0" Camp="0" Staff="2" IconResID="4018" BigIcon="4018" SkillID="1133" GeneralRes="50018" SoldierRes="40019" PaiChiId="0"/>
 	<Partner ID="4095" n_Name="Ma Lễ Hồng" Leader="0" Camp="0" Staff="5" IconResID="4067" BigIcon="4067" SkillID="1127" GeneralRes="50067" SoldierRes="40018" PaiChiId="0"/>
-	<Partner ID="4096" n_Name="Mưa Thuận Gió Hòa" Leader="0" Camp="0" Staff="5" IconResID="4090" BigIcon="4090" SkillID="1128" GeneralRes="50068" SoldierRes="40022" PaiChiId="0"/>
+	<Partner ID="4096" n_Name="Mưa Thuận Gió Hòa" Leader="0" Camp="0" Staff="5" IconResID="4090" BigIcon="4090" SkillID="1128" GeneralRes="50096" SoldierRes="40022" PaiChiId="0"/>
 </Root>

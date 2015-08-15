@@ -974,7 +974,7 @@
 	<XiaoTiShi Value="Lưu ý: Khi tướng bị địch tấn công sẽ tăng nộ khí."/>
 	<XiaoTiShi Value="Lưu ý: Khi đến lượt đánh, nộ khí tướng đó đầy sẽ phóng kỹ năng."/>
 	<XiaoTiShi Value="Lưu ý: Kỹ năng tướng chia thành 2 loại tuyệt kỹ và phép thuật."/>
-	<XiaoTiShi Value="Lưu ý: Mỏ Linh Thạch và Chuyển Long Trì mỗi ngày được trưng thu miễn phí 8 lần, mỗi 30 phút làm mới lượt trưng thu."/>
+	<XiaoTiShi Value="Lưu ý: Mỏ Linh Thạch và Chuyển Long Trì mỗi ngày được trưng thu miễn phí, mỗi 30 phút làm mới lượt trưng thu."/>
 	<XiaoTiShi Value="Lưu ý: Ghép sẽ tăng sức mạnh của trang bị."/>
 	<XiaoTiShi Value="Lưu ý: Tiên Pháp có thể tăng thuộc tính tương ứng của toàn bộ tướng ra trận."/>
 	<XiaoTiShi Value="Lưu ý: Trong giao diện ghép Đan Dược-Trang bị click n.liệu còn thiếu sẽ tự động tới điểm thu thập n.liệu."/>
@@ -991,7 +991,7 @@
 	<XiaoTiShi Value="Lưu ý: Thám hiểm có thể nhận các loại tài nguyên và cơ hội nhận mảnh tướng đặc biệt."/>
 	<XiaoTiShi Value="Lưu ý: Khi chiến đấu, dùng pháp bảo đúng thời điểm có thể xoay chuyển cục diện."/>
 	<XiaoTiShi Value="Lưu ý: Chiêm Tình Đài giúp tăng thuộc tính chủ tướng."/>
-	<XiaoTiShi Value="Lưu ý: Sao nhận được khi vượt qua phụ bản có thể dùng trong Chiêm Tinh Đài."/>
+	<XiaoTiShi Value="Chú ý: Sao nhận được sau khi vượt qua phụ bản sẽ trở thành tài nguyên tiêu hao tại Chiêm Tinh Đài."/>
 	<XiaoTiShi Value="Lưu ý: Khi bạn nhận được tướng đã có sẽ tự động chuyển hóa thành mảnh nâng cấp."/>
 	<XiaoTiShi Value="Lưu ý: Chiến lực chênh lệch cũng không ảnh hưởng tới kết quả chiến đấu."/>
 	<XiaoTiShi Value="Lưu ý: Dùng 'Thiên Linh Thạch' có xác suất ra hiệu quả 'bạo kích' nhận thêm nhiều ích lợi."/>
@@ -1003,11 +1003,11 @@
 	<XiaoTiShi Value="Lưu ý: Có kỹ năng 'Tịnh hóa' có thể loại bỏ các trạng thái bất lợi như choáng, liên tục mất máu."/>
 	<XiaoTiShi Value="Lưu ý: Tướng có kỹ năng 'Nghịch Tập' khi đối diện với hiệu quả giảm ích do địch dùng kỹ năng có thể dễ dàng đáp trả đối phương."/>
 	<XiaoTiShi Value="Lưu ý: Trợ thủ sẽ chỉ dẫn cho bạn quy trình nhiệm vụ hàng ngày."/>
-	<XiaoTiShi Value="Lưu ý: Mỗi ải phụ bản Tướng mỗi ngày có 3 lần đấu, có thể dùng KNB mua lượt (Mỗi ải mỗi ngày được mua 3 lần)."/>
-	<XiaoTiShi Value="Lưu ý: Mỗi 6 phút sẽ hồi 1 thể lực."/>
+	<XiaoTiShi Value="Lưu ý: Mỗi ải phụ bản Tướng mỗi ngày có 3 lần đấu, có thể dùng KNB mua lượt."/>
+	<XiaoTiShi Value="Lưu ý: Mỗi 5 phút sẽ hồi 1 thể lực."/>
 	<XiaoTiShi Value="Lưu ý: Huấn luyện là phương thức bồi dưỡng thuộc tính không ổn định, nhưng đôi khi sẽ xuất hiện kỳ tích."/>
 	<XiaoTiShi Value="Lưu ý: Trước khi đấu, có thể click avatar tướng địch để xem hiệu quả kỹ năng."/>
-	<XiaoTiShi Value="Lưu ý: Mỗi ngày làm mới 15 lượt thám hiểm, có thể dùng KNB mua lượt."/>
+	<XiaoTiShi Value="Chú ý: hàng ngày sẽ làm mới lượt tuần tra, có thể dùng KNB mua thêm lượt."/>
 	<XiaoTiShi Value="Lưu ý: Dựa vào chức trách của tướng để lựa chọn cường hóa trang bị cho phù hợp."/>
 	<XiaoTiShi Value="Lưu ý: Khi xuất hiện bạo kích, mức sát thương sẽ tăng cao."/>
 	<XiaoTiShi Value="Lưu ý: Mệnh Cách có thể thông qua thôn tính để nâng cấp"/>
