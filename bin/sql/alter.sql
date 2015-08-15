@@ -196,7 +196,24 @@ CREATE TABLE `soha_order` (
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;*/
 
-ALTER TABLE `game_partner` ADD COLUMN `combat_value` INTEGER(11) NOT NULL DEFAULT '0';
+#ALTER TABLE `game_partner` ADD COLUMN `combat_value` INTEGER(11) NOT NULL DEFAULT '0';
 
 #2015.6.15
-ALTER TABLE game_character ADD `huodongdata` blob NOT NULL COMMENT '活动数据';
+#ALTER TABLE game_character ADD `huodongdata` blob NOT NULL COMMENT '活动数据';
+
+#2015.6.18
+#ALTER TABLE game_character ADD `freeze` bigint(20) unsigned NOT NULL DEFAULT '0' COMMENT '封停时间';
+#ALTER TABLE game_character ADD `islock` tinyint(1) unsigned NOT NULL DEFAULT '0' COMMENT '是否被锁';
+
+#2015.6.26
+#ALTER TABLE game_character ADD `stop_talk_time` bigint(20) unsigned NOT NULL DEFAULT '0' COMMENT '禁言结束时间';
+
+#2015.6.17
+#ALTER TABLE game_character ADD `rechargedata` blob NOT NULL COMMENT '充值奖励数据';
+
+#2015.7.21
+#ALTER TABLE game_character ADD `offlinebuygold` int(20) NOT NULL DEFAULT '0' COMMENT '下线时购买的元宝数';
+
+#2015.8.10
+ALTER TABLE game_character ADD `formation` blob NOT NULL COMMENT '军阵数据';
+ALTER TABLE game_character ADD `plus_attr` blob NOT NULL COMMENT '增益数据';
