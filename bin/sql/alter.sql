@@ -215,5 +215,10 @@ CREATE TABLE `soha_order` (
 #ALTER TABLE game_character ADD `offlinebuygold` int(20) NOT NULL DEFAULT '0' COMMENT '下线时购买的元宝数';
 
 #2015.8.10
-ALTER TABLE game_character ADD `formation` blob NOT NULL COMMENT '军阵数据';
-ALTER TABLE game_character ADD `plus_attr` blob NOT NULL COMMENT '增益数据';
+#ALTER TABLE game_character ADD `formation` blob NOT NULL COMMENT '军阵数据';
+#ALTER TABLE game_character ADD `plus_attr` blob NOT NULL COMMENT '增益数据';
+
+#2015.8.19
+ALTER TABLE game_character ADD `jt_store_refresh_times` int(11) unsigned NOT NULL DEFAULT '0' COMMENT '本日军团商店手动刷新次数';
+ALTER TABLE game_character CHANGE `cb_battle_count` `cb_battle_count` int(11) unsigned NOT NULL DEFAULT '3';
+Update game_character SET cb_battle_count = 3, cb_recover_time = 0;
